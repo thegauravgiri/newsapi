@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-05-05T10:09:08.785888",
+  "scraped_at": "2026-05-05T17:43:41.302522",
   "date": "2026-05-05",
-  "total_articles": 46,
+  "total_articles": 53,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -374,6 +374,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/cabinet-meeting-begins-at-singha-durbar-88-73.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Everest drone ban, which supposedly exposed geopolitical fault lines, lifted after five days",
+      "summary": "Sudden suspension of Airlift Technology’s drone operations disrupted search efforts in Khumbu amid unexplained security concerns.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/05/everest-drone-ban-which-supposedly-exposed-geopolitical-fault-lines-lifted-after-five-days",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/DRONE-1777993713.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal keeps protesting over Lipulekh. India and China keep ignoring it",
+      "summary": "Despite a decade of diplomatic notes, two unyielding neighbours have kept returning the territorial dispute to square one.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/05/nepal-keeps-protesting-over-lipulekh-india-and-china-keep-ignoring-it",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/map-1777976943.jpg&w=300&height=200"
+    },
+    {
+      "title": "अध्यादेश: सुधार कि सत्ता स्वार्थ ?",
+      "summary": "नागरिक अगुवाहरूले सोमबार सार्वजनिक गरेको ‘नागरिक अपिल’ मा सरकारका पछिल्ला कदमहरूप्रति गम्भीर चिन्ता व्यक्त गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ordinance-reform-or-power-self-interest-84-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776166022_balen-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले भन्यो- सरकारको कदम ‘संसदीय प्रणालीमाथिको जालसाजी’",
+      "summary": "नेपाली कांग्रेसले सरकारले पछिल्लो समय ल्याएका अध्यादेशहरूलाई संसदीय अभ्यासमाथिको निर्मम प्रहार र नाङ्गो जालसाजीको रूपमा व्याख्या गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-says-government-s-move-is-fraud-on-parliamentary-system-10-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777723784_gagan-480x320.jpg"
+    },
+    {
+      "title": "संविधान संशोधन कार्यदलद्वारा पूर्वराष्ट्रसेवकहरूसँग छलफल",
+      "summary": "पछिल्लो समय बैङ्क खाताबाट रकम चोरी हुने घटनामा वृद्धि हुँदै गएको भन्दै नेपाल प्रहरी साइबर ब्यूरोले सर्वसाधारणलाई उच्च सतर्कता अपनाउन आग्रह गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bank-account-theft-cases-on-the-rise-be-vigilant-92-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767625233_hacker-480x320.jpg"
+    },
+    {
+      "title": "स्वास्थ्य मन्त्रालय अन्तर्गतका १९३ पदाधिकारी पदमुक्त",
+      "summary": "सरकारले भारतीय पर्यटक तथा भारत भएर नेपाल भित्रिने अन्य देशका पर्यटकलाई सहजीकरण गर्न ‘अनलाइन’ सेवा सुरु गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/registration-of-tourist-vehicles-arriving-in-nepal-via-land-route-online-94-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777994718_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "अध्यादेशसँगै अर्थ मन्त्रालय मातहतका दुई रिक्तसहित ३१ जना पदमुक्त (सूचीसहित)",
+      "summary": "नागरिक अगुवाहरूले सोमबार सार्वजनिक गरेको ‘नागरिक अपिल’ मा सरकारका पछिल्ला कदमहरूप्रति गम्भीर चिन्ता व्यक्त गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ordinance-reform-or-power-self-interest-84-73.html?click_from=just_in",
       "image_url": ""
     }
   ]
