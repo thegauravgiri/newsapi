@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-05T06:24:38.174214",
+  "scraped_at": "2026-05-05T10:09:08.785888",
   "date": "2026-05-05",
-  "total_articles": 38,
+  "total_articles": 46,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -310,6 +310,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/russia-and-ukraine-to-agree-to-two-day-ceasefire-96-43.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "President Paudel authenticates Constitutional Council ordinance",
+      "summary": "The Head of State authenticates the resubmitted ordinance, despite earlier concerns.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/05/05/president-paudel-authenticates-constitutional-council-ordinance",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1777941498.jpg&w=300&height=200"
+    },
+    {
+      "title": "Why Sanskrit is not dead after all",
+      "summary": "Enrolment is rising in Nepal’s gurukuls and Sanskrit universities. But is it a genuine revival or a reinvention driven by ritual economics, Hindu nationalism, and the lure of free room and board?",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/04/why-sanskrit-is-not-dead-after-all",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/67375397213622843959334532734223375333323605nedit348524649311922-1777901012.jpg&w=300&height=200"
+    },
+    {
+      "title": "Flood-prone farmers in Kailali turn to spring paddy to secure livelihoods",
+      "summary": "Early paddy harvests help farmers beat floods, but low prices and weak support threaten gains.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/05/flood-prone-farmers-in-kailali-turn-to-early-paddy-crop-to-secure-livelihoods",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/mainrice-1777964838.jpg&w=300&height=200"
+    },
+    {
+      "title": "सिंहदरबारमा मन्त्रिपरिषद् बैठक सुरु",
+      "summary": "प्रधानमन्त्री बालेन शाहले आह्वान गरेको मन्त्रिपरिषद्को बैठक सिंहदरबारमा सुरु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/cabinet-meeting-begins-at-singha-durbar-88-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777973956_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "यातायात मन्त्रालय अन्तर्गत २० जना पदमुक्त, को-को परे ? (सूचीसहित)",
+      "summary": "आइसीसी पुरुष क्रिकेट विश्वकप लिग–२ अन्तर्गत कीर्तिपुरस्थित त्रिवि क्रिकेट मैदानमा जारी खेलमा नेपालले दिएको लक्ष्य पछ्याइरहेको ओमानले निकै संघर्ष गर्दै सय रनको आँकडा पार गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nepali-bowler-s-deadly-strike-oman-struggles-to-complete-100-runs-br-76-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777973405_game-480x320.jpg"
+    },
+    {
+      "title": "हर्क साम्पाङले मागे प्रधानमन्त्रीको राजीनामा",
+      "summary": "सरकारले सार्वजनिक पदाधिकारीको पदमुक्ति सम्बन्धमा विशेष व्यवस्था गर्न बनेको अध्यादेश जारी गरेसँगै भौतिक पूर्वाधार तथा यातायात मन्त्रालय अन्तर्गतका २० जना पदमुक्त भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/20-people-dismissed-from-their-posts-under-the-ministry-of-transport-who-were-removed-with-list-93-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775217155_Vautik-480x320.jpg"
+    },
+    {
+      "title": "जेनजी मुभमेन्ट नेपालद्वारा आत्म*हत्या दुरुत्साहन मुद्दामा प्रधानमन्त्री शाहमाथि छानबिन गर्न प्रहरीमा उजुरी",
+      "summary": "श्रम संस्कृति पार्टीका अध्यक्ष एवं प्रतिनिधिसभा सदस्य हर्क साम्पाङले प्रधानमन्त्री बालेन शाह नेतृत्वको सरकार पूर्ण रूपमा असफल भएको दाबी गर्दै तत्काल राजीनामा दिन माग गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/hark-sampang-demands-prime-minister-s-resignation-br-77-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777972502_harka_balen-480x320.jpg"
+    },
+    {
+      "title": "विद्यार्थीको रुचिअनुसार पठनपाठन हुनुपर्छः मुख्यमन्त्री आचार्य",
+      "summary": "प्रधानमन्त्री बालेन शाहले आह्वान गरेको मन्त्रिपरिषद्को बैठक सिंहदरबारमा सुरु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/cabinet-meeting-begins-at-singha-durbar-88-73.html?click_from=just_in",
       "image_url": ""
     }
   ]
