@@ -1,10 +1,11 @@
 {
-  "scraped_at": "2026-05-05T03:37:24.943196",
+  "scraped_at": "2026-05-05T06:24:38.174214",
   "date": "2026-05-05",
-  "total_articles": 17,
+  "total_articles": 38,
   "sources": [
-    "NagarikNews",
-    "News24"
+    "KathmanduPost",
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -141,6 +142,174 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/world-cup-league-2-nepal-to-bat-first-against-oman-54-26.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "After back and forth, President is set to sign Constitutional Council Ordinance",
+      "summary": "The President earlier insisted on a four-member majority in Constitutional Council, but government refused to revise the ordinance and sent it back unchanged.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/05/05/after-back-and-forth-president-is-set-to-sign-constitutional-council-ordinance",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1777941498.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal turns to India for emergency fertiliser import as global prices surge",
+      "summary": "Cabinet gives in-principle nod to procure 80,000 tonnes under G2G deal amid war-driven supply disruption and looming monsoon demand.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/04/nepal-turns-to-india-for-emergency-fertiliser-import-as-global-prices-surge",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/morangfarmer-1777897007.jpg&w=300&height=200"
+    },
+    {
+      "title": "Eviction pressure adds to hardship for Gen Z protest victim",
+      "summary": "Still recovering from a gunshot injury during last year’s Gen Z protests, Nischal Thapa faces fresh uncertainty as eviction drive targets his Maharajgunj settlement.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/valley/2026/05/05/eviction-pressure-adds-to-hardship-for-gen-z-protest-victim",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/inuured-1777956904.jpg&w=300&height=200"
+    },
+    {
+      "title": "Overexploited for years, the Chure hills are weakening, and water stress is rising across the Tarai",
+      "summary": "Groundwater that once lay at 20 to 25 feet is now sinking beyond 110 feet in several parts of the Tarai.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/04/overexploited-for-years-the-chure-hills-are-weakening-and-water-stress-is-rising-across-the-tarai",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Churearea06042021S193870copy-1777941903.jpg&w=600&height=400"
+    },
+    {
+      "title": "What follows the unplanned demolition?",
+      "summary": "Groundwater that once lay at 20 to 25 feet is now sinking beyond 110 feet in several parts of the Tarai.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/editorial/2026/05/04/what-follows-the-unplanned-demolition",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/2YVUGJIJRJOFXL6F3OTZDJ6VR4-1777957650.jpg&w=400&height=267"
+    },
+    {
+      "title": "D for dopamine government",
+      "summary": "If the haphazard approach continues, displaced squatters will be trapped in a cycle of uncertainty.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/05/04/d-for-dopamine-government",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/inuured-1777956904.jpg&w=400&height=267"
+    },
+    {
+      "title": "Did the Maoists really fail?",
+      "summary": "Democracy does not run only on elections, but on debate, dissent and institutional balance.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/05/04/did-the-maoists-really-fail",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/road-1777953284.jpg&w=400&height=267"
+    },
+    {
+      "title": "Disruptive impact of mass vacancies at public bodies",
+      "summary": "They did not fail to change Nepal. They failed to change themselves.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/editorial/2026/05/03/disruptive-impact-of-mass-vacancies-at-public-bodies",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1777945996.jpg&w=400&height=267"
+    },
+    {
+      "title": "Breathing hard in bad air: The hidden cost of outdoor fitness",
+      "summary": "Removing public officials without a replacement plan risks making things worse for potential beneficiaries.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/05/05/breathing-hard-in-bad-air-the-hidden-cost-of-outdoor-fitness",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/N2SQJWTRHNNLDHSBEHLUJLYLHI-1777944644.jpg&w=400&height=267"
+    },
+    {
+      "title": "A cinema of choice: Inside Gauthali Entertainment’s feminist practice",
+      "summary": "Videos on ⁠Chinese internet platforms showed thick smoke billowing from a large site with collapsed buildings and debris strewn around the area.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/05/04/a-cinema-of-choice-inside-gauthali-entertainment-s-feminist-practice",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/shutterstock2658512273-1777942709.jpg&w=400&height=267"
+    },
+    {
+      "title": "Finding meaning in moments of doubt",
+      "summary": "Still recovering from a gunshot injury during last year’s Gen Z protests, Nischal Thapa faces fresh uncertainty as eviction drive targets his Maharajgunj settlement.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/05/04/finding-meaning-in-moments-of-doubt",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/shutterstock2733838417copy-1777942438.jpg&w=400&height=267"
+    },
+    {
+      "title": "Living abroad and the unspoken strain on family ties",
+      "summary": "Soaring prices and supply crunch derail construction pace, officials say.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/05/03/living-abroad-and-the-unspoken-strain-on-family-ties",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1777941498.jpg&w=400&height=267"
+    },
+    {
+      "title": "Romania’s planned curbs on recruitment firms may hit Nepali job seekers",
+      "summary": "Police cite separate investigation as basis for fresh detention.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/05/01/romania-s-planned-curbs-on-recruitment-firms-may-hit-nepali-job-seekers",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Churearea06042021S193870copy-1777941903.jpg&w=400&height=267"
+    },
+    {
+      "title": "Nepali thought leaders gather at Harvard and MIT for inaugural Nepal Discourse",
+      "summary": "Missile and drone attacks followed a US push led by Donald Trump to move stranded ships through the Strait of Hormuz, largely shut since February’s US–Israel strikes on Iran that have killed thousands.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/04/29/nepali-thought-leaders-gather-at-harvard-and-mit-for-inaugural-nepal-discourse",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/NEPvsUAE20260421J2A7284copy-1777942257.jpg&w=400&height=267"
+    },
+    {
+      "title": "Fresh violence erupts in India’s Manipur, Nepali speaking community fearful",
+      "summary": "As crises stack up globally, the answer may lie not in control, but in how we choose to respond.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/04/19/fresh-violence-erupts-in-india-s-manipur-nepali-speaking-community-fearful",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/bajhangyarshacollectionphotoBasanta-1777905918.jpg&w=400&height=267"
+    },
+    {
+      "title": "Nepal Development Watch welcomes probe panel, urges transparent implementation",
+      "summary": "Endurance workouts in polluted air may strain the lungs and heart, raising concerns about long-term health effects.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/04/17/nepal-development-watch-welcomes-probe-panel-urges-transparent-implementation",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/PREGNANT-1777906628.jpg&w=400&height=267"
+    },
+    {
+      "title": "कांग्रेस नेतृत्वको सरकारलाई नेकपाको समर्थन कायमै रहन्छ : नेता भट्टराई",
+      "summary": "रूसको रक्षा मन्त्रालयले दोस्रो विश्वयुद्धको अन्त्य भएको ८१ औँ वार्षिकोत्सवको अवसरमा मे ८ देखि ९ सम्म युक्रेनमा दुई दिने युद्धविराम गर्ने घोषणा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/russia-and-ukraine-to-agree-to-two-day-ceasefire-96-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1741054935_putin zelenskii-480x320.jpg"
+    },
+    {
+      "title": "मधेश सरकारबाट बाहिरिने जनमत पार्टीको निर्णय",
+      "summary": "अमेरिकाका राष्ट्रपति डोनाल्ड ट्रम्पले आफ्नो सेनाले होर्मुजको जलमार्गबाट गुज्रिरहेका व्यापारिक जहाजहरूमा आक्रमण गरिरहेका सातवटा साना इरानी जहाजहरू डुबाएको दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/rising-tensions-in-hormuz-us-attacks-seven-iranian-boats-32-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776506800_hormuz-480x320.jpg"
+    },
+    {
+      "title": "अध्यादेशले राष्ट्रपति र प्रधानमन्त्रीबिच असहज अवस्था",
+      "summary": "गौशाला धर्मशाला पशुपति क्षेत्र विकास कोषअन्तर्गत रहने काठमाडौं जिल्ला अदालतकै फैसलालाई उच्च अदालत पाटनले पनि सदर गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/pashupati-gaushala-dharamshala-comes-under-the-ownership-of-pashupatinath-39-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777960743_dharmasala pashupati-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीलाई हर्कको प्रश्न : सीमा रक्षकको रूपमा सेनालाई खटाउनु पर्दैन?",
+      "summary": "नेपाली सुनचाँदी बजारमा मंगलबार सुन–चाँदीको मूल्य घटेको छ। आज एकैदिन सुन प्रतितोला ३८ सय रूपैयाँले घटेको नेपाल सुनचाँदी व्यवसायी महासङ्घले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-fell-by-3800-in-a-single-day-at-what-price-is-it-being-traded-52-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770010964_Gold-480x320.jpg"
+    },
+    {
+      "title": "विद्यार्थी संगठन र ट्रेड युनियन खारेज भविष्य बचाउने प्रयास हो : प्रधानमन्त्री शाह",
+      "summary": "रूसको रक्षा मन्त्रालयले दोस्रो विश्वयुद्धको अन्त्य भएको ८१ औँ वार्षिकोत्सवको अवसरमा मे ८ देखि ९ सम्म युक्रेनमा दुई दिने युद्धविराम गर्ने घोषणा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/russia-and-ukraine-to-agree-to-two-day-ceasefire-96-43.html?click_from=just_in",
       "image_url": ""
     }
   ]
