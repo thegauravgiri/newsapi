@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-06T03:53:04.978431",
+  "scraped_at": "2026-05-06T06:37:23.270098",
   "date": "2026-05-06",
-  "total_articles": 34,
+  "total_articles": 40,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -279,6 +279,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/arsenal-reach-champions-league-final-after-20-years-80-20.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "From self-doubt to five wickets: Gulshan Kumar Jha leads Nepal revival",
+      "summary": "Backed by coaches despite a difficult run, the 20-year-old produces his finest ODI spell to spark Nepal’s push towards the League-2 top four.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/cricket/2026/05/06/from-self-doubt-to-five-wickets-gulshan-kumar-jha-leads-nepal-revival",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/julsanjha-1778029653.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal plans to cut federal ministries to 17",
+      "summary": "Proposal to streamline federal structure by reducing ministries from 21 to 17 aims to cut administrative costs, improve efficiency, and reshape governance.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/06/nepal-plans-to-cut-federal-ministries-to-17",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/third-party/ministers-1778040285.jpg&w=300&height=200"
+    },
+    {
+      "title": "Cooperative fraud victims to begin receiving repayments from mid-May",
+      "summary": "A revolving fund will prioritise small depositors first, with larger claims settled in phases as loan recoveries progress.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/06/cooperative-fraud-victims-to-begin-receiving-repayments-from-mid-may",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Untitled51722505330-1778041957.jpg&w=300&height=200"
+    },
+    {
+      "title": "प्रधानमन्त्री कार्यालयले माग्यो पूर्वविशिष्ट पदाधिकारीकाे सवारी साधनको विवरण",
+      "summary": "राज्यकोषबाट दोहोरो र असीमित सुविधा लिने प्रवृत्तिलाई नियन्त्रण गर्न सरकारले सक्रियता देखाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-s-office-requests-details-of-former-distinguished-officials-vehicles-56-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776395850_PM Balendra nEW-480x320.jpg"
+    },
+    {
+      "title": "संविधान संशोधन कार्यदलले पूर्वमहान्याधिवक्ताहरुसँग छलफल गर्दै",
+      "summary": "भोजपुरको हतुवागढी गाउँपालिका–४ खैराङ क्षेत्रमा केन्द्रीय विद्युत् विस्तार भएपछि स्थानीय नागरिकको जीवनशैलीमा परिवर्तन देखिन थालेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-lifestyle-of-khairang-residents-changed-with-the-arrival-of-electricity-36-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778048448_bijuli-480x320.jpg"
+    },
+    {
+      "title": "कर्णालीको समन्वय परिषद् बैठकः आगामी आवको नीति तथा कार्यक्रममा छलफल",
+      "summary": "संविधान संशोधनका लागि बहसपत्र तयार गर्न गठित कार्यदलले बुधबार पूर्वमहान्याधिवक्ताहरुसँग छलफल गर्दैछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/constitution-amendment-task-force-holding-discussions-with-former-attorneys-general-63-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778047167_asim-480x320.jpg"
     }
   ]
 }
