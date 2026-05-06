@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-06T14:33:50.661949",
+  "scraped_at": "2026-05-06T17:47:31.445511",
   "date": "2026-05-06",
-  "total_articles": 53,
+  "total_articles": 57,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -431,6 +431,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/powers-of-the-money-laundering-investigation-department-expanded-including-stock-market-crimes-83-50.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Nepali voters have spoken. Is the media listening?",
+      "summary": "The September uprising and its electoral aftermath have opened a window for the Nepali press to transform itself. That window won’t stay open long.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/06/nepali-voters-have-spoken-is-the-media-listening",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/opinion/akcolumnekp-1778066317.jpg&w=300&height=200"
+    },
+    {
+      "title": "जलवायु परिवर्तनका चुनौती समाधान गर्ने नीति आवश्यकः वनमन्त्री",
+      "summary": "बजेट निर्माण प्रक्रियालाई बढी व्यवस्थित, पारदर्शी र परिणाममुखी बनाउने उद्देश्यले मन्त्रालयस्तरबाटै योजना छनोट र प्राथमिकता निर्धारण गर्ने प्रणालीलाई बलियो बनाइँदैछ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/rsp-mp-tells-finance-minister-remote-areas-should-be-prioritized-in-budget-13-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778082722_wagle-480x320.jpg"
+    },
+    {
+      "title": "सुदन बारे हर्क साम्पाङले भने: उहाँ हाम्रो मान्छे हो, अफवाह नफैलाउनू",
+      "summary": "रामधुनी नगरपालिका-६ सेउती खोला किनारमा खेल्ने क्रममा डुबेर आज दुई बालकको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-children-drown-in-sunsari-35-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756120519_nadi-480x320.jpg"
+    },
+    {
+      "title": "विश्व बैंक सरकारको सय बुँदे मार्गचित्रमा सहकार्य गर्न इच्छुक",
+      "summary": "आठ वटा बिमा कम्पनीका प्रवर्द्धक सेयरधनीमाथि अनुसन्धान सुरु गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/money-laundering-investigation-launched-against-promoter-shareholders-of-eight-insurance-companies-68-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768352147_CIB-480x320.jpg"
     }
   ]
 }
