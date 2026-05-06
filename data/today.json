@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-06T06:37:23.270098",
+  "scraped_at": "2026-05-06T10:24:33.899638",
   "date": "2026-05-06",
-  "total_articles": 40,
+  "total_articles": 46,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -327,6 +327,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/constitution-amendment-task-force-holding-discussions-with-former-attorneys-general-63-38.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778047167_asim-480x320.jpg"
+    },
+    {
+      "title": "Yarsagumba collection to open in Dolpa from May 24 for one month",
+      "summary": "Authorities fix permit fees, tighten monitoring and safety measures.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/06/yarsagumba-collection-to-open-in-dolpa-from-may-24-for-one-month",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/yarshagumba-1778053580.jpg&w=300&height=200"
+    },
+    {
+      "title": "‘खल्तीको मान्छे’ लाई प्रधानन्यायाधीश बनाउन सरकारले जालझेल गर्‍यो: गगन थापा",
+      "summary": "अबदेखि पाल्पाबाटै हलुका सवारीसाधन अनुमतिपत्र (लाइसेन्स) लिन सकिने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/from-now-on-four-wheeler-driving-licenses-will-be-issued-from-palpa-68-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776762549_Liscense-480x320.jpg"
+    },
+    {
+      "title": "सरकार दुई तिहाइको दम्भमा छ, कानुनभन्दा माथि कोही हुँदैन: गगन",
+      "summary": "सरकारले अध्यादेश मार्फत केही नेपाल ऐन र शिक्षा ऐन संशोधन गरेलगत्तै परीक्षा बोर्ड नेतृत्वविहिन बनेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/leaderless-national-examination-board-56-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778062656_Exam board-480x320.jpg"
+    },
+    {
+      "title": "अब हुने नियुक्ति प्रक्रिया निष्पक्ष र त्रुटिविहीन बनाउन डा‍. केसीकाे माग",
+      "summary": "नेपाली कांग्रेसका सभापति गगन थापाले सरकारले आफूअनुकूलको व्यक्तिलाई प्रधानन्यायाधीश बनाउन संवैधानिक परिषद्को व्यवस्थामा जालझेल गरेको भन्दै आपत्ति जनाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-government-conspired-to-make-a-pocket-man-the-chief-justice-gagan-thapa-98-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774342679_gagan thapa-480x320.jpg"
+    },
+    {
+      "title": "आशिकाको प्रश्न: केरा प्रतिदर्जन ३५०, किसानले पाउँछन् ६५ रुपैयाँ, बिचमा कसले खायो ?",
+      "summary": "नेपाली कांग्रेसका सभापति गगन थापाले वर्तमान सरकार दुई तिहाइको दम्भमा परेर कानुनको शासन र लोकतान्त्रिक मूल्यमान्यता विपरीत अघि बढेको आरोप लगाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-government-is-arrogant-about-having-two-thirds-majority-no-one-is-above-the-law-gagan-br-98-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777723784_gagan-480x320.jpg"
+    },
+    {
+      "title": "प्रा. डा. अग्रवाल प्रधानमन्त्री शाहको अवैतनिक स्वास्थ्य सल्लाहकार नियुक्त",
+      "summary": "अबदेखि पाल्पाबाटै हलुका सवारीसाधन अनुमतिपत्र (लाइसेन्स) लिन सकिने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/from-now-on-four-wheeler-driving-licenses-will-be-issued-from-palpa-68-38.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
