@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-07T10:31:14.739696",
+  "scraped_at": "2026-05-07T14:36:50.839065",
   "date": "2026-05-07",
-  "total_articles": 46,
+  "total_articles": 55,
   "sources": [
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -375,6 +375,78 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/nepse-sees-modest-increase-in-points-but-trading-volume-continues-to-decline-29-25.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1736676322_nepse-480x320.jpg"
+    },
+    {
+      "title": "Nepal panel proposes long-term strategy for handling West Asia-like crises",
+      "summary": "Foreign minister-led task force’s report proposes a permanent mechanism to manage overseas emergencies, better coordination among ministries, and faster evacuation of Nepalis from crisis-hit countries.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/07/nepal-panel-proposes-long-term-strategy-for-handling-west-asia-like-crises",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1778157668.jpg&w=300&height=200"
+    },
+    {
+      "title": "Eviction drive exposes decades of settlement expansion on public land",
+      "summary": "From highway towns to market centres, settlements built on public and forest land across Nepal face growing uncertainty as authorities intensify anti-encroachment campaigns.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/07/eviction-drive-exposes-decades-of-settlement-expansion-on-public-land",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/tinaurupandahi07520260252231000x0-1778144226.jpg&w=300&height=200"
+    },
+    {
+      "title": "CIAA files fourth corruption case in Pokhara airport project, 14 charged",
+      "summary": "Former finance minister Gyanendra Bahadur Karki, ex-finance secretary Shankar Adhikari and senior officials among accused over alleged tax exemption irregularities.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/07/ciaa-files-fourth-corruption-case-in-pokhara-airport-project-14-charged",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1778153060.jpg&w=300&height=200"
+    },
+    {
+      "title": "Displaced children return to school without basics",
+      "summary": "For many children, returning to class has brought relief, but also the challenge of starting over in unfamiliar surroundings.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/valley/2026/05/07/displaced-children-in-kathmandu-struggle-to-return-to-school",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/childrens-1778151597.jpg&w=600&height=400"
+    },
+    {
+      "title": "सरकारी र निजी भनेर सञ्चारमाध्यमलाईविभेद गर्नु संविधान विपरित: मुख्यमन्त्री कार्की",
+      "summary": "अन्तर्राष्ट्रियस्तरको चिडियाखाना बनाउने लक्ष्यसहित शिलान्यास गरिएको भक्तपुरको राष्ट्रिय प्राणी उद्यान नौ वर्ष बित्दा पनि अलपत्र अवस्थामा पुगेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/suryabinayak-national-zoological-park-still-in-abeyance-42-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778163079_BKT-480x320.jpg"
+    },
+    {
+      "title": "संवैधानिक परिषद्मै फरक मत, वरिष्ठता मिचेरको आरोप",
+      "summary": "सञ्चारमाध्यमहरूलाई विभेद गर्नु नेपालको कानुन र संविधान विपरीत हुने बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/distinguishing-between-government-and-private-media-is-against-the-constitution-chief-minister-karki-16-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778162653_hikmat1-480x320.jpg"
+    },
+    {
+      "title": "प्रधानन्यायाधीश सिफारिसमा महेशको आपत्ति: बालेनले ‘पालेन न्यायाधीश’ खोजेको आरोप",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाहले वरिष्ठताक्रम मिचेर सर्वोच्च अदालतका न्यायाधीश डा. मनोजकुमार शर्मा लाई प्रधानन्यायाधीशमा सिफारिस गरेपछि संवैधानिक परिषद्मा फरक मत देखिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/difference-of-opinion-within-the-constitutional-council-accusations-of-seniority-confusion-84-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778153938_BAlen WEB.jpg-480x320.jpg"
+    },
+    {
+      "title": "ठगी नियन्त्रण गर्न डिजिटलाइजेसन प्रक्रिया सुरु : श्रममन्त्री",
+      "summary": "जिल्ला प्रहरी कार्यालय ताप्लेजुङबाट खटिएको प्रहरी टोलीले सरकारी कागजात किर्ते मुद्दाका एक प्रतिवादीलाई ७ बर्ष पछि पक्राउ गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/fugitive-defendant-arrested-after-seven-years-54-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767683851_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "लिपुलेकका विषयमा नेपालसँग वार्ता गर्न भारत तयार",
+      "summary": "अन्तर्राष्ट्रियस्तरको चिडियाखाना बनाउने लक्ष्यसहित शिलान्यास गरिएको भक्तपुरको राष्ट्रिय प्राणी उद्यान नौ वर्ष बित्दा पनि अलपत्र अवस्थामा पुगेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/suryabinayak-national-zoological-park-still-in-abeyance-42-22.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
