@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-07T06:44:55.193951",
+  "scraped_at": "2026-05-07T10:31:14.739696",
   "date": "2026-05-07",
-  "total_articles": 40,
+  "total_articles": 46,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -327,6 +327,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/photo-feature/heritage-conservation-society-s-protest-demanding-demolition-of-chhayadevi-complex-photos-78-13.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "The rise and fall of Sudan Gurung",
+      "summary": "A lot is at stake for Pakistan as it gets pulled in all directions by its Gulf partners.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/05/06/built-in-68-days-broken-in-26",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/tinaurupandahi07520260252231000x0-1778144226.jpg&w=400&height=267"
+    },
+    {
+      "title": "Nepali voters have spoken. Is the media listening?",
+      "summary": "This is a test case of how information disorder can backfire on its own architects.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/05/06/nepali-voters-have-spoken-is-the-media-listening",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/chirayuranajpg-1778134879.jpg&w=400&height=267"
+    },
+    {
+      "title": "श्रममन्त्री भन्छन्: भिजिट भिसामा घरेलु कामदार बनेर विदेशिने महिलाको तथ्यांक राज्यसँग छैन",
+      "summary": "अष्ट्रेलियाली पुरुष क्रिकेट टोलीले तीन खेलको एकदिवसीय शृङ्खलाका लागि पाकिस्तानको भ्रमण गर्ने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/odi-series-australia-to-tour-pakistan-66-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778148414_Cricket1-480x320.jpg"
+    },
+    {
+      "title": "गल्ती गरेको छैन, डर पनि छैन, सोधे हुन्छ, खोजे हुन्छ: जगदिश खरेल",
+      "summary": "बिहीबार बिहान कोहलपुर–११ रङ्गशाला अगाडिको बस्तीमा पानी परिरहेको थियो। झरीसँगै सुकुम्बासी बस्तीमा अर्को पीडा पनि पोखिइरहेको थियो। कसैले टिन उखेले, कसैले बाँस भाँचे। त्यहाँ घर मात्र भत्किएका थिएनन्, धेरैको सपना र सङ्घर्ष पनि भत्किएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/landless-squatters-vacate-their-homes-in-kohalpur-92-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778148569_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "भाषा मौलिक पहिचानको आधार स्तम्भ हो : कार्यवाहक प्रमुख डंगोल",
+      "summary": "मन्त्री रामजी यादवले घरेलु कामदारका रूपमा विदेश जाने महिला श्रमिकको अवस्थाप्रति चिन्ता व्यक्त गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/labor-minister-says-the-state-does-not-have-data-on-women-who-go-abroad-as-domestic-workers-on-visit-visas-br-64-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778147630_Yadav-480x320.jpg"
+    },
+    {
+      "title": "परराष्ट्रमन्त्रीसँग सार्क महासचिवको भेट",
+      "summary": "१३ उपसमूहमध्ये बिहीबार ८ उपसमूहको परिसूचक बढेको छ भने ५ उपसमूहको परिसूचक घटेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nepse-sees-modest-increase-in-points-but-trading-volume-continues-to-decline-29-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1736676322_nepse-480x320.jpg"
     }
   ]
 }
