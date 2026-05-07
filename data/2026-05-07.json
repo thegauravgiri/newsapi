@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-07T14:36:50.839065",
+  "scraped_at": "2026-05-07T17:54:32.838993",
   "date": "2026-05-07",
-  "total_articles": 55,
+  "total_articles": 59,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -447,6 +447,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/suryabinayak-national-zoological-park-still-in-abeyance-42-22.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "सरकार संवैधानिक निकायमा त्रास बढाउँदै अधिनायकवादी मार्गमा अघि बढ्यो: महेश बर्तौला",
+      "summary": "केही दिनदेखिको वर्षाका करण आएको बाढीपहिरोका कारण अवरुद्ध भएका देशका केही राजमार्ग आजदेखि सञ्चालनमा आएका छन् भने केही मुख्य राजमार्ग अझै अवरुद्ध भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/some-highways-remain-open-others-remain-closed-due-to-flooding-and-landslides-88-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762157193_Pahiro-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाले विपद् व्यवस्थापनबारे राष्ट्रिय नीति मन्थन गर्ने",
+      "summary": "काठको मुढाले च्यापिएर एक बालकको मृत्यु भएको छ। मुढाले च्यापिएर सर्केगाड गाउँपालिका-८ का १४ वर्षीय कविन्द्र बुढाको मृत्यु भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/child-dies-after-being-crushed-by-wooden-plank-14-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "संसदीय सुनुवाइ समितिको नयाँ कार्यविधि पारित, १० दिन उजुरी दिन सकिने",
+      "summary": "नेकपा एमालेका नेता महेश बर्तौला ले सरकारले राज्यका सम्पूर्ण अंग र संवैधानिक निकायहरूमाथि त्रास सिर्जना गर्दै पूर्ण नियन्त्रण स्थापित गर्ने अधिनायकवादी मार्गतर्फ अघि बढिरहेको आरोप लगाएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-moves-towards-authoritarian-path-by-creating-fear-in-constitutional-bodies-mahesh-bartaula-96-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766406708_Mahesh-480x320.jpg"
+    },
+    {
+      "title": "सरकारी विज्ञापनको पैसा मिडियामा होइन, कसैको गोजीमा पुगेपछि रोक्नुपरेको हो: सञ्चारमन्त्री",
+      "summary": "प्रहरी महानिरीक्षक दान बहादुर कार्कीले काठमाडौंको एक ज्वेलर्समा भएको लुटपाट प्रयासलाई आफ्नो साहस र आत्मविश्वासले असफल बनाउने सञ्जिता शाक्यलाई सम्मान गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/inspector-general-of-police-honors-brave-woman-sanjita-shakya-who-foiled-robbery-attempt-at-jewelers-35-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778168681_asfasf-480x320.jpg"
     }
   ]
 }
