@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-07T03:51:47.139862",
+  "scraped_at": "2026-05-07T06:44:55.193951",
   "date": "2026-05-07",
-  "total_articles": 34,
+  "total_articles": 41,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -278,6 +278,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/names-of-major-debtors-of-troubled-cooperatives-made-public-who-are-they-with-names-28-17.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "IPO approval delays stall hydropower projects and disrupt capital mobilisation in Nepal",
+      "summary": "This has left several projects, particularly in the hydropower sector, unable to meet financial commitments.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/07/ipo-approval-delays-stall-hydropower-projects-and-disrupt-capital-mobilisation-in-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/AI-1778119836.jpg&w=300&height=200"
+    },
+    {
+      "title": "Everything you need to know about the scandal with a Nepali name at its center",
+      "summary": "Chirayu Rana’s lawsuit against one of the world’s most powerful financial institutions has captivated America. Here is what happened.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/05/07/everything-you-need-to-know-about-the-scandal-with-a-nepali-name-at-its-centre",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/chirayuranajpg-1778134879.jpg&w=300&height=200"
+    },
+    {
+      "title": "मातृभाषाको सम्मान, शिक्षा र प्रयोगलाई बढावा दिन निरन्तर प्रयत्नशील छु : मुख्यमन्त्री बानियाँ",
+      "summary": "ठमेलको १५ तल्लाको छायादेवी कम्प्लेक्स भत्काउनुपर्ने भन्दै सम्पदा संरक्षण समाजले काठमाडौंमा प्रदर्शन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/photo-feature/heritage-conservation-society-s-protest-demanding-demolition-of-chhayadevi-complex-photos-78-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778134347_chhaya-480x320.jpg"
+    },
+    {
+      "title": "भारतमा भएको वामपन्थी हारसँग नेपालको वामपन्थी आन्दोलन जोड्नु गलत : महासचिव पोखरेल",
+      "summary": "खोटाङमा करेन्ट लागेर र भीरबाट लडेर खोटाङमा एकै दिन दुई जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-people-died-after-falling-from-a-cliff-after-being-electrocuted-52-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777523487_rent 67-480x320.jpg"
+    },
+    {
+      "title": "तनुजाको कटाक्ष : सरकारी जग्गा हडपेर ३ तले घर बनाउने मन्त्री/सांसद 'असली सुकुम्बासी'",
+      "summary": "बहुप्रतिक्षित खाँदबारी–किमाथाङ्का सडकखण्ड (१६२ किमी मध्ये १०. ८ किमी) मा ‘ट्रयाक ओपन’ सहित आवश्यक स्थानमा स्तरोन्नति काम सम्पन्न भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/khandbari-kimathanka-road-upgradation-complete-with-track-open-64-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778133677_khadbari sankhuwasabha sadak-480x320.jpg"
+    },
+    {
+      "title": "गोकुलको प्रश्न : पहिला रास्वपा संघीयता खारेज भन्थ्यो अब संविधान संशोधन गर्ने कि नाई?",
+      "summary": "हिजबुल्लाहसँग युद्धविराममा सहमति जनाए पनि इजरायलले बुधबार साँझ बेरुतमा आक्रमण गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/israel-attacked-beirut-despite-ceasefire-what-did-netanyahu-say-56-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778133371_isreal attack-480x320.jpg"
+    },
+    {
+      "title": "अस्थिरताको चक्रमा मधेस सरकार : साढे तीन वर्षमा पाँच मुख्यमन्त्री, छैठौंको कसरत",
+      "summary": "ठमेलको १५ तल्लाको छायादेवी कम्प्लेक्स भत्काउनुपर्ने भन्दै सम्पदा संरक्षण समाजले काठमाडौंमा प्रदर्शन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/photo-feature/heritage-conservation-society-s-protest-demanding-demolition-of-chhayadevi-complex-photos-78-13.html?click_from=just_in",
       "image_url": ""
     }
   ]
