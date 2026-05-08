@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-08T14:07:20.942204",
+  "scraped_at": "2026-05-08T17:26:20.088035",
   "date": "2026-05-08",
-  "total_articles": 53,
+  "total_articles": 56,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -431,6 +431,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/government-is-on-a-power-grabbing-strategy-former-attorney-general-badal-60-53.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Everest season sees historic permit surge, testing Nepal’s crowd-control plans",
+      "summary": "Nepal has issued 492 Everest permits and collected record royalty revenue, but delayed route fixing and a narrow weather window raise fears of overcrowding and safety risks on the world’s tallest peak.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/08/everest-season-sees-historic-permit-surge-testing-nepal-s-crowd-control-plans",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/MingmaDorchiSherpa-1778248386.jpg&w=300&height=200"
+    },
+    {
+      "title": "सुकुम्बासी समस्या समाधान गर्न बालेन सरकारले चालेका चार कदम",
+      "summary": "भक्तपुरको खरिपाटी स्थित नेपाल विद्युत् प्राधिकरण तालिम केन्द्र अस्थायी होल्डिङ सेन्टरमा परिणत भएको एक साता पुग्न लागेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/new-support-for-temporary-housing-daily-life-of-squatters-at-kharipati-holding-center-94-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778256342_Kharipati-480x320.jpg"
+    },
+    {
+      "title": "प्रधानन्यायाधीश सिफारिसविरुद्ध जेठ ४ गतेसम्म उजुरी दिन सकिने",
+      "summary": "हाल स्पेनमा बसोबास गरिरहेका पोखरेलको कथा वाचन शैलीले सामाजिक सञ्जाल र युट्युबमा ठूलो दर्शकवर्ग बनाएको छ। उनी हालै ‘आ बाट आमा’मा रामको भूमिकामा पनि देखिएका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/i-trust-people-very-quickly-97-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778254734_Sai-480x320.jpg"
     }
   ]
 }
