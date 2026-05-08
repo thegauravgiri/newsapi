@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-05-08T09:46:22.047670",
+  "scraped_at": "2026-05-08T14:07:20.942204",
   "date": "2026-05-08",
-  "total_articles": 45,
+  "total_articles": 54,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -366,6 +366,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/nepali-congress-s-seven-point-disagreement-with-the-recommendation-of-the-chief-justice-78-54.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Supreme Court orders government not to evict or displace squatters without due process",
+      "summary": "A division bench of Justices Kumar Regmi and Nityananda Pandey issued the order on Friday in response to the writ petition filed on April 24.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/08/supreme-court-orders-government-not-to-evict-or-displace-squatters-without-due-process",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/SUPREMECOURT-1778247927.jpg&w=300&height=200"
+    },
+    {
+      "title": "Climate change poses growing threats to migratory birds in Nepal",
+      "summary": "Conservationists say habitat loss, wetland encroachment, pollution and shifting weather patterns are disrupting migration, feeding and breeding cycles of birds across the country.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/08/climate-change-poses-growing-threats-to-migratory-birds-in-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/migratorybirds-1778233613.jpg&w=300&height=200"
+    },
+    {
+      "title": "Indian Foreign Secretary Vikram Misri’s Kathmandu visit postponed",
+      "summary": "PM Shah’s refusal to meet the Indian foreign secretary and the recent Nepal-India dispute over India and China resuming the Mansarovar Yatra through the disputed tri-junction reportedly led to the deferral.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/08/indian-foreign-secretary-vikram-misri-s-kathmandu-visit-postponed",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/KBW5GEWNNFOZ3JXBCY7LQKYG4E-1778226852.jpg&w=300&height=200"
+    },
+    {
+      "title": "First-ever snow leopard census begins in Dhorpatan Hunting Reserve",
+      "summary": "Fifty-six sensor-based camera traps have been installed across cliffs and trails to track the movement of snow leopards.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/08/first-ever-snow-leopard-census-begins-in-dhorpatan-hunting-reserve",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/camerajodeko108520260811181000x0-1778238504.jpg&w=600&height=400"
+    },
+    {
+      "title": "सरकार सत्ता कब्जाको रणनीतिमा छ: पूर्व महान्यायाधिवक्ता बडाल",
+      "summary": "पूर्वमहान्याधिवक्ता रमेश बडालले वर्तमान सरकार सत्ता कब्जाको दिशातर्फ उन्मुख भइरहेको आरोप लगाएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-is-on-a-power-grabbing-strategy-former-attorney-general-badal-60-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778248157_Bdadal-480x320.jpg"
+    },
+    {
+      "title": "हर्कले सुदनलाई अगाडि राखेर भने: एकता छोटो समयको भन्ने आशंका नगर्नुहोला",
+      "summary": "राष्ट्रिय योजना आयोगले आगामी आवका लागि रु १८ खर्ब ९० अर्बबराबरको बजेट सिलिङ तय गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/parliament-session-budget-writing-in-a-hurry-government-s-preparations-to-make-it-transformative-34-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776694268_Swarnim Wagle 1-480x320.jpg"
+    },
+    {
+      "title": "बालेन सरकारलाई आईएफजेको आग्रह: सरकारी विज्ञापनसम्बन्धी विभेदकारी निर्णय फिर्ता गर्नुहोस्",
+      "summary": "गैरकानुनी सम्पत्ति आर्जन गरेको अभियोगमा आयोगले यादव विरुद्ध रु चार करोड ४७ लाख ३४ हजार २१२ बराबरको बिगो माग दाबी गर्दै मुद्दा दायर गरेको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/authority-moves-supreme-court-with-case-against-shashi-bhushan-yadav-75-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770383298_sarbochha_akhtiyar-480x320.jpg"
+    },
+    {
+      "title": "प्रदेश र स्थानीय तहलाई गगन थापाको आग्रह: संघीय सरकारसँग सचेत रहनुहोस्",
+      "summary": "श्रम संस्कृति पार्टीमा अध्यक्ष हर्क साम्पाङले सुदन किराँतीसहित उनको पक्षबाट आएका सबैलाई स्वागत गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/photo-feature/sampang-kiranti-meeting-in-the-photo-64-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778247039_Kirati_Sampang0-480x320.jpg"
+    },
+    {
+      "title": "सहकारीको कडा नियमन गर्दै सरकार: कर्जा असुली, बचत फिर्ताका काम धमाधम",
+      "summary": "पूर्वमहान्याधिवक्ता रमेश बडालले वर्तमान सरकार सत्ता कब्जाको दिशातर्फ उन्मुख भइरहेको आरोप लगाएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-is-on-a-power-grabbing-strategy-former-attorney-general-badal-60-53.html?click_from=just_in",
       "image_url": ""
     }
   ]
