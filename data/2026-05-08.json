@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-08T06:04:31.014470",
+  "scraped_at": "2026-05-08T09:46:22.047670",
   "date": "2026-05-08",
-  "total_articles": 39,
+  "total_articles": 44,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -318,6 +318,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/council-of-ministers-meeting-begins-42-30.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "प्रधानन्यायाधीश सिफारिसमा कांग्रेसको सात बुँदे असहमति",
+      "summary": "संवैधानिक परिषद्को बैठकमा प्रमुख प्रतिपक्षी दल नेपाली कांग्रेसले सात बुँदे फरक मत दर्ता गराएको खुलेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepali-congress-s-seven-point-disagreement-with-the-recommendation-of-the-chief-justice-78-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777276981_Bhismaraj Andembe-480x320.jpg"
+    },
+    {
+      "title": "प्रधानन्यायाधीश सिफारिस प्रक्रियाको विरोध गर्दै अधिवक्ता सिलवालले पनि हाले मुद्दा",
+      "summary": "प्रधानन्यायाधीश सिफारिस प्रक्रियाको विरोध गर्दै अधिवक्ता डा. प्रेमराज सिलवालले पनि सर्वोच्च अदालतमा मुद्दा दायर गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/advocate-silwal-also-filed-a-case-opposing-the-chief-justice-recommendation-process-83-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778153938_BAlen WEB.jpg-480x320.jpg"
+    },
+    {
+      "title": "सीमा विवाद हल गर्न नेपाल सरकारले चाँडै भारतसँग वार्ता गर्ने",
+      "summary": "फुटबलको महाकुम्भ फिफा पुरुष विश्वकप आउन अब केही समय मात्र बाँकी छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/fifa-world-cup-which-country-is-playing-the-world-cup-for-the-first-time-26-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778232128_game1-480x320.jpg"
+    },
+    {
+      "title": "संघीय संसद् सचिवालयमा कुनै पनि ट्रेड यूनियन अस्तित्वमा छैन",
+      "summary": "नियमित गस्तीमा रहेको प्रहरी टोलीले देशका विभिन्न भागबाट लागुऔषध सहित १३ जनालाई पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/13-people-arrested-with-illegal-drugs-br-43-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1597926345_pakrau-480x320.jpg"
+    },
+    {
+      "title": "सरकारले भारतलाई कूटनीतिक नोट पठाइसक्यो : प्रवक्ता पोखरेल",
+      "summary": "संवैधानिक परिषद्को बैठकमा प्रमुख प्रतिपक्षी दल नेपाली कांग्रेसले सात बुँदे फरक मत दर्ता गराएको खुलेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepali-congress-s-seven-point-disagreement-with-the-recommendation-of-the-chief-justice-78-54.html?click_from=just_in",
       "image_url": ""
     }
   ]
