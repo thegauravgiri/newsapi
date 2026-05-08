@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-08T03:42:02.597084",
+  "scraped_at": "2026-05-08T06:04:31.014470",
   "date": "2026-05-08",
-  "total_articles": 34,
+  "total_articles": 40,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -278,6 +278,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/education/applications-invited-for-vice-chancellor-positions-at-eight-universities-73-79.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal bypasses acting CJ, fourth-in-line picked to lead the judiciary",
+      "summary": "Constitutional Council brushes aside Acting Chief Justice Malla and two other senior justices as Prime Minister Shah prevails.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/08/nepal-bypasses-acting-cj-fourth-in-line-picked-to-lead-the-judiciary",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/CJ-1778201734.jpg&w=600&height=400"
+    },
+    {
+      "title": "मन्त्रिपरिषद्को बैठक सुरु",
+      "summary": "मन्त्रिपरिषद्को बैठक सुरु भएको छ। सिंहदरबारस्थित प्रधानमन्त्री तथा मन्त्रिपरिषद् कार्यालयमा बैठक सुरु भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/council-of-ministers-meeting-begins-42-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778219515_cabinet-480x320.jpg"
+    },
+    {
+      "title": "नदीजन्य तथा खानीजन्य पदार्थको उत्खननलाई मापदण्डबमोजिम गराउन निर्देशन",
+      "summary": "पूर्वअर्थमन्त्री ज्ञानेन्द्रबहादुर कार्कीसहित १३ जनाविरुद्ध बिहीबार विशेष अदालतमा भ्रष्टाचार मुद्दा दायर भएपछि पोखरा अन्तर्राष्ट्रिय विमानस्थल प्रकरण झन् गम्भीर मोडमा पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/flight-of-corruption-at-pokhara-airport-br-18-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778219151_p air 67-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीले बोलाए मन्त्रिपरिषद् बैठक",
+      "summary": "बिहीबारको तुलनामा स्थानीय बजारमा आज पनि सुनचाँदीको भाउ बढेको छ। सुन तोलामा रु एक हजार ३०० र चाँदी रु १२० ले बढेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/the-price-of-gold-and-silver-has-increased-at-what-price-is-it-being-traded-28-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री बालेन्द्र नेतृत्वको संवैधानिक परिषद्को निर्णय स्वेच्छाचारिताको पराकाष्ठा : सहमहामन्त्री संग्रौला",
+      "summary": "‘मानवतामा एकताबद्ध’ भन्ने नाराका साथ शुक्रबार विश्व रेडक्रस तथा रेड क्रिसेन्ट दिवस विश्वका विभिन्न मुलुकमा विविध कार्यक्रमका साथमनाइँदैछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/red-cross-day-being-celebrated-with-the-slogan-unity-in-humanity-95-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778217912_redcross-480x320.jpg"
+    },
+    {
+      "title": "वरिष्ठ न्यायाधीशलाई उपेक्षा गरेर प्रधानन्यायाधीश सिफारिस हुनु सामान्य घटना होइन : पोखरेल",
+      "summary": "मन्त्रिपरिषद्को बैठक सुरु भएको छ। सिंहदरबारस्थित प्रधानमन्त्री तथा मन्त्रिपरिषद् कार्यालयमा बैठक सुरु भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/council-of-ministers-meeting-begins-42-30.html?click_from=just_in",
       "image_url": ""
     }
   ]
