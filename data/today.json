@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-09T03:44:19.165424",
+  "scraped_at": "2026-05-09T06:23:03.880430",
   "date": "2026-05-09",
-  "total_articles": 34,
+  "total_articles": 41,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -279,6 +279,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/2-million-kidnappings-in-india-in-70-years-90-70.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Proposed standards set tough penalty for ice-cream adulteration",
+      "summary": "Draft sent to WTO for notification; rules set composition, safety and labelling as consumption rises.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/09/proposed-standards-set-tough-penalty-for-ice-cream-adulteration",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/Icecream2-1778292147.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepali artist to exhibit ‘Chhyake’ at Venice Biennale collateral exhibition",
+      "summary": "Visual artist and photographer Jyoti Shrestha says the lack of government support has made her international journey more difficult.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/05/09/nepali-artist-to-exhibit-chhyaki-at-venice-biennale-collateral-exhibition",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/JyotiShrestha-1778302184.jpg&w=300&height=200"
+    },
+    {
+      "title": "NEPSE posts modest gain despite weak market activity",
+      "summary": "Analysts say selling pressure is easing as investors await budget announcement and search for entry opportunities.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/09/nepse-posts-modest-gain-despite-weak-market-activity",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/nepsechart-1778299987.jpg&w=600&height=400"
+    },
+    {
+      "title": "प्रस्तावित प्रधानन्यायाधीश शर्माविरुद्ध संसदीय सुनुवाइ समितिद्वारा उजुरी आह्वान",
+      "summary": "धौलागिरि हिमालमा पहिलोपटक मानव पाइला पुगेको दिनका अवसरमा ‘धौलागिरि आरोहण दिवस’ मनाइँदैछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/dhaulagiri-climbing-day-being-celebrated-39-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1758593916_dhaulagiri-480x320.jpg"
+    },
+    {
+      "title": "वरिष्ठ नागरिकको ज्ञान र सीपबाट नयाँ पुस्ताले लाभ लिन सक्नुपर्छ : राष्ट्रपति",
+      "summary": "रुस र साउदी अरबका विदेशमन्त्रीहरूले होर्मुज जलसन्धि आसपासको पछिल्लो अवस्थाबारे छलफल गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/russia-and-saudi-arabia-s-initiative-to-maintain-peace-in-the-strait-of-hormuz-73-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776506800_hormuz-480x320.jpg"
+    },
+    {
+      "title": "हामी पनि भारतको बाटोमा लाग्ने बेला भयो : अर्थमन्त्री वाग्ले",
+      "summary": "संसदीय सुनुवाइ समितिले प्रस्तावित प्रधानन्यायाधीश डा मनोजकुमार शर्माविरुद्ध उजुरी आह्वान गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/parliamentary-hearing-committee-calls-for-complaint-against-proposed-chief-justice-sharma-92-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778200900_sharma-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभाको एकल स्वीकृतिमा अध्यादेश पारित हुन्छ?",
+      "summary": "राष्ट्रिय पन्छी अनुसन्धान कार्यक्रमअन्तर्गत अनुसन्धानका लागि पालिएका पन्छीमा बर्डफ्लु देखिएपछि करिब रु ५० लाख बराबरको नोक्सानी भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/half-a-dozen-birds-raised-for-research-test-positive-for-bird-flu-54-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1763285520_Bird Flu-480x320.jpg"
     }
   ]
 }
