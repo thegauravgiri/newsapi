@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-09T13:42:50.260963",
+  "scraped_at": "2026-05-09T17:03:04.936789",
   "date": "2026-05-09",
-  "total_articles": 45,
+  "total_articles": 50,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -366,6 +366,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/shikha-academy-wins-national-swimming-championship-title-53-34.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "सरकारले सुरु गर्‍यो अस्पताल अनुगमन",
+      "summary": "सरकारले सरकारी र निजी अस्पतालको अनुगमन सुरु गरेको छ । स्वास्थ्य तथा जनसङ्ख्या मन्त्रालयको गुणस्तर मापन तथा नियमन महाशाखाले डा. रोशन न्यौपानेको नेतृत्वमा विशेष टोली परिचालन गरेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-begins-hospital-monitoring-81-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1757057946_ministry-of-health-1200x560-480x320.jpg"
+    },
+    {
+      "title": "आवासको हक सम्मान गर्न सरकारलाई साम्पाङको सुझाव",
+      "summary": "हर्क साम्पाङ राई ले संविधानले सुनिश्चित गरेको आवासको हकलाई सम्मान गर्न सरकारसँग आग्रह गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sampang-suggests-to-the-government-to-respect-the-right-to-housing-78-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776600078_harka-480x320.jpg"
+    },
+    {
+      "title": "नेकपाको कार्यविभाजन: कसले पाए के जिम्मेवारी ?",
+      "summary": "नेपालको १०० पर्यटकीय गन्तव्यका रुपमा सूचीकृत बागलुङको पञ्चकोट जाने सडक खुलेको २२ वर्षपछि कालोपत्र गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bhirlakhuri-panchakot-road-blacktopped-after-22-years-94-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1737617642_sadak kalopatra-480x320.jpg"
+    },
+    {
+      "title": "सुशीला कार्कीले किन बालेनकी श्रीमतीलाई आमा भन्नू भनिन् ?",
+      "summary": "टोलीमा इशान पाण्डे सात वर्षपछि राष्ट्रिय टोलीमा पुनरागमन गर्न सफल भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/who-is-in-the-nepali-team-for-world-cup-league-2-36-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778342267_Som-480x320.jpg"
+    },
+    {
+      "title": "जनताले नयाँ अनुहार मात्रै होइन, नयाँ सोच र कार्यशैली खोजिरहेका छन्: उपनेता पराजुली",
+      "summary": "सरकारले सरकारी र निजी अस्पतालको अनुगमन सुरु गरेको छ । स्वास्थ्य तथा जनसङ्ख्या मन्त्रालयको गुणस्तर मापन तथा नियमन महाशाखाले डा. रोशन न्यौपानेको नेतृत्वमा विशेष टोली परिचालन गरेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-begins-hospital-monitoring-81-34.html?click_from=just_in",
       "image_url": ""
     }
   ]
