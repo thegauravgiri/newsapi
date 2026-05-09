@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-05-09T09:26:23.482592",
+  "scraped_at": "2026-05-09T13:42:50.260963",
   "date": "2026-05-09",
-  "total_articles": 41,
+  "total_articles": 48,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -335,6 +335,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/half-a-dozen-birds-raised-for-research-test-positive-for-bird-flu-54-42.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1763285520_Bird Flu-480x320.jpg"
+    },
+    {
+      "title": "Indian Foreign Secretary Vikram Misri’s Kathmandu visit postponed",
+      "summary": "PM Shah’s refusal to meet the Indian foreign secretary and the recent Nepal-India dispute over India and China resuming the Mansarovar Yatra through the disputed tri-junction reportedly led to the deferral.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/09/indian-foreign-secretary-vikram-misri-s-kathmandu-visit-postponed-1778302871",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/VikramMisri-1778302846.jpg&w=300&height=200"
+    },
+    {
+      "title": "A single coffee sapling transforms farming prospects in Dolakha village",
+      "summary": "Farmers, cooperatives and the local government in Kattike of Bhimeshwar Municipality-5 have joined hands to plant 1,700 saplings and expand commercial coffee farming.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/09/a-single-coffee-sapling-transforms-farming-prospects-in-dolakha-village",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/coffee208520261109291000x0-1778321531.jpg&w=300&height=200"
+    },
+    {
+      "title": "सरकारले माग्यो बजेटका लागि राय, सुझाव, यसरी दिनुहोस्",
+      "summary": "बाँके कोहलपुरको शिखा एकेडेमीले राष्ट्रिय पौडी प्रतियोगिताको उपाधि जितेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/shikha-academy-wins-national-swimming-championship-title-53-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778333504_Poudi-480x320.jpg"
+    },
+    {
+      "title": "बजार सुशासनका लागि देशभर ‘मूल्य पारदर्शिता सप्ताह’ गर्दै सरकार",
+      "summary": "कपिलवस्तुका यशोधरा गाउपालिका स्थित सुठौली भन्सारमा चालु आर्थिक बर्षको साढे नौ महिनामा बार्षिक लक्ष्य पार गरी एक अर्ब १७ करोड राजस्व संकलन गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/revenue-exceeded-the-annual-target-in-nine-and-a-half-months-38-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778332622_Suthauli1-480x320.jpg"
+    },
+    {
+      "title": "बजार सुशासनलाई बालेन सरकारको ‘मूल्य पारदर्शिता सप्ताह’, सोमबारदेखि देशभर चलाइने",
+      "summary": "सातौँ संस्करणको जुम्ला–रारा अल्ट्रा म्याराथन प्रतियोगिताको उपाधि धीर बूढाले प्राप्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/jumla-rara-ultra-marathon-title-goes-to-an-elderly-man-57-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778331726_marathon-480x320.jpg"
+    },
+    {
+      "title": "विधिबाट स्थापित पद्धति र परम्पराको पालना हुनुपर्छः राष्ट्रपति",
+      "summary": "सरकारले सोमबारदेखि जेठ १ सम्म सङ्घ, प्रदेश र स्थानीय तहका सबै कार्यालयमा सरसफाइ सप्ताह सुरु गर्न थालेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/cleanliness-campaign-from-monday-government-offices-and-hospitals-across-the-country-will-be-cleaned-47-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1736741227_PM Office-480x320.jpg"
+    },
+    {
+      "title": "लुम्बिनीका चार स्थानीय तह ‘जग्गा प्रशासन’ सेवा दिन तयार",
+      "summary": "बाँके कोहलपुरको शिखा एकेडेमीले राष्ट्रिय पौडी प्रतियोगिताको उपाधि जितेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/shikha-academy-wins-national-swimming-championship-title-53-34.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
