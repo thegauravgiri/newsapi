@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-10T09:44:08.773645",
+  "scraped_at": "2026-05-10T13:45:50.869989",
   "date": "2026-05-10",
-  "total_articles": 40,
+  "total_articles": 45,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -326,6 +326,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/93-fall-ill-after-wedding-feast-50-under-treatment-31-15.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "कांग्रेसको सुदूरपश्चिम संकल्प: सुशासनदेखि रोजगारीसम्मका १५ प्रतिबद्धता",
+      "summary": "संकल्पपत्रमा उत्तरदायी सरकार सञ्चालन गर्ने, विधि र सुशासनलाई प्राथमिकतामा राख्ने तथा सार्वजनिक सेवा प्रवाहलाई थप सरल र प्रभावकारी बनाउने प्रतिबद्धता व्यक्त गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepali-congress-s-far-west-resolution-15-commitments-from-good-governance-to-employment-76-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768468645_Gagan_Biswa1-480x320.jpg"
+    },
+    {
+      "title": "राप्रपाको केन्द्रीय कार्यसम्पादन समिति बैठक शुक्रबार",
+      "summary": "स्पेनिस ला लिगामा आइतबार राति हुने सिजनको दोस्रो ‘एल क्लासिको’ भिडन्तमा बार्सिलोना आफ्नो चिरपरिचित प्रतिद्वन्द्वी रियल मड्रिडलाई पराजित गर्दै उपाधि पक्का गर्ने दाउमा देखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/el-clasico-barcelona-and-real-madrid-clash-10-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778419003_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "कम्युनिष्ट एकता र नयाँ ढंगको आन्दोलन आवश्यक : प्रचण्ड",
+      "summary": "सन्तानले आफ्ना मातापितासँग गल्ती गर्दा जसरी शिर झुकाएर क्षमा माग्छ, त्यसरी नै समस्त नेपाली जनताका तर्फबाट राष्ट्रदेवसँग क्षमा माग्ने भाव यस अभियानको केन्द्रमा रहेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/blog/prayer-of-forgiveness-to-the-god-of-the-nation-81-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778419590_Umesh-480x320.jpg"
+    },
+    {
+      "title": "सोमबार राष्ट्रपतिले नीति तथा कार्यक्रम प्रस्तुत गर्ने",
+      "summary": "बैठक बिहान ११ बजे पार्टीको केन्द्रीय कार्यालय धुम्बाराहीमा आयोजना हुने राप्रपाले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rpp-s-central-working-committee-meeting-on-friday-36-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1742087698_RPP-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले कर्णालीमा समीक्षा भेला गर्ने",
+      "summary": "संकल्पपत्रमा उत्तरदायी सरकार सञ्चालन गर्ने, विधि र सुशासनलाई प्राथमिकतामा राख्ने तथा सार्वजनिक सेवा प्रवाहलाई थप सरल र प्रभावकारी बनाउने प्रतिबद्धता व्यक्त गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepali-congress-s-far-west-resolution-15-commitments-from-good-governance-to-employment-76-55.html?click_from=just_in",
       "image_url": ""
     }
   ]
