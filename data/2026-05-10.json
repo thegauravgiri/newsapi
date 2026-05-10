@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-10T04:00:53.022770",
+  "scraped_at": "2026-05-10T09:44:08.773645",
   "date": "2026-05-10",
-  "total_articles": 33,
+  "total_articles": 39,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -270,6 +270,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/rsp-secretariat-meeting-underway-63-93.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Weak private investment deepens pressure on Nepal’s revenue and public debt",
+      "summary": "As the government prepares next fiscal year’s policy agenda and budget, economists and business leaders say restoring investor confidence will be critical to reviving private sector investment and easing dependence on public borrowing.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/10/weak-private-investment-deepens-pressure-on-nepal-s-revenue-and-public-debt",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/AAA-1778386134.jpg&w=300&height=200"
+    },
+    {
+      "title": "Interpol questioned Nepal’s Deuba case. Authorities have now responded",
+      "summary": "Prosecuting authorities provide further details to Interpol after questions were raised over legal procedures and charges in the case.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/10/interpol-questioned-nepal-s-deuba-case-authorities-have-now-responded",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb10-1778373037.jpg&w=600&height=400"
+    },
+    {
+      "title": "हामी नयाँ हौं तर बेवकुफ छैनौं, देशलाई ट्रयाकमा ल्याउँदै छौं: सभापति रवि",
+      "summary": "पार्टी प्यालेसमा आयोजित विवाहको भोज खाएपछि ‘फुड पोइजनिङ’ भई बिरामी हुनेको सङ्ख्या ९३ पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/93-fall-ill-after-wedding-feast-50-under-treatment-31-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778405962_bibah bhoj wedding-480x320.jpg"
+    },
+    {
+      "title": "सजिलो क्रान्तिबाट आएर पनि परिणाम दिन सकेनौं भने हामी नालायक सावित हुन्छाैं: रवि",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले आसन्न आर्थिक वर्षको बजेट कुनै निर्वाचन क्षेत्र विशेषमा केन्द्रित नभई समग्र नेपालको हितमा निर्माण हुने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-are-new-but-not-stupid-we-are-bringing-the-country-back-on-track-speaker-ravi-68-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778405496_rabi-480x320.jpg"
+    },
+    {
+      "title": "विपद् जोखिम न्यूनीकरण र व्यवस्थापन सम्बन्धमा रास्वपाको ‘नीति मन्थन’",
+      "summary": "हुलाकी राजमार्गअन्तर्गत कैलालीको लम्की–टीकापुर–खक्रौला सडकको काम सम्पन्न नहुँदा नागरिकले निकै सास्ती खेप्नुपरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/lamki-khakraula-road-not-completed-on-time-causing-suffering-32-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773451364_dhulikhel khawa sadak-480x320.jpg"
+    },
+    {
+      "title": "श्रम संस्कृतिबाट कोशीमा सुदनलाई मुख्यमन्त्री बनाउन साम्पाङले मागे राय",
+      "summary": "पार्टी प्यालेसमा आयोजित विवाहको भोज खाएपछि ‘फुड पोइजनिङ’ भई बिरामी हुनेको सङ्ख्या ९३ पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/93-fall-ill-after-wedding-feast-50-under-treatment-31-15.html?click_from=just_in",
       "image_url": ""
     }
   ]
