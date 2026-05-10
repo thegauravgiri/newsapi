@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-10T13:45:50.869989",
+  "scraped_at": "2026-05-10T17:03:27.065333",
   "date": "2026-05-10",
-  "total_articles": 44,
+  "total_articles": 51,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -358,6 +358,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/nepali-congress-s-far-west-resolution-15-commitments-from-good-governance-to-employment-76-55.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Bridge ends years of deadly river crossings for Chepang villages",
+      "summary": "In the hills of Chitwan, residents say the new crossing over the Kayar River could transform daily life in communities long cut off during the monsoon.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/province-no-3/2026/05/10/bridge-ends-years-of-deadly-river-crossings-for-chepang-villages",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/IMG20260509141505-1778397432.jpg&w=300&height=200"
+    },
+    {
+      "title": "As displaced families languish in Banepa holding centre, children watch the school year pass them by",
+      "summary": "As authorities conduct verification and resettlement screening, dozens of displaced children remain stranded in a temporary holding centre away from their classrooms.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/10/as-displaced-families-languish-in-banepa-holding-centre-children-watch-the-school-year-pass-them-by",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/CHILDRENBANEPA-1778425665.jpg&w=600&height=400"
+    },
+    {
+      "title": "सोमबारदेखि देशभर ‘सरसफाइ सप्ताह’",
+      "summary": "बाँकेको कोहलपुर नगरपालिकाले सार्वजनिक तथा सरकारी जग्गा अतिक्रमण गरी निर्माण गरिएका घरटहरा हटाउने अभियानलाई दोस्रो दिन पनि निरन्तरता दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/108-houses-and-huts-removed-in-kohalpur-74-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778430184_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "भूमिहीनलाई लालपूर्जा उपलब्ध गराउँछौं: लामिछाने",
+      "summary": "जुम्लाको तातोपानी गाउँपालिका–५ लाई बालविवाह तथा महिनावारी विभेदमुक्त वडा घोषणा गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jumla-s-tatopani-5-ward-free-from-child-marriage-and-menstrual-discrimination-89-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778429981_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "विकासका लागि निजी क्षेत्रको पुँजी आवश्यक: अर्थमन्त्री",
+      "summary": "सरकारले सार्वजनिक सेवा प्रवाहलाई मर्यादित, स्वच्छ र वातावरणमैत्री बनाउन सोमबारदेखि आगामी जेठ १ गतेसम्म देशभर ‘सरसफाइ सप्ताह २०८३’ सञ्चालन गर्ने घोषणा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/cleanliness-week-across-the-country-from-monday-58-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776166022_balen-480x320.jpg"
+    },
+    {
+      "title": "नेकपाले इन्चार्ज र सह-इन्चार्ज तोक्यो",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले जोखिमपूर्ण ठाउँमा बसेका नागरिकलाई सुरक्षित स्थानमा स्थानान्तरण गरी भूमिहीनलाई लालपूर्जा उपलब्ध गराउने प्रक्रिया अघि बढेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-will-provide-land-title-deeds-to-the-landless-lamichhane-33-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778428049_rabi_-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा कर्णालीको सह-महामन्त्रीमा शाह र सुवेदी मनोनित",
+      "summary": "बाँकेको कोहलपुर नगरपालिकाले सार्वजनिक तथा सरकारी जग्गा अतिक्रमण गरी निर्माण गरिएका घरटहरा हटाउने अभियानलाई दोस्रो दिन पनि निरन्तरता दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/108-houses-and-huts-removed-in-kohalpur-74-61.html?click_from=just_in",
       "image_url": ""
     }
   ]
