@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-11T04:11:46.352777",
+  "scraped_at": "2026-05-11T11:31:36.839465",
   "date": "2026-05-11",
-  "total_articles": 34,
+  "total_articles": 42,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -278,6 +278,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/tribhuvan-international-airport-to-reopen-after-one-and-a-half-hours-78-17.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "माग प्राथमिकतामा, अधिकांस योजना अन्तिम चरणमा",
+      "summary": "माग प्राथमिकतामा, अधिकांस योजना अन्तिम चरणमा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12906",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/yojana-karyanoyan-1778464111.png"
+    },
+    {
+      "title": "What the prime minister’s asset disclosure tells us about Nepal’s quietly growing influencer economy",
+      "summary": "Creators in Nepal pulled in Rs 3.53 billion from digital platforms last fiscal year, and the current year is already on track to surpass it.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/05/11/what-the-prime-minister-s-asset-disclosure-tells-us-about-nepal-s-quietly-growing-influencer-economy",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/9-1778484262.png&w=300&height=200"
+    },
+    {
+      "title": "Earthquake survivors in Karnali still stuck in temporary shelters after two and a half years",
+      "summary": "Delays in reconstruction, disputes over beneficiary lists and bureaucratic deadlock have left thousands of families facing a third monsoon in makeshift huts.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/11/earthquake-survivors-in-western-nepal-still-stuck-in-temporary-shelters-after-two-and-a-half-years",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/jajarkot-1778483151.jpg&w=300&height=200"
+    },
+    {
+      "title": "कर्णालीमा कांग्रेस नेतृत्वको सरकार बनाउने समय आयो : गगन थापा",
+      "summary": "बैतडी, डडेलधुरा, बझाङ, डोटी, अछाम, कालीकोट आसपासका जिल्लाका केही ठाउँहरूमा मेघगर्जन र चट्याङसहित हल्का पानी परिरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rain-and-storm-system-moving-east-in-western-nepal-meteorologist-53-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778498815_Rain-480x320.jpg"
+    },
+    {
+      "title": "वि.सं. २०८५ लाई ‘नेपाल भ्रमण वर्ष’ का रूपमा मनाइने",
+      "summary": "सभापति थापाले राष्ट्रिय राजनीतिक सहकार्यअनुसार प्रदेश तहमा पनि सत्ता समीकरण परिवर्तन हुनु स्वाभाविक रहेको बताउँदै कर्णालीमा कांग्रेसले नेतृत्व लिनुपर्ने अवस्था सिर्जना भएको धारणा राखे ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/time-has-come-to-form-a-congress-led-government-in-karnali-gagan-thapa-66-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778498654_Gagan Thapa-480x320.jpg"
+    },
+    {
+      "title": "मध्यम वर्गीय परिवार माथिको बोझ घटाउने सरकारको नीति",
+      "summary": "सोमबार सङ्घीय संसद्को संयुक्त बैठकमा आगामी आर्थिक वर्ष २०८३/८४ को नीति तथा कार्यक्रम प्रस्तुत गर्दै राष्ट्रपति रामचन्द्र पौडेलले सरकारका तर्फबाट पर्यटन क्षेत्रको पुनरुत्थान र पूर्वाधार विकासका लागि यस्तो योजना अघि सारेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/bs-2085-to-be-celebrated-as-visit-nepal-year-br-55-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778497425_rasta-480x320.jpg"
+    },
+    {
+      "title": "सार्वजनिक संस्थान सुधार र खर्च कटौती सरकारको प्राथमिकता",
+      "summary": "सरकारले समस्याग्रस्त सहकारी संस्थामा जम्मा गरेका बचतकर्ताको रकम फिर्ता गर्न एकीकृत बचतकर्ता सुरक्षण कोष स्थापना गर्ने भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/funds-will-be-set-up-to-refund-the-money-of-cooperative-savers-42-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778495621_balen-480x320.jpg"
+    },
+    {
+      "title": "नेप्से र धितोपत्र बोर्डको पुनः संरचना गरिने",
+      "summary": "बैतडी, डडेलधुरा, बझाङ, डोटी, अछाम, कालीकोट आसपासका जिल्लाका केही ठाउँहरूमा मेघगर्जन र चट्याङसहित हल्का पानी परिरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rain-and-storm-system-moving-east-in-western-nepal-meteorologist-53-41.html?click_from=just_in",
       "image_url": ""
     }
   ]
