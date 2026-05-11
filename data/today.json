@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-11T15:29:32.255772",
+  "scraped_at": "2026-05-11T17:59:57.967463",
   "date": "2026-05-11",
-  "total_articles": 50,
+  "total_articles": 51,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -407,6 +407,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/education/see-results-announced-br-17-25.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "SEE results out: 65.98 percent students secure grades",
+      "summary": "Last year, 271,299 students passed the SEE, with a pass rate of 61.81 percent.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/11/see-results-out-65-98-percent-students-secure-grades",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1778516450.jpg&w=600&height=400"
     }
   ]
 }
