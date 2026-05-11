@@ -1,7 +1,7 @@
 {
   "scraped_at": "2026-05-11T04:11:46.352777",
   "date": "2026-05-11",
-  "total_articles": 34,
+  "total_articles": 32,
   "sources": [
     "News24",
     "NagarikNews",
@@ -137,14 +137,6 @@
       "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/opinion/INTERVIEWDEEPAKKC-1778428951.jpg&w=600&height=400"
     },
     {
-      "title": "Q&A: Nepal wants a politics-free bureaucracy. Its methods are deeply political",
-      "summary": "As conflict in West Asia drives up petrol and diesel prices, those who depend on two-wheelers and public transport are bearing the heaviest burden — but the switch to electric remains out of reach for most.",
-      "source": "KathmanduPost",
-      "language": "en",
-      "source_url": "https://kathmandupost.com/interviews/2026/05/10/goal-should-be-to-depoliticise-employee-selection-process",
-      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/opinion/INTERVIEWDEEPAKKC-1778428951.jpg&w=600&height=400"
-    },
-    {
       "title": "PM’s policy of not meeting foreign officials needs more nuance",
       "summary": "Umesh Mainali, who chaired the Public Service Commission, says the Balendra Shah government’s ordinance-driven purge is legally risky, institutionally damaging, and likely to backfire.",
       "source": "KathmanduPost",
@@ -175,14 +167,6 @@
       "language": "en",
       "source_url": "https://kathmandupost.com/columns/2026/05/08/the-possible-bangladesh-panic-behind-the-bjp-s-bengal-surge",
       "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Main6-1778461087.jpg&w=400&height=267"
-    },
-    {
-      "title": "The Nepali racer chasing adrenaline in Thailand’s Gymkhana circuit",
-      "summary": "The Bengal election was not about roads, jobs or inflation. It was about borders, religion and survival.",
-      "source": "KathmanduPost",
-      "language": "en",
-      "source_url": "https://kathmandupost.com/art-culture/2026/05/11/the-nepali-racer-chasing-adrenaline-in-thailand-s-gymkhana-circuit",
-      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/janakpur-1778460914.jpg&w=400&height=267"
     },
     {
       "title": "Budget-friendly neighbourhoods for Nepali students in Magdeburg",
