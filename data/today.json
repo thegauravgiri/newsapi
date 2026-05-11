@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-11T11:31:36.839465",
+  "scraped_at": "2026-05-11T15:29:32.255772",
   "date": "2026-05-11",
-  "total_articles": 42,
+  "total_articles": 50,
   "sources": [
-    "KathmanduPost",
     "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -342,6 +342,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rain-and-storm-system-moving-east-in-western-nepal-meteorologist-53-41.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Government unveils plans to boost IT exports and digital economy",
+      "summary": "Policies and programmes for 2026-27 prioritises AI, remote work, digital infrastructure and technology-driven growth.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/11/government-unveils-plans-to-boost-it-exports-and-digital-economy",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/presidentpaudelNEWS-1778503833.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal receives Rs7 billion in remittances daily",
+      "summary": "Stronger dollar, shift to Western labour markets and growing use of formal digital channels help Nepal post a record Rs209.75 billion in monthly remittance earnings.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/11/nepal-receives-rs7-billion-in-remittances-daily",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/POSTFILE-1778505946.jpg&w=300&height=200"
+    },
+    {
+      "title": "Is the UN irrelevant?",
+      "summary": "Umesh Mainali, who chaired the Public Service Commission, says the Balendra Shah government’s ordinance-driven purge is legally risky, institutionally damaging, and likely to backfire.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/05/11/is-the-un-irrelevant",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/DISPLACEDINBANEPA-1778513052.jpg&w=400&height=267"
+    },
+    {
+      "title": "मधेशका मुख्यमन्त्रीले जेठ १ गते विश्वासको मत लिने",
+      "summary": "राष्ट्रिय परीक्षा बोर्ड कक्षा माध्यमिक शिक्षा परीक्षा (एसइई) नतिजा सार्वजनिक गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/see-results-announced-br-17-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778512829_published-480x320.jpg"
+    },
+    {
+      "title": "कोशी सरकारको निर्णय : जेन-जी आन्दोलनका क्रममा जलेका सामग्री लिलाम बिक्री गरिने",
+      "summary": "जुम्लाका नागरिकका लागि अहिले यात्रा आफैंमा जोखिम बनेको छ। सडक असुरक्षित छ, जहाज भरपर्दो छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jumla-s-pain-patients-lives-at-risk-due-to-lack-of-reliable-flights-88-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778512537_nepal_air-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधि सभा बैठक मंगलबार बस्ने",
+      "summary": "मधेश प्रदेशका मुख्यमन्त्री कृष्ण प्रसाद यादवले आगामी जेठ १ गते विश्वासको मत लिने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/madhesh-chief-minister-to-seek-confidence-vote-on-jestha-1-51-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778512853_af-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रपतिले नीति तथा कार्यक्रम प्रस्तुत गरिरहदा प्रधानमन्त्री उठेर हिँडेपछि ...",
+      "summary": "इटहरी उपमहानगरपालिका शिक्षा समितिको बैठकले दुई दिनअघि जनता माध्यमिक विद्यालयको व्यवस्थापन समितिका अध्यक्ष र सदस्य तोकेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/sub-metropolitan-city-s-interference-in-school-management-committee-selection-parents-warn-of-protest-if-not-corrected-53-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778511666_School-480x320.jpg"
+    },
+    {
+      "title": "संसद्मा उपस्थित हुँदा प्रधानमन्त्रीले लगाएको पोसाकदेखि 'साइड टक' गरेकाेमा एमालेकाे आपत्ति",
+      "summary": "राष्ट्रिय परीक्षा बोर्ड कक्षा माध्यमिक शिक्षा परीक्षा (एसइई) नतिजा सार्वजनिक गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/see-results-announced-br-17-25.html?click_from=just_in",
       "image_url": ""
     }
   ]
