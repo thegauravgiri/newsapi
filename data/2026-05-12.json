@@ -1,7 +1,7 @@
 {
   "scraped_at": "2026-05-12T03:55:43.121968",
   "date": "2026-05-12",
-  "total_articles": 34,
+  "total_articles": 33,
   "sources": [
     "NagarikNews",
     "News24",
@@ -131,14 +131,6 @@
     {
       "title": "Nepal receives Rs7 billion in remittances daily",
       "summary": "Stronger dollar, shift to Western labour markets and growing use of formal digital channels help Nepal post a record Rs209.75 billion in monthly remittance earnings.",
-      "source": "KathmanduPost",
-      "language": "en",
-      "source_url": "https://kathmandupost.com/money/2026/05/11/nepal-receives-rs7-billion-in-remittances-daily",
-      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/POSTFILE-1778505946.jpg&w=600&height=400"
-    },
-    {
-      "title": "Nepal receives Rs7 billion in remittances daily",
-      "summary": "Nepal has little to show for the BRI beyond seminars, stalled negotiations, and a corruption-tainted airport project.",
       "source": "KathmanduPost",
       "language": "en",
       "source_url": "https://kathmandupost.com/money/2026/05/11/nepal-receives-rs7-billion-in-remittances-daily",
