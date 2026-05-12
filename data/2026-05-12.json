@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-12T03:55:43.121968",
+  "scraped_at": "2026-05-12T06:42:58.781821",
   "date": "2026-05-12",
-  "total_articles": 33,
+  "total_articles": 44,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -271,6 +271,94 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/finance-committee-meeting-underway-52-14.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Nepal enters global top 20 in outsourcing competitiveness index",
+      "summary": "Strong English skills and low labour costs help Nepal outperform 174 countries, though experts warn policy uncertainty and weak digital infrastructure could limit growth.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/12/nepal-enters-global-top-20-in-outsourcing-competitiveness-index",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1778547917.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal face survival battle as League 2 tri-series begins",
+      "summary": "United States and Scotland arrive in Kathmandu chasing the League 2 title, while Nepal fight to keep their ODI status alive.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/cricket/2026/05/12/nepal-face-survival-battle-as-league-2-tri-series-begins",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/nepalcopy11520260713221000x0-1778559475.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nine years on, BRI in Nepal remains a promise unfulfilled",
+      "summary": "Nepal has little to show for the BRI beyond seminars, stalled negotiations, and a corruption-tainted airport project.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/12/nine-years-on-bri-in-nepal-remains-a-promise-unfulfilled-1778547455",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1778547389.jpg&w=600&height=400"
+    },
+    {
+      "title": "At Mcube, the movement and memory of jatras come alive",
+      "summary": "The world body has failed in its core task but needs to be strengthened to address global challenges.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/05/12/at-mcube-the-movement-and-memory-of-jatras-come-alive",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Makalu-1778560742.jpg&w=400&height=267"
+    },
+    {
+      "title": "Shah’s outfit flip sparks social media buzz amid political scrutiny",
+      "summary": "Nepal’s first nationwide count of the critically endangered migratory bird found just 2,530 individuals, highlighting the impact of hunting, pesticide use and shrinking wetland habitats.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/05/11/shah-s-outfit-flip-sparks-social-media-buzz-amid-political-scrutiny",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Main4-1778549876.jpg&w=400&height=267"
+    },
+    {
+      "title": "What the prime minister’s asset disclosure tells us about Nepal’s quietly growing influencer economy",
+      "summary": "Trump arrives in Beijing seeking limited trade gains and China’s help on Iran, as analysts say mounting political and economic pressures have weakened Washington’s leverage ahead of talks with Xi Jinping.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/05/11/what-the-prime-minister-s-asset-disclosure-tells-us-about-nepal-s-quietly-growing-influencer-economy",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/maincutoutwithpainting-1778549554.jpg&w=400&height=267"
+    },
+    {
+      "title": "A printmaker’s tribute to Bhagwan Bahal",
+      "summary": "United States and Scotland arrive in Kathmandu chasing the League 2 title, while Nepal fight to keep their ODI status alive.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/05/11/a-printmaker-s-tribute-to-bhagwan-bahal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/211774880894-1778549381.jpg&w=400&height=267"
+    },
+    {
+      "title": "प्रतिनिधिसभा बैठक : ६ दलका नेताले सम्बोधन गर्ने",
+      "summary": "सचिवालयका अनुसार बैठकमा सत्तारुढ दल राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)बाट अहिलेसम्म कसले सम्बोधन गर्ने भन्ने टुङ्गो लागेको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/house-of-representatives-meeting-leaders-of-6-parties-to-address-50-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778507199_pARLIAMENT-480x320.jpg"
+    },
+    {
+      "title": "एमाले संसदीय दलको उपनेतामा पद्मा अर्याल",
+      "summary": "कालिका नगरपालिकाले नगरप्रमुखको गाडी किन्ने बजेटबाट शववाहन खरिद गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/hearse-purchased-with-budget-meant-for-mayor-s-car-13-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774161344_kalika nagarpalika-480x320.jpg"
+    },
+    {
+      "title": "विराटनगरमा प्रदेशस्तरीय भेला गर्दै देउवा समूह",
+      "summary": "बागलुङको निसीखोला गाउँपालिकाका दुई हजार ९१३ विपन्न बालबालिकालाई कपडा वितरण गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/clothing-distribution-to-underprivileged-children-of-45-schools-25-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778567122_school dress-480x320.jpg"
+    },
+    {
+      "title": "शेखर कोइराला आफूनिकट नेताहरूसँग छलफलमा",
+      "summary": "नेकपा एमाले संसदीय दलको उपनेतामा प्रतिनिधिसभा सदस्य पद्मा अर्याल मनोनीत भएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/padma-aryal-appointed-as-deputy-leader-of-uml-parliamentary-party-72-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762445306_Padma_-480x320.jpg"
     }
   ]
 }
