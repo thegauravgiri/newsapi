@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-12T14:41:42.022774",
+  "scraped_at": "2026-05-12T18:06:45.038557",
   "date": "2026-05-12",
-  "total_articles": 57,
+  "total_articles": 65,
   "sources": [
     "KathmanduPost",
     "News24",
@@ -463,6 +463,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/nepathya-resonates-in-new-zealand-the-magic-of-folk-rock-unfolds-in-indigenous-lands-23-32.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Trust deficit grows over free medicines in Nepal",
+      "summary": "Patients, medics and officials question the quality of drugs supplied under government health programmes citing weaknesses in procurement and testing.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/05/12/trust-deficit-grows-over-free-medicines-in-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Kalikothospitalphoto-1778594723.jpg&w=300&height=200"
+    },
+    {
+      "title": "Opposition slams PM for leaving House during President’s address",
+      "summary": "On Monday, the prime minister also did not return to parliament to bid farewell to the President after the policies and progammes address concluded.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/12/opposition-slams-pm-for-leaving-house-during-president-s-address",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/PROKTM2R0A6707-1778601811.jpg&w=300&height=200"
+    },
+    {
+      "title": "By-elections for vacant local government posts getting increasingly unlikely",
+      "summary": "A legal requirement of at least one year remaining in the term, and lack of preparations by the government and the Election Commission have delayed the process.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/12/by-elections-for-vacant-local-government-posts-getting-increasingly-unlikely",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1778595945.jpg&w=300&height=200"
+    },
+    {
+      "title": "Lapchi herders cling to traditional grazing route in Tibet, but returns are shrinking",
+      "summary": "Grazing taxes are still paid in ghee under an old barter arrangement.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/12/lapchi-herders-cling-to-traditional-grazing-route-in-tibet-but-returns-are-shrinking",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Lapchinewsphoto-1778596881.jpg&w=600&height=400"
+    },
+    {
+      "title": "सुल्झनुको साटो बल्झँदै कांग्रेस विवाद",
+      "summary": "यही वैशाख २१ गतेदेखि राष्ट्रिय परिचय व्यवस्थापन सूचना प्रणालीमा देखापरेको समस्या समाधान नहुँदा सेवा पूर्ववत हुन सकेको छैन। नौ दिनसम्म सेवा अवरुद्ध भएका कारण मंगलबार सेवाग्राहीले विभागका कर्मचारीसँग आक्रोस पोख्दा केहीबेर तनाव भयो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/registration-department-server-down-for-9-days-millions-of-service-recipients-affected-br-21-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767884302_national_id-480x320.jpg"
+    },
+    {
+      "title": "पाँच महिनामा एक लाख बढी विदेशी नागरिक ‘ट्र्याकिङ’ मा",
+      "summary": "नेपाली कांग्रेसको केन्द्रीय सदस्यमा १९ नेता मनोनीत भएसँगै पार्टीभित्रको विवाद अझै बढ्ने देखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-controversy-is-flaring-up-instead-of-resolving-80-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776614431_gagan purna-480x320.jpg"
+    },
+    {
+      "title": "पशुपति कोषले एक महिनाभित्रै गौशाला धर्मशाला आफैँले सञ्चालन गर्ने",
+      "summary": "घरको आर्थिक अवस्था सुधार्ने, परिवारलाई सुख दिने र उज्ज्वल भविष्य बनाउने सपना बोकेर हरेक दिन हजारौं नेपाली युवा रोजगारीका लागि बिदेसिन्छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/1-273-nepalis-returned-in-coffins-in-10-months-br-20-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778602568_45-480x320.jpg"
+    },
+    {
+      "title": "‘दिनको १६ घण्टासम्म काम गरिरहेका छौं, बजेटले नयाँ आर्थिक आधार खडा गर्नेछ’",
+      "summary": "दोस्रो पटक थपिएको म्यादभित्र पनि काठमाडौंलाई तराई/मधेससँग जोड्न फास्ट ट्र्याक (द्रुत मार्ग) निर्माण सम्पन्न नहुने निश्चित भएपछि राष्ट्रिय योजना आयोगले नेपाली सेनालाई कम्तीमा दुई वर्षभित्र दायाँ वा बायाँमध्ये एकतर्फ दुई लेन तयार गरी गाडी चलाउने बनाउन सुझाव दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/army-advised-to-build-two-lane-fast-track-and-allow-vehicles-to-operate-immediately-40-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778601485_fasst-480x320.jpg"
     }
   ]
 }
