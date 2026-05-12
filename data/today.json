@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-12T10:38:49.296645",
+  "scraped_at": "2026-05-12T14:41:42.022774",
   "date": "2026-05-12",
-  "total_articles": 52,
+  "total_articles": 58,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -422,6 +422,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/defeat-should-be-turned-into-determination-shankar-pokharel-48-35.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal suffer narrow defeat to Scotland in rain-hit League-2 clash",
+      "summary": "Gulshan Kumar Jha’s unbeaten half-century nearly rescued Nepal after a rain-revised chase, but Scotland held their nerve in the final over.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/05/12/nepal-suffer-narrow-defeat-to-scotland-in-rain-hit-league-2-clash",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/GULSHANCAN-1778595212.jpg&w=300&height=200"
+    },
+    {
+      "title": "मेरो कारणले एमाले खस्किँदैन, झनै माथि उठ्छ: नेता बादल",
+      "summary": "कुनै पनि कन्सर्टमा मञ्चका कलाकारसँग दर्शक यत्तिको भावुकतापूर्वक जोडिएको आफूले कहिल्यै नदेखेको इलिनको प्रतिक्रिया थियो । कन्सर्ट हेर्नकै लागि उनी डेढ घण्टा मोटर हाँकेर आइपुगेकी थिइन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/nepathya-resonates-in-new-zealand-the-magic-of-folk-rock-unfolds-in-indigenous-lands-23-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778596134_Nepathya-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसद्वारा २१ बुँदे ‘कर्णाली सङ्कल्प पत्र’ जारी",
+      "summary": "ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्रालयले ‘जलस्रोत विधेयक २०८३’ को मस्यौदा परिमार्जन कार्य पूरा गर्दै स्वीकृतिका लागि अघि बढाउने तयारी गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/preparations-to-introduce-a-new-umbrella-law-to-manage-water-resources-according-to-the-federal-structure-72-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776335855_biraj bhakta-480x320.jpg"
+    },
+    {
+      "title": "जलस्रोत व्यवस्थापनका लागि नयाँ छाता कानून ल्याउने तयारी तीव्र",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले क्युबासँग वार्ताको घोषणा गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/us-president-trump-announces-talks-with-cuba-86-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775027182_Trump-480x320.jpg"
+    },
+    {
+      "title": "‘वैकल्पिक विकास वित्त परिचालन विधेयकमाथि विचार गरियोस्’ भन्ने प्रस्ताव स्वीकृत",
+      "summary": "नेकपा एमालेका संसदीय दलका नेता रामबहादुर थापा बादलले आफ्नो संलग्नताले पार्टी झन् सुदृढ र सशक्त हुने दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ram-bahadur-10-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775124595_ram bahadur-480x320.jpg"
+    },
+    {
+      "title": "‘बरघर’ ऐन बनाउँदै लुम्बिनी प्रदेश",
+      "summary": "कुनै पनि कन्सर्टमा मञ्चका कलाकारसँग दर्शक यत्तिको भावुकतापूर्वक जोडिएको आफूले कहिल्यै नदेखेको इलिनको प्रतिक्रिया थियो । कन्सर्ट हेर्नकै लागि उनी डेढ घण्टा मोटर हाँकेर आइपुगेकी थिइन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/nepathya-resonates-in-new-zealand-the-magic-of-folk-rock-unfolds-in-indigenous-lands-23-32.html?click_from=just_in",
       "image_url": ""
     }
   ]
