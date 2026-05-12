@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-12T06:42:58.781821",
+  "scraped_at": "2026-05-12T10:38:49.296645",
   "date": "2026-05-12",
-  "total_articles": 45,
+  "total_articles": 52,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -367,6 +367,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/padma-aryal-appointed-as-deputy-leader-of-uml-parliamentary-party-72-38.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762445306_Padma_-480x320.jpg"
+    },
+    {
+      "title": "Lamichhane’s four-wicket haul halts Scotland after Munsey blitz",
+      "summary": "George Munsey struck a rapid 75 before Sandeep Lamichhane triggered a middle-order collapse to restrict Scotland to 243-8 against Nepal in the League 2 tri-series opener in Kirtipur.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/cricket/2026/05/12/lamichhane-s-four-wicket-haul-halts-scotland-after-munsey-blitz",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/sandeeplamichhane-1778572094.jpg&w=300&height=200"
+    },
+    {
+      "title": "Once common in Nepal’s plains, yellow-breasted bunting now fights for survival",
+      "summary": "Nepal’s first nationwide count of the critically endangered migratory bird found just 2,530 individuals, highlighting the impact of hunting, pesticide use and shrinking wetland habitats.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/province-no-3/2026/05/12/once-common-in-nepal-s-plains-yellow-breasted-bunting-now-fights-for-survival",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/bird-1778567394.jpg&w=300&height=200"
+    },
+    {
+      "title": "हारलाई सङ्कल्पमा बदल्नुपर्छ : शंकर पोखरेल",
+      "summary": "नेकपा (एमाले)का महासचिव शंकर पोखरेलले निर्वाचनको हारलाई निराशामा नभइ सङ्कल्पमा बदल्नुपर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778581894_Shankar Pokhrel-480x320.jpg"
+    },
+    {
+      "title": "डोजर आतंकले नागरिक आतंकित छन्, सरकार संवेदनशील बनोस्: साम्पाङ",
+      "summary": "सरकारले ‘भिजिट नेपाल २०८५’ को पूर्व तयारीका लागि अन्तर्राष्ट्रिय प्रवर्द्धन मा जोड दिने नीति ल्याएको छ । नेपालमा विदेशी पर्यटकको आगमन बढाउने, प्रति पर्यटक खर्च वृद्धि गर्ने तथा पाहुनाको बसाई अवधि बढाउने गरी अन्तर्राष्ट्रियस्तरमा प्रवर्द्धनको योजना सरकारले प्रस्तुत गरेको नीति तथा कार्यक्रममा समेटिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/government-policy-preparations-to-promote-tourism-through-visit-nepal-30-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1685442900_Ratna mandir Tourists-480x320.jpg"
+    },
+    {
+      "title": "संसदमा रित्ता कुर्सीहरू धेरै देखिए, यसरी लोकतन्त्र बलियो हुन्न: हर्क",
+      "summary": "श्रम संस्कृति पार्टीका अध्यक्ष हर्क साम्पाङले मुलुकभर बढ्दै गएको डोजर आतंकले आम नागरिकमा त्रास फैलाएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/citizens-are-terrified-by-the-dozer-terror-the-government-should-be-sensitive-sampang-85-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778580013_harka_-480x320.jpg"
+    },
+    {
+      "title": "रिमा विश्वकर्माले भनिन् ‘जस्टिस डिले इज जस्टिस डिनाइड’",
+      "summary": "मधेस खाद्य सामग्री उत्पादनका दृष्टिले अन्य प्रदेशका तुलनामा राम्रो भए पनि उपयोग ठिकसँग नहुँदा यहाँ कुपोषण समस्या बनेको उनको भनाइ छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/behavioral-change-is-necessary-to-solve-malnutrition-chief-minister-yadav-28-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778581185_Krishna pd yadhav-480x320.jpg"
+    },
+    {
+      "title": "हर्कले सोधे- सरकारमा प्रधानमन्त्री छन् कि छैनन् ?",
+      "summary": "नेकपा (एमाले)का महासचिव शंकर पोखरेलले निर्वाचनको हारलाई निराशामा नभइ सङ्कल्पमा बदल्नुपर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/defeat-should-be-turned-into-determination-shankar-pokharel-48-35.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
