@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-13T14:51:54.659325",
+  "scraped_at": "2026-05-13T18:07:00.223731",
   "date": "2026-05-13",
-  "total_articles": 52,
+  "total_articles": 54,
   "sources": [
     "KathmanduPost",
     "News24",
@@ -423,6 +423,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Corporate/indrive-the-world-s-second-most-downloaded-ride-hailing-app-32-24.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "‘Garibako Chameli’: The song Balen once sang for the poor now s(t)ings back at him",
+      "summary": "The leitmotif that Prime Minister Shah used as a rapper to call for accountability echoes as a protest anthem—from Maitighar Mandala to social media—to hold up a mirror to him.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/05/13/garibako-chameli-the-song-balen-once-sang-for-the-poor-now-s-t-ings-back-at-him",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Balen-1778677994.jpg&w=300&height=200"
+    },
+    {
+      "title": "भट्ट–अग्रवाललाई जोगाउने कसरतमा सरकारी अधिकारी",
+      "summary": "सुकम्बासी बस्ती खाली गरेपछि हटाइएका बस्तीमा पार्क, हरियाली क्षेत्र, करिडोर विस्तार र नदीको बहावक्षेत्र बढाउने तयारी सरकारले गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/preparations-to-increase-park-and-river-flow-area-in-squatter-settlements-99-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778688203_Suku-480x320.jpg"
     }
   ]
 }
