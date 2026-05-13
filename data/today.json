@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-13T10:37:15.939365",
+  "scraped_at": "2026-05-13T14:51:54.659325",
   "date": "2026-05-13",
-  "total_articles": 42,
+  "total_articles": 52,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -342,6 +342,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/health/stakeholders-demand-removal-of-abortion-from-the-list-of-criminal-offenses-63-95.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "The verdict never comes, but she keeps coming",
+      "summary": "A 76-year-old mother travels every month between Pokhara and Kathmandu as hearings in son’s murder case are repeatedly delayed.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/13/the-verdict-never-comes-but-she-keeps-coming",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/WhatsAppImage20260513at1933-1778680178.jpg&w=300&height=200"
+    },
+    {
+      "title": "With Pubudu Dassanayake back in Nepal, USA target maiden TU victory",
+      "summary": "Americans face Scotland before meeting the hosts, seeking to overturn a poor record at the home of Nepali cricket.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/cricket/2026/05/13/with-pubudu-dassanayake-back-in-nepal-usa-target-maiden-tu-victory",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/CAN-1778679975.jpg&w=300&height=200"
+    },
+    {
+      "title": "Everest route opens as 14 Nepali climbers reach summit",
+      "summary": "Weather window from May 17 likely to trigger summit rush as Nepal records highest-ever Everest permits and royalty earnings.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/13/everest-route-opens-as-14-nepali-climbers-reach-summit",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/696257206184079065901964046264166174853558245n-1778681966.jpg&w=300&height=200"
+    },
+    {
+      "title": "Business leaders call for stable policies and stronger government-private partnership at Kantipur Economic Summit",
+      "summary": "Say frequent policy changes, regulatory uncertainty and weak infrastructure are holding back investment and industrial growth in Nepal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/13/business-leaders-call-for-stable-policies-and-stronger-state-private-partnership-at-kantipur-economic-summit",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/summit-1778671470.jpg&w=600&height=400"
+    },
+    {
+      "title": "The Lipulekh labyrinth: Name, maps and the Kali river",
+      "summary": "The current provincial structure faces significant challenges. Some form of reform is necessary.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/05/12/the-lipulekh-labyrinth-name-maps-and-the-kali-river",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/CAN-1778679975.jpg&w=400&height=267"
+    },
+    {
+      "title": "गगन जीसँग निर्वाचनको बेलामा फोनमा हेल्लो भन्ने बाहेक कुराकानी भएको छैन",
+      "summary": "ट्राभल विधाअन्तर्गत विश्वव्यापी रूपमा सबैभन्दा धेरै डाउनलोड हुने एपहरूको सूचीमा कम्पनी चौथो स्थानमा पुगेको छ, जुन सन् २०२४ को पाँचौँ स्थानबाट उक्लिएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Corporate/indrive-the-world-s-second-most-downloaded-ride-hailing-app-32-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778683893_indrive-480x320.jpg"
+    },
+    {
+      "title": "एनपी साउदलाई प्रश्न: दुई तिहाई नजिकको बहुमत भएको सरकारलाई अध्यादेश ल्याउनुपर्ने बाध्यता किन पर्‍यो ?",
+      "summary": "नेपाल यातायात व्यवसायी राष्ट्रिय महासंघको अध्यक्षमा पून्यप्रसाद सिटौला (सरोज) निर्वाचित भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/sitaula-elected-as-president-of-national-federation-of-nepal-transport-entrepreneurs-96-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778682805_Sitaula_Saroj-480x320.jpg"
+    },
+    {
+      "title": "घटेका चार मन्त्रालय कसरी व्यवस्थापन भए ?",
+      "summary": "काठमाडौं महानगरपालिकाले ७० वर्षमाथिका ज्येष्ठ नागरिकलाई घरमै स्वास्थ्य सेवा दिन दुई हजार ७५ नागरिकको विवरण सङ्कलन गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/collecting-details-of-senior-citizens-to-provide-health-services-at-home-78-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769233621_Kathmandu-480x320.jpg"
+    },
+    {
+      "title": "मन्त्रालयहरूको संख्या २२ बाट घटाएर १८ मा झार्ने सरकारकाे निर्णय",
+      "summary": "कांग्रेस नेता एनपी साउदले पार्टीका सभापति गगन थापासँग लामो समयदेखि नै सम्पर्क नभएको बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/i-haven-t-spoken-to-gagan-ji-during-the-election-except-to-say-hello-on-the-phone-39-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778681064_NP_Gagan-480x320.jpg"
+    },
+    {
+      "title": "बालेन सरकारको काम टिप्पणी गर्ने बेला भएको छैन: कांग्रेस",
+      "summary": "ट्राभल विधाअन्तर्गत विश्वव्यापी रूपमा सबैभन्दा धेरै डाउनलोड हुने एपहरूको सूचीमा कम्पनी चौथो स्थानमा पुगेको छ, जुन सन् २०२४ को पाँचौँ स्थानबाट उक्लिएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Corporate/indrive-the-world-s-second-most-downloaded-ride-hailing-app-32-24.html?click_from=just_in",
       "image_url": ""
     }
   ]
