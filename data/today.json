@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-05-13T04:04:07.155766",
+  "scraped_at": "2026-05-13T10:37:15.939365",
   "date": "2026-05-13",
-  "total_articles": 34,
+  "total_articles": 42,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -278,6 +278,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/two-indian-nationals-arrested-with-280-grams-of-brown-heroin-28-10.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "SEE results expose Nepal’s deep divisions among provinces",
+      "summary": "Students from Madhesh, Karnali and Sudurpashchim continue to underperform in national exams as structural weaknesses persist in public education.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/13/see-results-expose-nepal-s-deep-divisions-among-provinces",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/seeresults-1778634144.jpg&w=300&height=200"
+    },
+    {
+      "title": "Laligurans Municipality declares public holiday to drive away monkeys",
+      "summary": "Farmers in Tehrathum say monkeys are destroying crops, disrupting livelihoods and forcing children to skip school to guard fields.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/13/laligurans-municipality-declares-public-holiday-to-drive-away-monkeys",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/monkeymenace-1778648683.jpg&w=300&height=200"
+    },
+    {
+      "title": "Agriculture and livestock farming transform rural livelihoods in three districts",
+      "summary": "Partnership programme in Dang, Rolpa and Pyuthan has boosted farmers’ incomes, expanded cooperatives and strengthened local economies.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/13/agriculture-and-livestock-farming-transform-rural-livelihoods-in-three-districts",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/GeminiGeneratedImageuwc1sjuwc1sjuwc1-1778659166.jpg&w=600&height=400"
+    },
+    {
+      "title": "सदनमा ‘कालो चस्मा’को चर्चा !",
+      "summary": "गर्भपतनलाई अझै फौजदारी अपराधको दायरामा राखिएकाले व्यवहारिक जटिलता कायम रहेको सरोकारवालाहरूले बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/stakeholders-demand-removal-of-abortion-from-the-list-of-criminal-offenses-63-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1750132769_Aborsan-480x320.jpg"
+    },
+    {
+      "title": "शिक्षामन्त्री भन्छन्: मधेस प्रदेशको साक्षरता अभियान सामाजिक रूपान्तरण र मानव विकासको अभियान",
+      "summary": "प्रतिनिधिसभाको बैठक बुधबार नीति तथा कार्यक्रममाथिको छलफलभन्दा बढी प्रधानमन्त्री बालेन्द्र शाह ‘बालेन’को अनुपस्थितिका कारण तातियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/discussion-of-black-glasses-in-the-house-12-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777379374_shahi balen-480x320.jpg"
+    },
+    {
+      "title": "थापाको अभिव्यक्ति रेकर्डबाट हटाउनु चयनमुखी निर्णय : महेश बर्तौला",
+      "summary": "नेपाल स्टक एक्सचेञ्जका अनुसार, नेप्से परिसूचक चार दशमलव १५ अङ्कले ओरालो लागेर दुई हजार ७४० दशमलव २५ मा सीमित भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nepse-index-sees-modest-decline-br-87-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/photos/1778667617_nepsa-480x320-wm.jpg"
+    },
+    {
+      "title": "बिहीबार सदन चलाउनुपूर्व प्रधानमन्त्रीसँग संवाद गर्ने सभामुख अर्यालको भनाइ",
+      "summary": "शिक्षा, विज्ञान तथा प्रविधिमन्त्री सस्मित पोखरेलले मधेस प्रदेशको साक्षरता अभियान औपचारिकता मात्र नभई सामाजिक रूपान्तरण र मानव विकासको अभियानका रूपमा रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/madhesh-province-s-literacy-campaign-is-a-campaign-for-social-transformation-and-human-development-education-minister-pokharel-br-62-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/photos/1778667223_edu30-480x320-wm.jpg"
+    },
+    {
+      "title": "सभामुखले १५ मिनेट विपक्षी दलसँग छलफल गर्ने",
+      "summary": "गर्भपतनलाई अझै फौजदारी अपराधको दायरामा राखिएकाले व्यवहारिक जटिलता कायम रहेको सरोकारवालाहरूले बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/stakeholders-demand-removal-of-abortion-from-the-list-of-criminal-offenses-63-95.html?click_from=just_in",
       "image_url": ""
     }
   ]
