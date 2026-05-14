@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-14T04:02:59.193420",
+  "scraped_at": "2026-05-14T10:27:19.650292",
   "date": "2026-05-14",
-  "total_articles": 32,
+  "total_articles": 39,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -262,6 +262,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/agenda-for-prime-minister-balen-s-response-in-parliament-32-98.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Opposition moves to strike down ordinances in National Assembly",
+      "summary": "By filing rejection notices in the Upper House, where the ruling party has no representation, opposition parties have set up a key vote that could reverse recent legal changes.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/05/14/opposition-moves-to-strike-down-ordinances-in-national-assembly",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/PROKTM7R9A9869-1778733960.jpg&w=300&height=200"
+    },
+    {
+      "title": "PM Shah’s absence in parliament sparks debate on accountability and democratic norms",
+      "summary": "Shah, who walked out mid-speech during President’s policy presentation Monday, stayed away from House debate Wednesday. Experts warn of risks to parliamentary traditions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/05/13/pm-shah-s-absence-in-parliament-sparks-debate-on-accountability-and-democratic-norms",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/editorial%20cartoon%20~%20kantipur%20~%20830130%20copy.jpg&w=600&height=400"
+    },
+    {
+      "title": "प्रधानमन्त्री संसद्‌मा अनुपस्थित हुनु मर्यादाविपरीत: केसी",
+      "summary": "पहिला जस्तो केही नहुने ठानेर नाकामा बस्ने प्रहरीहरुले तस्करीमा सहयोग गरेको भेट्ने बित्तिकै संलग्न प्रहरीमाथि टिकट काटेर कारबाही सुरु गरिने कार्कीको भनाइ छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/inspector-general-of-police-karki-warns-action-will-be-taken-on-the-spot-if-found-involved-in-smuggling-34-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778754392_IG Karki-480x320.jpg"
+    },
+    {
+      "title": "निजी क्षेत्रसँग सहकार्य गर्दै समृद्धि अभियान अघि बढाउँछौ : मुख्यमन्त्री कार्की",
+      "summary": "दल त्याग गरी अर्को पार्टीमा प्रवेश गरेपछि उनीहरुलाई पद मुक्त गरिएको आयोगले सूचनामार्फत जानकारी दिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/election-commission-removes-16-people-including-taplejung-jesus-chief-from-office-89-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768543645_Election (1)-480x320.jpg"
+    },
+    {
+      "title": "सुकुम्वासी बस्ती भत्काउने क्रममा भएको घटनाको जवाफ माग्न राप्रपा नेता शाहीले खाेजे गृहमन्त्री",
+      "summary": "नेपाली कांग्रेसका नेता अर्जुन नरसिंह केसीले संसद्को मर्यादा र परम्पराविपरीत प्रधानमन्त्री बालेन शाह अनुपस्थित भएको भन्दै असन्तुष्टि व्यक्तगरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-s-absence-from-parliament-is-unbecoming-kc-br-32-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778753083_arjun_-480x320.jpg"
+    },
+    {
+      "title": "लगानी, कृषि र पर्यटन प्रवर्द्धनमा वातावरण बनाउन सांसदहरूको सुझाव",
+      "summary": "धितोपत्र बजारमा शेयर कारोबार मापक नेप्से परिसूचक १० दशमलव शून्य सात अङ्कले ओरालो लागेर दुई हजार सात सय ३० दशमलव १७ मा सिमित भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nepse-index-drops-by-10-points-br-55-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/photos/1778667617_nepsa-480x320-wm.jpg"
+    },
+    {
+      "title": "सुकुम्वासीलाई अस्थायी व्यवस्थापनका लागि मासिक १५ हजार रुपैयाँ दिने तयारी",
+      "summary": "पहिला जस्तो केही नहुने ठानेर नाकामा बस्ने प्रहरीहरुले तस्करीमा सहयोग गरेको भेट्ने बित्तिकै संलग्न प्रहरीमाथि टिकट काटेर कारबाही सुरु गरिने कार्कीको भनाइ छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/inspector-general-of-police-karki-warns-action-will-be-taken-on-the-spot-if-found-involved-in-smuggling-34-74.html?click_from=just_in",
       "image_url": ""
     }
   ]
