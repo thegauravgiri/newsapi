@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-14T10:27:19.650292",
+  "scraped_at": "2026-05-14T14:31:27.399013",
   "date": "2026-05-14",
-  "total_articles": 41,
+  "total_articles": 48,
   "sources": [
     "KathmanduPost",
     "News24",
@@ -334,6 +334,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/inspector-general-of-police-karki-warns-action-will-be-taken-on-the-spot-if-found-involved-in-smuggling-34-74.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Israel to recruit 2,300 more Nepali caregivers for long-term care centres",
+      "summary": "Labour department is preparing a new vacancy notice after delays caused by elections and regional tensions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/14/israel-to-recruit-2-300-more-nepali-caregivers-for-long-term-care-centres",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/caregivingphotoShutterstock-1778765583.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nisdi Rural Municipality reports zero home births",
+      "summary": "Officials say incentives and a well-organised safe motherhood and newborn programme have led to the improvements.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/14/nisdi-rural-municipality-reports-zero-home-births",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/nisdipalika114520260842181000x0-1778760491.jpg&w=600&height=400"
+    },
+    {
+      "title": "जलस्रोत व्यवस्थापनका लागि नयाँ छाता कानुन ल्याउने तयारी",
+      "summary": "बिहीबार उपभोक्ता अदालतका प्रमुख न्यायाधीश दिवाकर भट्ट, सदस्य गेहेन्द्रराज रेग्मी र सदस्य आनन्दराज पोखरेलको इजलासले उक्त म्याद जारी गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/consumer-court-issues-7-day-deadline-for-response-against-use-of-chemicals-and-pesticides-in-food-44-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778768608_Upabhokta Adalat-480x320.jpg"
+    },
+    {
+      "title": "रोकिएन विपक्षीको अवरोध, बैठक १५ मिनेटका लागि स्थगित",
+      "summary": "ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्री विराजभक्त श्रेष्ठले जल तथा ऊर्जा आयोगको सचिवालयलाई अधिकारसम्पन्न तथा शक्तिशाली निकायका रूपमा विकास गर्ने तयारी भइरहेको बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/preparations-to-introduce-new-umbrella-law-for-water-resources-management-31-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778768363_biraj-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीको उपस्थिति माग गर्दै प्रतिपक्षी दलद्वारा पुन: सदन अवरुद्ध",
+      "summary": "विपक्षी दलका सांसदहरूको निरन्तरको अवरोध र अडानका कारण प्रतिनिधि सभाको बैठक १५ मिनेटका लागि स्थगित गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/house-of-representatives-meeting-adjourned-for-15-minutes-after-opposition-s-obstruction-continues-13-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778768238_basenan-480x320.jpg"
+    },
+    {
+      "title": "अर्थमन्त्रीलाई जवाफ दिन विपक्षीको रोक, प्रधानमन्त्रीको अनिवार्य उपस्थिति माग",
+      "summary": "प्रतिपक्षी दलहरुले प्रधानमन्त्री बालेन्द्र शाहको उपस्थितिको माग गर्दै प्रतिनिधि सभाको बैठक पुनः अवरुद्ध गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/opposition-parties-again-disrupt-the-house-demanding-the-presence-of-the-prime-minister-79-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778767870_samsad-480x320.jpg"
+    },
+    {
+      "title": "क्याम्पसभित्र गुण्डागर्दी गर्ने विद्यार्थी संगठनहरूको काम छैन: राजीव",
+      "summary": "बिहीबार उपभोक्ता अदालतका प्रमुख न्यायाधीश दिवाकर भट्ट, सदस्य गेहेन्द्रराज रेग्मी र सदस्य आनन्दराज पोखरेलको इजलासले उक्त म्याद जारी गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/consumer-court-issues-7-day-deadline-for-response-against-use-of-chemicals-and-pesticides-in-food-44-21.html?click_from=just_in",
       "image_url": ""
     }
   ]
