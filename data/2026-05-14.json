@@ -1,7 +1,7 @@
 {
   "scraped_at": "2026-05-14T04:02:59.193420",
   "date": "2026-05-14",
-  "total_articles": 34,
+  "total_articles": 32,
   "sources": [
     "News24",
     "NagarikNews",
@@ -137,14 +137,6 @@
       "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/OPDWard-1778720314.jpg&w=600&height=400"
     },
     {
-      "title": "Nepal’s only dedicated mental hospital is stretched beyond capacity",
-      "summary": "Shah, who walked out mid-speech during President’s policy presentation Monday, stayed away from House debate Wednesday. Experts warn of risks to parliamentary traditions.",
-      "source": "KathmanduPost",
-      "language": "en",
-      "source_url": "https://kathmandupost.com/health/2026/05/14/nepal-s-only-dedicated-mental-hospital-is-stretched-beyond-capacity",
-      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/OPDWard-1778720314.jpg&w=600&height=400"
-    },
-    {
       "title": "The unhealthy tussle between executive and judiciary",
       "summary": "Officials complain of shortages of beds, manpower and funding are limiting care capacity.",
       "source": "KathmanduPost",
@@ -183,14 +175,6 @@
       "language": "en",
       "source_url": "https://kathmandupost.com/art-culture/2026/05/14/how-everyday-cooking-became-my-first-form-of-education",
       "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Secondstorymaincopy-1778720634.jpg&w=400&height=267"
-    },
-    {
-      "title": "‘Garibako Chameli’: The song Balen once sang for the poor now s(t)ings back at him",
-      "summary": "Government says restructuring aims to reduce state expenditure, improve efficiency and streamline governance.",
-      "source": "KathmanduPost",
-      "language": "en",
-      "source_url": "https://kathmandupost.com/art-culture/2026/05/13/garibako-chameli-the-song-balen-once-sang-for-the-poor-now-s-t-ings-back-at-him",
-      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/OPDWard-1778720314.jpg&w=400&height=267"
     },
     {
       "title": "MOVIE REVIEW: ‘Lalibazar’ transforms inherited pain into powerful cinema",
