@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-05-14T14:31:27.399013",
+  "scraped_at": "2026-05-14T18:01:06.566177",
   "date": "2026-05-14",
-  "total_articles": 46,
+  "total_articles": 52,
   "sources": [
-    "KathmanduPost",
     "News24",
+    "KathmanduPost",
     "NagarikNews"
   ],
   "articles": [
@@ -374,6 +374,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/health/consumer-court-issues-7-day-deadline-for-response-against-use-of-chemicals-and-pesticides-in-food-44-21.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Why Karnali’s children are dropping out",
+      "summary": "Poverty, migration, child labour, teacher shortages and long school closures are pushing thousands of children out of classrooms across the province.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/14/why-karnali-s-children-are-dropping-out",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/bf2854fcb8fa467a933e093cb45eedb9-1778769184.jpg&w=600&height=400"
+    },
+    {
+      "title": "मन्त्रालयका नाम र कार्यक्षेत्र फेरबदलमा कर्मचारी नै रुस्ट",
+      "summary": "मन्त्रालयका नाम र कार्यक्षेत्र फेरबदल गरिएको विषयमा पूर्वप्रशासक तथा बहालावा केही उच्च कर्मचारीले असन्तुष्टि पोखेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/employees-are-angry-over-the-change-in-the-name-and-scope-of-the-ministry-73-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776001745_balen saha-480x320.jpg"
+    },
+    {
+      "title": "एनआइएमबीका सिइओ पाण्डे पक्राउसँगै बैंकिङ क्षेत्र त्रसित, धितो अधिकार असुरक्षाको चिन्ता",
+      "summary": "कानुनअनुसार धितो राखेर ऋण लिन असुरक्षित हुने छ भने ऊर्जा, दूरसञ्चार, पूर्वाधार, उड्डयनमा बैंकहरू लगानी गर्न हिचकिचाउने अवस्था आउँछ। सुरक्षित ऋणदाताको अधिकार अदालत वा कानुनले जोगाउन सकेन भने परियोजना वित्तीय मोडेल नै संकटमा पर्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/banking-sector-shaken-by-nimb-ceo-pandey-s-arrest-concerns-over-security-of-collateral-br-45-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778777643_6-480x320.jpg"
+    },
+    {
+      "title": "निति तथा कार्यक्रम पारित भएपछि रवि: अहिले प्रतिपक्षको पालो हो, हाम्रो पालो आउँदैछ",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टीका सभापति रवि लामिछानेले संसद्‌मा विपक्षी दलहरूले गरिरहेको विरोध र बहिष्कारलाई लक्षित गर्दै अहिले उनीहरूको समय भएको टिप्पणी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/after-the-policy-and-program-were-passed-ravi-said-this-belongs-to-the-ruling-party-the-opposition-s-turn-is-coming-81-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774528164_rabi-480x320.jpg"
+    },
+    {
+      "title": "विपक्षीको विरोधबीच प्रतिनिधि सभाबाट सरकारको ‘नीति तथा कार्यक्रम’ बहुमतले पारित",
+      "summary": "विपक्षी दलहरूको नाराबाजी र बहिष्कारका बीच संघीय संसद्‌अन्तर्गत प्रतिनिधि सभाबाट सरकारको आगामी आर्थिक वर्ष २०८३/०८४ को नीति तथा कार्यक्रम बहुमतले पारित भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-s-policies-and-programs-passed-by-majority-in-house-of-representatives-amid-opposition-97-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778775180_swarnm-480x320.jpg"
+    },
+    {
+      "title": "म दोषी भए कारबाही भोग्न तयार छु, निर्दोष भए लेख्नेहरूमाथि एक्सन होस्: सुधन",
+      "summary": "मन्त्रालयका नाम र कार्यक्षेत्र फेरबदल गरिएको विषयमा पूर्वप्रशासक तथा बहालावा केही उच्च कर्मचारीले असन्तुष्टि पोखेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/employees-are-angry-over-the-change-in-the-name-and-scope-of-the-ministry-73-91.html?click_from=just_in",
       "image_url": ""
     }
   ]
