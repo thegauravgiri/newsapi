@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-05-15T14:25:42.816926",
+  "scraped_at": "2026-05-15T17:48:32.346397",
   "date": "2026-05-15",
-  "total_articles": 46,
+  "total_articles": 50,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -375,6 +375,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/the-cost-of-national-pride-projects-has-reached-rs-2-415-trillion-25-77.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Arbitrary transfers stir unease in the health system",
+      "summary": "Recent reshuffle of senior health officials raises concerns over institutional continuity, policy disruption, and long-term planning, say experts.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/15/arbitrary-transfers-stir-unease-in-the-health-system",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1778859818.jpg&w=300&height=200"
+    },
+    {
+      "title": "Cabinet trims ministries, brings key departments under PM’s Office",
+      "summary": "Finance; Home; Foreign Affairs; Defense; and Law, Justice, and Parliamentary Affairs will remain intact.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/15/cabinet-trims-ministries-brings-key-departments-under-pm-s-office",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb5-1778860216.jpg&w=300&height=200"
+    },
+    {
+      "title": "गुप्तचर फेरि प्रधानमन्त्री मातहत",
+      "summary": "यसपालि मनसुनको समयमा दुई लाख २६ हजारभन्दा बढी नागरिकहरू प्रभावित हुने अनुमान गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/monsoon-assessment-226-661-people-from-51-868-households-expected-to-be-affected-71-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775041260_Rain-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले बोलायो नीति प्रतिष्ठान बैठक",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाहले राष्ट्रिय अनुसन्धान विभागलाई फेरि प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालय मातहत ल्याएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/intelligence-under-the-prime-minister-again-12-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776040558_PMO-480x320.jpg"
     }
   ]
 }
