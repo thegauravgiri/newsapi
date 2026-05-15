@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-15T04:08:00.413352",
+  "scraped_at": "2026-05-15T10:33:23.216360",
   "date": "2026-05-15",
-  "total_articles": 33,
+  "total_articles": 40,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -270,6 +270,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/revenue-collected-from-traffic-operations-rs-1-995-million-66-93.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal’s parliament is now accessible in sign language—but interpreters face challenges",
+      "summary": "Deaf viewers can now follow parliamentary debates independently for the first time, though interpreters say the work remains technically and mentally demanding.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/15/nepal-s-parliament-is-now-accessible-in-sign-language-but-interpreters-face-challenges",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/deaf-1778809028.jpg&w=300&height=200"
+    },
+    {
+      "title": "Government revokes ANFA supension",
+      "summary": "Decision follows talks between sports minister, NSC officials and ANFA amid concerns over possible FIFA sanctions and disruption to international fixtures.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/05/15/government-revokes-anfa-supension",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1778839254.jpg&w=600&height=400"
+    },
+    {
+      "title": "राष्ट्रपतिसँग संयुक्त राष्ट्रसङ्घका आवासीय संयोजकको भेटवार्ता",
+      "summary": "कर्णाली प्रदेश सरकारले प्राकृतिक विपद्बाट हुने जनधनको क्षतिलाई सम्बोधन गर्न यहाँका करिब १७ लाख नागरिकको सामूहिक दुर्घटना बिमा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/disaster-insurance-for-1-7-million-citizens-of-karnali-46-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762831955_Karnali Sarkar-480x320.jpg"
+    },
+    {
+      "title": "लुम्बिनी मन्त्रिपरिषद् बैठकः मन्त्रालय सङ्ख्या आठ कायम गर्ने तयारी",
+      "summary": "राष्ट्रपति रामचन्द्र पौडेलसँग नेपालका लागि संयुक्त राष्ट्रसङ्घका आवासीय संयोजक लीला पिटर्स याहियाले शिष्टाचार भेटवार्ता गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/un-resident-coordinator-meets-with-president-br-39-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778839805_rastapati 01-480x320.jpg"
+    },
+    {
+      "title": "जनतालाई दुःख दिएर उदार लोकतान्त्रिक हुन सकिदैन : महेश बस्नेत",
+      "summary": "कोषको नयाँ नियमावलीअनुसार कार्यकारी निर्देशकको पद हटाइएको मन्त्रालयका प्रवक्ता जयनारायण आचार्यले जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/executive-director-post-removed-from-pashupati-area-development-fund-66-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1746425625_Pasupati Kosh-480x320.jpg"
+    },
+    {
+      "title": "संविधान संशोधनका लागि जेन-जीको अर्थपूर्ण सहभागिता आवश्यक : कार्यदल",
+      "summary": "ग्रामीण र सीमान्तकृत समुदायमा किशोर–किशोरीहरू सामाजिक दबाबका कारण भागेर विवाह गर्न बाध्य हुने अवस्था छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/new-debate-on-teenage-relationships-times-have-changed-will-the-law-change-56-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778839350_Kishori-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय दलित आयोगका सदस्य कामीद्वारा राजीनामा",
+      "summary": "कर्णाली प्रदेश सरकारले प्राकृतिक विपद्बाट हुने जनधनको क्षतिलाई सम्बोधन गर्न यहाँका करिब १७ लाख नागरिकको सामूहिक दुर्घटना बिमा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/disaster-insurance-for-1-7-million-citizens-of-karnali-46-25.html?click_from=just_in",
       "image_url": ""
     }
   ]
