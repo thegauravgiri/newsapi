@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-15T10:33:23.216360",
+  "scraped_at": "2026-05-15T14:25:42.816926",
   "date": "2026-05-15",
-  "total_articles": 40,
+  "total_articles": 46,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -326,6 +326,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/health/disaster-insurance-for-1-7-million-citizens-of-karnali-46-25.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "They went to build the city of the future in Saudi Arabia. They’re returning home with nothing",
+      "summary": "The collapse of Neom’s ambitions is costing Nepali labourers more than jobs — it is upending lives built around remittances that may not return.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/14/they-went-to-build-the-city-of-the-future-in-saudi-arabia-they-re-returning-home-with-nothing",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/neomhandout-1778755170.jpg&w=300&height=200"
+    },
+    {
+      "title": "कांग्रेस कोषाध्यक्षमा श्रेष्ठ",
+      "summary": "महालेखापरीक्षकको ६३औँ प्रतिवेदनअनुसार राष्ट्रिय गौरवका आयोजनामा रु पाँच खर्ब चार अर्ब ५५ करोडबराबर लगानी भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/the-cost-of-national-pride-projects-has-reached-rs-2-415-trillion-25-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778829445_Ramchandra Paudel-480x320.jpg"
+    },
+    {
+      "title": "राजदूत ओली र रोयल थाई प्रहरीका विशेष कार्यदलबीच भेटवार्ता",
+      "summary": "भक्तपुरको भोलाछेस्थित अँचा पोखरीमा तीन वर्षमा एकचोटी लाग्ने मेला यो वर्ष हुन लागेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/manmasa-fair-at-ancha-pokhari-in-bhaktapur-br-18-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778853667_Mela-480x320.jpg"
+    },
+    {
+      "title": "कर्णालीका सबै नागरिकलाई बिमाको पहुँच आवश्यक : मुख्यमन्त्री कँडेल",
+      "summary": "बैंक सञ्चालक समितिको निर्णयअनुसार उनले शुक्रबारदेखि औपचारिक रूपमा पदभार ग्रहण गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Corporate/muktinath-bikas-bank-ceo-manandhar-takes-charge-49-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778853198_Mukhtinath Bank (1)-480x320.jpg"
+    },
+    {
+      "title": "मौलिक हकविरुद्ध सरकारले कुनै कदम चाल्दैन : सञ्चारमन्त्री डा. तिमिल्सिना",
+      "summary": "राष्ट्रिय खेलकुद परिषद(राखेप) ले अखिल नेपाल फुटबल संघ(एन्फा) नेतृत्वमाथि लगाएको निलम्बन फुकुवा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/anfa-s-suspension-lifted-possibility-of-playing-saff-women-s-championship-increases-69-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773053882_ANFA (1)-480x320.jpg"
+    },
+    {
+      "title": "उपराष्ट्रपति यादवसँग इजरायली राजदूतको शिष्टाचार भेट",
+      "summary": "महालेखापरीक्षकको ६३औँ प्रतिवेदनअनुसार राष्ट्रिय गौरवका आयोजनामा रु पाँच खर्ब चार अर्ब ५५ करोडबराबर लगानी भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/the-cost-of-national-pride-projects-has-reached-rs-2-415-trillion-25-77.html?click_from=just_in",
       "image_url": ""
     }
   ]
