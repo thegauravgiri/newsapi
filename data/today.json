@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-16T17:06:57.683020",
+  "scraped_at": "2026-05-16T20:58:50.264131",
   "date": "2026-05-16",
-  "total_articles": 50,
+  "total_articles": 52,
   "sources": [
-    "KathmanduPost",
+    "News24",
     "NagarikNews",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -407,6 +407,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/agriculture-minister-chaudhary-urges-to-promote-domestic-production-74-53.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778945164_gita-480x320.jpg"
+    },
+    {
+      "title": "संविधान कार्यदल नियुक्तिमाथि मिराज ढुंगानाको प्रश्न : यो देशको संविधान हो, कसैको पेवा होइन",
+      "summary": "जेनजी अगुवा मिराज ढुंगानाले संविधान संशोधनका लागि गठन गरिएको कार्यदलमा भएको नियुक्तिप्रति प्रश्न उठाउँदै प्रधानमन्त्रीसँग पारदर्शिताको माग गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/miraj-dhungana-s-question-on-the-appointment-of-the-constitution-task-force-this-is-the-constitution-of-the-country-not-anyone-s-business-25-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777461797_Miraj-480x320.jpg"
+    },
+    {
+      "title": "‘नेतृत्वको अहंकारले कांग्रेस फुटको संघारमा’",
+      "summary": "एफए कपको उपाधि म्यान्चेस्टर सिटीले जितेको छ। फाइनल खेलमा चेल्सीलाई १–० गोलले हराउँदै सिटी च्याम्पियन बनेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/manchester-city-win-fa-cup-84-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778952023_Untitled-1-480x320.jpg"
     }
   ]
 }
