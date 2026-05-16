@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-16T06:27:43.784960",
+  "scraped_at": "2026-05-16T09:47:18.942478",
   "date": "2026-05-16",
-  "total_articles": 36,
+  "total_articles": 40,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -295,6 +295,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/israel-and-lebanon-agree-to-45-day-ceasefire-41-24.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778912220_lebanan israel-480x320.jpg"
+    },
+    {
+      "title": "They went to build the city of the future in Saudi Arabia. They’re returning home with nothing",
+      "summary": "The collapse of Neom’s ambitions is costing Nepali labourers more than jobs — it is upending lives built around remittances that may not return.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/14/they-went-to-build-the-city-of-the-future-in-saudi-arabia-they-re-returning-home-with-nothing",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/neomhandout-1778755170.jpg&w=300&height=200"
+    },
+    {
+      "title": "Market declines as investors lose Rs23 billion in weekly wealth",
+      "summary": "NEPSE index falls 0.5 percent amid cautious sentiment, though analysts see support above 2,680 ahead of budget announcement.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/16/market-declines-as-investors-lose-rs23-billion-in-weekly-wealth",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Nepsebarchart-1778902199.jpg&w=600&height=400"
+    },
+    {
+      "title": "वडा सचिवलाई धम्की दिने माथि कारबाही गर्न सिफारिस",
+      "summary": "कीर्तिपुरस्थित त्रिवि क्रिकेट मैदानमा जारी आइसीसी पुरुष क्रिकेट विश्वकप लिग–२को १०५ औँ खेलमा नेपाल जितको निकै नजिक पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/kusal-bhurtel-s-brilliant-century-and-asif-s-half-century-br-25-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778924077_bhurtel-480x320.jpg"
+    },
+    {
+      "title": "विस्थापित बालबालिकाको शिक्षामा महानगरपालिका र निजी क्षेत्रको चासो",
+      "summary": "आइसीसी पुरुष क्रिकेट विश्वकप लिग-२ अन्तर्गत अमेरिकाविरुद्धको खेलमा नेपालले ९ विकेटको सानदार जित दर्ता गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/kushal-s-brilliant-century-nepal-wins-by-9-wickets-against-usa-br-17-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778924382_nepal_won-480x320.jpg"
     }
   ]
 }
