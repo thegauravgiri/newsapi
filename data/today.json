@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-05-16T03:50:17.131524",
+  "scraped_at": "2026-05-16T06:27:43.784960",
   "date": "2026-05-16",
-  "total_articles": 34,
+  "total_articles": 36,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -279,6 +279,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/market-monitoring-in-birgunj-action-taken-against-three-hotels-44-63.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Auditor general suggests widening digital payments to cut public spending arrears",
+      "summary": "The auditor general’s report uncovers nearly Rs100 billion in irregularities during audits of accounts worth Rs9.48 trillion across 5,526 public offices in the fiscal year 2024–25.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/16/auditor-general-suggests-widening-digital-payments-to-cut-public-spending-arrears",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/PresidentRamchandraPaudel-1778894423.jpg&w=600&height=400"
+    },
+    {
+      "title": "कार्यतालिका बनाएर पूर्ण क्षमताका साथ काम अघि बढाउन मन्त्री श्रेष्ठको निर्देशन",
+      "summary": "लेबनानमा जारी इजरायली आक्रमणको बीचमा इजरायल र लेबनानले आगामी ४५ दिनका लागि युद्धविराम विस्तार गर्न सहमती भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/israel-and-lebanon-agree-to-45-day-ceasefire-41-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778912220_lebanan israel-480x320.jpg"
     }
   ]
 }
