@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-17T13:48:44.653687",
+  "scraped_at": "2026-05-17T17:05:59.288421",
   "date": "2026-05-17",
-  "total_articles": 48,
+  "total_articles": 54,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -391,6 +391,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-dies-after-being-electrocuted-at-motorcycle-workshop-br-67-25.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Interpol denial in Deuba case raises questions about investigation lapses",
+      "summary": "Legal experts have questioned the investigation process of the Department of Money Laundering Investigation after Interpol refused to issue a Red Notice against the Deuba couple.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/17/interpol-denial-in-deuba-case-raises-questions-about-investigation-lapses",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/dubacouple-1779012306.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal steps up Ebola surveillance as WHO declares public health emergency",
+      "summary": "Over 970 Nepali peacekeepers are in the virus-hit Democratic Republic of Congo, including in Bunia and Fataki in Ituri Province, the epicentre of the outbreak.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/05/17/nepal-steps-up-ebola-surveillance-as-who-declares-public-health-emergency",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/EBOLAOUTBREAK-1779030795.jpg&w=300&height=200"
+    },
+    {
+      "title": "Pak-China-US triangle",
+      "summary": "Chinese electric vehicle giant says its Zhengzhou plant operates with 98 percent automation as it rapidly expands production and charging infrastructure.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/05/17/pak-china-us-triangle",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/EBOLAOUTBREAK-1779030795.jpg&w=400&height=267"
+    },
+    {
+      "title": "वैकल्पिक व्यवस्था बिना बस्ती हटाए देशभर आन्दोलन चर्काउने भूमिहीन–सुकुम्बासीको चेतावनी",
+      "summary": "भक्तपुरमा बागमती प्रदेशस्तरीय एक दिवसीय ‘स्टार्टअप र नवप्रवर्तन उद्यमी विकास सम्मेलन’ सम्पन्न भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bagmati-province-level-startup-and-innovation-entrepreneur-development-conference-concluded-12-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779034041_u-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस कर्णालीले भन्यो- प्रधानमन्त्रीको व्यवाहार अस्वाभाविक, असंसदीय, अशोभनीय र अमर्यादित",
+      "summary": "विश्वविख्यात हिमाल आरोही कामिरिता शेर्पाले ३२औँ पटक सगरमाथाको सफल आरोहण गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/kamirita-sherpa-summits-mount-everest-for-the-32nd-time-88-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779033351_kamirita-sherpa-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस कर्णाली प्रदेशस्तीय भेला: एकता र भावी कार्यदिशाका १० सुत्र सार्वजनिक",
+      "summary": "प्रदर्शनकारीहरूले बुटवलको राजमार्ग चौराहाबाट नाराबाजी गर्दै ट्राफिकचोक पुगेर कोणसभा गरेका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/landless-and-squatters-warn-of-nationwide-protests-if-settlements-are-removed-without-alternative-arrangements-96-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779033276_Chhata-480x320.jpg"
     }
   ]
 }
