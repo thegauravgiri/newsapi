@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-17T04:08:10.570623",
+  "scraped_at": "2026-05-17T09:54:36.584486",
   "date": "2026-05-17",
-  "total_articles": 34,
+  "total_articles": 42,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -279,6 +279,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/the-seventh-edition-of-the-flf-awards-will-be-held-in-the-united-states-78-61.html?click_from=just_in",
       "image_url": "https://jscss.nagariknewscdn.com/images/default-image.png"
+    },
+    {
+      "title": "Monkey menace pushing farmers out of Nepal’s hill villages",
+      "summary": "From Tehrathum to Salyan, farmers say relentless crop destruction by monkeys and other wild animals is forcing families to abandon farming, guard fields day and night, and leave villages in search of safer livelihoods.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/17/monkey-menace-pushing-farmers-out-of-nepal-s-hills-villages",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1779004976.jpg&w=300&height=200"
+    },
+    {
+      "title": "Landless squatters question government’s commitment to resolving land issues",
+      "summary": "With only four provisions on land-related concerns in the government’s annual policy and programme, activists and informal settlers say key questions over land rights, housing security and evictions remain unanswered.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/17/landless-groups-question-government-s-commitment-to-resolving-land-issues",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1778991985.jpg&w=300&height=200"
+    },
+    {
+      "title": "BYD’s robot-run factory in China builds an EV in under a minute",
+      "summary": "Chinese electric vehicle giant says its Zhengzhou plant operates with 98 percent automation as it rapidly expands production and charging infrastructure.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/17/byd-s-robot-run-factory-in-china-builds-an-ev-in-under-a-minute",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/BYD-1778989322.jpg&w=300&height=200"
+    },
+    {
+      "title": "कर्णालीको कृषि आधुनिकीकरण र रैथाने बाली प्रवर्द्धनबारे इजरायली राजदूतसँग छलफल",
+      "summary": "नयाँ अध्ययनले जलवायु परिवर्तनका कारण विश्वभरका नदीहरूमा अक्सिजनको मात्रा निरन्तर घटिरहेको देखाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/oxygen-levels-in-rivers-are-declining-due-to-climate-change-72-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752048341_magdi river-480x320.jpg"
+    },
+    {
+      "title": "सरकारले ६५ भ्रष्टाचार काण्डको छानबिन गर्नुपर्छ : ज्ञानेन्द्र शाही",
+      "summary": "यो प्रणाली अन्तर्गत समर्थकहरूले आफूले मन पराएको प्रतियोगीलाई भोट दिनका लागि अनिवार्य रूपमा एउटा बिरुवा रोप्नुपर्नेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/new-use-of-agricultural-reality-show-revolutionary-agriculture-war-you-can-vote-by-planting-a-plant-br-20-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779010553_bot-480x320.jpg"
+    },
+    {
+      "title": "राजनीतिक लाभभन्दा माथि उठेर काम गर्ने बेला आएको छ : मन्त्री खनाल",
+      "summary": "बागमती प्रदेश सरकारले चालु आर्थिक वर्ष २०८२/८३ को दश महिनामा रु ३१ अर्ब ३३ करोड ५५ लाख ४८ हजार राजस्व सङ्कलन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/revenue-collection-of-31-33-billion-rupees-in-bagmati-br-14-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1746450941_Bagmati Pradesh-480x320.jpg"
+    },
+    {
+      "title": "सार्वजनिक स्रोत–साधनको दिगो उपयोग सुनिश्चित गर्न सुझाव",
+      "summary": "आर्थिक वर्ष २०९२/९३ सम्म खाना पकाउने एलपी ग्यासको अनुदान खारेजी गरेर विद्युतीय चुल्होमा अनुदान उपलब्ध गराउने सरकारले योजना गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/government-prepares-to-provide-subsidies-for-electric-stoves-after-spending-billions-on-lp-gas-purchase-99-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1741087269_nepal-gas--480x320.jpg"
+    },
+    {
+      "title": "जेनजी अभियन्ता माजिद अन्सारीद्वारा नेपाली कांग्रेसलाई पाँच गम्भीर प्रश्न",
+      "summary": "नयाँ अध्ययनले जलवायु परिवर्तनका कारण विश्वभरका नदीहरूमा अक्सिजनको मात्रा निरन्तर घटिरहेको देखाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/oxygen-levels-in-rivers-are-declining-due-to-climate-change-72-34.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
