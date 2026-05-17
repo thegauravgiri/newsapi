@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-17T09:54:36.584486",
+  "scraped_at": "2026-05-17T13:48:44.653687",
   "date": "2026-05-17",
-  "total_articles": 41,
+  "total_articles": 47,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -334,6 +334,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/oxygen-levels-in-rivers-are-declining-due-to-climate-change-72-34.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Why and how is Balen rattling the old guard",
+      "summary": "Government officials and private sector leaders say Nepal lacks the economic strength, trade preparedness, and investor confidence needed to graduate from Least Developed Country status in 2026.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/05/17/why-and-how-is-balen-government-rattling-the-old-guard",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/tkp-no-image-bnw.jpg&w=400&height=267"
+    },
+    {
+      "title": "मदन–आश्रितको ३३ औँ स्मृति दिवस : अझै रहस्यमा दासढुङ्गा घटना",
+      "summary": "पोखरा महानगरपालिका–२७ तालचोकस्थित प्रबिन मोटरसाइकल वर्कशपमा काम गर्ने बारा घर भएका ३१ वर्षीय आनन्द कुमार दासको करेन्ट लागेर ज्यान गएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-dies-after-being-electrocuted-at-motorcycle-workshop-br-67-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1760871133_Current-480x320.jpg"
+    },
+    {
+      "title": "प्रस्तावित प्रधानन्यायाधीश मनोज शर्माविरुद्ध सात उजुरी",
+      "summary": "धनुषा, प्युठान र कपिलवस्तुका विभिन्न स्थानमा पोखरी तथा खोलामा डुबेर चार जना बालबालिकाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/four-children-drown-in-dhanusha-pyuthan-and-kapilvastu-br-61-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756120518_khola-480x320.jpg"
+    },
+    {
+      "title": "व्यवसायीलाई थुनेर अर्थतन्त्र बलियो हुँदैन : मुख्यमन्त्री आचार्य",
+      "summary": "कञ्चनपुरमा एक महिलालाई जबरजस्ती करणी गरेको अभियोगमा प्रहरीले ६० वर्षीय वृद्धलाई पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/arrested-on-charges-of-rape-60-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756829024_pakrau-480x320.jpg"
+    },
+    {
+      "title": "काठमाडौं महानगरको कार्यबाहक मेयर भरतलाल",
+      "summary": "चन्द्रागिरी नगरपालिका–३ खरिबोट स्थित डेरामा बस्ने २० वर्षीय जाकिर मन्सुरीको हत्या अभियोगमा प्रहरीले ३८ वर्षीय समि अहमदलाई पक्राउ गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/youth-stabbed-to-death-in-thankot-one-arrested-br-11-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1737807018_crime-480x320.jpg"
+    },
+    {
+      "title": "अन्तर्राष्ट्रिय मयोभु दिवसमा मन्त्रालयद्वारा समानता रन्यायप्रतिकोऐक्यबद्धता",
+      "summary": "पोखरा महानगरपालिका–२७ तालचोकस्थित प्रबिन मोटरसाइकल वर्कशपमा काम गर्ने बारा घर भएका ३१ वर्षीय आनन्द कुमार दासको करेन्ट लागेर ज्यान गएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-dies-after-being-electrocuted-at-motorcycle-workshop-br-67-25.html?click_from=just_in",
       "image_url": ""
     }
   ]
