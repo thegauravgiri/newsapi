@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-18T11:50:46.363870",
+  "scraped_at": "2026-05-18T15:50:15.011916",
   "date": "2026-05-18",
-  "total_articles": 43,
+  "total_articles": 50,
   "sources": [
     "News24",
     "NagarikNews",
@@ -350,6 +350,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/health/nepal-elected-as-vice-president-of-world-health-assembly-br-78-29.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Kathmandu cleared riverside settlements. Now experts warn the rubble could spark another crisis",
+      "summary": "As the government plans to turn demolition sites into gardens, environmental experts say tens of thousands of tonnes of mixed debris could contaminate rivers, worsen flooding, and repeat mistakes made after the 2015 earthquake.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/16/demolition-aftermath-turns-environmental-concern",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/AftermathChabahilSaattale04-1778895173.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal beat Scotland by six wickets to climb to fifth in League 2",
+      "summary": "Century partnership between Ishan Pandey and Rohit Paudel guides Nepal to 195-run chase as Sandeep Lamichhane becomes fastest to 150 ODI wickets.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/05/18/nepal-beat-scotland-by-six-wickets-to-climb-to-fifth-in-league-2",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/NepalvsScotland-1779102726.jpg&w=300&height=200"
+    },
+    {
+      "title": "प्रस्तावित प्रधानन्यायाधीश शर्माविरुद्धका १६ उजुरीमाथि भोलि संसदीय सुनुवाइ हुने",
+      "summary": "मेडिकल व्यवसायी दुर्गा प्रसाईं पक्राउ परेका छन्। पर्साबाट उनलाई प्रहरीले नियन्त्रणमा लिएको हो। ‘इमर्जेन्सी पक्राउ पुर्जी’ भन्दै प्रहरीले उनलाई नियन्त्रणमा लिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/durga-prasai-arrested-15-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762682333_durga-480x320.jpg"
+    },
+    {
+      "title": "राजावादी मुद्दालाई थप सशक्त पार्दै राप्रपा",
+      "summary": "प्रस्तावित प्रधानन्यायाधीश डा. मनोज शर्माविरुद्ध परेको १६ वटा उजुरीमाथि छलफल गर्दै संसदीय सुनुवाइ प्रक्रिया भोलि नै अघि बढाइने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/parliamentary-hearing-to-be-held-tomorrow-on-16-complaints-against-proposed-chief-justice-sharma-90-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778160410_00-480x320.jpg"
+    },
+    {
+      "title": "यी हुन एमालेले छलफलका लागि अघि सारेका ११ एजेन्डा",
+      "summary": "आगामी महाधिवेशनलाई केन्द्रमा राख्दै राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) भित्र राजनीतिक सक्रियता तीव्र हुन थालेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rpp-further-strengthens-the-monarchist-cause-54-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1743252907_raprapa-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीको राजीनामा माग्दै विराटनगरमा प्रदर्शन",
+      "summary": "नेकपा एमालेले छलफलका लागि ११ एजेन्डा अघि सारेको छ । एमालेको सचिवालय बैठकमा छलफलका लागि ११ वटा एजेन्डा पेस भएको हो । सोमबारको सचिवालय बैठकमा छलफलको लागि एजेन्डा पेस भएको उपमहासचिव लेखराज भट्टले बताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/these-are-the-11-agenda-items-put-forward-by-the-uml-for-discussion-86-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779110333_yemale-480x320.jpg"
+    },
+    {
+      "title": "कञ्चनपुरमा माटोको ढिस्कोले पुरिएर एक महिलाको मृत्यु, एक घाइते",
+      "summary": "मेडिकल व्यवसायी दुर्गा प्रसाईं पक्राउ परेका छन्। पर्साबाट उनलाई प्रहरीले नियन्त्रणमा लिएको हो। ‘इमर्जेन्सी पक्राउ पुर्जी’ भन्दै प्रहरीले उनलाई नियन्त्रणमा लिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/durga-prasai-arrested-15-11.html?click_from=just_in",
       "image_url": ""
     }
   ]
