@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-05-18T15:50:15.011916",
+  "scraped_at": "2026-05-18T18:05:45.836884",
   "date": "2026-05-18",
-  "total_articles": 50,
+  "total_articles": 53,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -407,6 +407,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/durga-prasai-arrested-15-11.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Prime Minister Shah posts ‘say cheese,’ DDC smiles, some frown",
+      "summary": "Prime Minister’s social media endorsement sends sales soaring, reviving interest in a traditional Himalayan product and offering fresh hope to Nepal’s struggling dairy sector.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/18/balen-posts-say-cheese-ddc-smiles-some-frown",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/DDCSalesCounterLainchaur05-1779101413.jpg&w=300&height=200"
+    },
+    {
+      "title": "Even moderate rain washes away diversions on BP Highway",
+      "summary": "Drivers and passengers say journeys that once took three hours now often take twice as long due to recurring disruptions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/18/even-moderate-rain-washes-away-diversions-on-bp-highway",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1779116633.jpg&w=600&height=400"
+    },
+    {
+      "title": "प्रस्तावित प्रधानन्यायाधीश शर्माविरुद्धका १६ उजुरीमाथि मंगलबार संसदीय सुनुवाइ हुने",
+      "summary": "मेडिकल व्यवसायी दुर्गा प्रसाईं पक्राउ परेका छन्। पर्साबाट उनलाई प्रहरीले नियन्त्रणमा लिएको हो। ‘इमर्जेन्सी पक्राउ पुर्जी’ भन्दै प्रहरीले उनलाई नियन्त्रणमा लिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/durga-prasai-arrested-15-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762682333_durga-480x320.jpg"
     }
   ]
 }
