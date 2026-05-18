@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-18T04:20:28.331410",
+  "scraped_at": "2026-05-18T11:50:46.363870",
   "date": "2026-05-18",
-  "total_articles": 33,
+  "total_articles": 42,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -270,6 +270,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/5-2-magnitude-earthquake-in-china-two-dead-81-20.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "मा ब्लड बैंक अलपत्र, जिल्लाभरिकै बिरामी मारमा",
+      "summary": "मा ब्लड बैंक अलपत्र, जिल्लाभरिकै बिरामी मारमा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12943",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/blood-bank-aalapatra-1779075265.jpg"
+    },
+    {
+      "title": "Balen posts ‘say cheese,’ DDC smiles, some frown",
+      "summary": "Prime Minister’s social media endorsement sends sales soaring, reviving interest in a traditional Himalayan product and offering fresh hope to Nepal’s struggling dairy sector.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/18/balen-posts-say-cheese-ddc-smiles-some-frown",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Untitled1-1779098565.jpg&w=300&height=200"
+    },
+    {
+      "title": "Officiating Chief Justice Malla orders registration of writ against chief justice recommendation amid growing controversy",
+      "summary": "Nepal Bar Association questions non-compliance with court order as dispute over Constitutional Council decision reaches Parliament.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/18/officiating-chief-justice-malla-orders-registration-of-writ-against-chief-justice-recommendation-amid-growing-controversy",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1779102134.jpg&w=300&height=200"
+    },
+    {
+      "title": "The imperative for Pakistan to balance US-China relations",
+      "summary": "It’s unclear if the state understands the scale and urgency of the water crisis affecting the economy.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/05/17/pak-china-us-triangle",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Untitled1-1779098565.jpg&w=400&height=267"
+    },
+    {
+      "title": "महविरले च्याट जीपीटीलाई सोधे- के विकसित देशले कच्चा पदार्थ आयात गर्दा कर लगाउँछन् ?",
+      "summary": "नेपाल विश्व स्वास्थ्य सङ्गठनको ७९औँ विश्व स्वास्थ्य महासभाको उपाध्यक्षमा निर्वाचित भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/nepal-elected-as-vice-president-of-world-health-assembly-br-78-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779104584_who-480x320.jpg"
+    },
+    {
+      "title": "अमृत झा रिहा भएको गलत सूचना दिएपछि परराष्ट्रले भन्यो- क्षमाप्रार्थी छाैं",
+      "summary": "जिल्ला प्रहरी कार्यालय नेपालगन्जले सार्वजनिक गरेको वैशाख महिनाको प्रगति विवरणले बाँकेमा अपराधको स्वरूप, प्रवृत्ति र चुनौतीहरू स्पष्ट रूपमा उजागर गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/205-cases-registered-in-banke-in-a-month-739-grams-of-brown-sugar-seized-br-91-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1760165792_Banke Police-480x320.jpg"
+    },
+    {
+      "title": "महविरको माग- अनुसन्धान र नवप्रवर्तनका लागि १ प्रतिशत बजेट छुट्याइयोस्",
+      "summary": "समस्याग्रस्त सहकारी व्यवस्थापन समितिले आज ३ वटा सहकारीका ३ सय ७८ जना साना बचतकर्ताको रकम फिर्ता गरेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/refunds-of-small-savers-of-troubled-cooperatives-begin-378-people-received-savings-on-the-first-day-99-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779102927_Pratibha Rawal-480x320.jpg"
+    },
+    {
+      "title": "संसद्‌मा हर्क साम्पाङले भने- जलेको सिंहदरबार श्रमदानबाट बनाउँछौँ",
+      "summary": "यसअघि पूर्वी, दक्षिण र पश्चिमी क्षेत्रका पर्यटकलाई आकर्षित गर्ने प्रयास गरिरहेको पोखराले पहिलो पटक रुकुमेलीलाई पोखरा घुम्न आउन निम्तो दिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rukumeli-invited-to-visit-pokhara-br-30-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779102769_prithivi-480x320.jpg"
+    },
+    {
+      "title": "कामु प्रधानन्यायाधीश मल्लको आदेशप्रति रास्वपा सांसदको आपत्ति",
+      "summary": "नेपाल विश्व स्वास्थ्य सङ्गठनको ७९औँ विश्व स्वास्थ्य महासभाको उपाध्यक्षमा निर्वाचित भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/nepal-elected-as-vice-president-of-world-health-assembly-br-78-29.html?click_from=just_in",
       "image_url": ""
     }
   ]
