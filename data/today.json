@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-19T04:16:14.433126",
+  "scraped_at": "2026-05-19T11:28:00.940740",
   "date": "2026-05-19",
-  "total_articles": 34,
+  "total_articles": 39,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -278,6 +278,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/trying-to-settle-everything-today-without-giving-time-to-study-complaints-is-mysterious-uml-89-94.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "देश लुट्नेहरूको सम्पत्ति छानबिन गरिनुपर्छ, हामीले दुःख गरेर कमाएका हौं: सुधन",
+      "summary": "पूर्वमन्त्री सुधन गुरुङले देश लुट्ने र मुलुकलाई बर्बाद बनाउनेहरूको सम्पत्ति छानबिन गरिनुपर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-assets-of-those-who-looted-the-country-should-be-investigated-we-earned-it-through-hard-work-sudhan-40-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776002151_sudan-480x320.jpg"
+    },
+    {
+      "title": "विनियोजन विधेयकका सिद्धान्त र प्राथमिकताले समृद्धिको मार्गचित्र कोरेको छ: खरेल",
+      "summary": "आठवटै स्थानीय तहलाई समेटेर विपद् लक्षित बजेट, राहत सामग्री, तालिमप्राप्त जनशक्ति र उद्धार संरचना तयारी गर्ने निर्णय गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jumla-administration-planning-to-reduce-natural-disasters-80-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779189205_Jumla News-480x320.jpg"
+    },
+    {
+      "title": "मन्त्रिपरिषद बैठक सुरु",
+      "summary": "संसदीय सुनुवाइ समितिबाट सर्वसम्मत अनुमोदन भएका प्रधानन्यायाधीश डा. मनोजकुमार शर्माले आजै पद तथा गोपनीयताको शपथ लिने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/newly-appointed-chief-justice-dr-sharma-will-take-oath-today-at-6-10-pm-83-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779183956_manoj-480x320.jpg"
+    },
+    {
+      "title": "प्रस्तावित प्रधानन्यायाधीश शर्माको नाम संसदीय सुनुवाइ समितिबाट सर्वसम्मत अनुमोदन",
+      "summary": "आर्थिक वर्ष २०८१।८२ को लेखापरीक्षण प्रतिवेदनअनुसार महाभारत गाउँपालिकामा एक अर्ब १३ करोड ७१ लाख ९० हजार रुपैयाँको लेखापरीक्षण गरिएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/mahabharat-rural-municipality-has-succeeded-in-becoming-zero-waste-for-the-third-consecutive-time-81-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1779188873_mahabhara-480x320.jpg"
+    },
+    {
+      "title": "जनजीविकामा आधारित बजेट तय गर्न सांसदहरूको आग्रह",
+      "summary": "पूर्वमन्त्री सुधन गुरुङले देश लुट्ने र मुलुकलाई बर्बाद बनाउनेहरूको सम्पत्ति छानबिन गरिनुपर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-assets-of-those-who-looted-the-country-should-be-investigated-we-earned-it-through-hard-work-sudhan-40-72.html?click_from=just_in",
       "image_url": ""
     }
   ]
