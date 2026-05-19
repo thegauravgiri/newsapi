@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-19T15:41:46.263452",
+  "scraped_at": "2026-05-19T18:10:32.097435",
   "date": "2026-05-19",
-  "total_articles": 48,
+  "total_articles": 50,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -391,6 +391,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/now-you-can-file-a-police-complaint-from-home-using-a-mobile-app-86-76.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "गण्डकी प्रदेशसभाको बजेट अधिवेशन आह्वान",
+      "summary": "पोखरा अन्तरराष्ट्रिय विमानस्थलबाट आज पहिलो पटक भारतको मध्यप्रदेशस्थित राजा भोज अन्तर्राष्ट्रिय विमानस्थलमा ‘मेडिकल रेस्क्यु’ उडान भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/first-medical-rescue-flight-to-india-from-pokhara-airport-95-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766589993_Pokhara-480x320.jpg"
+    },
+    {
+      "title": "कृषि मन्त्रालयले भन्यो- एक लाख ४४ हजार मेट्रिक टन रासायनिक मल मौज्दात छ",
+      "summary": "उदयपुरमा सञ्चालित प्रशोधित सुद्ध पानी उत्पादन कम्पनीमा सिलबन्दी गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nepal-spring-industry-seal-in-udaipur-70-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779207783_Untitled-1-480x320.jpg"
     }
   ]
 }
