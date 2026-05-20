@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-20T04:17:18.804370",
+  "scraped_at": "2026-05-20T11:13:44.765143",
   "date": "2026-05-20",
-  "total_articles": 34,
+  "total_articles": 43,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -278,6 +278,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/pakistani-tiktok-star-sana-yousuf-s-killer-sentenced-to-death-70-59.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "तको आडमा ठूला ब्यापारिक घरानाको कर्तुत",
+      "summary": "तको आडमा ठूला ब्यापारिक घरानाको कर्तुत",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12953",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/ev-1779244346.jpg"
+    },
+    {
+      "title": "RSP lawmaker Karki under scrutiny over allegations of abandoning pregnant Nigerian woman",
+      "summary": "The party says its disciplinary commission has launched an internal probe as the Speaker signals possible parliamentary investigation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/20/rsp-lawmaker-karki-under-scrutiny-over-allegations-of-abandoning-pregnant-nigerian-woman",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/krishnakkarkee08320260231221000x0-1779253929.jpg&w=300&height=200"
+    },
+    {
+      "title": "Israel-bound excluded workers must reapply under new recruitment process",
+      "summary": "Labour Ministry says 1,153 applicants excluded from Israel caregiver selection cannot be sent and must join future recruitment rounds.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/20/israel-bound-excluded-workers-must-reapply-under-new-recruitment-process",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/laborministry0712025091132watermarked20520260658411000x0-1779262263.jpg&w=300&height=200"
+    },
+    {
+      "title": "Staff dues dispute leads to freeze of The Himalayan Times’ bank accounts and share transactions",
+      "summary": "The action follows a Labour Court verdict in favour of former News Editor Anuj Arora, whose dues of over Rs 2 million remained unpaid despite repeated directives.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/20/staff-dues-dispute-leads-to-freeze-of-the-himalayan-times-bank-accounts-and-share-transactions",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thehimalayantimeslogo-1779264355.jpg&w=600&height=400"
+    },
+    {
+      "title": "बाँदर समस्या समाधान गर्न ‘विद्युतीय बार’ लगाउनु पर्छ, मार्नु हुँदैन: सांसद तामाङ",
+      "summary": "सिलेटमा ४३७ रनको उच्च लक्ष्य पछ्याएको पाकिस्तान पाँचौ तथा अन्तिम दिन ३५८ रनमा अलआउट भएपछिबंगलादेशले ७८ रनको जित निकाल्यो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/bangladesh-clean-sweep-test-series-against-pakistan-77-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779274588_PAK_BAN1-480x320.jpg"
+    },
+    {
+      "title": "‘रास्वपामा रवि लामिछानेको विकल्प छैन, महाधिवेशनबाट उहाँ नै सभापति चयन हुनुहुन्छ’",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) की सांसद आशिका तामाङले कृषि क्षेत्रमा मुख्य समस्याका रूपमा देखिएको बाँदर आतंक नियन्त्रणका लागि जनावर मार्ने नभई आधुनिक प्रविधिको प्रयोग गर्नुपर्नेमा जोड दिएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-solution-to-the-monkey-problem-is-not-killing-but-electric-fences-mp-tamang-br-16-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773739376_aashika-480x320.jpg"
+    },
+    {
+      "title": "गणतन्त्रमा स्थानीय सरकारको महत्त्व र गरिमा धेरै छ : राष्ट्रपति पौडेल",
+      "summary": "विशेष गरेर नुवाकोट, काभ्रे र सिन्धुपाल्चोकका धेरैको मृर्गौला बेच्ने गरेको उनी बताउँछन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/kidney-smuggling-network-linked-to-foreign-employment-20-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779273975_Kidney-480x320.jpg"
+    },
+    {
+      "title": "बिचौलियाको छानविन गर्न आयोग बन्नुपर्छ : सांसद यज्ञमणि",
+      "summary": "कीर्तिपुरस्थित त्रिवि क्रिकेट मैदानमा भएको आइसीसी पुरुष क्रिकेट विश्वकप लिग-२ अन्तर्गतको खेलमा स्कटल्याण्डलाई ६ विकेटले पराजित गर्दै अमेरिका अंक तालिकाको शीर्ष स्थानमा उक्लिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/league-2-cricket-usa-takes-top-spot-with-stunning-win-over-scotland-br-27-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779273615_usa-480x320.jpg"
+    },
+    {
+      "title": "‘पत्रकारिता जगतले आफ्नो मर्यादा र जिम्मेवारीलाई ध्यान दिनपर्छ’",
+      "summary": "सिलेटमा ४३७ रनको उच्च लक्ष्य पछ्याएको पाकिस्तान पाँचौ तथा अन्तिम दिन ३५८ रनमा अलआउट भएपछिबंगलादेशले ७८ रनको जित निकाल्यो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/bangladesh-clean-sweep-test-series-against-pakistan-77-35.html?click_from=just_in",
       "image_url": ""
     }
   ]
