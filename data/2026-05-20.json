@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-20T15:44:47.182630",
+  "scraped_at": "2026-05-20T18:25:56.097594",
   "date": "2026-05-20",
-  "total_articles": 49,
+  "total_articles": 51,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -399,6 +399,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/baijnath-s-chyama-declared-model-tharu-village-78-61.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "In provinces, Congress and UML are back to old rotational politics",
+      "summary": "UML’s Rajan Bhattarai says broader opposition unity is needed as ‘constitutional and democratic values’ are under threat from federal government.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/20/in-provinces-congress-and-uml-are-back-to-old-rotational-politics",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1779292133.jpg&w=300&height=200"
+    },
+    {
+      "title": "शक्तिशाली सरकारसामु निरीह प्रतिपक्ष: संकटमा नेपाली वाम राजनीति",
+      "summary": "दुर्गम जंगलमा भएको उक्त आक्रमणपछि उनी रगताम्य अवस्थामा ढले।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/fear-spreading-from-forest-to-settlement-bear-terror-increasing-year-by-year-in-jumla-92-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779293093_Bear-480x320.jpg"
     }
   ]
 }
