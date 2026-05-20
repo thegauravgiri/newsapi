@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-20T11:13:44.765143",
+  "scraped_at": "2026-05-20T15:44:47.182630",
   "date": "2026-05-20",
-  "total_articles": 42,
+  "total_articles": 49,
   "sources": [
     "News24",
     "NagarikNews",
@@ -342,6 +342,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/bangladesh-clean-sweep-test-series-against-pakistan-77-35.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "APG warns Nepal over weak anti-money laundering progress, flags risk of further downgrade from grey list",
+      "summary": "FATF-linked delegation tells officials to speed up reforms as concerns grow over enforcement gaps, legal changes and limited results in key sectors.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/20/apg-warns-nepal-over-weak-anti-money-laundering-progress-flags-risk-of-further-downgrade-from-grey-list",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Nepalongreylist-1779241368.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepali tea exports set to resume after India eases testing rules",
+      "summary": "Now Nepali tea meant for Indian domestic market won’t require testing, but tea for re-export from India will be tested.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/20/nepali-tea-exports-set-to-resume-after-india-eases-testing-rules",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/teakanyam20520260851051000x0-1779283891.jpg&w=300&height=200"
+    },
+    {
+      "title": "लोसपा जसपामा मिसिएपछि पहिलो पटक प्रदेशमा संयुक्त बैठक, दलको नेता छनौटमाथि छलफल",
+      "summary": "बाँकेको बैजनाथ गाउँपालिका वडा नम्बर १ मा ‘नमुना थारु गाउँ’ घोषणा गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/baijnath-s-chyama-declared-model-tharu-village-78-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779289626_Tharu-480x320.jpg"
+    },
+    {
+      "title": "सरकार परिवर्तनबारे गण्डकीमा ‘तैं चुप, मै चुप’",
+      "summary": "कास्कीको पर्यटकीय गाउँ घान्द्रुकमा अन्नपूर्ण म्याराथनको छैठौं संस्करण यहि जेठ तेस्रो साता हुने भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/the-sixth-edition-of-the-annapurna-marathon-will-be-held-on-20th-jestha-66-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779289304_pokhara-480x320.jpg"
+    },
+    {
+      "title": "सरकारले मिडिया क्षेत्रको ‘कन्टेन्ट मनिटरिङ’ सशक्त बनाउने",
+      "summary": "वीरेन्द्रनगर नगरपालिकाले सडकमा काफल पोखिएकी सडक व्यापारी महिलालाई १० हजार रुपैयाँ क्षतिपूर्ति प्रदान गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/10-000-compensation-to-woman-who-spilled-milk-action-taken-against-police-who-spilled-milk-97-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779288669_kafal-480x320.jpg"
+    },
+    {
+      "title": "सूचना प्रविधि क्षेत्रलाई राष्ट्रिय रणनीतिक उद्योग घोषणा गरिने",
+      "summary": "लोसपा र जसपा एकीकरण भएपछि २६ सांसदसहित मधेस प्रदेशको ठूलो दल बनेको छ । जसपाका १८ र लोसपा ८ रहेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/first-joint-meeting-in-the-province-after-lospa-merged-with-jsp-discussion-on-party-leader-selection-99-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779288218_Madesh News-480x320.jpg"
+    },
+    {
+      "title": "मधेसमा कांग्रेस नेतृत्वकै सरकार रहन्छ : सभापति थापा",
+      "summary": "बाँकेको बैजनाथ गाउँपालिका वडा नम्बर १ मा ‘नमुना थारु गाउँ’ घोषणा गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/baijnath-s-chyama-declared-model-tharu-village-78-61.html?click_from=just_in",
       "image_url": ""
     }
   ]
