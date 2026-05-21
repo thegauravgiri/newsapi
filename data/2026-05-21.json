@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-21T15:45:08.298117",
+  "scraped_at": "2026-05-21T18:06:07.712182",
   "date": "2026-05-21",
-  "total_articles": 47,
+  "total_articles": 49,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -383,6 +383,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/far-western-province-chief-minister-likely-to-be-from-ncp-51-60.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "बागमती मन्त्रिपरिषद् बैठकः प्रदेशसभाको बैठक जेठ ११ गते आह्वान गर्न सिफारिस",
+      "summary": "बागमती प्रदेश मन्त्रिपरिषद्को आज बसेको बैठकले बागमती प्रदेशसभाको वर्षे अधिवेशन बैठक यही जेठ ११ गते सोमबार आह्वान गर्न प्रदेश प्रमुख दीपकप्रसाद देवकोटासमक्ष सिफारिस गर्ने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/bagmati-council-of-ministers-meeting-recommendation-to-convene-provincial-assembly-meeting-on-jestha-25-76-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752903084_Bagmati Sarkar-480x320.jpg"
+    },
+    {
+      "title": "एमाले सचिवालय बैठक शुक्रबार बस्ने",
+      "summary": "शुक्रबारदेखि राजधानीमा काभा महिला भलिबल च्याम्पियनसिप सुरु हुँदैछ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/kava-women-s-volleyball-championship-from-friday-39-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1761129407_volleyball-480x320.jpg"
     }
   ]
 }
