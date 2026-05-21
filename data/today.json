@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-21T11:32:41.216429",
+  "scraped_at": "2026-05-21T15:45:08.298117",
   "date": "2026-05-21",
-  "total_articles": 42,
+  "total_articles": 48,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -342,6 +342,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/saroj-yadav-continues-as-leader-of-jsp-parliamentary-party-24-35.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Risk for human health as popular brands’ products test unsafe for consumption",
+      "summary": "Days after Current noodles, popular Dabur honey product flagged to be unsafe for consumption.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/21/risk-for-human-health-as-popular-brands-products-test-unsafe-for-consumption",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1779377443.jpg&w=600&height=400"
+    },
+    {
+      "title": "सुदूरपश्चिम प्रदेश: मुख्यमन्त्री नेकपाको भागमा पर्ने सम्भावना",
+      "summary": "दलहरूबीचको छलफलअनुसार सहमति भए नेपाली कांग्रेस नेतृत्वको सुदूरपश्चिम प्रदेश सरकार फेरबदल हुने भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/far-western-province-chief-minister-likely-to-be-from-ncp-51-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779376186_Gov-480x320.jpg"
+    },
+    {
+      "title": "विश्वासको मत लिनुअघि मधेस सरकारको समीकरण परिवर्तन",
+      "summary": "नेपाल औषधि उत्पादक संघका महासचिव सन्तोष बरालका अनुसार यी औषधिको विकल्पमा अन्य औषधि उपलब्ध भए पनि चिकित्सकहरूमा प्रयोगको अभ्यास कम हुनु र मूल्य समायोजन नहुनुले समस्या थप जटिल बनेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/cancer-treatment-crisis-patients-stranded-due-to-shortage-of-essential-chemotherapy-drugs-50-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779375421_med-480x320.jpg"
+    },
+    {
+      "title": "कोशी प्रदेशको नीति तथा कार्यक्रम सार्वजनिकः पूर्वाधार विकास र सुशासन प्राथमिकतामा {पूर्णपाठ}",
+      "summary": "जसपा, जनमत, नेपाली कम्युनिस्ट पार्टीसहितको समीकरणको कांग्रेस नेतृत्वको सरकारमा नेकपा एमालेको प्रवेशसँगै सत्ता समीकरण फेरिएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/madhesh-government-s-equation-changes-before-taking-vote-of-confidence-91-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764910992_Madesh-480x320.jpg"
+    },
+    {
+      "title": "विपक्षीले विरोध गर्दागर्दै पारित भयो वैकल्पिक विकास वित्त परिचालन विधेयक",
+      "summary": "अर्थ मन्त्रालयले निजामती सेवा ऐनको मस्यौदालाई सहमति दिएको छ। सरकारले फास्ट ट्रयाकबाट कर्मचारी कानुन मस्यौदा संसदबाट पास गर्ने तयारी गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/employee-law-being-passed-through-fast-track-finance-ministry-gives-its-consent-br-69-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776003707_swarnim wagle-480x320.jpg"
+    },
+    {
+      "title": "लुम्बिनी प्रदेशको बजेट उत्पादन, रोजगारी र पूर्वाधार केन्द्रित",
+      "summary": "दलहरूबीचको छलफलअनुसार सहमति भए नेपाली कांग्रेस नेतृत्वको सुदूरपश्चिम प्रदेश सरकार फेरबदल हुने भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/far-western-province-chief-minister-likely-to-be-from-ncp-51-60.html?click_from=just_in",
       "image_url": ""
     }
   ]
