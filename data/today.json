@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-21T04:25:00.810811",
+  "scraped_at": "2026-05-21T11:32:41.216429",
   "date": "2026-05-21",
-  "total_articles": 34,
+  "total_articles": 42,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -278,6 +278,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/labor-culture-will-protest-in-parliament-today-too-this-is-the-slogan-95-42.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "In provinces, Congress and UML are back to old rotational politics",
+      "summary": "UML’s Rajan Bhattarai says broader opposition unity is needed as ‘constitutional and democratic values’ are under threat from federal government.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/20/in-provinces-congress-and-uml-are-back-to-old-rotational-politics",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1779292133.jpg&w=300&height=200"
+    },
+    {
+      "title": "Uber launches ride-sharing service in Kathmandu Valley",
+      "summary": "Official launch scheduled for June 1, as around 1,000 riders across Nepal joined the platform. However, government officials say no formal application for foreign investment or company registration under Uber’s name has yet been received.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/21/uber-launches-ride-sharing-service-in-kathmandu-valley",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/uber20520260217451000x0-1779340580.jpg&w=300&height=200"
+    },
+    {
+      "title": "Pasang Dawa set for 31st Everest summit attempt",
+      "summary": "Veteran climber, who scaled the world’s highest peak for the 30th time on Monday, will attempt another ascent on Thursday as he closes in on Kami Rita Sherpa’s record.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/21/pasang-dawa-set-for-31st-everest-summit-attempt",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/PasangDawaSherpa-1779346387.jpg&w=600&height=400"
+    },
+    {
+      "title": "जसपा संसदीय दलको नेतामा सरोज यादवलाई निरन्तरता",
+      "summary": "महन्थ ठाकुर नेतृत्वको लोसपा नेपाल र उपेन्द्र यादव नेतृत्वको (जसपा) नेपालबीच पार्टी एकीकरण भएपछि बिहीबार बसेको दुई दलको संयुक्त बैठकबाट नेता यादवलाई संसदीय दलको नेता चयन गरेका हुन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/saroj-yadav-continues-as-leader-of-jsp-parliamentary-party-24-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779363060_jasapa -480x320.jpg"
+    },
+    {
+      "title": "शक्तिशाली प्रधानमन्त्री बालेनमाथि प्रतिपक्षी दल किन आक्रामक ?",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाह नेतृत्वको सरकारले संसद्‌मा सामना गरिरहेको दबाब अब सामान्य संसदीय विरोधको तहमा सीमित छैन ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/why-is-the-opposition-party-aggressive-against-the-powerful-prime-minister-balen-32-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752400618_balen-480x320.jpg"
+    },
+    {
+      "title": "एमालेमा विभाग र जनसंगठन इन्चार्ज प्रस्ताव, नेतृत्वमा नयाँ अनुहारहरू (सूचीसहित)",
+      "summary": "सचिवालय बैठकले विभागीय प्रमुख र इन्चार्जहरूको नाम प्रस्ताव गरेको हो। शुक्रबार बस्ने सचिवालय बैठकले यसबारे थप निर्णय गर्नेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-proposes-department-and-public-organization-in-charges-new-faces-in-leadership-with-list-71-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779357000_UML NEWS-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधि सभामा सांसदहरूको फरक-फरक माग",
+      "summary": "प्रतिनिधि सभाको आजको बैठकमा सांसदहरूले विभिन्न विषयमा सरकारको ध्यानाकर्षण गराएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/various-demands-of-mps-in-the-house-of-representatives-br-48-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1779356957_mps07-480x320.jpg"
+    },
+    {
+      "title": "कोशी प्रदेश लोकसेवा आयोगमा दुई नयाँ सदस्य नियुक्त",
+      "summary": "महन्थ ठाकुर नेतृत्वको लोसपा नेपाल र उपेन्द्र यादव नेतृत्वको (जसपा) नेपालबीच पार्टी एकीकरण भएपछि बिहीबार बसेको दुई दलको संयुक्त बैठकबाट नेता यादवलाई संसदीय दलको नेता चयन गरेका हुन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/saroj-yadav-continues-as-leader-of-jsp-parliamentary-party-24-35.html?click_from=just_in",
       "image_url": ""
     }
   ]
