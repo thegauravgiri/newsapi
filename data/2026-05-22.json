@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-22T04:19:55.704317",
+  "scraped_at": "2026-05-22T10:56:44.480094",
   "date": "2026-05-22",
-  "total_articles": 33,
+  "total_articles": 42,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -270,6 +270,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/department-circular-not-to-register-new-vehicles-nationwide-86-44.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Monsoon yet to set in, but Karnali is already seeing rain losses",
+      "summary": "Heavy rain, glacial lake outbursts and weak geology are driving repeated disasters across Himalayan districts. Experts warn hundreds of settlements remain highly vulnerable.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/22/rising-flood-and-landslide-risks-leave-karnali-settlements-exposed",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1779438209.jpg&w=300&height=200"
+    },
+    {
+      "title": "Kami Rita Sherpa receives grand welcome in Kathmandu after record 32nd Everest summit",
+      "summary": "Veteran climber extends his own world record for most Everest ascents, strengthening his legacy in mountaineering history.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/visual-stories/2026/05/22/kami-rita-sherpa-receives-grand-welcome-in-kathmandu-after-record-32nd-everest-summit",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/KamiRita-1779437141.jpg&w=300&height=200"
+    },
+    {
+      "title": "Iodine overdose raises health alarm in Nepal",
+      "summary": "Doctors and studies point to excessive iodine in fortified salt as a possible factor behind rising hyperthyroidism cases in Nepal. Policy efforts to review iodine levels, however, remain stalled.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/05/22/iodine-overdose-raises-health-alarm-in-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/saldepotkalikot-1779414544.jpg&w=300&height=200"
+    },
+    {
+      "title": "The old guard is forming coalitions, again. When will they learn?",
+      "summary": "Despite protests and sloganeering demanding Prime Minister Balendra Shah answer lawmakers under Rule 56, Speaker DP Aryal proceeds with House business and endorses a bill.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/editorial/2026/05/21/the-old-guard-is-forming-coalitions-again-when-will-they-change",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/ishanpande22520261001201000x0-1779441025.jpg&w=400&height=267"
+    },
+    {
+      "title": "केही मिडियाले चरित्र हत्या गर्न खोजेको सांसद सुधन गुरुङको आरोप, प्रेस काउन्सिलमा दिए उजुरी",
+      "summary": "महासंघको विधान २०४८ (आठौं संशोधन, २०८०) अन्तर्गत अध्यक्ष तथा महासचिवमाथि उक्त प्रस्ताव दर्ता गरिएको जनाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/earthquake-in-buddhichal-federation-no-confidence-motion-filed-against-president-and-general-secretary-46-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779446668_Buddhi Chal-480x320.jpg"
+    },
+    {
+      "title": "विकासशील मुलुकको ​लक्ष्य ६ वर्ष पछाडि धकेलियो",
+      "summary": "निवर्तमान गृहमन्त्री सुधन गुरुङले केही मिडियाले आफ्नो चरित्र हत्या गर्न खोजेको आरोप लगाएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mp-sudhan-gurung-alleges-that-some-media-outlets-attempted-to-character-assassination-him-files-complaint-with-press-council-30-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762422611_sudan-480x320.jpg"
+    },
+    {
+      "title": "प्रमुख प्रतिपक्षीको भूमिकामा किन कमजोर बन्यो कांग्रेस ?",
+      "summary": "अहिलेको युवा पुस्ता प्रतिस्पर्धात्मक जीवनशैलीमा बाँचिरहेको छ। राम्रो करियर, आर्थिक सफलता र सामाजिक प्रतिष्ठाको दबाबले धेरै युवाहरू निरन्तर मानसिक तनावमा छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/why-is-the-risk-of-heart-attack-increasing-in-young-people-15-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779445333_Heart-480x320.jpg"
+    },
+    {
+      "title": "सुकुम्बासीदेखि सहकारी पीडितका समस्या समाधान गर्न माग",
+      "summary": "धितोपत्र बजारमा शेयर कारोबार मापक नेप्से परिसूचक आज उकालो लागेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nepse-index-rises-by-16-38-points-br-45-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770804327_nepse-480x320.jpg"
+    },
+    {
+      "title": "जानकारी बिना विधेयक निर्माण हुनु हुँदैन : सभामुख",
+      "summary": "महासंघको विधान २०४८ (आठौं संशोधन, २०८०) अन्तर्गत अध्यक्ष तथा महासचिवमाथि उक्त प्रस्ताव दर्ता गरिएको जनाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/earthquake-in-buddhichal-federation-no-confidence-motion-filed-against-president-and-general-secretary-46-35.html?click_from=just_in",
       "image_url": ""
     }
   ]
