@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-22T10:56:44.480094",
+  "scraped_at": "2026-05-22T14:55:00.099385",
   "date": "2026-05-22",
-  "total_articles": 42,
+  "total_articles": 49,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -342,6 +342,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/earthquake-in-buddhichal-federation-no-confidence-motion-filed-against-president-and-general-secretary-46-35.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Bhatta, Agrawal among 29 recommended for prosecution in Rs20 billion money laundering case",
+      "summary": "Investigators accuse prominent businessmen, including former FNCCI president Shekhar Golchha, of illegally diverting funds from listed companies, manipulating share prices and violating securities laws through coordinated stock market transactions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/22/bhatta-agrawal-among-29-recommended-for-prosecution-in-rs20-billion-money-laundering-case",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1779423417.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal thrash US by 122 runs in League 2 finale",
+      "summary": "Hosts finish home matches with three wins from four matches as Ishan Pandey and Dipendra Singh Airee shine at TU International Cricket Ground.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/05/22/nepal-thrash-us-by-122-runs-in-league-2-finale",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Cricket-1779453914.jpg&w=600&height=400"
+    },
+    {
+      "title": "एमालेभित्रको विवाद र नेतृत्व बहस: संकट कि रूपान्तरणको अवसर ?",
+      "summary": "आन्तरिक असन्तुष्टि कुनै आकस्मिक घटना होइन, बरु लामो समयदेखि थुप्रिँदै आएका संरचनागत समस्या, चुनावी परिणामको दबाब र नेतृत्व शैलीप्रतिको प्रश्नहरूको परिणाम हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/controversy-and-leadership-debate-within-the-uml-crisis-or-opportunity-for-transformation-89-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779459117_KP-480x320.jpg"
+    },
+    {
+      "title": "संविधान संशोधनलाई राजनीतिक ‘स्टन्ट’ नबनाउन प्रधानमन्त्रीलाई थापाको चेतावनी",
+      "summary": "सभापति थापाले मध्यपूर्वमा अहिलेको संकटले अर्थतन्त्रमा ठूलो धक्का लागेकोप्रति सरकार गम्भीर नभएको बताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/thapa-warns-pm-not-to-turn-constitutional-amendment-into-a-political-stunt-60-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779458350_Gagan Itahari-480x320.jpg"
+    },
+    {
+      "title": "दुर्गा प्रसाईंमाथि अनुसन्धान पूरा गर्न म्याद थप",
+      "summary": "घटना बढ्दै गएपछि विद्यालय प्रशासनले पठनपाठन नै बन्द गर्नुपरेको छ। प्रधानाध्यापक कृष्ण बुढाका अनुसार अवस्था नियन्त्रणबाहिर जान थालेपछि विद्यार्थीलाई घर पठाइएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/after-a-god-climbs-into-a-student-97-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779457384_Jumla News Student-480x320.jpg"
+    },
+    {
+      "title": "एमालेका चार उपाध्यक्षले मागे ओलीको राजीनामा, बैठकमै चर्काचर्की",
+      "summary": "मेडिकल व्यवसायी दुर्गा प्रसाईंमाथि जारी अनुसन्धानमा सर्वोच्च अदालतले दोस्रो पटक म्याद थप गर्न आदेश दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/deadline-extended-to-complete-investigation-into-durga-prasai-90-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762682333_durga-480x320.jpg"
+    },
+    {
+      "title": "शिक्षामन्त्री पोखरेल र बेलायतीमन्त्री मल्होत्राबीच भेटवार्ता",
+      "summary": "आन्तरिक असन्तुष्टि कुनै आकस्मिक घटना होइन, बरु लामो समयदेखि थुप्रिँदै आएका संरचनागत समस्या, चुनावी परिणामको दबाब र नेतृत्व शैलीप्रतिको प्रश्नहरूको परिणाम हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/controversy-and-leadership-debate-within-the-uml-crisis-or-opportunity-for-transformation-89-29.html?click_from=just_in",
       "image_url": ""
     }
   ]
