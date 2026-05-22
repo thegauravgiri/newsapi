@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-22T14:55:00.099385",
+  "scraped_at": "2026-05-22T17:58:18.672927",
   "date": "2026-05-22",
-  "total_articles": 49,
+  "total_articles": 54,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -399,6 +399,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/controversy-and-leadership-debate-within-the-uml-crisis-or-opportunity-for-transformation-89-29.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Everest crowding debate resurfaces after 270 climbers summit in a day",
+      "summary": "Record rush on May 20 revives concerns over safety, carrying capacity and delayed implementation of court-ordered limits on expeditions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/22/everest-crowding-debate-resurfaces-after-270-climbers-summit-in-a-day",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Untitled1-1779464404.jpg&w=300&height=200"
+    },
+    {
+      "title": "How the hymen test continues to undermine rape investigations in Nepal",
+      "summary": "The virginity test, which the World Health Organisation has called unscientific, is still a regular part of rape investigations in Nepal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/22/how-the-hymen-test-continues-to-undermine-rape-investigations-in-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/HymenTeststorySketch-1779448277.png&w=300&height=200"
+    },
+    {
+      "title": "सरकारलाई गगन थापाका पाँच प्रश्न र सुझाव: संख्याको भरमा दम्भ नपाल्न चेतावनी",
+      "summary": "राष्ट्रिय आविष्कार केन्द्रका संस्थापक महावीर पुनले नेपालमा बाँदर नियन्त्रणको प्रविधि बनाउन रकेट उडाउनभन्दा पनि गाह्रो भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/controlling-monkeys-is-more-difficult-than-flying-a-rocket-mahavir-pun-86-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779466062_Mahabir1-480x320.jpg"
+    },
+    {
+      "title": "लुम्बिनी प्रदेश सरकारद्वारा नीति तथा कार्यक्रम स्वीकृत",
+      "summary": "यो अभियान मे २१ देखि जुलाई १९, २०२६ सम्म लागू हुनेछ, जसले ग्राहकहरूलाई गर्मीयाममा सहज रूपमा घरका आवश्यक उपकरणहरू अपग्रेड गर्ने अवसर प्रदान गर्नेछ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/samsung-nepal-announces-samsung-saving-days-offer-47-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779465637_Samsung News 1-480x320.jpg"
+    },
+    {
+      "title": "लुम्बिनीका मुख्यमन्त्री र सुदूरपश्चिम प्रदेश प्रमुखबीच भेट",
+      "summary": "टोल विकास संस्थाका अध्यक्ष पर्साराम वलीको अध्यक्षतामाबसेको आजको बैठकले अतिक्रमित गरी बनाईएका घरटहराहरु घरधनी आफैले खाली गर्ने निर्णय गरेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/villagers-will-remove-structures-built-by-encroaching-on-land-themselves-36-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779464823_Tulsipur-480x320.jpg"
     }
   ]
 }
