@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-23T06:41:13.542708",
+  "scraped_at": "2026-05-23T10:00:50.532827",
   "date": "2026-05-23",
-  "total_articles": 40,
+  "total_articles": 49,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -327,6 +327,78 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-assembly-hall-and-cafeteria-inside-narayanhiti-are-not-yet-operational-43-38.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1726628995_durbar-480x320.jpg"
+    },
+    {
+      "title": "ा सि जिनपिङको ग्लोबल साउथ र चिनियाँ शासन प्रणालीको चर्चा",
+      "summary": "ा सि जिनपिङको ग्लोबल साउथ र चिनियाँ शासन प्रणालीको चर्चा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12974",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/11-1779518574.jpg"
+    },
+    {
+      "title": "ढकालका भाई व्याकः वरिष्ठ उपाध्यक्षमा वैद्य र कोषाध्यक्षमा प्रधानको जित",
+      "summary": "ढकालका भाई व्याकः वरिष्ठ उपाध्यक्षमा वैद्य र कोषाध्यक्षमा प्रधानको जित",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12973",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Uba-1779503004.jpg"
+    },
+    {
+      "title": "Kathmandu-Tarai Expressway likely to miss revised deadline again",
+      "summary": "With only 48 percent physical progress achieved, officials say the fast-track project will need at least another two or three years for completion as disputes in the Khokana section remain unresolved.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/23/kathmandu-tarai-expressway-likely-to-miss-revised-deadline-again",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/fasttracknn23520260258181000x0-1779522515.jpg&w=300&height=200"
+    },
+    {
+      "title": "NEPSE ends week higher ahead of budget announcement",
+      "summary": "Benchmark index rises 0.97 percent to 2,758.49 points as hydropower stocks lead sectoral rally. Market cap adds Rs 45 billion despite slight dip in turnover.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/23/nepse-ends-week-higher-ahead-of-budget-announcement",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/third-party/Nepsebarchart-1779521457.jpg&w=600&height=400"
+    },
+    {
+      "title": "ओलीको बचाउमा उत्रिए महेश: भन्छन्- नेतृत्व सक्षम छ, कसैले मागेको छैन राजीनामा",
+      "summary": "उनले त्यसबेला युवा संघको बहानादेखि पार्टीको जिल्ला चियापान कार्यक्रम र नेश्नल भोलेन्टियर फोर्सको बहानामाअध्यक्ष ओलीलाई सुरक्षा दिएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/no-one-has-asked-for-oli-s-resignation-leadership-is-not-incompetent-secretary-basnet-br-25-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779529715_Oli_Basnet-480x320.jpg"
+    },
+    {
+      "title": "आफ्नै कार्यकर्ता कुटपिटमा उत्रिएपछि भागेर ज्यान जोगाए रास्वपाका सांसद धिमाल, साह र अन्सारीले",
+      "summary": "रास्वपाका सांसद्‌माथि आफ्नै पार्टीका कार्यकर्ताले आक्रमण गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsp-mps-dhimal-sah-and-ansari-flee-after-their-own-workers-are-beaten-up-br-27-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779528862_Bara11-480x320.jpg"
+    },
+    {
+      "title": "बाहिरिन थाल्यो रास्वपाभित्रको असन्तुष्टि, सांसदमाथि कार्यकर्ताको आक्रमण",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) बाराको विस्तारित बैठकमा जिल्लाबाट निर्वाचित प्रतिनिधिसभा सदस्यहरु माथि शनिबार हातपातको प्रयास भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/dissatisfaction-within-the-rashtriya-swayamsevak-sangh-rss-is-beginning-to-surface-with-activists-attacking-mps-62-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779528467_Bara-480x320.jpg"
+    },
+    {
+      "title": "सरकारी विज्ञापन पारदर्शी तरिकाले वितरण हुन्छ : सञ्चारमन्त्री तिमिल्सिना",
+      "summary": "पिपुल्स डेलीका अनुसार उद्धार कार्यका लागि ८७० भन्दा बढी स्वास्थ्यकर्मी, उद्धार कर्मचारी र प्रहरी अधिकारीहरू घटनास्थलमा परिचालन गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/gas-explosion-in-china-coal-mine-death-toll-reaches-90-9-still-missing-69-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779527818_China-480x320.jpg"
+    },
+    {
+      "title": "तालिमका क्रममा बेहोस भएका सशस्त्र प्रहरी जवानहरूलाई भेट्न अस्पताल पुगे पूर्व गृहमन्त्री गुरुङ",
+      "summary": "उनले त्यसबेला युवा संघको बहानादेखि पार्टीको जिल्ला चियापान कार्यक्रम र नेश्नल भोलेन्टियर फोर्सको बहानामाअध्यक्ष ओलीलाई सुरक्षा दिएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/no-one-has-asked-for-oli-s-resignation-leadership-is-not-incompetent-secretary-basnet-br-25-63.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
