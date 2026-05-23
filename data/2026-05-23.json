@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-23T10:00:50.532827",
+  "scraped_at": "2026-05-23T13:54:30.539243",
   "date": "2026-05-23",
-  "total_articles": 49,
+  "total_articles": 54,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -398,6 +398,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/no-one-has-asked-for-oli-s-resignation-leadership-is-not-incompetent-secretary-basnet-br-25-63.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "विद्याको नजरमा कस्ता थिए मदन ?",
+      "summary": "पूर्वराष्ट्रपति विद्यादेवी भण्डारीले जननेता मदन भण्डारीलाई विचार निर्माण गर्ने र राजनीतिक आन्दोलनलाई सैद्धान्तिक आधार प्रदान गर्ने दूरदर्शी नेता भएको बताएकी छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/what-was-madan-like-in-vidya-s-eyes-31-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779543022_Bidhya_Madan-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा विस्तारित बैठकमा कुटाकुट प्रकरण: दुई नगर सभापति घाइते",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) बाराको शनिबार आयोजना गरिएको विस्तारित बैठकमै दुई पक्ष बिच झडप हुँदा दुई पालिका सभापतिहरु घाइते भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/two-rsvp-municipal-chairmen-injured-in-clash-during-meeting-56-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779541346_ghaite-480x320.jpg"
+    },
+    {
+      "title": "रवि भन्दा बालेन १० गुणा बढि अपराधिक बाटोबाट आएका हुन्: महेश बस्नेत",
+      "summary": "बागमती प्रदेशमा बेरुजु रकम ५ अर्ब बढी पुगेको छ। नेपालको सर्वोच्च लेखापरीक्षक संस्था महालेखा परीक्षकको कार्यालयको ६३ औं प्रतिवेदन अनुसार प्रदेश स्थापना भएपछि बागमतीको बेरुजु रकम ५ अर्ब २८ करोड ६ लाख ९४ हजार रुपैयाँ पुगेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/rainfall-in-bagmati-increases-by-15-12-percent-46-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752903084_Bagmati Sarkar-480x320.jpg"
+    },
+    {
+      "title": "महेश भन्छन्- रविको मुद्दा खारेजी स्वागतयोग्य छ, अब पीडितले ठगहरूबाट पैसा फिर्ता पाउँछन्",
+      "summary": "हेटौंडा–काठमाडौं जोड्ने कान्तिलोकपथ सडकअन्तर्गत मकवानपुरको मकवानपुरगढी–२ सिखरकटेरीमा शनिबार दिउँसो बसले स्कुटरलाई ठक्कर दिँदा एक जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/scooter-driver-dies-after-being-hit-by-bus-28-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस कोशी भेला: प्रधानमन्त्रीलाई जवाफदेही बन्न आग्रह, २८ बुँदे ‘संकल्प पत्र’ सार्वजनिक",
+      "summary": "पूर्वराष्ट्रपति विद्यादेवी भण्डारीले जननेता मदन भण्डारीलाई विचार निर्माण गर्ने र राजनीतिक आन्दोलनलाई सैद्धान्तिक आधार प्रदान गर्ने दूरदर्शी नेता भएको बताएकी छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/what-was-madan-like-in-vidya-s-eyes-31-42.html?click_from=just_in",
       "image_url": ""
     }
   ]
