@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-23T03:58:20.166161",
+  "scraped_at": "2026-05-23T06:41:13.542708",
   "date": "2026-05-23",
-  "total_articles": 33,
+  "total_articles": 40,
   "sources": [
-    "KathmanduPost",
+    "News24",
     "NagarikNews",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -271,6 +271,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/commercial-cultivation-of-betel-nut-within-chia-plantation-br-99-63.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "How the hymen test continues to undermine rape investigations in Nepal",
+      "summary": "The virginity test, which the World Health Organisation has called unscientific, is still a regular part of rape investigations in Nepal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/22/how-the-hymen-test-continues-to-undermine-rape-investigations-in-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/HymenTeststorySketch-1779448277.png&w=300&height=200"
+    },
+    {
+      "title": "Nepali film ‘Elephants in the Fog’ wins Jury Prize at Cannes",
+      "summary": "Directed by Abinash Bikram Shah, the film earns recognition in the ‘Un Certain Regard’ section at the prestigious festival.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/05/23/nepali-film-elephants-in-the-fog-wins-jury-prize-at-cannes",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/whatsappimage20260523at01184722520261021181000x0122520261046071000x0-1779516463.jpg&w=600&height=400"
+    },
+    {
+      "title": "Pilaru echoes a fading Tharu tradition",
+      "summary": "Riverbank squatter removal will fail to serve its purpose without a proper land use plan.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/05/23/pilaru-echoes-a-fading-tharu-tradition",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Acheta-1779503203.jpg&w=400&height=267"
+    },
+    {
+      "title": "हेटौँडा कपडा उद्योग सञ्चालन गर्ने मन्त्री यादवको दाबी",
+      "summary": "यार्सागुम्बा सङ्कलन गर्न गएका गोरखाका एक जना युवाको भिरबाट लडेर मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/a-young-man-who-went-to-pick-yarsagumba-died-after-falling-from-a-cliff-89-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1747927595_Yarsa _nagarik-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीको फोटो टाँसेरै मात्र पनि संसद् चलाउनुपर्ने हुनसक्छ : सांसद रञ्जित",
+      "summary": "प्रतिभापुञ्ज युगकवि सिद्धिचरण श्रेष्ठ नेपाली वाङ्मयका प्रज्ज्वल आलोक हुन्। विश्वकै एउटा महान् प्रतिभा हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/siddhicharan-rebellion-pain-and-light-br-72-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779517633_ku kai post 68-480x320.jpg"
+    },
+    {
+      "title": "सदस्यता नवीकरणमा असहयोग गर्नेलाई जिम्मेवारीबाट मुक्त गरिन्छ : सभापति थापा",
+      "summary": "बन्द उद्योगहरु सञ्चालनमा आए रोजगारीको अवसर सृजना हुने उल्लेख गर्दै मन्त्री यादवले कपडा उद्योग सञ्चालनका लागि आवश्यक तयारीमा सरकार जुटेको बताइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/minister-yadav-claims-to-operate-hetauda-textile-industry-86-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779517639_hetauda-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको जरा अभियान: गाउँ–गाउँमा झन् फाटाे",
+      "summary": "गणतन्त्र स्मारक क्षेत्रमा निर्मित सभाहल र चमेनागृह हस्तान्तरण भएको छ वर्ष बितिसक्दा पनि सञ्चालन हुन सकेको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-assembly-hall-and-cafeteria-inside-narayanhiti-are-not-yet-operational-43-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1726628995_durbar-480x320.jpg"
     }
   ]
 }
