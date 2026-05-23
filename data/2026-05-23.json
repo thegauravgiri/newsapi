@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-23T13:54:30.539243",
+  "scraped_at": "2026-05-23T17:11:38.839862",
   "date": "2026-05-23",
-  "total_articles": 54,
+  "total_articles": 60,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -439,6 +439,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/what-was-madan-like-in-vidya-s-eyes-31-42.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Rhino sightings in Chitwan’s urban areas raise conservation concerns",
+      "summary": "Growing rhino presence in settlements around Chitwan National Park is raising fears among residents and prompting debate over habitat change, urban expansion and wildlife management.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/23/rhino-sightings-in-chitwan-s-urban-areas-raise-conservation-concerns",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/batomabachchasanga22520260135361000x0-1779550400.jpg&w=300&height=200"
+    },
+    {
+      "title": "Hundreds of Nepalis still trapped in Cambodian scam compounds despite crackdown",
+      "summary": "The US has meanwhile grown closer to India’s rival and neighbour Pakistan, with Islamabad emerging as a key ​interlocutor in efforts to end the Iran war, a new irritant to the US-India relationship.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/05/03/hundreds-of-nepalis-still-trapped-in-cambodian-scam-compounds-despite-crackdown",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/gasexplosionatLiushenyucoalmine-1779520450.jpg&w=400&height=267"
+    },
+    {
+      "title": "महासचिव शंकर पोखरेलले पनि किन दिएनन् अध्यक्ष ओलीलाई साथ ?",
+      "summary": "ऊर्जा, जलस्रोत तथा सिँचाइमन्त्री विराजभक्त श्रेष्ठले स्युचाटारस्थित नेपाल विद्युत् प्राधिकरणको विद्युत् प्रणाली तथा सञ्चालन विभाग (भार प्रेषण केन्द्र) को निरीक्षण गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/energy-minister-shrestha-inspects-the-electricity-load-dispatch-center-in-syuchatar-46-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779554752_WhatsApp Image 2026-05-23 at 21_06_11-480x320.jpg"
+    },
+    {
+      "title": "मदन भण्डारी दूरदर्शी नेता हुनुहुन्थ्योः पूर्वराष्ट्रपति भण्डारी",
+      "summary": "नेपाल प्रहरीले मानव बेचबिखन तथा ओसारपसारमा संलग्न रहेको अभियोगमा दुई जना भारतीय नागरिकलाई पक्राउ गरी आज सार्वजनिक गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-indians-arrested-for-human-trafficking-and-smuggling-35-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756829024_pakrau-480x320.jpg"
+    },
+    {
+      "title": "‘एमालेको बैठकका विषय ‘अतिरञ्जित’ भएर बाहिर आए’",
+      "summary": "पोखरा महानगरपालिकालाई दुईतले भवनसहित ४ रोपनी जमिन फिर्ता गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/4-ropanis-of-land-including-a-building-worth-5-3-million-returned-to-the-metropolis-36-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779553081_Maha-480x320.jpg"
+    },
+    {
+      "title": "नेपाल–भारत सीमा सुरक्षा बैठक: तस्करी, लागूऔषध र डुबान समस्याबारे छलफल",
+      "summary": "विसं २०८३ को वैशाखयता आजसम्म भएका एक हजार ३४२ वटा विपद्जन्य घटनामा देशभर गरेर ७० जना नागरिकले ज्यान गुमाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/70-people-have-died-in-disasters-so-far-this-year-73-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764996198_faper pahiro-480x320.jpg"
     }
   ]
 }
