@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-05-24T04:18:41.573053",
+  "scraped_at": "2026-05-24T10:01:42.835728",
   "date": "2026-05-24",
-  "total_articles": 34,
+  "total_articles": 41,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -278,6 +278,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/encroached-firke-river-being-restored-to-its-natural-flow-br-66-75.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Government assigns officiating roles to previously removed university office bearers",
+      "summary": "After dismissing top university officials through an ordinance, the government has reinstated many in officiating capacities across institutions, triggering criticism over legality, procedure and consistency.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/24/government-assigns-officiating-roles-to-previously-removed-university-office-bearers",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/OPMCM-1779596210.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal ruling party lawmakers show no signs of holding their government to account",
+      "summary": "Once vocal critics from the opposition benches, RSP lawmakers are now facing questions over their silence on national issues.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/05/24/nepal-ruling-party-lawmakers-show-no-signs-of-holding-their-government-to-account",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/KPKhanalRSP-1779581814.jpg&w=300&height=200"
+    },
+    {
+      "title": "रास्वपाले सार्वजनिक गर्‍यो पहिलो राष्ट्रिय महाधिवेशन कार्यतालिका, यस्तो छ चुनावी सेड्युल",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले आफ्नो प्रथम ऐतिहासिक राष्ट्रिय महाधिवेशनको औपचारिक तयारी सुरु गर्दै विस्तृत कार्यतालिका सार्वजनिक गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-rashtriya-swayamsevak-sangh-rss-has-made-public-the-first-national-convention-schedule-this-is-the-election-schedule-br-34-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777460609_rabi-480x320.jpg"
+    },
+    {
+      "title": "संसद्मा सरकारविरुद्ध विपक्षी मोर्चा कडा बनाउने तयारी",
+      "summary": "सरकारको कार्यशैलीप्रति असन्तुष्टि जनाउँदै प्रतिनिधि सभाका प्रमुख विपक्षी दलहरूले संसद्मा थप सशक्त रूपमा प्रस्तुत हुने तयारी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/preparations-to-strengthen-opposition-front-against-government-in-parliament-30-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777026186_ain_mahar-480x320.jpg"
+    },
+    {
+      "title": "अमेरिकी विदेशमन्त्रीको सम्मानमा आयोजित स्वागत समारोहमा छोरासँगै पुगे विनोद चौधरी",
+      "summary": "मुम्बईले टस जितेर पहिला ब्याटिङ रोजेपछि राजस्थानले पहिला ब्याटिङ गर्नेछ। आजको खेलमा जित निकाल्न सके राजस्थानले प्लेअफमा स्थान पक्का गर्नेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/ipl-mumbai-to-bowl-first-against-rajasthan-88-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779616513_IPL-480x320.jpg"
+    },
+    {
+      "title": "बेलायती मन्त्रीले गरिन् पशुपतिनाथको दर्शन",
+      "summary": "तेलुगु फिल्म अभिनेता राम चरणले भारतीय बलर जसप्रीत बुमराहसँग माफी मागेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/why-did-ram-charan-apologize-to-bowler-bumrah-68-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779616647_ramchanaran-480x320.jpg"
+    },
+    {
+      "title": "विद्यादेवी भण्डारीको एमाले प्रवेश सामान्य प्रक्रिया हैन : महेश बस्नेत",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले आफ्नो प्रथम ऐतिहासिक राष्ट्रिय महाधिवेशनको औपचारिक तयारी सुरु गर्दै विस्तृत कार्यतालिका सार्वजनिक गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-rashtriya-swayamsevak-sangh-rss-has-made-public-the-first-national-convention-schedule-this-is-the-election-schedule-br-34-62.html?click_from=just_in",
       "image_url": ""
     }
   ]
