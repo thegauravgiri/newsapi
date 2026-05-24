@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-24T10:01:42.835728",
+  "scraped_at": "2026-05-24T13:51:06.892522",
   "date": "2026-05-24",
-  "total_articles": 40,
+  "total_articles": 46,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -326,6 +326,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/the-rashtriya-swayamsevak-sangh-rss-has-made-public-the-first-national-convention-schedule-this-is-the-election-schedule-br-34-62.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Law makes several changes in T20 squad for Asian Games’ qualifier",
+      "summary": "Compared to the 15 players in the squad for the recently concluded ICC CWC League-2 series comprising the USA and Scotland, the 14-man team for the qualifier has four key changes.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/05/24/law-makes-several-changes-in-t20-squad-for-asian-games-qualifier",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Untitled1-1779619596.jpg&w=300&height=200"
+    },
+    {
+      "title": "हुम्ला-बाजुरा सीमा विवाद : सत्यतथ्य छानबिन गर्न एसएसपीको नेतृत्वमा उच्चस्तरीय छानबिन टोली गठन",
+      "summary": "नेपाली गीत-सङ्गीत क्षेत्रको प्रतिष्ठित ‘छिन्नलता गीत पुरस्कार’ बाट यस वर्ष वरिष्ठ हास्यकलाकार एवं गायक मदनकृष्ण श्रेष्ठसहित पाँच जना स्रष्टा पुरस्कृत हुने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/five-composers-including-madan-krishna-shrestha-receive-chinnalata-geet-award-br-11-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779630028_madankrishna-480x320.jpg"
+    },
+    {
+      "title": "गगनलाई लेखकको सुझाव- इतिहासबाट पाठ सिक्नुस्, हदैसम्म लचिलो बन्नुस्",
+      "summary": "अवैध लागूऔषध सहित प्रहरीले देशका विभिन्न स्थानबाट १२ जनालाई नियन्त्रणमा लिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/twelve-people-arrested-from-various-parts-of-the-country-with-drugs-62-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755793803_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "विदेशी विश्वविद्यालयसम्बद्ध कलेज नियमन गर्न नयाँ नियमावली ल्याइँदै",
+      "summary": "हुम्ला र बाजुरा जिल्लाको सीमा क्षेत्रमा भएको पछिल्लो घटनाको सत्यतथ्य छानबिन गर्न सरकारले प्रहरी वरिष्ठ उपरीक्षक (एसएसपी) को संयोजकत्वमा एक उच्चस्तरीय छानबिन टोली गठन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/humla-bajura-border-dispute-high-level-investigation-team-formed-under-the-leadership-of-ssp-to-investigate-the-truth-22-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779628760_griha-480x320.jpg"
+    },
+    {
+      "title": "कोशी प्रदेशसभाः नीति तथा कार्यक्रममाथि छलफल सुरु",
+      "summary": "नेपाली कांग्रेसका नेता एवं पूर्वगृहमन्त्री रमेश लेखकले पार्टीको अस्तित्व जोगाउन सभापति गगन थापालाई विगतको इतिहासबाट पाठ सिक्दै हदैसम्म लचिलो बन्न सुझाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepali-congress-19-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779627852_gagan_lekhak-480x320.jpg"
+    },
+    {
+      "title": "हेटौँडा सिमेन्ट उद्योग बन्द हुनु दुखद हो, यसलाई सरकारले चलाउँछ : मन्त्री यादव",
+      "summary": "नेपाली गीत-सङ्गीत क्षेत्रको प्रतिष्ठित ‘छिन्नलता गीत पुरस्कार’ बाट यस वर्ष वरिष्ठ हास्यकलाकार एवं गायक मदनकृष्ण श्रेष्ठसहित पाँच जना स्रष्टा पुरस्कृत हुने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/five-composers-including-madan-krishna-shrestha-receive-chinnalata-geet-award-br-11-74.html?click_from=just_in",
       "image_url": ""
     }
   ]
