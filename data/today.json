@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-24T13:51:06.892522",
+  "scraped_at": "2026-05-24T17:11:59.408928",
   "date": "2026-05-24",
-  "total_articles": 47,
+  "total_articles": 54,
   "sources": [
-    "KathmanduPost",
+    "News24",
     "NagarikNews",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -382,6 +382,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/five-composers-including-madan-krishna-shrestha-receive-chinnalata-geet-award-br-11-74.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Western Tarai swelters as temperatures hit 40 degrees",
+      "summary": "Bheri Hospital in Nepalgunj is treating around 100 heat-affected patients daily in recent days.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/05/24/western-tarai-swelters-as-temperatures-hit-40-degrees",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1779636924.jpg&w=300&height=200"
+    },
+    {
+      "title": "Thirty-six Nepali workers in Qatar unpaid for eight months",
+      "summary": "Turkish authorities ordered police to evict the leadership of the main opposition Republican ​People’s Party (CHP) from their headquarters on Sunday.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/05/23/thirty-six-nepali-workers-in-qatar-unpaid-for-eight-months",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/UGYSTEPICJPUXAQTZI4EKRBRXE-1779603665.jpg&w=400&height=267"
+    },
+    {
+      "title": "नेपाल तरुण दलको अध्यक्षमा मनिष कोइराला",
+      "summary": "भौगोलिक रूपमा विकट र स्वास्थ्य सेवाका हिसाबले दुर्गम मानिएको हिमाली जिल्ला मुगुमा शल्यक्रिया मार्फत जुम्ल्याहा बच्चाको सफलतापूर्वक जन्म गराइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/successful-birth-of-twins-through-complex-surgery-in-mugu-23-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779639028_babies-480x320.jpg"
+    },
+    {
+      "title": "दाइजो प्रथा र बालविवाहविरुद्ध निरन्तर लडिरहन्छु : उपसभामुख ठाकुर",
+      "summary": "आँबुखैरेनीबाट मनकामनातर्फ जाँदै गरेको ग १ च ५५६७ नम्बरको जीप रामशाह घाटमा दुर्घटना भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-injured-in-accident-37-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779638958_jep-480x320.jpg"
+    },
+    {
+      "title": "पूर्वमन्त्री उमाशंकर अरगरियाले छाडे एमाले",
+      "summary": "नेपाली कांग्रेसको भ्रातृ संस्था नेपाल तरुण दलको केन्द्रीय अध्यक्षमा मनिष कोइराला नियुक्त भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/manish-koirala-elected-as-nepal-tarun-dal-president-16-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779638371_manish khanal-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको ‘फास्ट ट्र्याक’ महाधिवेशन: लोकतान्त्रिक शुद्धीकरण कि ‘राजनीतिक हतारो’ ?",
+      "summary": "उपसभामुख रुवीकुमारी ठाकुरले मधेसमा व्याप्त दाइजो प्रथा र बालविवाहविरुद्ध निरन्तर लडिरहने बताएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/i-will-continue-to-fight-against-dowry-system-and-child-marriage-deputy-speaker-thakur-56-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779638025_ruby-480x320.jpg"
+    },
+    {
+      "title": "सरकारको काममा पारदर्शिता होस् : जेनजी थापा",
+      "summary": "भौगोलिक रूपमा विकट र स्वास्थ्य सेवाका हिसाबले दुर्गम मानिएको हिमाली जिल्ला मुगुमा शल्यक्रिया मार्फत जुम्ल्याहा बच्चाको सफलतापूर्वक जन्म गराइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/successful-birth-of-twins-through-complex-surgery-in-mugu-23-35.html?click_from=just_in",
       "image_url": ""
     }
   ]
