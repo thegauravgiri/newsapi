@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-25T11:57:36.026027",
+  "scraped_at": "2026-05-25T15:25:54.722124",
   "date": "2026-05-25",
-  "total_articles": 46,
+  "total_articles": 54,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -374,6 +374,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/army-chief-stresses-on-producing-dutiful-and-honest-manpower-br-71-66.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "The sequel trend in Nepali cinema: Story continuity or commercial greed?",
+      "summary": "While films globally often use sequels to deepen storytelling and maintain ideological continuity, the Nepali film industry appears largely driven by the lure of box office returns.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/05/25/the-sequel-trend-in-nepali-cinema-story-continuity-or-commercial-greed",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/film21520261253031000x0-1779701800.jpg&w=300&height=200"
+    },
+    {
+      "title": "Journalist Kishor Shrestha denies bribery allegations in audio row involving former home minister Gurung",
+      "summary": "The Chinese Embassy objects to claims of its nationals’ involvement in an alleged audio recording; Shrestha calls it a “coordinated attempt” to discredit him and his media outlet.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/25/journalist-kishor-shrestha-denies-bribery-allegations-in-audio-row-involving-former-home-minister-gurung",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/kishorshrestha126320260352061000x0125520261144481000x0-1779710181.jpg&w=300&height=200"
+    },
+    {
+      "title": "No hospital in Nepal is equipped to handle potential Ebola cases",
+      "summary": "Doctors warn that delay in preparedness could turn even a single infection into a major health crisis.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/05/25/no-hospital-in-nepal-is-equipped-to-handle-potential-ebola-cases",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1779716261.jpg&w=300&height=200"
+    },
+    {
+      "title": "प्रदेशको स्थायी संरचना कहिले ?",
+      "summary": "मोटरसाइकल दुर्घटना हुँदा बर्दियामा एक महिलाको मृत्यु भएको छ । मधुवन नगरपालिका–८ की अन्दाजी ५५ वर्षीया सीता डाँगीको सोमबार मृत्यु भएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/sita-dies-in-motorcycle-accident-32-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770873227_1681104705_accident-1200x560-wm-1200x560-480x320.jpg"
+    },
+    {
+      "title": "सर्वोच्चले भन्यो- प्रधानन्यायाधीश सिफारिसविरुद्धको रिट औचित्यहीन, दरपीठ स्वाभाविक",
+      "summary": "सर्वजनिक जिम्मेवारीमा रहेका ३० हजारभन्दा बढीको सम्पत्ति आयोगले केलाउन सुरु गरेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/commission-examining-assets-of-30-000-former-employees-55-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779721458_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "गरिबलाई गरिखाने वातावरण बनाउने गरी नीति कार्यक्रम आउँछ : मुख्यमन्त्री बानियाँ",
+      "summary": "कोशी प्रदेश सरकार स्थापना भएको आठ बर्ष वितिसके पनि अझै सम्म प्रदेशको स्थायी संरचना निर्माण हुन सकेको छैन ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/when-will-the-permanent-structure-of-the-province-be-established-31-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779720378_Iswari-480x320.jpg"
+    },
+    {
+      "title": "होल्डिङ सेन्टरका नागरिकलाई पुनःस्थापना गर्न सांसदहरुको माग",
+      "summary": "सर्वोच्च अदालतले डा. मनोजकुमार शर्मालाई प्रधानन्यायाधीशमा सिफारिस गर्ने संवैधानिक परिषद्को निर्णयविरुद्ध परेको रिट निवेदनलाई औचित्यहीन भनी टिप्पणी गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/writ-against-chief-justice-s-recommendation-is-unjustified-supreme-court-upholds-bench-order-br-23-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779199719_manoj sharma-480x320.jpg"
+    },
+    {
+      "title": "सर्वोच्चले भन्यो- देउवालाई तत्काल पक्राउ नगर्नू",
+      "summary": "मोटरसाइकल दुर्घटना हुँदा बर्दियामा एक महिलाको मृत्यु भएको छ । मधुवन नगरपालिका–८ की अन्दाजी ५५ वर्षीया सीता डाँगीको सोमबार मृत्यु भएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/sita-dies-in-motorcycle-accident-32-35.html?click_from=just_in",
       "image_url": ""
     }
   ]
