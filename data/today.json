@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-25T04:41:06.684594",
+  "scraped_at": "2026-05-25T11:57:36.026027",
   "date": "2026-05-25",
-  "total_articles": 34,
+  "total_articles": 46,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -278,6 +278,102 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/education/sunday-holiday-adds-to-tension-br-16-83.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ीमा नि:शुल्क स्वास्थ्य शिविर सम्पन्न",
+      "summary": "ीमा नि:शुल्क स्वास्थ्य शिविर सम्पन्न",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12991",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/1000123294-1779701895.jpg"
+    },
+    {
+      "title": "विकास बैंकको प्रमुख कार्यकारी अधिकृतमा गणेश कुमार के.सी. नियुक्त",
+      "summary": "विकास बैंकको प्रमुख कार्यकारी अधिकृतमा गणेश कुमार के.सी. नियुक्त",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12990",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/ganesh-1779701618.JPG"
+    },
+    {
+      "title": "ेटम सकिने बित्तिकै अवैध संरचनामा डोजर फुल गियरमा",
+      "summary": "ेटम सकिने बित्तिकै अवैध संरचनामा डोजर फुल गियरमा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12988",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/firke-khola-ma-dojar___-1779680711.png"
+    },
+    {
+      "title": "Draft House rule easing charter amendment decried as unconstitutional",
+      "summary": "Proposed rule permits combined two-thirds parliamentary vote for amendments instead of requiring two-thirds in each House separately.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/05/25/draft-house-rule-easing-charter-amendment-decried-as-unconstitutional",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1779669762.jpg&w=300&height=200"
+    },
+    {
+      "title": "23-member EU delegation to call on PM Shah on Tuesday",
+      "summary": "The prime minister is set to meet the foreign ambassadors and diplomats for the second time since assuming office on March 27.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/25/23-member-eu-delegation-to-call-on-pm-shah-on-tuesday",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/EUHeadsofMissionNepalVisitPhotography01-1779696216.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepali eatery in Queens earns New York recognition",
+      "summary": "Bimala Hamal Shrestha’s restaurant has become a source of pride for Nepalis in New York, earning a place on the New York Times’ list of the city’s 100 best restaurants and introducing authentic Nepali cuisine to a global audience.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/05/25/how-nepali-eatery-in-queens-earns-new-york-recognition",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/third-party/bimalahamal24520260525511000x0-1779693208.jpg&w=600&height=400"
+    },
+    {
+      "title": "Report details abuse and unsafe conditions faced by Nepali workers on Saudi Aramco projects",
+      "summary": "Bimala Hamal Shrestha’s restaurant has become a source of pride for Nepalis in New York, earning a place on the New York Times’ list of the city’s 100 best restaurants and introducing authentic Nepali cuisine to a global audience.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/05/24/report-details-abuse-and-unsafe-conditions-faced-by-nepali-workers-on-saudi-aramco-projects",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1779670747.jpg&w=400&height=267"
+    },
+    {
+      "title": "कर्तव्यनिष्ठ र इमान्दार जनशक्ति उत्पादन गर्न प्रधानसेनापतिको जोड",
+      "summary": "प्रधानसेनापति अशोकराज सिग्देलले दक्ष र गुणस्तरीय मात्र नभई कर्तव्यनिष्ठ र इमान्दार जनशक्ति उत्पादन गर्न नेपाली सेना स्वास्थ्य विज्ञान संस्थानलाई आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/army-chief-stresses-on-producing-dutiful-and-honest-manpower-br-71-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779709877_ashokraj-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री बालेन आवश्यकता अनुसारमात्र बोल्ने",
+      "summary": "सरकारका प्रवक्ता तथा शिक्षामन्त्री सस्मित पोखरेल ले प्रधानमन्त्री बालेन शाह ले आवश्यकताअनुसार सम्बोधन गर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-balen-will-speak-as-needed-73-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778323998_Balen1-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीले मंगलबार इयूआबद्ध देशका राजदूत तथा मिसन प्रमुखसँग छलफल गर्ने",
+      "summary": "कैलालीका किसान बहुबाली खेतीतर्फ आकर्षित भएका छन्। केराखेती गर्ने किसानले केराखेतीसँगै मकै, खुर्सानी, तोरी खेतीलगायत गर्न थालेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/corn-farming-within-banana-plantations-br-81-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779709480_kera-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री बालेनको भारत भ्रमणबारे सरकारका प्रवक्ताले भने: उपयुक्त समयमा हुन्छ",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाहले मंगलबार युरोपेली सङ्घ (इयू)मा आबद्ध देशका गैरआवासीय राजदूत तथा मिसन प्रमुखहरूसँग संयुक्त भेटवार्ता गर्ने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-to-hold-discussions-with-ambassadors-and-heads-of-missions-of-eu-member-countries-on-tuesday-44-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776395850_PM Balendra nEW-480x320.jpg"
+    },
+    {
+      "title": "नीति तथा कार्यक्रममा मिठो नारा, तर हुँदैन कार्यान्वयन",
+      "summary": "प्रधानसेनापति अशोकराज सिग्देलले दक्ष र गुणस्तरीय मात्र नभई कर्तव्यनिष्ठ र इमान्दार जनशक्ति उत्पादन गर्न नेपाली सेना स्वास्थ्य विज्ञान संस्थानलाई आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/army-chief-stresses-on-producing-dutiful-and-honest-manpower-br-71-66.html?click_from=just_in",
       "image_url": ""
     }
   ]
