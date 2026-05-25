@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-25T15:25:54.722124",
+  "scraped_at": "2026-05-25T17:49:14.478633",
   "date": "2026-05-25",
-  "total_articles": 54,
+  "total_articles": 55,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -439,6 +439,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/sita-dies-in-motorcycle-accident-32-35.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "२२ बुँदे माग राख्दै आन्दोलनमा उत्रिए गुजराका युवा",
+      "summary": "दार्चुलाको हिमाली क्षेत्रमा पाइने बहुमूल्य जुडिबुटी यार्चागुम्बा सङ्कलनका लागि हालसम्म १३८ जनाले अनुमतिपत्र (पूर्जी) लिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/138-people-obtained-permission-to-collect-yarchagumba-33-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1746097354_lake yarsa-480x320.jpg"
     }
   ]
 }
