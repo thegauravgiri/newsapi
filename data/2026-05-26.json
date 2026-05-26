@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-26T16:00:05.081526",
+  "scraped_at": "2026-05-26T18:33:58.000293",
   "date": "2026-05-26",
-  "total_articles": 43,
+  "total_articles": 45,
   "sources": [
-    "News24",
+    "KathmanduPost",
     "NagarikNews",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -351,6 +351,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/speaker-could-not-rule-to-summon-prime-minister-to-the-house-br-69-85.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "दुई दिन बिदाले तनाव, खारेज गर्न माग",
+      "summary": "सरकारले गत चैतमा हप्ताको दुई दिन सार्वजनिक बिदा दिने घोषणा गरेसँगै अत्यावश्यक सेवा प्रदान गर्ने देशभरका सरकारी अस्पतालले आइतबार सेवा बन्द गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/government-hospitals-closed-private-ones-open-patients-in-distress-79-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779812591_1694961432_chitwan_birami-1200x560-480x320.jpg"
+    },
+    {
+      "title": "‘निजी क्षेत्रमैत्री नीति लिएर सरकार अगाडि बढ्छ, निर्धक्क भएर व्यवसाय सञ्चालन गर्नुहोस्’",
+      "summary": "इन्डियन प्रिमियर लिग (आईपीएल) २०२६ अन्तर्गत ‘क्वालिफायर–१’ को महत्त्वपूर्ण भिडन्तमा रोयल च्यालेन्जर्स बैंगलुरु (आरसीबी) ले गुजरात टाइटन्स (जीटी) सामु जितका लागि २५५ रनको विशाल लक्ष्य प्रस्तुत गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/patidar-s-explosive-93-runs-gujarat-sets-a-huge-target-of-255-runs-to-reach-the-final-br-91-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779810569_rajat-480x320.jpg"
     }
   ]
 }
