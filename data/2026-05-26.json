@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-05-26T04:16:26.547400",
+  "scraped_at": "2026-05-26T16:00:05.081526",
   "date": "2026-05-26",
-  "total_articles": 33,
+  "total_articles": 43,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -270,6 +270,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/young-minds-in-innovation-22-10.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "र जगन्नाथ दुलाल सम्मानित",
+      "summary": "र जगन्नाथ दुलाल सम्मानित",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12992",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/jagannatha-1779702105.jpg"
+    },
+    {
+      "title": "Russian climber with no legs scales Mt Everest on his arms alone",
+      "summary": "Amputated below the waist, Rustam reached the summit of Mt Everest on Wednesday morning.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/26/russian-climber-with-no-legs-scales-mt-everest-on-his-arms-alone",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Untitled1-1779793777.jpg&w=300&height=200"
+    },
+    {
+      "title": "Farmers scramble for fertiliser as paddy planting season begins amid shortages",
+      "summary": "Delayed supply, inadequate stock and annual distribution bottlenecks force many farmers to queue for days or cross into Indian markets.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/26/farmers-scramble-for-fertiliser-as-paddy-planting-season-begins-amid-shortages",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/ropaiphotoNepaljung-1779807637.jpg&w=300&height=200"
+    },
+    {
+      "title": "Together, but apart: Nepal’s growing phubbing culture",
+      "summary": "As phones dominate everyday life, shared spaces across Nepal are growing quieter, more connected — and increasingly distant.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/05/26/together-but-apart-nepal-s-growing-phubbing-culture",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/phobbing-1779799564.jpg&w=300&height=200"
+    },
+    {
+      "title": "Dhankuta community forest being developed into medicinal plant gene bank",
+      "summary": "Jautar Community Forest in Pakhribas is being turned into a medicinal plant gene bank and model eco-zone to conserve biodiversity, promote research and attract eco-tourism.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/26/dhankuta-community-forest-being-developed-into-medicinal-plant-gene-bank",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Jautarcommunityforest-1779794483.jpg&w=600&height=400"
+    },
+    {
+      "title": "प्रधानमन्त्रीलाई सदनमा बोलाउन सभामुखले रुलिङ गर्नै सकेनन्",
+      "summary": "प्रतिनिधिसभाको बैठकमा प्रमुख प्रतिपक्षीसहितका विपक्षी दलहरूको तीव्र नाराबाजी र अवरोधका बिच सभामुख डोलप्रसाद अर्यालले पेलेरै संसद्को कार्यसूची अघि बढाउँदा अवस्था तनाब ग्रस्त बन्यो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/speaker-could-not-rule-to-summon-prime-minister-to-the-house-br-69-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779807021_sabh-480x320.jpg"
+    },
+    {
+      "title": "स्वास्थ्य मन्त्रालयले भन्यो- गर्मी बढ्यो, सर्पसँग बच्नु",
+      "summary": "इन्डियन प्रिमियर लिग (आइपीएल) २०२६ अन्तर्गत धर्मशालामा जारी क्वालिफायर-१ मा रोयल च्यालेन्जर्स बैंगलुरु (आरसीबी) ले गुजरात टाइटन्स (जीटी) विरुद्ध पावरप्लेमा विष्फोटक सुरुवात गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/bengaluru-s-aggressive-batting-in-the-powerplay-scoring-76-runs-in-6-overs-43-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779806128_virat-480x320.jpg"
+    },
+    {
+      "title": "कोशी प्रदेश सभा: नीति तथा कार्यक्रम पारित भइसके पछि प्रतिपक्षले माग्यो संशोधनको समय",
+      "summary": "अस्वस्थकर खानपानका कारण उच्च रक्तचापका बिरामी बढिरहेका छन्। वयस्क नेपालीमा उच्च रक्तचापको दर २४.५ प्रतिशत रहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/high-blood-pressure-patients-are-increasing-unhealthy-diet-is-the-main-reason-65-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1694961432_chitwan_birami-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय विधि विज्ञान प्रयोगशाला विधेयक दफवार छलफलका लागि समितिमा",
+      "summary": "गर्मी बढेसँगै सर्प दुलोबाट निस्कने र मानिसलाई टोक्ने भएकाले सर्पदंशबाट बच्न मन्त्रालयले आग्रह गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/health-ministry-urges-people-to-avoid-snakebites-15-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779804975_snake-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभाबाट निर्वाचनसम्बन्धी दुई विधेयक सर्वसम्मतिले पारित",
+      "summary": "प्रतिनिधिसभाको बैठकमा प्रमुख प्रतिपक्षीसहितका विपक्षी दलहरूको तीव्र नाराबाजी र अवरोधका बिच सभामुख डोलप्रसाद अर्यालले पेलेरै संसद्को कार्यसूची अघि बढाउँदा अवस्था तनाब ग्रस्त बन्यो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/speaker-could-not-rule-to-summon-prime-minister-to-the-house-br-69-85.html?click_from=just_in",
       "image_url": ""
     }
   ]
