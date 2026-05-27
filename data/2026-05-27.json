@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-27T04:38:56.241136",
+  "scraped_at": "2026-05-27T11:45:10.885983",
   "date": "2026-05-27",
-  "total_articles": 33,
+  "total_articles": 43,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -270,6 +270,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/nepal-s-energy-needs-and-priorities-need-to-be-rethought-15-89.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ोषबाट सहकारी बचतकर्ताको रकम फिर्ता, हर्क बने आगो",
+      "summary": "ोषबाट सहकारी बचतकर्ताको रकम फिर्ता, हर्क बने आगो",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13001",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/sahakari-1779851674.jpg"
+    },
+    {
+      "title": "Q&A: A single film can open a door, but lasting change requires a stronger ecosystem",
+      "summary": "After ‘Elephants in the Fog’ made history at Cannes 2026, director Abinash Bikram Shah reflects on the win and why Nepali cinema still needs structural support to grow beyond isolated success.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/interviews/2026/05/27/q-a-a-single-film-can-open-a-door-but-lasting-change-requires-a-stronger-ecosystem",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/lifestyle/mainphoto-1779861872.jpg&w=300&height=200"
+    },
+    {
+      "title": "Private sector opposes government plan to centralise CSR funds",
+      "summary": "Business groups and BFIs have opposed the government’s plan to channel corporate social responsibility funds into a central state-run mechanism, arguing that the money should continue to be spent directly on local communities.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/27/private-sector-opposes-government-plan-to-centralise-csr-funds",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/nepalcsrfeaturedimageclean-1779854458.jpg&w=300&height=200"
+    },
+    {
+      "title": "NHRC recommends action against Oli, Lekhak, Gurung over Gen Z protest rights violations",
+      "summary": "Commission seeks departmental action against serving police chiefs, blacklisting of former security heads, and wider accountability over September unrest.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/27/nhrc-recommends-action-against-oli-lekhak-gurung-over-gen-z-protest-rights-violations",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/olilekhakgurung27520261217061000x0-1779880571.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal beat China by 19 runs in Women’s Asian Games T20 Qualifier",
+      "summary": "Puja Mahato’s 63 runs power Nepal to top of Group B in Kuala Lumpur.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/05/27/nepal-beat-china-by-19-runs-in-women-s-asian-games-t20-qualifier",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/PujaMahato-1779876329.jpg&w=600&height=400"
+    },
+    {
+      "title": "दुर्गा प्रसाईंको भूमिकामाथि पनि आयोगले उठायो प्रश्न, अनुसन्धान गर्न सिफारिस",
+      "summary": "राष्ट्रिय मानव अधिकार आयोगले भदौ २३ र २४ गते भएको जेन-जी आन्दोलनका क्रममा प्रदर्शनकारीमाथि अत्यधिक बल प्रयोग गरी मानव अधिकार उल्लंघन गरेको ठहर गर्दै नेपाल प्रहरी र सशस्त्र प्रहरी बलका प्रमुख आईजीपीलाई कारबाही गर्न सिफारिस गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/action-recommended-against-both-igps-karki-and-poudel-br-10-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779881324_33-480x320.jpg"
+    },
+    {
+      "title": "जेनजी आन्दोलन प्रतिवेदन: बालेनबारे मौन, सेनाको भूमिकामा प्रश्नैप्रश्न",
+      "summary": "आयोगले विशेषगरी सामाजिक सञ्जालमार्फत सार्वजनिक गरिएका अभिव्यक्तिको प्रभावबारे थप छानबिन गर्न सुझाव दिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-commission-also-raised-questions-about-the-role-of-durga-prasai-recommended-an-investigation-60-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779881574_Durga prasain-480x320.jpg"
+    },
+    {
+      "title": "नख्खु ‘जेलब्रेक’ प्रकरणमा रवि र जेलरको मिलोमतोमाथि अनुसन्धान सिफारिस",
+      "summary": "भारतमा बढ्दो चरम गर्मी र त्यसबाट उत्पन्न जोखिमप्रति प्रधानमन्त्री नरेन्द्र मोदीले बुधबार कडा चेतावनी जारी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/extreme-heat-in-india-pm-modi-appeals-for-caution-78-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779881096_garmi india-480x320.jpg"
+    },
+    {
+      "title": "सञ्चारमन्त्री र आइटियु क्षेत्रीय प्रतिनिधिबीच भेटवार्ता",
+      "summary": "प्रतिवेदनले तत्कालीन शीर्ष नेतृत्वको भूमिका केलाए पनि काठमाडौं महानगरका तत्कालीन मेयर तथा वर्तमान प्रधानमन्त्री बालेन्द्र शाहबारे भने कुनै स्पष्ट टिप्पणी गरेको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/genji-movement-report-silence-on-balen-questions-on-the-role-of-the-army-16-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779881003_Balen_Sena-480x320.jpg"
+    },
+    {
+      "title": "सुशीला कार्की र सुधन गुरुङमाथि पनि अनुसन्धान गर्न सिफारिस",
+      "summary": "राष्ट्रिय मानव अधिकार आयोगले भदौ २३ र २४ गते भएको जेन-जी आन्दोलनका क्रममा प्रदर्शनकारीमाथि अत्यधिक बल प्रयोग गरी मानव अधिकार उल्लंघन गरेको ठहर गर्दै नेपाल प्रहरी र सशस्त्र प्रहरी बलका प्रमुख आईजीपीलाई कारबाही गर्न सिफारिस गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/action-recommended-against-both-igps-karki-and-poudel-br-10-19.html?click_from=just_in",
       "image_url": ""
     }
   ]
