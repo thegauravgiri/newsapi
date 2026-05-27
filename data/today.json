@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-27T11:45:10.885983",
+  "scraped_at": "2026-05-27T16:03:12.946790",
   "date": "2026-05-27",
-  "total_articles": 44,
+  "total_articles": 51,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -358,6 +358,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/action-recommended-against-both-igps-karki-and-poudel-br-10-19.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "First OPD cuts and now private hospital services halted under health insurance scheme",
+      "summary": "Repeated backtracking on promised benefits has reduced health insurance renewal rates to around 50 percent.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/05/27/first-opd-cuts-and-now-private-hospital-services-halted-under-health-insurance-scheme",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1779888379.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal seeks bids from consultants to prepare DPR for Kathmandu Valley electric rail project",
+      "summary": "The railroad will link Narayan Gopal Chowk, Chabahil, Koteshwar, Satdobato, Ratnapark in a loop returning to Narayan Gopal Chowk.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/27/nepal-seeks-bids-from-consultants-to-prepare-dpr-for-kathmandu-valley-electric-rail-project",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1779889238.jpg&w=600&height=400"
+    },
+    {
+      "title": "लुम्बिनीको नीति तथा कार्यक्रम बहुमतले पारित",
+      "summary": "चिकित्सा विज्ञान राष्ट्रिय प्रतिष्ठानले भक्तपुरको दुवाकोटस्थित जग्गा ६ दिनभित्र खाली गर्न नेपाल इन्जिनियरिङ कलेजलाई अल्टिमेटम दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/letter-from-medical-education-authority-to-vacate-land-for-nepal-engineering-nbsp-87-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776355253_bir-480x320.jpg"
+    },
+    {
+      "title": "अघिल्ला सरकारका विकास कार्यक्रमलाई निरन्तरता दिनु वर्तमान सरकारको दायित्व: आचार्य",
+      "summary": "पोखराको मध्यभाग भएर बग्ने फिर्के खोलाको अतिक्रमण हटाउन सुरु भएको आज चौथो दिनसम्मा खोलाघरभित्रका १०५ संरचना हटाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/105-encroached-structures-of-the-khola-ghar-in-pokhara-s-firkekhola-demolished-26-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779896900_firke_-480x320.jpg"
+    },
+    {
+      "title": "हिन्दू मन्दिरमा आगो लगाउने धम्की दिनेमाथि कारबाही गर्न प्रधानमन्त्रीलाई ज्ञानेन्द्र शाहीको अपिल",
+      "summary": "उत्तरी गोरखा विकट धार्चे गाउँपालिकाकी एक गम्भीर अवस्थाकी सुत्केरी महिलाको हेलिकोप्टरबाट उद्धार गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/critically-ill-woman-in-labor-rescued-by-helicopter-from-north-gorkha-49-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779896723_helirescue-480x320.jpg"
+    },
+    {
+      "title": "विवादका कारण प्रदेशसभा बैठकशनिबार सम्मका लागि स्थगित",
+      "summary": "लुम्बिनी प्रदेशसभाको बैठकले आर्थिक वर्ष २०८३/०८४ का लागि प्रदेश सरकारको वार्षिक नीति तथा कार्यक्रम बहुमतले पारित गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/lumbini-province-s-policy-and-program-passed-by-majority-84-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1738458579_lumbini pradesh-480x320.jpg"
+    },
+    {
+      "title": "नेपाल–इजरायल सम्बन्ध थप सुदृढ बनाउन कानुनी सहकार्य विस्तारबारे छलफल",
+      "summary": "चिकित्सा विज्ञान राष्ट्रिय प्रतिष्ठानले भक्तपुरको दुवाकोटस्थित जग्गा ६ दिनभित्र खाली गर्न नेपाल इन्जिनियरिङ कलेजलाई अल्टिमेटम दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/letter-from-medical-education-authority-to-vacate-land-for-nepal-engineering-nbsp-87-36.html?click_from=just_in",
       "image_url": ""
     }
   ]
