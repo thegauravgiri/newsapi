@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-27T16:03:12.946790",
+  "scraped_at": "2026-05-27T22:03:11.361332",
   "date": "2026-05-27",
-  "total_articles": 50,
+  "total_articles": 51,
   "sources": [
-    "KathmanduPost",
+    "NagarikNews",
     "News24",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -407,6 +407,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/health/letter-from-medical-education-authority-to-vacate-land-for-nepal-engineering-nbsp-87-36.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "आर्थिक सर्वेक्षण: बाह्य क्षेत्र बलियो, आन्तरिक उत्पादन र रोजगारी सिर्जनामा चुनौती",
+      "summary": "प्रहरीको नक्कली परिचयपत्र देखाएर व्यवसायी तथा स्थानीयलाई धम्क्याउने एक युवा पक्राउ परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/fake-policeman-arrested-for-threatening-hoteliers-by-pretending-to-be-a-sergeant-12-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756829024_pakrau-480x320.jpg"
     }
   ]
 }
