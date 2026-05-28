@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-28T11:45:19.513261",
+  "scraped_at": "2026-05-28T16:17:57.500962",
   "date": "2026-05-28",
-  "total_articles": 42,
+  "total_articles": 51,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -342,6 +342,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/health/lives-saved-by-organ-donation-63-84.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Adverse weather adds to informal workers’ stress in Kathmandu",
+      "summary": "New study warns extreme heat is worsening health risks, wage losses and food insecurity for migrant and informal workers in Nepal’s capital.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/28/adverse-weather-adds-to-informal-workers-stress-in-kathmandu",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/labourers-1779978396.jpg&w=300&height=200"
+    },
+    {
+      "title": "Commission report blames weak regulation and political interference for cooperative crisis",
+      "summary": "Government says reforms are underway after a commission report identified poor governance, financial irregularities and lack of oversight in the cooperative sector.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/28/commission-report-blames-weak-regulation-and-political-interference-for-cooperative-crisis",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/AIenhanced-1779957528.jpg&w=300&height=200"
+    },
+    {
+      "title": "Monsoon returns, and so do drinking water safety fears",
+      "summary": "Epidemiology and Disease Control Division urges provinces and local units to stock medicines for water-borne diseases, test water quality and prepare for monsoon-related infections.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/05/28/monsoon-returns-and-so-do-drinking-water-safety-fears",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/water-1779974961.jpg&w=300&height=200"
+    },
+    {
+      "title": "Is Beijing the world’s ‘living room’?",
+      "summary": "AI-generated content, fake police social media pages and hacked school digital platforms were used to spread misinformation and mobilise protesters, according to the commission’s report.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/05/28/is-beijing-the-world-s-living-room-china-is-enjoying-the-global-stage-but-there-are-limits-to-its-influence",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/labourers-1779978396.jpg&w=400&height=267"
+    },
+    {
+      "title": "ज्ञानेन्द्र शाही र जनक परियारको टकराव: अभिव्यक्तिको आगो कि उत्पीडनको चित्कार ?",
+      "summary": "नेपालमा धर्म, जात र सामाजिक न्यायका विषय बेला–बेलामा सार्वजनिक बहसका केन्द्र बन्छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-clash-between-gyanendra-shahi-and-janak-pariyar-the-fire-of-expression-or-the-cry-of-oppression-20-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779983711_Shahi-480x320.jpg"
+    },
+    {
+      "title": "मानवअधिकार आयोगको प्रतिवेदनमा दलहरूका आआफ्नै स्वार्थ",
+      "summary": "पोखरा महानगरपालिका–१७ छोरेपाटनस्थित सो खोलामा पौडी खेल्ने क्रममा ड्यामसाइड बस्ने १४ वर्षीय स्वहेन नेपाली बेपत्ता भएको सशस्त्र प्रहरी बल कालिका गणका गणपति सशस्त्र प्रहरी उपरीक्षक वसन्तबहादुर सिंहले जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/child-dies-after-drowning-while-swimming-51-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "खुला प्रतिस्पर्धाबाट राजदूत छानिने, १३ देशका लागि आवेदन खुला",
+      "summary": "तनहुँको शुक्लागण्डकी नगरपालिकामा एक आमाले आफ्नै ३१ दिने शिशुलाई खाडलमा गाडेर हत्या गरेकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/31-day-old-baby-dies-after-being-buried-in-a-pit-by-his-own-mother-br-50-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779983032_5-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसबाट निर्वाचित गापा अध्यक्ष बुढा रास्वपामा प्रवेश, सभापतिलाई पद खोसेर देखाउन चुनौती",
+      "summary": "केही दिनअघिसम्म संसद्मा प्रधानमन्त्री संसद्बाट भागेको भन्दै संयुक्तरूपमा संसद् अवरोध गरिरहेका प्रतिपक्षी दलहरू अब आआफ्नो राजनीतिक अस्तित्व जोगाउने आत्मकेन्द्रित एजेन्डामा रुमल्लिने सम्भावना देखिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/parties-vested-interests-in-the-human-rights-commission-s-report-87-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1757321474_Gen-z-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रपतिलाई आगामी आर्थिक वर्षको बजेटबारे ब्रिफिङ",
+      "summary": "नेपालमा धर्म, जात र सामाजिक न्यायका विषय बेला–बेलामा सार्वजनिक बहसका केन्द्र बन्छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-clash-between-gyanendra-shahi-and-janak-pariyar-the-fire-of-expression-or-the-cry-of-oppression-20-56.html?click_from=just_in",
       "image_url": ""
     }
   ]
