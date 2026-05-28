@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-05-28T04:19:02.980086",
+  "scraped_at": "2026-05-28T11:45:19.513261",
   "date": "2026-05-28",
-  "total_articles": 33,
+  "total_articles": 42,
   "sources": [
-    "KathmanduPost",
     "News24",
+    "KathmanduPost",
     "NagarikNews"
   ],
   "articles": [
@@ -270,6 +270,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/muglin-pokhara-road-expansion-not-to-be-completed-until-next-ashar-43-98.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "NHRC finds organised misuse of technology during September protests",
+      "summary": "AI-generated content, fake police social media pages and hacked school digital platforms were used to spread misinformation and mobilise protesters, according to the commission’s report.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/28/nhrc-finds-organised-misuse-of-technology-during-september-protests",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/GenZprotests-1779953449.jpg&w=300&height=200"
+    },
+    {
+      "title": "Government investment in public enterprises rises 13 percent, dividend returns decline",
+      "summary": "Economic Survey says 16 of Nepal’s 45 public enterprises are operating at a loss, with Nepal Airlines posting the highest accumulated losses.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/28/government-investment-in-public-enterprises-rises-13-percent-dividend-returns-decline",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Nepaltelecom-1779949855.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal rights commission holds Oli, his ministers responsible for September violence",
+      "summary": "Commission recommends action against former prime minister KP Sharma Oli, former ministers and security chiefs. Calls for retrospective legislation and special court to prosecute rights violations.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/28/nepal-rights-commission-holds-oli-his-ministers-responsible-for-september-violence",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/OliLekhakGurung-1779932216.jpg&w=600&height=400"
+    },
+    {
+      "title": "Nepal’s private capital market is growing up. It needs to grow honest",
+      "summary": "Commission recommends action against former prime minister KP Sharma Oli, former ministers and security chiefs. Calls for retrospective legislation and special court to prosecute rights violations.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/05/28/nepal-s-private-capital-market-is-growing-up-it-needs-to-grow-honest",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/buffalo-1779964436.jpg&w=400&height=267"
+    },
+    {
+      "title": "महेशले सोधे- ओलीलाई १२ घण्टा नबित्दै समात्ने सरकारले जेन-जीका दोषीलाई के गर्छ ?",
+      "summary": "आफ्नै परिवारभित्र पनि केही दिनुपर्दा मानिसहरू अनेक बहाना बनाउने समाजमा काभ्रेपलाञ्चोककी एक महिलाले भने नन्दे ज्वाइँलाई मिर्गौला दान गरेर जीवनदान दिएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/lives-saved-by-organ-donation-63-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779966978_Doneson-480x320.jpg"
+    },
+    {
+      "title": "अनुसन्धान गर्न सिफारिस गर्नु भनेको अपराधी घोषणा गर्नु हैन : भावना राउत",
+      "summary": "कोषले विभिन्न क्षेत्रमा गरीदुई खर्ब २९ अर्ब ४९ करोड बराबरको रकम लगानी गरेको छ। यस्तैतीन खर्ब ८१ अर्ब ६१ करोड बराबरको कर्जा तथा सापटी प्रदान गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-provident-fund-s-assets-are-rs-642-35-billion-98-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779965958_14 karmachari-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय मानवअधिकार आयोगको प्रतिवेदनबारे कांग्रेसको धारणा सार्वजनिक",
+      "summary": "क्यानाडा र लगत्तैको न्युजिल्यान्ड भ्रमण सकेर गत साता मात्र स्वदेश फिरेको समूह, यसै जुनको पहिलो तारिख (जेठ १८) मा मलेसियाको राजधानी क्वालालम्पुरमा प्रस्तुत हुँदैछ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/nepathya-for-the-first-time-in-malaysia-30-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779965320_Nepathya performing-480x320.jpg"
+    },
+    {
+      "title": "विपक्षलाई पेलेर सभा चलाउन खोजेपछि प्रतिवाद गर्न बाध्य भएँ : राजेन्द्र राई",
+      "summary": "अर्थ मन्त्रालयले सार्वजनिक गरेको चालु आर्थिक वर्षको आर्थिक सर्वेक्षण अनुसार निर्जीवन बिमा शुल्क ३२ अर्ब ५३ करोड बराबर सङ्कलन भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/127-69-billion-rupees-collected-from-life-insurance-premiums-br-95-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779965339_insu 14-480x320.jpg"
+    },
+    {
+      "title": "प्राविधिक तयारी अधुरै : नयाँ हलबाट बजेट भाषण नहुने",
+      "summary": "आफ्नै परिवारभित्र पनि केही दिनुपर्दा मानिसहरू अनेक बहाना बनाउने समाजमा काभ्रेपलाञ्चोककी एक महिलाले भने नन्दे ज्वाइँलाई मिर्गौला दान गरेर जीवनदान दिएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/lives-saved-by-organ-donation-63-84.html?click_from=just_in",
       "image_url": ""
     }
   ]
