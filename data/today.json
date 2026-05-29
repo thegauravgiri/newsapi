@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-29T16:00:32.746686",
+  "scraped_at": "2026-05-29T21:58:27.113225",
   "date": "2026-05-29",
-  "total_articles": 47,
+  "total_articles": 49,
   "sources": [
-    "KathmanduPost",
+    "News24",
     "NagarikNews",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -383,6 +383,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/connecting-ayurveda-and-alternative-medicine-sectors-with-health-tourism-71-65.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Budget allocates Rs3.63 billion for labour sector, focuses on safer foreign employment and skills development",
+      "summary": "Government announces zero-cost migration measures, remittance investment schemes, rescue support for stranded workers and programmes for returnee migrants.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/29/budget-allocates-rs3-63-billion-for-labour-sector-focuses-on-safer-foreign-employment-and-skills-development",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/rsktmswarnimwagleimg2026052916370829520260110351000x0-1780073004.jpg&w=300&height=200"
+    },
+    {
+      "title": "Budget heralds a promise of middle-class expansion and market growth",
+      "summary": "Foreign ministry will screen applicants against set eligibility criteria and prepare a shortlist for Cabinet approval.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/05/29/budget-heralds-a-promise-of-middle-class-expansion-and-market-growth",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/rsktmswarnimwagleimg2026052916370829520260110351000x0-1780073004.jpg&w=400&height=267"
     }
   ]
 }
