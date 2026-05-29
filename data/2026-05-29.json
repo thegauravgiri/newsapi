@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-05-29T11:35:33.049688",
+  "scraped_at": "2026-05-29T16:00:32.746686",
   "date": "2026-05-29",
-  "total_articles": 40,
+  "total_articles": 46,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -326,6 +326,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/hark-leaves-in-the-middle-of-the-budget-speech-says-the-prime-minister-should-listen-to-the-budget-speech-11-95.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Finance Minister Wagle unveils budget for fiscal year 2026-27, announces tax relief and ministry cuts",
+      "summary": "Presenting the budget at a joint session of Parliament, Wagle announced that individuals with annual income of up to Rs1 million would be exempt from personal income tax.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/29/finance-minister-wagle-unveils-budget-for-fiscal-year-2026-27-announces-tax-relief-and-ministry-cuts",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/arthamantri29520261235321000x0-1780051799.jpg&w=300&height=200"
+    },
+    {
+      "title": "महेशले भने- पुरानै संरचना, पुरानै रोग र ऋणको भारी बोकेको बजेट",
+      "summary": "सरकारले आयुर्वेद तथा वैकल्पिक चिकित्सा क्षेत्रलाई स्वास्थ्य पर्यटनसँग जोड्ने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/connecting-ayurveda-and-alternative-medicine-sectors-with-health-tourism-71-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776003707_swarnim wagle-480x320.jpg"
+    },
+    {
+      "title": "बजेटबारे बाबुराम भट्टराईको प्रश्न– ‘संरचनात्मक सुधारको नयाँ चरण’ कसरी सम्भव ?",
+      "summary": "आर्थिक विज्ञ तथा विश्लेषकहरूका अनुसार बजेटका कतिपय नीतिगत र प्रविधिमैत्री घोषणाहरू दूरगामी महत्वका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/mixed-reactions-to-the-budget-praise-for-policy-courage-doubts-over-implementation-23-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780052087_swarnim wagle-480x320.jpg"
+    },
+    {
+      "title": "गणतन्त्रको १९ वर्ष: ‘अधिकार पाइयो, समृद्धि पाइएन’",
+      "summary": "सरकारले आगामी आर्थिक वर्षदेखि सुदूरपश्चिममा विशिष्ट पर्यटकीय विकास गर्ने र सुदूरमै पहिलोपटक एमबिबीएसको पढाइ सुरु गर्ने घोषणा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/far-west-in-the-budget-from-tourism-development-to-remote-mbbs-education-45-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780069295_sudur-480x320.jpg"
+    },
+    {
+      "title": "बजेटमा प्रधानमन्त्री र पार्टी सभापति उत्साहित हुनुहुन्छ : मनिष झा",
+      "summary": "हुलाकी राजमार्ग र मदन भण्डारी राजमार्गको निर्माणले पनि कोशी प्रदेशमा यातायात सञ्जाल विस्तार हुने अपेक्षा गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/what-is-the-federal-government-s-budget-like-in-koshi-12-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1731291472_maipokhari-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधि सभामा सोमबारदेखि बजेटमाथि छलफल हुने",
+      "summary": "सरकारले आयुर्वेद तथा वैकल्पिक चिकित्सा क्षेत्रलाई स्वास्थ्य पर्यटनसँग जोड्ने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/connecting-ayurveda-and-alternative-medicine-sectors-with-health-tourism-71-65.html?click_from=just_in",
       "image_url": ""
     }
   ]
