@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-29T04:21:31.473664",
+  "scraped_at": "2026-05-29T11:35:33.049688",
   "date": "2026-05-29",
-  "total_articles": 33,
+  "total_articles": 40,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -270,6 +270,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/message-from-the-prime-minister-s-office-on-republic-day-collaboration-is-necessary-for-good-governance-and-prosperity-22-84.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Inside the alleged plot against Nepal’s anti-graft chief",
+      "summary": "A chargesheet outlines allegations of bureaucratic power plays, intimidation networks, ritual-based coercion and cross-border money flows in a case centred on former civil aviation chief Pradeep Adhikari.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/29/inside-the-alleged-plot-against-nepal-s-anti-graft-chief",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/raiandAdhikari-1780040514.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepali eatery in Queens earns New York recognition",
+      "summary": "Presenting the budget at a joint session of Parliament, Wagle announced that individuals with annual income of up to Rs1 million would be exempt from personal income tax.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/05/25/how-nepali-eatery-in-queens-earns-new-york-recognition",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/BHZUHRZNNVIX3FKUXE3FMVQJIM-1780032616.jpg&w=400&height=267"
+    },
+    {
+      "title": "बजेट भाषणको बीचमै बाहिरिए हर्क, भन्छन्- ‘प्रधानमन्त्रीले नै सुनून् बजेट भाषण’",
+      "summary": "अर्थमन्त्री डा. स्वर्णिम वाग्लेले संघीय संसद्को संयुक्त बैठकमा आगामी आर्थिक वर्ष २०८३/८४ को वार्षिक आय–व्ययको विवरण (बजेट) प्रस्तुत गरिरहँदा श्रम संस्कृति पार्टीका अध्यक्ष हर्क साम्पाङ बैठकबाट बाहिरिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/hark-leaves-in-the-middle-of-the-budget-speech-says-the-prime-minister-should-listen-to-the-budget-speech-11-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1737462518_harka sampang 1-480x320.jpg"
+    },
+    {
+      "title": "बजेट भाषणकै बीच किन बाहिरिए हर्क संसद्‍बाट ?",
+      "summary": "सरकारले पूर्वपश्चिम राजमार्गका लागि ३७ अर्ब ४६ करोड बजेट छुट्टयाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/37-46-billion-budget-for-east-west-highway-59-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752674261_bato_road-480x320.jpg"
+    },
+    {
+      "title": "मुग्लिन आँबुखैरेनी सडक निर्माण सुरु गरिने",
+      "summary": "आर्थिक वर्षको बजेट वक्तव्य जारी रहेका बेला श्रम संस्कृति पार्टीका अध्यक्ष हर्क साम्पाङ संसद भवनबाट बाहिरिएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/why-did-hark-leave-parliament-in-the-middle-of-the-budget-speech-55-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779862863_harka sampang-480x320.jpg"
+    },
+    {
+      "title": "आगामी वर्ष १ हजार किलोमिटर सडक कालोपत्रे गर्ने",
+      "summary": "मुग्लिनदेखि आँबुखैरेनीसम्म सडक निर्माणका लागि गोरखातर्फबाट सडक निर्माण गर्ने योजना छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/construction-of-muglin-aanbukhaireni-road-to-begin-br-61-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780052087_swarnim wagle-480x320.jpg"
+    },
+    {
+      "title": "सामाजिक सुरक्षा भत्तामा सरकारको नीति: ‘सक्नेले छोडौं, नसक्नेलाई जोडौं’",
+      "summary": "अर्थमन्त्री डा. स्वर्णिम वाग्लेले संघीय संसद्को संयुक्त बैठकमा आगामी आर्थिक वर्ष २०८३/८४ को वार्षिक आय–व्ययको विवरण (बजेट) प्रस्तुत गरिरहँदा श्रम संस्कृति पार्टीका अध्यक्ष हर्क साम्पाङ बैठकबाट बाहिरिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/hark-leaves-in-the-middle-of-the-budget-speech-says-the-prime-minister-should-listen-to-the-budget-speech-11-95.html?click_from=just_in",
       "image_url": ""
     }
   ]
