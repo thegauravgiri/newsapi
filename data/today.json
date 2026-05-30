@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-05-30T10:07:12.743375",
+  "scraped_at": "2026-05-30T13:56:55.314624",
   "date": "2026-05-30",
-  "total_articles": 42,
+  "total_articles": 48,
   "sources": [
-    "KathmanduPost",
     "News24",
+    "KathmanduPost",
     "NagarikNews"
   ],
   "articles": [
@@ -342,6 +342,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/assets-worth-rs-200-billion-frozen-due-to-legal-complications-of-limitation-11-75.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "453 Nepali nationals rescued from alleged trafficking racket in India’s Kushinagar",
+      "summary": "Police said the group involved collected between INR 7,000 and up to INR 100,000 per person under the guise of membership fees linked to a network marketing-style scheme.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/30/453-nepali-nationals-rescued-from-alleged-trafficking-racket-in-india-s-kushinagar",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/img786330520260905101000x0-1780136186.jpg&w=300&height=200"
+    },
+    {
+      "title": "माधवकु नेपालले बुझे- अब प्रविधि नबुझी नेतृत्व गर्न सम्भव छैन",
+      "summary": "झण्डै दुई दशकदेखि निर्माणाधिन पुरानो आयोजना सिक्टाका लागि भने उनले २ अर्ब ५५ करोड रुपैयाँ विनियोजन गरेको बताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/banke-not-a-priority-for-the-federal-government-11-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780148193_Bake-480x320.jpg"
+    },
+    {
+      "title": "‘नयाँ शक्ति’ को लहर दिगो हुँदैन, कम्युनिष्ट पार्टीले मात्रै समाज बदल्न सक्छ: माधव नेपाल",
+      "summary": "भियतनामले विदेशीसहित करिब १० हजार कैदीलाई रिहा गर्ने शनिबार घोषणा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/vietnam-to-release-10-000-prisoners-40-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780148196_veitnam-480x320.jpg"
+    },
+    {
+      "title": "बजेटअघि उद्योगको अवस्था बुझ्न चितवन पुगे मुख्यमन्त्री बानियाँ",
+      "summary": "अलग-अलग जिल्लामा बालिकालाई जबरजस्ती करणी गरेको अभियोगमा प्रहरीले दुई जनालाई पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/two-arrested-from-lalitpur-and-morang-on-charges-of-rape-84-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1737025110_pakrau_)_-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसबाट उम्मेदवार बन्न ‘लिडरसिप एकेडेमी’ को कोर्स अनिवार्य: गगन थापा",
+      "summary": "देशभर नै बदली भएकाले तापक्रम आज उल्लेख्य रूपमा घटेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/temperatures-across-the-country-drop-after-rains-br-62-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777362341_rain barsa-480x320.jpg"
+    },
+    {
+      "title": "सरकार चलाउनुभन्दा प्रतिपक्षको भूमिका गाह्रो छ, अब नागरिकको भरोसा जित्नुपर्छ: गगन",
+      "summary": "झण्डै दुई दशकदेखि निर्माणाधिन पुरानो आयोजना सिक्टाका लागि भने उनले २ अर्ब ५५ करोड रुपैयाँ विनियोजन गरेको बताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/banke-not-a-priority-for-the-federal-government-11-17.html?click_from=just_in",
       "image_url": ""
     }
   ]
