@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-30T13:56:55.314624",
+  "scraped_at": "2026-05-30T17:17:29.095548",
   "date": "2026-05-30",
-  "total_articles": 48,
+  "total_articles": 54,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -390,6 +390,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/banke-not-a-priority-for-the-federal-government-11-17.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal to face China tomorrow for final Asian Games spot",
+      "summary": "Despite posting their joint highest-ever T20I total against Malaysia, Nepal women suffered a two-wicket defeat in the semifinal of the Asian Games’ qualifier.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/05/30/nepal-to-face-china-tomorrow-for-final-asian-games-spot",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/71079971314643461490550944884408262639793404n-1780144686.jpg&w=300&height=200"
+    },
+    {
+      "title": "Khanikhola farmers shift from maize and buckwheat to coffee cultivation",
+      "summary": "Coffee farming, once limited to a small area of Khanikhola, has now expanded across all wards of the rural municipality.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/30/khanikhola-farmers-shift-from-maize-and-buckwheat-to-coffee-cultivation",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1780153157.jpg&w=600&height=400"
+    },
+    {
+      "title": "एमालेको सदस्यता नवीकरण जेठ २० र २१ गते",
+      "summary": "नेकपा (एमाले) ले सदस्यता नवीकरण तथा अभिप्रेरणाका लागि यही जेठ २० र २१ गते काठमाडौंमा राष्ट्रिय कार्यशाला तय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-membership-renewal-on-20th-and-21st-of-jestha-39-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780160644_uml-480x320.jpg"
+    },
+    {
+      "title": "एमाले महासचिवको प्रश्न : विद्युतमा भ्याट कसको हितमा ?",
+      "summary": "डेढ महिनाअघि घरबाटै हराएको म्याग्दीको धवलागिरी गाउँपालिका-१ गुर्जाका ७६ वर्षीय पूर्ण छन्त्यालको शव करिब डेढ महिनापछि आज भेटिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/body-found-in-forest-after-missing-for-a-month-and-a-half-18-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1757164162_jungle_ban-480x320.jpg"
+    },
+    {
+      "title": "शान्ति सम्झौताको दुई दशकपछि पनि बेपत्ता परिवार न्यायको प्रतीक्षामा",
+      "summary": "शंकर पोखरेलले उर्जा क्षेत्रको विकास र त्यसको उपयोग बारेमा सरकारको उल्टो बाटोमा हिडेको आरोप लगाएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-general-secretary-s-question-who-benefits-from-vat-on-electricity-24-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780157101_Shankar-480x320.jpg"
+    },
+    {
+      "title": "‘ढुक्क हुनुस्, देश बनाउँछौँ’",
+      "summary": "नेकपा (एमाले) ले सदस्यता नवीकरण तथा अभिप्रेरणाका लागि यही जेठ २० र २१ गते काठमाडौंमा राष्ट्रिय कार्यशाला तय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-membership-renewal-on-20th-and-21st-of-jestha-39-86.html?click_from=just_in",
       "image_url": ""
     }
   ]
