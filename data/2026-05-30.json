@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-30T04:06:38.072531",
+  "scraped_at": "2026-05-30T10:07:12.743375",
   "date": "2026-05-30",
-  "total_articles": 33,
+  "total_articles": 41,
   "sources": [
     "KathmanduPost",
     "News24",
@@ -270,6 +270,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/fiscal-year-2083-84-budget-reality-challenges-and-the-path-to-a-self-reliant-economy-96-55.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Rs2.12 trillion budget appeases middle class, banks on growth despite debt concerns",
+      "summary": "Wagle unveils sweeping tax reforms, privatisation plans and major infrastructure targets, but critics question the record borrowing and feasibility of achieving 7 percent growth amid economic fragility.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/30/rs2-12-trillion-budget-appeases-middle-class-banks-on-growth-despite-debt-concerns",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/budget202627-1780122466.jpg&w=300&height=200"
+    },
+    {
+      "title": "NEPSE gains 23.61 points in holiday-shortened week as hydropower stocks dominate",
+      "summary": "Benchmark index closes at 2,782.10, adding Rs42 billion to investor wealth.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/30/nepse-gains-23-61-points-in-holiday-shortened-week-as-hydropower-stocks-dominate",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/nepse-1780131410.jpg&w=300&height=200"
+    },
+    {
+      "title": "Reimagining calligraphy under the rain",
+      "summary": "Drawing from Ranjana Lipi and Bhaktapur’s artistic heritage, Kristan Napit turns umbrellas into unconventional spaces for calligraphic experimentation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/05/30/reimagining-calligraphy-under-the-rain",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Umbrella-1780111005.jpg&w=300&height=200"
+    },
+    {
+      "title": "सरकारलाई खबरदारी गर्न निरन्तर घण्टी बजाउनुस्: सभामुख अर्याल",
+      "summary": "हदबन्दीका कारण रोकिएका जग्गा विकास आयोजना, आवासीय परियोजना तथा अपार्टमेन्ट कारोबारलाई खुला गर्न आवश्यक रहेको बताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/assets-worth-rs-200-billion-frozen-due-to-legal-complications-of-limitation-11-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1737954911_jagga-480x320.jpg"
+    },
+    {
+      "title": "कुलमानले गरे विद्युत खपतमा ५ प्रतिशत करको विरोध, उल्टो नीतिले एलपी ग्यासतर्फ निर्भरता बढ्ने चिन्ता",
+      "summary": "गोकर्णस्थित निजामती पार्क क्षेत्रमा निजामती सेवाका प्रथम मुख्यसचिव चन्द्रबहादुर थापाको सालिक अनावरण गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/statue-of-first-chief-secretary-thapa-unveiled-at-civil-service-park-br-74-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780135007_nijamati-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीले ‘गोल्डस्टार’ जुत्ता लगाएपछि भावुक हुँदै राणाले भनिन् : सम्पूर्ण नेपाली उद्योगप्रतिको सम्मान",
+      "summary": "एसियन गेम्स महिला क्रिकेट छनोटको सेमिफाइनल खेलमा नेपाल मलेसियासँग पराजित भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/asian-games-qualifiers-nepal-loses-to-malaysia-in-semi-finals-br-68-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780134191_women ceicket-480x320.jpg"
+    },
+    {
+      "title": "महिला अधिकारको प्रभावकारी कार्यान्वयनमा सरकार प्रतिबद्ध छ : प्रधानमन्त्री शाह",
+      "summary": "दक्षिणी लेबनानमा इजरायली सेनाले आक्रमण तीव्र बनाउँदै जाँदा आपत्कालीन उद्धार कार्य तथा राहत सामग्री वितरणमा गम्भीर अवरोध सिर्जना भएको संयुक्त राष्ट्रसङ्घले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/israeli-attacks-affect-relief-and-rescue-operations-in-lebanon-united-nations-br-17-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/photos/1780133721_16-480x320-wm.jpg"
+    },
+    {
+      "title": "बजेटमा गण्डकीका कुन–कुन योजना परे ?",
+      "summary": "हदबन्दीका कारण रोकिएका जग्गा विकास आयोजना, आवासीय परियोजना तथा अपार्टमेन्ट कारोबारलाई खुला गर्न आवश्यक रहेको बताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/assets-worth-rs-200-billion-frozen-due-to-legal-complications-of-limitation-11-75.html?click_from=just_in",
       "image_url": ""
     }
   ]
