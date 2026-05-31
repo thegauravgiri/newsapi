@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-31T14:02:29.743928",
+  "scraped_at": "2026-05-31T17:17:08.715555",
   "date": "2026-05-31",
-  "total_articles": 46,
+  "total_articles": 53,
   "sources": [
     "KathmanduPost",
     "News24",
@@ -375,6 +375,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/after-the-prime-minister-s-controversial-statement-the-foreign-ministry-said-border-management-and-technical-studies-are-ongoing-39-72.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "PM Shah says that just like India has encroached on Nepali land, Nepal has also encroached on India’s",
+      "summary": "He assured that the Lipulekh-Limpiyadhura-Kalapani dispute would be addressed through dialogue.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/31/pm-shah-says-all-commission-reports-including-gen-z-protest-report-will-be-implemented",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/PMbalendraShah-1780215218.jpg&w=300&height=200"
+    },
+    {
+      "title": "From bribery allegations to the Shreesha Karki case, renewed scrutiny on journalist Kishor Shrestha",
+      "summary": "Fresh controversy surrounding the veteran journalist has revived debate over media ethics, privacy, accountability and the legacy of a 23-year-old tragedy.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/31/from-bribery-allegations-to-the-shreesha-karki-case-renewed-scrutiny-on-journalist-kishor-shrestha",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb41-1780246958.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal has never encroached upon Indian territory",
+      "summary": "Key road links connecting Ilam, Panchthar and Taplejung face recurring monsoon-related disruptions as bridge projects remain unfinished.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/05/31/nepal-has-never-encroached-upon-indian-territory",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb41-1780246958.jpg&w=400&height=267"
+    },
+    {
+      "title": "प्रधानमन्त्री बालेनलाई एमाले महासचिव शंकर पोखरेलको प्रश्न : प्रतिनिधित्व नेपालको कि अरू कसैको ?",
+      "summary": "पक्राउ पर्नेहरूमा सोही ठाउँ बस्ने ४६ वर्षीय अर्जुनबहादुर भुजेल र सोही महानगरपालिका-२६ लैनचौर घर भएका २७ वर्षीय सञ्जय गुरूङ रहेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/19-people-arrested-from-various-locations-with-drugs-87-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756829108_pakrau-480x320.jpg"
+    },
+    {
+      "title": "संसद्‌मा किन भयो हंगामा ?",
+      "summary": "नेकपा एमालेले प्रधानमन्त्री बालेन्द्र शाहले आज संसदमा दिएको अभिव्यक्त प्रति गम्भीर प्रश्न उठाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-general-secretary-shankar-pokharel-s-question-to-prime-minister-balen-representing-nepal-or-someone-else-76-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780157101_Shankar-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीको अभिव्यक्तिप्रति सीमाविज्ञको खेद, स्पष्टीकरण र क्षमायाचनाको माग",
+      "summary": "फिर्केखोला खोजी अभियान अन्तर्गत खोलाघरमा बनेका तथा खोलाघरको मापदण्ड मिचेर बनाइएका संरचना हटाउन चलाइएको अभियान एक हप्ता लगाएर सकिएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/campaign-to-remove-structures-built-in-firkekhola-complete-fewa-lake-at-risk-of-flooding-if-check-dam-not-built-br-98-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779632001_firke khola-480x320.jpg"
+    },
+    {
+      "title": "नेपालले भारतको सीमा मिचेको प्रधानमन्त्री बालेनको भनाइपछि के–के लेखे भारतीय मिडियाले ?",
+      "summary": "प्रतिनिधिसभाले आफ्नो नयाँ नियमावली पारित गर्‍यो, तर त्यसको प्रक्रिया भने सहमति र संवादभन्दा विवाद, नाराबाजी र शक्ति प्रदर्शनको बीचबाट गुज्रियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/why-was-there-a-ruckus-in-parliament-17-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780240962_Samsad (2)-480x320.jpg"
     }
   ]
 }
