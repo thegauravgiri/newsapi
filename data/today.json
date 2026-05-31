@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-31T04:41:41.176885",
+  "scraped_at": "2026-05-31T10:21:22.474752",
   "date": "2026-05-31",
-  "total_articles": 34,
+  "total_articles": 41,
   "sources": [
-    "KathmanduPost",
     "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -278,6 +278,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/everest-day-celebrated-in-malaysia-with-various-programs-81-77.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Incomplete bridges, washed-away diversions disrupt travel in eastern hills",
+      "summary": "Key road links connecting Ilam, Panchthar and Taplejung face recurring monsoon-related disruptions as bridge projects remain unfinished.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/31/incomplete-bridges-washed-away-diversions-disrupt-travel-in-eastern-hills",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/diversion-1780213850.jpg&w=300&height=200"
+    },
+    {
+      "title": "Capital market reforms draw mixed response as investors flag tax inequities",
+      "summary": "While investors welcome the long-awaited tax finality and NRN entry, analysts and traders criticise the higher rates and lack of a net portfolio loss-adjustment mechanism.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/31/capital-market-reforms-draw-mixed-response-as-investors-flag-tax-inequities",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Untitled2-1780221849.jpg&w=600&height=400"
+    },
+    {
+      "title": "विपद् र जङ्गली जनावरबाट प्रभावित नागरिकलाई राहत दिन माग",
+      "summary": "अमेरिकी उपविदेशमन्त्री सारा बी रोजर्सले नेपालको पर्वतारोहणमा अमेरिकी प्रविधिले महत्वपूर्ण भूमिका खेल्न सक्ने धारणा राखेकी छिन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/us-technology-could-be-useful-in-nepal-s-mountaineering-safety-deputy-foreign-minister-rogers-br-45-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780221511_sara b rozers-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री बालेनको सदनमा सम्बोधनबारे कांग्रेसका दुई सांसद्को फरकफरक व्याख्या",
+      "summary": "प्रतिनिधि सभाका सांसदहरुले प्राकृतिक विपद्बाट प्रभावित र जङ्गली जनावरको आतङ्कबाट त्रसित नागरिकलाई राहत दिन सरकारको ध्यानाकर्षण गराएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/demand-to-provide-relief-to-citizens-affected-by-disasters-and-wild-animals-br-62-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780220862_janakraj giri-480x320.jpg"
+    },
+    {
+      "title": "नेपालले भारतको सीमा मिचेको प्रमाण देखाउन कांग्रेसको माग",
+      "summary": "प्रहरीले आँखामा खुर्सानीको धुलो हाली लुटपाट गर्ने दुई जनालाई पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/two-arrested-for-robbing-by-throwing-chili-powder-in-eyes-br-49-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780220509_pakrau-480x320.jpg"
+    },
+    {
+      "title": "विपन्न वर्गलाई निःशुल्क शिक्षा र स्वास्थ्य सेवा दिइनेछ : प्रधानमन्त्री शाह",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाहले आइतबार प्रतिनिधिसभामा गरेको सम्बोधन र सांसदहरूको प्रश्नको जवाफले प्रमुख प्रतिपक्षी दल नेपाली कांग्रेसभित्र दुई फरक प्रतिक्रिया आएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/two-nepali-congress-mps-have-different-interpretations-of-prime-minister-balen-s-address-to-the-house-95-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780220656_Balen_c-480x320.jpg"
+    },
+    {
+      "title": "सभामुखको अभिव्यक्तिप्रति एमालेको आपत्ति, रेकर्डबाट हटाउन माग",
+      "summary": "अमेरिकी उपविदेशमन्त्री सारा बी रोजर्सले नेपालको पर्वतारोहणमा अमेरिकी प्रविधिले महत्वपूर्ण भूमिका खेल्न सक्ने धारणा राखेकी छिन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/us-technology-could-be-useful-in-nepal-s-mountaineering-safety-deputy-foreign-minister-rogers-br-45-24.html?click_from=just_in",
       "image_url": ""
     }
   ]
