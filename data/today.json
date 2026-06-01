@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-06-01T05:03:45.475137",
+  "scraped_at": "2026-06-01T13:44:15.831882",
   "date": "2026-06-01",
-  "total_articles": 34,
+  "total_articles": 44,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -278,6 +278,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/diaspora/nepali-cultural-center-to-be-established-in-london-first-spiritual-festival-in-2027-55-98.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "बनाउने गिरोहसहित सबै नेपालीलाई नेपाल ल्याइयो",
+      "summary": "बनाउने गिरोहसहित सबै नेपालीलाई नेपाल ल्याइयो",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13031",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Uddar-Bhairahawa-1780200587.jpg"
+    },
+    {
+      "title": "VAT on electricity to yield Rs5.5 billion, inflation concerns intensify",
+      "summary": "Government defends new tax as essential for power infrastructure upgrades, but experts and critics warn it could increase household costs and dampen electricity demand.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/06/01/vat-on-electricity-to-yield-rs5-5-billion-inflation-concerns-intensify",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Aigenetedimage-1780320495.jpg&w=300&height=200"
+    },
+    {
+      "title": "Trees stand in the way of long-awaited blackbuck relocation to Chitwan",
+      "summary": "Officials say trees around enclosure could give leopards access to relocated blackbuck, reviving concerns shaped by past wildlife translocation failures in Chitwan.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/01/trees-stand-in-the-way-of-long-awaited-blackbuck-relocation-to-chitwan",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/trees-1780317222.jpg&w=300&height=200"
+    },
+    {
+      "title": "Protest erupts over PM Shah’s remark on land encroachment",
+      "summary": "Student groups and Nepali Congress youth wing stage separate demonstrations in Kathmandu, accusing the prime minister of undermining national sovereignty.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/visual-stories/2026/06/01/protest-erupts-over-pm-shah-s-remark-on-land-encroachment",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/70926552942928482809773157651190912320454809n-1780307984.jpg&w=300&height=200"
+    },
+    {
+      "title": "Opposition parties demand PM Shah apologise over border remarks, threaten continued House obstruction",
+      "summary": "Critics said Shah wrongly equated cross-border landholding and cultivation with territorial encroachment.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/01/opposition-parties-demand-pm-shah-apologise-over-border-remarks-threaten-continued-house-obstruction",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/RSKTMIMG20260601124242-1780303577.jpg&w=600&height=400"
+    },
+    {
+      "title": "नेविसंघको अध्यक्षमा करूणा कटुवाल नियुक्त",
+      "summary": "ष्ट्रियता, सार्वभौमिकता र भौगोलिक अखण्डतासँग प्रत्यक्ष जोडिने भएकाले यस विषयमा राज्यका जिम्मेवार पदाधिकारीले गर्ने हरेक अभिव्यक्ति केवल व्यक्तिगत धारणा मात्र रहँदैन, त्यसले राष्ट्रिय अडानको प्रतिनिधित्व पनि गर्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/video/prime-minister-shah-s-statement-on-the-border-political-diplomatic-and-national-level-ripples-47-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780232686_PM-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभा नियमावलीप्रति कांग्रेसको गम्भीर असहमति, भन्यो: बहुमतको दम्भमा पारित",
+      "summary": "कुशल भुर्तेल र दीपेन्द्र सिंह ऐरी पनि श्रीलंकाको फ्रेन्चाइज लिग लंका प्रिमियर लिगमा अनुबन्धित भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/bhurtel-and-airi-also-signed-for-the-lanka-premier-league-br-83-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780320704_airee kushal bhurtel-480x320.jpg"
+    },
+    {
+      "title": "महरालाई एक लाख धरौटीमा रिहा गर्न विशेष अदालतको आदेश",
+      "summary": "नेपाली कांग्रेसले पार्टीको भ्रातृ संस्था नेपाल विद्यार्थी संघ (नेविसंघ) को अध्यक्षमा करूणा कटुवाललाई नियुक्त गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/karuna-katuwal-appointed-as-president-of-nepali-students-union-36-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780320303_Nebisang-480x320.jpg"
+    },
+    {
+      "title": "रविले मोदीसँग २० गते भेट्ने: अरु के के छन् दिल्ली भेटको कार्यतालिका ?",
+      "summary": "नियमावली निर्माणको क्रममा विपक्षी दलहरूले उठाएका फरक मत, संशोधन प्रस्ताव, सुझाव तथा संवैधानिक प्रश्नहरूलाई बेवास्ता गर्दै बहुमतको बलमा नियमावली पारित गरिएको आरोप लगाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-expresses-serious-disagreement-with-house-of-representatives-regulations-says-passed-with-majority-conceit-52-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774601456_Balen-gagan-480x320.jpg"
+    },
+    {
+      "title": "संसद्‌मा चिप्लिएर लडिन सांसद बसुमाया तामाङ",
+      "summary": "ष्ट्रियता, सार्वभौमिकता र भौगोलिक अखण्डतासँग प्रत्यक्ष जोडिने भएकाले यस विषयमा राज्यका जिम्मेवार पदाधिकारीले गर्ने हरेक अभिव्यक्ति केवल व्यक्तिगत धारणा मात्र रहँदैन, त्यसले राष्ट्रिय अडानको प्रतिनिधित्व पनि गर्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/video/prime-minister-shah-s-statement-on-the-border-political-diplomatic-and-national-level-ripples-47-93.html?click_from=just_in",
       "image_url": ""
     }
   ]
