@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-06-02T12:11:54.974999",
+  "scraped_at": "2026-06-02T19:49:03.318530",
   "date": "2026-06-02",
-  "total_articles": 43,
+  "total_articles": 53,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -350,6 +350,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/third-party-role-in-border-dispute-unacceptable-india-br-42-95.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Rabi Lamichhane meets top Indian ministers and BJP leaders",
+      "summary": "Meeting with PM Modi expected on Wednesday.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/02/rabi-lamichhane-meets-top-indian-ministers-and-bjp-leaders",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/HJzg91ObMAAOrUq-1780423560.jpg&w=300&height=200"
+    },
+    {
+      "title": "Prime Minister’s Office to take charge of IT and digital governance",
+      "summary": "Government has dissolved key IT agencies and shifted them under the prime minister’s office as a new central structure is being readied.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/02/prime-minister-s-office-to-take-charge-of-it-and-digital-governance",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/balen02620261128521000x0-1780407305.png&w=300&height=200"
+    },
+    {
+      "title": "Indian tourists return to Nepal in record numbers as new travel trends reshape the market",
+      "summary": "Visa-free access, easier payments, the revival of the Kailash Manasarovar pilgrimage and affordable airfares are drawing Indian travellers back to Nepal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/06/02/indian-tourists-return-to-nepal-in-record-numbers-as-new-travel-trends-reshape-the-market",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/indiantourist-1780400902.jpg&w=300&height=200"
+    },
+    {
+      "title": "Human rights watchdog’s call for retrospective law sparks legal and constitutional questions",
+      "summary": "The rights body has recommended new law to prosecute atrocities committed during the Gen Z protests, but legal experts question whether such a move would violate constitutional protections against retrospective criminal legislation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/02/human-rights-watchdog-s-call-for-retrospective-law-sparks-legal-and-constitutional-questions",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/lillythapa02620260315041000x0-1780411244.jpg&w=600&height=400"
+    },
+    {
+      "title": "Writing for readers in a world run by algorithms",
+      "summary": "The rights body has recommended new law to prosecute atrocities committed during the Gen Z protests, but legal experts question whether such a move would violate constitutional protections against retrospective criminal legislation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/06/02/writing-for-readers-in-a-world-run-by-algorithms",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb42-1780424561.jpg&w=400&height=267"
+    },
+    {
+      "title": "प्रधानमन्त्रीको अभिव्यक्तिले संसद् गतिरोध, २१ खर्बको बजेट छलफल प्रभावित",
+      "summary": "त्रिभुवन अन्तरराष्ट्रिय विमानस्थलबाट मलेसिया जान लागेका एक व्यक्तिलाई ठूलो परिमाणमा विदेशी मुद्रासहित पक्राउ गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/man-arrested-for-trying-to-travel-abroad-with-foreign-currency-93-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1753355368_tia-480x320.jpg"
+    },
+    {
+      "title": "सीमा विवादमा कसरी चिप्लिए प्रधानमन्त्री ?",
+      "summary": "आर्थिक वर्ष २०८३/८४ को वार्षिक बजेटमाथि सघन छलफल हुनुपर्ने संसद् यति बेला राष्ट्रिय सार्वभौमिकता र कूटनीतिक मर्यादाको विषयतिर केन्द्रीत भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-political-implications-of-the-prime-minister-s-statement-and-ravi-s-visit-to-india-parliament-being-adjourned-for-5-days-br-18-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780416949_balen and rabi-480x320.jpg"
+    },
+    {
+      "title": "सुकुम्बासी समस्या समाधानका लागि फेरि अर्को समिति, कस्ता छन् पुराना आयोगहरू?",
+      "summary": "ग्रान्डस्लाम टेनिसको मंगलबार भएको पहिलो क्वार्टरफाइनलमा स्पेनका राफेल जोडरलाई सोझो सेटमा हराउँदै दोस्रो वरीयाताका भेरेभले अन्तिम चारको यात्रा तय गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/french-open-verreau-in-semifinals-marta-and-mirra-also-in-last-four-68-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780415350_French Open-480x320.jpg"
+    },
+    {
+      "title": "काठमाडौं विश्वविद्यालयको उपकुलपति नियुक्तिका लागि सिफारिस समिति गठन",
+      "summary": "दशगजा क्षेत्र अतिक्रमण र ‘क्रस बोर्डर अकुपेसन’ अर्थात् सीमावारपारको जग्गा भोगाधिकारसँग सम्बन्धित विषयलाई प्रधानमन्त्री बालेन्द्र शाहले ‘नेपालले पनि भारतको धेरै भूभाग मिचेको’ छ भनी दिएको अभिव्यक्तिबाट संघीय मामिला, सामान्य प्रशासन भूमि व्यवस्था तथा सहकारी मन्त्रालयका उच्च कर्मचारी नै अचम्मित छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/how-did-the-prime-minister-get-involved-in-the-border-dispute-51-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780415004_balen_sima-480x320.jpg"
+    },
+    {
+      "title": "रवि लामिछाने र भारतका गृहमन्त्री अमित शाहबिच भेटवार्ता",
+      "summary": "त्रिभुवन अन्तरराष्ट्रिय विमानस्थलबाट मलेसिया जान लागेका एक व्यक्तिलाई ठूलो परिमाणमा विदेशी मुद्रासहित पक्राउ गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/man-arrested-for-trying-to-travel-abroad-with-foreign-currency-93-62.html?click_from=just_in",
       "image_url": ""
     }
   ]
