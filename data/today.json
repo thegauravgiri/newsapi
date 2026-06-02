@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-02T04:49:50.272056",
+  "scraped_at": "2026-06-02T12:11:54.974999",
   "date": "2026-06-02",
-  "total_articles": 34,
+  "total_articles": 43,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -278,6 +278,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/new-political-polarization-in-india-58-49.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Panel probing former home minister Gurung gets five-day extension",
+      "summary": "Committee says statement recording and fact-finding are complete, but more time is needed to analyse evidence and prepare its report.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/02/panel-probing-former-home-minister-gurung-gets-five-day-extension",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/SudanGurung-1780393907.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal plans sunset law to fast-track stalled infrastructure projects",
+      "summary": "The proposed legislation would set strict timelines for land acquisition, environmental approvals and other procedures, while empowering a high-level committee led by prime minister to intervene in stalled projects.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/06/02/nepal-plans-sunset-law-to-fast-track-stalled-infrastructure-projects",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/photo301220250555361000x0-1780372995.jpg&w=300&height=200"
+    },
+    {
+      "title": "Parliament consumed by controversies as public issues take a back seat",
+      "summary": "Prime Minister Shah’s border-related remarks and procedural disputes have repeatedly disrupted the budget session amid opposition protests and boycotts.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/06/02/parliament-consumed-by-controversies-as-public-issues-take-a-back-seat",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/70552008510200664107062905089553074687969941n-1780364684.jpg&w=600&height=400"
+    },
+    {
+      "title": "Budget 2026-27: Big on ambition, shaky on the math",
+      "summary": "Prime Minister Shah’s border-related remarks and procedural disputes have repeatedly disrupted the budget session amid opposition protests and boycotts.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/06/02/budget-2026-27-the-arithmetic-of-ambition",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/indiantourist-1780400902.jpg&w=400&height=267"
+    },
+    {
+      "title": "सीमा विवादमा तेस्रो पक्षको भूमिका अस्वीकार्य : भारत",
+      "summary": "प्रवक्ता जैसवालले मंगलबार सीमा सम्बन्धी विषय दुवै देशबीच स्थापित द्विपक्षीय रहेको भन्दै कुनै पनि तेस्रो पक्षको संलग्नता नहुने बताएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/third-party-role-in-border-dispute-unacceptable-india-br-42-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780402118_bharat-480x320.jpg"
+    },
+    {
+      "title": "'प्रधानमन्त्री शाहले संसद्‍मा नियमित हाजिर गर्नुभएको छ?'",
+      "summary": "विस्तारित समयले सवारी सञ्चालनमा न्यून अवरोध ल्याउँदै छिटो, सहज र भरपर्दो सेवा प्रदान गर्ने अपेक्षा गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/now-more-confident-in-express-t-service-balkumari-service-center-open-for-15-hours-br-89-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780401759_Xpress-T SM-480x320.jpg"
+    },
+    {
+      "title": "सांसद रिंगला भन्छिन्- मैले कुर्सी हानेको छैन, एआई हो",
+      "summary": "विद्यालय केवल शैक्षिक पठनपाठनको स्थान मात्र नभई बालबालिकाको भविष्य निर्माण गर्ने महत्वपूर्ण आधारभूमि हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Corporate/siddhartha-bank-constructs-a-building-for-the-earthquake-affected-janapriya-basic-school-98-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780401382_Bank pr-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीको अभिव्यक्ति राष्ट्रघाती छ, माफी माग्नुपर्छ: सांसद महर",
+      "summary": "अमेरिकामा अवैध रूपमा बसोबास गर्दै आएको आरोपमा उनीहरुलाई पक्राउ गरिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/interview/30-indian-truck-drivers-arrested-in-us-88-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780400865_truck-480x320.jpg"
+    },
+    {
+      "title": "महर भन्छन्- रविलाई भारतमा ‘रेड कार्पेट’ ले स्वागत गरिनु, दसैंको खसीलाई घाँस खुवाएजस्तै",
+      "summary": "प्रवक्ता जैसवालले मंगलबार सीमा सम्बन्धी विषय दुवै देशबीच स्थापित द्विपक्षीय रहेको भन्दै कुनै पनि तेस्रो पक्षको संलग्नता नहुने बताएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/third-party-role-in-border-dispute-unacceptable-india-br-42-95.html?click_from=just_in",
       "image_url": ""
     }
   ]
