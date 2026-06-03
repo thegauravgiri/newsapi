@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-03T12:47:29.705876",
+  "scraped_at": "2026-06-03T19:54:43.634794",
   "date": "2026-06-03",
-  "total_articles": 42,
+  "total_articles": 51,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -342,6 +342,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/saff-women-s-championship-nepal-stopped-in-semifinals-bangladesh-in-final-58-89.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Government launching women-only ‘Blue Bus’ service amid sustainability concerns",
+      "summary": "As authorities work out routes and funding, transport operators and activists question the service’s practicality.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/03/government-launching-women-only-blue-bus-service-amid-sustainability-concerns",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/bluebus020887ka03820230303481000x003420260310161000x0-1780501119.jpg&w=300&height=200"
+    },
+    {
+      "title": "After RSP chair Lamichhane, foreign minister to visit India",
+      "summary": "Khanal will hold meetings with External Affairs Minister Jaishankar, Commerce Minister Piyush Goel and possibly with Prime Minister Modi.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/03/after-rsp-chair-lamichhane-foreign-minister-to-visit-india",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/HFiirBHakAIyCVH-1780502528.jpg&w=300&height=200"
+    },
+    {
+      "title": "Acute shortage of platinum-based drugs disrupts chemotherapy treatment across Nepal",
+      "summary": "A nationwide shortage of platinum-based chemotherapy drugs is forcing patients’ families to source medicines from the black market amid disrupted supply and government price controls.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/06/03/acute-shortage-of-platinum-based-drugs-disrupts-chemotherapy-treatment-across-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/Untitled4-1780500404.jpg&w=600&height=400"
+    },
+    {
+      "title": "Budget 2026-27: Audacious intent, uncertain delivery",
+      "summary": "A nationwide shortage of platinum-based chemotherapy drugs is forcing patients’ families to source medicines from the black market amid disrupted supply and government price controls.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/06/03/budget-2026-27-audacious-intent-uncertain-delivery",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1780502216.jpg&w=400&height=267"
+    },
+    {
+      "title": "अदालत, सेना, नयाँ सांसद र मन्त्रीहरूको हुने छैन सम्पत्ति छानबिन",
+      "summary": "विश्व मौसम संगठन ले सार्वजनिक गरेको प्रतिवेदनअनुसार आर्कटिक क्षेत्रमा तापक्रम वृद्धि विश्वव्यापी औसतभन्दा तीन गुणाले बढी हुनेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/new-record-of-temperature-rise-predicted-within-five-years-br-79-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780504367_Untitled-1-Recovered-480x320.jpg"
+    },
+    {
+      "title": "हर्क साम्पाङका निकट सहयोगी निनाचन्द्र राईसहित १०२ जनाद्वारा श्रम संस्कृति पार्टी परित्याग",
+      "summary": "भक्तपुरको चाँगुनारायण नगरपालिका–८ स्थित मञ्जुश्री गुम्बा नजिकै बुधबार साँझ ट्याक्टर दुर्घटना हुँदा कम्तीमा दुई जना मजदुरको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-killed-in-tractor-overturn-98-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "बालेन निरंकुश शासक हुन्, ओलीसँग तुलना हुनै सक्दैन: महेश",
+      "summary": "बालेन्द्र शाह नेतृत्व सरकारको प्राथमिकतामा परेको सम्पत्ति छानविन आयोगले सर्वोच्च अदालतका प्रधानन्यायधीश, न्यायधीश संवैधानिक आयोगका बहालावाला पदाधिकारी, नेपाली सेना र पहिलो पटक सांसद र मन्त्री भएका सदस्यहरूको सम्पत्ति छानविन नगर्ने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/there-will-be-no-asset-investigation-of-the-court-army-new-mps-and-ministers-23-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780501931_chanbin-480x320.jpg"
+    },
+    {
+      "title": "आयल निगमको निरीक्षणमा उद्योगमन्त्री, इन्धन भण्डारण र आपूर्ति व्यवस्थाबारे लिइन् जानकारी",
+      "summary": "धरान उपमहानगरपालिकाको मेयर पदका लागि तयारी गरिरहेका राईले आफूलाई राजनीतिक रूपमा धोका दिइएको आरोप लगाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/102-people-including-hark-sampang-s-close-aide-ninachandra-rai-leave-shram-sanskriti-party-14-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780499933_Harka Samasya-480x320.jpg"
+    },
+    {
+      "title": "कान्तिपुर सहकारीका १०० ऋणीको नामावली सार्वजनिक",
+      "summary": "विश्व मौसम संगठन ले सार्वजनिक गरेको प्रतिवेदनअनुसार आर्कटिक क्षेत्रमा तापक्रम वृद्धि विश्वव्यापी औसतभन्दा तीन गुणाले बढी हुनेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/new-record-of-temperature-rise-predicted-within-five-years-br-79-21.html?click_from=just_in",
       "image_url": ""
     }
   ]
