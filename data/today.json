@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-03T05:00:32.971868",
+  "scraped_at": "2026-06-03T12:47:29.705876",
   "date": "2026-06-03",
-  "total_articles": 34,
+  "total_articles": 43,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -278,6 +278,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/a-major-diplomatic-achievement-for-nepal-elected-as-the-chair-of-the-united-nations-first-committee-17-74.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Finance Bill revised multiple times in days, drawing scrutiny over process",
+      "summary": "Multiple changes to tax provisions and rates after budget presentation prompt criticism from former finance ministers, who question whether due procedure was followed and warn of possible policy uncertainty.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/06/03/finance-bill-revised-four-times-in-days-drawing-scrutiny-over-process",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/RSSKTMBZ88003copy-1780462321.jpg&w=300&height=200"
+    },
+    {
+      "title": "Ring Road widening stuck in slow lane as 16km remains unfinished",
+      "summary": "Eight years after the first phase was completed, work on the Chinese-funded Kalanki-Basundhara section has yet to begin, leaving key stretches of Kathmandu’s vital orbital road mired in delays.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/03/ring-road-widening-stuck-in-slow-lane-as-16km-remains-unfinished",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/ringroadexpanssionprojectlabourworking02162026DSC2518-1780458991.jpg&w=300&height=200"
+    },
+    {
+      "title": "Wounded Bangladesh stand in Nepal women’s way to SAFF final",
+      "summary": "With past final defeats and Bangladesh’s recent off-field and on-field concerns adding context to the contest, Nepal take on defending champions Bangladesh in the SAFF Women’s Championship semifinal today.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/football/2026/06/03/wounded-bangladesh-stand-in-nepal-women-s-way-to-saff-final",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/football-1780448822.jpg&w=300&height=200"
+    },
+    {
+      "title": "India rejects ‘third-party involvement’ in boundary talks with Nepal",
+      "summary": "Immediate past Nepali ambassador to India says New Delhi has been denying neighbours’ proposals for third-party mediation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/03/india-rejects-third-party-involvement-in-boundary-talks-with-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb42-1780424561.jpg&w=600&height=400"
+    },
+    {
+      "title": "न्याय प्रणाली सुधार्न बार र बेन्चबीच सहकार्य जरुरी : प्रधानन्यायाधीश",
+      "summary": "साफ महिला च्याम्पियनसिपको सेमिफाइनलमा नेपाल बंगलादेशसँग २–१ ले पराजित हुँदै प्रतियोगिताबाट बाहिरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/saff-women-s-championship-nepal-stopped-in-semifinals-bangladesh-in-final-58-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780490370_Nepal Lady 1-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री शाहको अभिव्यक्ति राष्ट्रहितविपरीत : महेश बस्नेत",
+      "summary": "सशस्त्र प्रहरी बलका सहायक निरीक्षक शक्ति राम र एक युवती काभ्रेपलाञ्चोकको पाँचखाल नगरपालिकामा मृत अवस्थामा फेला परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/armed-police-and-a-young-woman-found-dead-br-32-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780490488_POLICE20-480x320.jpg"
+    },
+    {
+      "title": "तीनै तहका सरकारले सूचना तथा सञ्चार क्षेत्रमा गरेका कामको समीक्षा हुन्छ : सञ्चारमन्त्री",
+      "summary": "काठमाडौं उपत्यका ट्राफिक प्रहरी कार्यालयले बुधबार२५ वटा मोटरसाइकल र १५ वटा स्कुटर सम्बन्धित धनीलाई बुझाएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/40-stolen-motorcycles-and-scooters-handed-over-to-owners-br-76-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780489897_bike 20-480x320.jpg"
+    },
+    {
+      "title": "मोदीसँगको भेटपछि रविले भने- पुरानो संकुचन तोडेर विकास कूटनीतिको नयाँ युगमा प्रवेश गरौं",
+      "summary": "अस्पतालले विश्व सुर्तीजन्य पदार्थरहित दिवसको अवसर पारेर गत आइतबारदेखि निःशुल्क मुख क्यान्सर परीक्षण शिविर सञ्चालन गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/bhaktapur-cancer-hospital-patients-did-not-come-even-for-free-testing-camp-73-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780489886_Bhaktapur Cancer Hospital-480x320.jpg"
+    },
+    {
+      "title": "भारतमा रविलाई ‘हाइ-प्रोफाइल’ स्वागत : नयाँ शक्तिप्रतिको कूटनीतिक रुचि र बदलिँदो समीकरण",
+      "summary": "साफ महिला च्याम्पियनसिपको सेमिफाइनलमा नेपाल बंगलादेशसँग २–१ ले पराजित हुँदै प्रतियोगिताबाट बाहिरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/saff-women-s-championship-nepal-stopped-in-semifinals-bangladesh-in-final-58-89.html?click_from=just_in",
       "image_url": ""
     }
   ]
