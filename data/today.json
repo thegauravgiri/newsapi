@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-04T11:21:49.253172",
+  "scraped_at": "2026-06-04T15:33:06.965251",
   "date": "2026-06-04",
-  "total_articles": 45,
+  "total_articles": 55,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -366,6 +366,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/government-launches-merokitta-mobile-app-allows-users-to-avail-land-related-services-from-home-br-98-26.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "गावाट सुपर तमोर जलविद्युत आयोजनाका लागि १९ अर्ब रुपैयाँ वित्तीय व्यवस्थापनसम्बन्धी सम्झौता",
+      "summary": "गावाट सुपर तमोर जलविद्युत आयोजनाका लागि १९ अर्ब रुपैयाँ वित्तीय व्यवस्थापनसम्बन्धी सम्झौता",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13059",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/gbime-2-1780558718.jpeg"
+    },
+    {
+      "title": "What went wrong for Nepal in SAFF Women’s Championship in Goa",
+      "summary": "Another SAFF disappointment has intensified concerns over whether Nepal can finally turn promise into silverware before a celebrated era comes to an end.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/football/2026/06/04/what-went-wrong-for-nepal-in-saff-women-s-championship-in-goa",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/71082751314489561439422002443417995139207518n-1780586490.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal’s royalist party splits. Monarchy’s place in politics at heart of dispute",
+      "summary": "General Secretary Rana among others announce they have parted ways, but Lingden refuses to call it a split.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/06/04/nepal-s-royalist-party-splits-monarchy-s-place-in-politics-at-heart-of-dispute",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/71544957929250723045125731511996418809722767n-1780586938.jpg&w=300&height=200"
+    },
+    {
+      "title": "Why some officials convicted of corruption lose their pensions while others keep them",
+      "summary": "Existing framework bars pension benefits for serving officials convicted of graft, but remains silent on those already retired.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/04/why-some-convicted-officials-lose-their-pensions-while-others-keep-them",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1780565946.jpg&w=600&height=400"
+    },
+    {
+      "title": "Environmental security means national security. It cannot be secured through treaties alone",
+      "summary": "Existing framework bars pension benefits for serving officials convicted of graft, but remains silent on those already retired.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/06/04/environmental-reckoning",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/71544957929250723045125731511996418809722767n-1780586938.jpg&w=400&height=267"
+    },
+    {
+      "title": "कांग्रेस बाराका सभापति यादव निलम्बित,उपसभापति पाललाई भने सफाई",
+      "summary": "गत फागुन २१ गते सम्पन्न चुनावमा पार्टीको आधिकारिक उम्मेदवारलाई हराउन लागेको उजुरी परेका यादवले अनुशासन समितिलाई जवाफ नै नदिएपछि उनलाई जिल्ला सभापति पदबाट निलम्बन गरिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-bara-president-yadav-suspended-vice-president-pal-cleared-27-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780586436_nepali Congress-480x320.jpg"
+    },
+    {
+      "title": "नयाँ सरकारले १ खर्बको थप ऋण बोकाएर नवउपनिवेशवाद निम्त्यायोः सुवाल",
+      "summary": "उनले अहिलेको सरकारले शोषणरहित समाज निर्माण गर्ने भनेपनि उदारवाद र उदारीकरणको सिद्धान्त बोकेकाले बोली र व्यवहारमा फरक भएको जिकिर गरे ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/new-government-led-to-neo-colonialism-by-incurring-additional-debt-of-rs-100-billion-suwal-31-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780585953_Prem Suwal-480x320.jpg"
+    },
+    {
+      "title": "पूर्वराष्ट्रपतिद्वयको सुझाव: तल्लोतहका जनताको हित अनुकूल हुने गरी संविधान संशोधनका अक्षर लेख्नुहोस्",
+      "summary": "प्रहरीले कैलालीका विभिन्न स्थानबाट रु १७ लाख ३० हजार बराबरका १५ वटा मोटरसाइकल बरामद गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/motorcycles-worth-rs-1-73-million-seized-70-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752743439_baramad-480x320.jpg"
+    },
+    {
+      "title": "दिल्लीको ‘पावर करिडोर’ मा रविको दबदबा",
+      "summary": "विभागको मौसम पूर्वानुमान महाशाखाले तातो लहरसम्बन्धी विशेष बुलेटिन जारी गर्दै विभिन्न १४ जिल्लामा सतर्क रहन र अन्य सात जिल्लामा अध्यावधिक रहन अनुरोध गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/special-bulletin-on-heat-wave-14-districts-urged-to-remain-vigilant-30-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780585159_Mausham News-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीको अभिव्यक्तिविरुद्ध ताप्लेजुङमा श्रम संस्कृतिको खबरदारी सभा",
+      "summary": "गत फागुन २१ गते सम्पन्न चुनावमा पार्टीको आधिकारिक उम्मेदवारलाई हराउन लागेको उजुरी परेका यादवले अनुशासन समितिलाई जवाफ नै नदिएपछि उनलाई जिल्ला सभापति पदबाट निलम्बन गरिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-bara-president-yadav-suspended-vice-president-pal-cleared-27-87.html?click_from=just_in",
       "image_url": ""
     }
   ]
