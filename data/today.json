@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-04T15:33:06.965251",
+  "scraped_at": "2026-06-04T18:24:54.947121",
   "date": "2026-06-04",
-  "total_articles": 55,
+  "total_articles": 58,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -447,6 +447,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-bara-president-yadav-suspended-vice-president-pal-cleared-27-87.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "नेपाली राजनीति पुरानैतिर फर्कने सम्भावना छैन,नयाँको विकल्प ‘झन् नयाँ’ मात्रै: बाबुराम",
+      "summary": "पूर्वप्रधानमन्त्री डा. बाबुराम भट्टराईले वर्तमान सरकारलाई पूरा कार्यकाल काम गर्न दिनुपर्ने धारणा राखेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepali-politics-unlikely-to-return-to-old-ways-the-only-alternative-to-new-is-even-newer-baburam-br-82-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773833403_rabi baburam-480x320.jpg"
+    },
+    {
+      "title": "सरकारी विद्यालयमा किन घट्दैछन् विद्यार्थी ?",
+      "summary": "चितवनको भरतपुर महानगरपालिका–१६, बिजयनगर चोकस्थित भित्री सडक खण्डमा बसको ठक्करबाट एक साइकल यात्रीको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/cyclist-dies-after-being-hit-by-school-bus-in-bharatpur-47-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780589994_ac-480x320.jpg"
+    },
+    {
+      "title": "सिंगापुर विकास मोडलबारे कांग्रेस केन्द्रीय कार्यालयमा छलफल",
+      "summary": "नेपाल र भारतबीचको आर्थिक, व्यापारिक तथा लगानी सहकार्यलाई थप प्रभावकारी बनाउँदै साझा समृद्धिको आधार निर्माण गर्नुपर्नेमा दुवै देशका सरकारी तथा निजी क्षेत्रका प्रतिनिधिले जोड दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/emphasis-on-regular-flights-from-gautam-buddha-airport-60-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780589791_1646958288_gautambuddha-1200x560-480x320.jpg"
     }
   ]
 }
