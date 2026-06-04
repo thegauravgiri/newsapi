@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-04T04:52:57.191913",
+  "scraped_at": "2026-06-04T11:21:49.253172",
   "date": "2026-06-04",
-  "total_articles": 33,
+  "total_articles": 44,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -270,6 +270,94 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/unseasonal-rains-reduce-honey-production-in-chitwan-58-25.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "्थल परियोजनाले कतै खुसी कतै रोदन",
+      "summary": "्थल परियोजनाले कतै खुसी कतै रोदन",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13046",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/nijgad-biman-sthal-1780456867.jpg"
+    },
+    {
+      "title": "Mother secures justice for son’s murder after 11-year fight",
+      "summary": "Supreme Court upholds 12-year sentence for main convict and convicts two men previously acquitted in the 2015 killing of Surya Bahadur Pandey.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/04/mother-secures-justice-for-son-s-murder-after-11-year-fight",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/bishnukumari03620260537531000x0-1780560888.jpg&w=300&height=200"
+    },
+    {
+      "title": "How did Nepali and Bhutanese communities get involved in a Medicaid scandal in the US?",
+      "summary": "A conservative American outlet says Bhutanese and Nepali immigrants are behind a billion-dollar Medicaid fraud scheme in Ohio. Here is what is real, what is disputed, and what it means for the diaspora.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/06/04/how-did-nepali-and-bhutanese-communities-get-involved-in-a-medicaid-scandal-in-the-us",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/65813477634868622109448782100817010429059785n-1780545691.jpg&w=300&height=200"
+    },
+    {
+      "title": "Sudurpaschim capital plan stalled for years amid legal, political deadlock",
+      "summary": "Despite a 2018 decision to move the capital to Godawari, lack of federal approval, court proceedings and shifting political support have left the province operating from temporary offices in Dhangadhi.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/04/sudurpaschim-capital-plan-stalled-for-years-amid-legal-political-deadlock",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/road-1780568765.jpg&w=300&height=200"
+    },
+    {
+      "title": "Sherpa guide missing on Everest found alive in Khumbu Icefall after six days",
+      "summary": "Dawa Sherpa from Okhaldhunga suffered frostbite and is being airlifted to Kathmandu for treatment.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/06/04/sherpa-guide-missing-on-everest-found-alive-in-khumbu-icefall-after-six-days",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/DawaSherparescue-1780550919.jpg&w=600&height=400"
+    },
+    {
+      "title": "Nepal’s parliament risks another unproductive term",
+      "summary": "Dawa Sherpa from Okhaldhunga suffered frostbite and is being airlifted to Kathmandu for treatment.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/editorial/2026/06/03/nepal-s-parliament-risks-another-unproductive-tenure",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/kusal04620261159441000x0-1780570602.jpg&w=400&height=267"
+    },
+    {
+      "title": "सरकारले ल्यायो ‘मेरोकित्ता’ मोबाइल एप, घरमै बसेर जग्गासम्बन्धी सेवा लिन मिल्ने",
+      "summary": "जग्गासम्बन्धी सेवालाई प्रविधिमैत्री र सहज बनाउने उद्देश्यले नापी विभागले ‘मेरोकित्ता’ मोबाइल एप सञ्चालनमा ल्याएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-launches-merokitta-mobile-app-allows-users-to-avail-land-related-services-from-home-br-98-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780571781_napi_app-480x320.jpg"
+    },
+    {
+      "title": "भारत भ्रमणमा जाँदै परराष्ट्रमन्त्री शिशिर खनाल",
+      "summary": "भारतका विदेशमन्त्री एस जयशंकरको निमन्त्रणामा उनी भारत जाने भएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/foreign-minister-shishir-khanal-to-visit-india-br-76-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780571401_hisir shishir khanal--480x320.jpg"
+    },
+    {
+      "title": "भेदभाव र छुवाछूत उन्नत समाजको बाधक: मन्त्री वादी",
+      "summary": "महिला, बालबालिका, लैङ्गिक तथा यौनिक अल्पसङ्ख्यक र सामाजिक सुरक्षामन्त्री सीता वादीले जातीय छुवाछूत र भेदभाव लोकतान्त्रिक र उन्नत समाजको बाधक भएको बताएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/caste-discrimination-and-untouchability-are-obstacles-to-a-democratic-and-advanced-society-minister-badi-34-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780571336_sita_badi-480x320.jpg"
+    },
+    {
+      "title": "सुशासन सबैभन्दा ठूलो जनअपेक्षा: सभामुख",
+      "summary": "पुष्पलाल मध्यपहाडी लोकमार्गअन्तर्गत दिक्तेल–चखेवाभञ्ज्याङ खण्डकोदिक्तेल रुपाकोट मझुवागढी नगरपालिका ६ नेर्पास्थितमाम्खामा ग्यावियन पर्खालभासिएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/diktel-chakhewa-road-section-washed-away-br-22-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780570850_sadak vasiyo-480x320.jpg"
+    },
+    {
+      "title": "‘विशेष प्राथमिकता’ को तिंकर सडकमा बजेट न्यून",
+      "summary": "जग्गासम्बन्धी सेवालाई प्रविधिमैत्री र सहज बनाउने उद्देश्यले नापी विभागले ‘मेरोकित्ता’ मोबाइल एप सञ्चालनमा ल्याएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-launches-merokitta-mobile-app-allows-users-to-avail-land-related-services-from-home-br-98-26.html?click_from=just_in",
       "image_url": ""
     }
   ]
