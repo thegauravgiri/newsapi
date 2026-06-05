@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-06-05T11:33:48.496709",
+  "scraped_at": "2026-06-05T15:21:06.618777",
   "date": "2026-06-05",
-  "total_articles": 41,
+  "total_articles": 50,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -334,6 +334,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/foreign-minister-khanal-arrives-in-india-welcomed-by-north-desk-chief-br-72-73.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "रिलायन्स लाइफ इन्स्योरेन्सद्वारा नेपाल वाल सेवा फाउन्डेसनलाई आर्थिक सहयोग",
+      "summary": "रिलायन्स लाइफ इन्स्योरेन्सद्वारा नेपाल वाल सेवा फाउन्डेसनलाई आर्थिक सहयोग",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13072",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/byapak-1780651862.JPG"
+    },
+    {
+      "title": "The best cultural platforms eventually outgrow their founders",
+      "summary": "Kalinga Literary Festival founder Rashmi Ranjan Parida discusses literary autonomy, regional translation, and why cultural platforms must eventually belong to local communities.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/interviews/2026/06/05/the-best-cultural-platforms-eventually-outgrow-their-founders",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/interviews/sdfadsfasdfasd-1780664841.jpg&w=300&height=200"
+    },
+    {
+      "title": "Open the door to new diplomats, but don’t leave the table unguarded",
+      "summary": "An ambassador is Nepal’s face abroad. That face must be reliable, not just brilliant.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/06/05/envoy-selection-through-open-competition",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/opinion/DOWNShutterstock1-1780661628.jpg&w=300&height=200"
+    },
+    {
+      "title": "Election Commission proposes reducing commissioners to three, cutting number of lawmakers",
+      "summary": "The Commission recommends reducing the size of the House of Representatives, National Assembly and provincial assemblies, and granting itself constitutional authority to set election dates.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/05/election-commission-proposes-reducing-commissioners-to-three-cutting-number-of-lawmakers",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/electioncommissionfinalcandidates20251229667copy16120260235081000x0120120260517061000x0-1780653853.jpg&w=600&height=400"
+    },
+    {
+      "title": "कृष्णहरि पुष्कर जगेडामा",
+      "summary": "विभिन्न जिल्लामा करिब ८० हजार बालबालिकाले ‘एक बालबालिका, एक बिरुवा’ नामक राष्ट्रिय अभियान अन्तर्गत वृक्षारोपण गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/environment-day-about-80-000-children-planted-trees-66-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780671219_Student News-480x320.jpg"
+    },
+    {
+      "title": "सागर ढकाल सवार गाडी दुर्घटना, कस्तो छ उनको अवस्था ?",
+      "summary": "कोशी प्रदेश प्रहरी कार्यालयको सहयोगमा दमकका डीएसपी हरिबहादुर बस्नेत नेतृत्वका टोलीले उनलाई जेठ २१ गते पक्राउ गरेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rama-murder-case-bihar-pandit-arrested-54-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780670652_Jhapa Police-480x320.jpg"
+    },
+    {
+      "title": "धवल–प्रसाईं गठबन्धन : नयाँ पार्टीमार्फत् राजावादी शक्ति एकताबद्ध गर्ने प्रयास (११ बुँदे मार्गचित्रसहित)",
+      "summary": "श्रीलंकास्थित नेपाली दूतावासका सचिव सागर भण्डारी नेपालमा जलविद्युत्को क्षेत्रमा उच्च सम्भावना रहेको भन्दै लगानीका लागि आग्रह गरेका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/sri-lankan-businessmen-ready-to-invest-in-nepal-s-hydropower-sector-12-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780670568_Nepal Srilanka-480x320.jpg"
+    },
+    {
+      "title": "सीमा विवाद कूटनीतिक च्यानलबाट उठाउनुपर्छ : सभापति लामिछाने",
+      "summary": "सरकारले विदेश जानुअघि प्रत्येक श्रमिकलाई रोजगार सम्झौता, गन्तव्य मुलुकको कानुन, श्रम अधिकार, उपलब्ध सेवा-सुविधा तथा गुनासो दर्ता प्रक्रियाबारे स्पष्ट जानकारी दिनुपर्ने व्यवस्था पनि लागू गर्न आग्रह गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/manpower-warns-of-regular-monitoring-of-workers-sent-abroad-action-will-be-taken-27-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780669598_Prime Minister Office-480x320.jpg"
+    },
+    {
+      "title": "बुढीगण्डकीलाई बहुउद्देश्यीय बनाउन प्राधिकरण मोडलमा अगाडि बढाइँदै",
+      "summary": "विभिन्न जिल्लामा करिब ८० हजार बालबालिकाले ‘एक बालबालिका, एक बिरुवा’ नामक राष्ट्रिय अभियान अन्तर्गत वृक्षारोपण गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/environment-day-about-80-000-children-planted-trees-66-79.html?click_from=just_in",
       "image_url": ""
     }
   ]
