@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-05T04:37:18.662349",
+  "scraped_at": "2026-06-05T11:33:48.496709",
   "date": "2026-06-05",
-  "total_articles": 34,
+  "total_articles": 42,
   "sources": [
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -278,6 +278,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/the-death-of-bheshraj-darji-at-the-holding-center-in-kirtipur-raises-serious-questions-about-the-state-s-responsibility-kulman-40-85.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "शहरको पुरानो “डाउन टाउन” पुनः गुल्जार हुँदै",
+      "summary": "शहरको पुरानो “डाउन टाउन” पुनः गुल्जार हुँदै",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13071",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/3-1780650879.JPG"
+    },
+    {
+      "title": "ो आडमा अर्बौ लुटः सीआईबीको रिपोर्टले पर्दाफास !",
+      "summary": "ो आडमा अर्बौ लुटः सीआईबीको रिपोर्टले पर्दाफास !",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13064",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/deepak--sulav-1780629899.jpg"
+    },
+    {
+      "title": "Capital spending in most ministries remains below 30 percent as fiscal year enters final stretch",
+      "summary": "Of Rs407.88 billion allocated for development projects in the current fiscal year, only Rs124.61 billion has been spent in ten months, with delays blamed on post-protest budget freezes and structural bottlenecks.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/05/capital-spending-in-dozens-of-ministries-stays-below-30-percent-as-fiscal-year-nears-final-stretch",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1780632734.jpg&w=300&height=200"
+    },
+    {
+      "title": "भारत पुगे परराष्ट्रमन्त्री खनाल, अतिरिक्त सचिवले गरे स्वागत",
+      "summary": "मन्त्री खनाललाई नयाँ दिल्लीस्थित इन्दिरा गान्धी अन्तर्राष्ट्रिय विमानस्थलमा भारतीय विदेश मन्त्रालयका नर्थ डेस्क (नेपाल–भुटान) हेर्ने अतिरिक्त सचिव (प्रमुख) मनु महावरले स्वागत गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/foreign-minister-khanal-arrives-in-india-welcomed-by-north-desk-chief-br-72-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780658614_shishir khanal-480x320.jpg"
+    },
+    {
+      "title": "अन्तर व्यवस्थापिका सम्मेलनका लागि टीकापुर पुगे सभामुख अर्याल र अध्यक्ष दाहाल",
+      "summary": "मेस्सी र रोनाल्डोलाई प्रायः एकअर्काको विपरीत चरित्रका रूपमा चित्रण गरिन्छ। एकातिर अद्भुत ड्रिब्लिङ र खेल निर्माण गर्ने मेस्सी, अर्कोतिर शारीरिक क्षमता, गति र गोल गर्ने असाधारण दक्षताका धनी रोनाल्डो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/messi-and-ronaldo-two-arch-rivals-in-world-football-the-endless-debate-over-the-greatest-of-all-time-51-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780658094_Messi_Ronaldo-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको क्रियाशील सदस्यता अद्यावधिक म्याद जेठ २८ सम्म थपियो",
+      "summary": "अहिले होल्डिङ सेन्टरमा नियमित स्वास्थ्य परीक्षण हुँदा पो धेरैलाई थाहा भएको छ बागमती किनारको बसाइले शरीरमा कहाँकहाँ समस्या पारेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/slum-dwellers-at-holding-center-hopeful-of-healthy-and-safe-living-10-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780657215_holding centre-480x320.jpg"
+    },
+    {
+      "title": "अध्ययन र असाधारण बिदाको दुरुपयोग रोक्न सरकार तयार",
+      "summary": "एनएओको २० वर्षयताको पहिलो विस्तृत प्रतिवेदनले एन्ड्र्यु, उनका परिवार र कर्मचारीहरूले प्रयोग गरिरहेका १२ वटा राजकीय सम्पत्तिको अवस्था र व्यवस्थापनबारे जानकारी दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/new-questions-on-andrew-mountbatten-windsor-disclosure-of-income-from-royal-property-98-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780656841_UK News-480x320.jpg"
+    },
+    {
+      "title": "राजस्व छलीको आशंकामा ल्याइएका गाडीकोछानबिन समिति गठन",
+      "summary": "मन्त्री खनाललाई नयाँ दिल्लीस्थित इन्दिरा गान्धी अन्तर्राष्ट्रिय विमानस्थलमा भारतीय विदेश मन्त्रालयका नर्थ डेस्क (नेपाल–भुटान) हेर्ने अतिरिक्त सचिव (प्रमुख) मनु महावरले स्वागत गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/foreign-minister-khanal-arrives-in-india-welcomed-by-north-desk-chief-br-72-73.html?click_from=just_in",
       "image_url": ""
     }
   ]
