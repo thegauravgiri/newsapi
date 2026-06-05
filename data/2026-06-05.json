@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-05T15:21:06.618777",
+  "scraped_at": "2026-06-05T18:01:56.312973",
   "date": "2026-06-05",
-  "total_articles": 50,
+  "total_articles": 54,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -407,6 +407,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/environment-day-about-80-000-children-planted-trees-66-79.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "World Cup ‘free streaming’ scams drain Rs7.5 million from Nepalis in under two weeks",
+      "summary": "Fraudulent ads promising free FIFA World Cup broadcasts are luring football fans into downloading malicious apps that give hackers access to their phones and bank accounts.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/science-technology/2026/06/05/world-cup-free-streaming-scams-drain-rs7-5-million-from-nepalis-in-less-than-two-weeks",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/scam-1780645361.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nearly 3,000 responses in Nepal’s first-ever open ambassadorial appointment call",
+      "summary": "Supreme Court seeks clarification from government over alleged breach of appointment guidelines.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/05/nearly-3-000-responses-in-nepal-s-first-ever-open-ambassadorial-appointment-call",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb44-1780677882.jpg&w=300&height=200"
+    },
+    {
+      "title": "Wildlife translocation falls short of conservation goals",
+      "summary": "Decades of efforts to establish new habitats for endangered species have produced uneven outcomes, raising concerns as authorities prepare to relocate blackbucks to Chitwan.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/05/wildlife-translocation-falls-short-of-conservation-goals",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/phaparbarimagaida122520260129011000x01779550662-1780677432.jpg&w=300&height=200"
+    },
+    {
+      "title": "भाजपा अध्यक्ष र प्रधानमन्त्री मोदीलाई नेपाल भ्रमणको निमन्त्रणा दिएको छु : सभापति लामिछाने",
+      "summary": "नेपालमा औसत जुन १३ तारिखमा मनसुन भित्रिने मिति हो। तर, भारतमा तोकिएको औसत मिति जुन १ मा मनसुन भित्रिनेमा यसपालि केही ढिला गरेर भित्रिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/monsoon-to-arrive-in-nepal-within-a-week-expect-more-heat-and-less-rainfall-53-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780677053_Rain-480x320.jpg"
     }
   ]
 }
