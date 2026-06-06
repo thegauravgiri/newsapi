@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-06T17:21:30.679791",
+  "scraped_at": "2026-06-06T21:11:00.540304",
   "date": "2026-06-06",
-  "total_articles": 60,
+  "total_articles": 61,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -487,6 +487,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-says-i-also-want-to-become-an-ambassador-please-give-me-the-pm-s-number-br-30-24.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Nepalis making treacherous trip to Europe through the Balkan route",
+      "summary": "More than a hundred Nepalis are currently stranded in Trieste on the Italian-Slovenian border. This migration process has become almost routine.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/06/06/nepalis-europe-odyssey-through-the-treacherous-balkan-route",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/4-1780759412.jpg&w=300&height=200"
     }
   ]
 }
