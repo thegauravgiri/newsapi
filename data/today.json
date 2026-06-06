@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-06-06T10:13:18.533250",
+  "scraped_at": "2026-06-06T14:00:38.974042",
   "date": "2026-06-06",
-  "total_articles": 45,
+  "total_articles": 52,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -366,6 +366,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-injured-in-tractor-accident-br-55-13.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Roshan Adhikari of Centerlight refutes Daily Wire’s claims of Medicaid fraud",
+      "summary": "The Cleveland-based home care COO called the report “false, misleading, and harmful,” saying services are based on client need, not ethnicity, and reaffirming compliance with all regulations.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/06/06/roshan-adhikari-of-centerlight-refutes-daily-wire-s-claims-of-medicaid-fraud",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/WhatsAppImage20260606at184617-1780751552.jpg&w=300&height=200"
+    },
+    {
+      "title": "How did Nepali and Bhutanese communities get involved in a Medicaid scandal in the US?",
+      "summary": "Foreign Minister Shisir Khanal says the prime minister is focused on demonstrating results at home, even as Kathmandu and New Delhi explore a new phase of cooperation and high-level engagement.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/06/04/how-did-nepali-and-bhutanese-communities-get-involved-in-a-medicaid-scandal-in-the-us",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/miscellaneous/PMBalendraShahSpeaksParliament04-1780321589.jpg&w=400&height=267"
+    },
+    {
+      "title": "रास्वपा सरकारको बजेटले नतिजा दिन सक्दैन : वर्षमान",
+      "summary": "चालु आर्थिक वर्षको हालसम्म देशभर कूल चार सय ९२ किलोमिटर सडक कालोपत्र भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/492-kilometers-of-two-lane-roads-blacktopped-in-the-current-fiscal-year-br-80-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767147274_1717229507_Road_Kalopatra_raHTqeceXO-1200x560-480x320.jpg"
+    },
+    {
+      "title": "‘सेटिङ’ र बिचौलियातन्त्र अन्त्य हुँदैछ : सञ्चारमन्त्री",
+      "summary": "पुनले बजेटले कुनै पनि क्षेत्रमा नजिता दिने गरी ‘फोकस’ गर्न नसकेको बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsp-government-s-budget-cannot-deliver-results-varshaman-br-48-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780138368_barsaman_pun-480x320.jpg"
+    },
+    {
+      "title": "नेपाल–भारतबीचको सम्बन्ध थप सुदृढ गर्न तत्पर छौँः परराष्ट्रन्त्री खनाल",
+      "summary": "राष्ट्रिय तथ्याङ्क कार्यालयले बाग्मती प्रदेशबाट सबैभन्दा बढी दुई लाख ८२ हजार व्यावसायिक प्रतिष्ठानको आर्थिक विवरण सङ्कलन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/financial-details-of-282-000-business-establishments-collected-in-bagmati-75-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767610098_tathyanka karyalaya-480x320.jpg"
+    },
+    {
+      "title": "सुदूरपश्चिमको विकास गर्न सबै मिलेर काम गर्न आवश्यक छ : प्रदेश प्रमुख मियाँ",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले शुक्रबार इरानसँग अझै पनि करिब ‘२२ प्रतिशत’ क्षेप्यास्त्र बाँकी रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/iran-still-has-22-percent-of-its-missiles-trump-61-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780751360_trump-480x320.jpg"
+    },
+    {
+      "title": "देश नयाँ राजनीतिक संस्कारसहित अघि बढ्दैछ : सञ्चारमन्त्री तिमिल्सिना",
+      "summary": "चालु आर्थिक वर्षको हालसम्म देशभर कूल चार सय ९२ किलोमिटर सडक कालोपत्र भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/492-kilometers-of-two-lane-roads-blacktopped-in-the-current-fiscal-year-br-80-47.html?click_from=just_in",
       "image_url": ""
     }
   ]
