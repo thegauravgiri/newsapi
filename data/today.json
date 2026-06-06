@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-06T04:10:29.416303",
+  "scraped_at": "2026-06-06T10:13:18.533250",
   "date": "2026-06-06",
-  "total_articles": 34,
+  "total_articles": 45,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -278,6 +278,94 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/the-storekeeper-who-once-carried-a-gun-now-sells-fish-85-69.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "क रोजगार व्यवसाय संघको तृतीय उपाध्यक्षमा कृष्ण ढकालको उम्मेदवारी घोषणा",
+      "summary": "क रोजगार व्यवसाय संघको तृतीय उपाध्यक्षमा कृष्ण ढकालको उम्मेदवारी घोषणा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13084",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/ummedara-1780732741.jpg"
+    },
+    {
+      "title": "र्माणपछि किसानलाई मिल्नेछ राहत, के गर्दैछ ठेकेदार कम्पनी ?",
+      "summary": "र्माणपछि किसानलाई मिल्नेछ राहत, के गर्दैछ ठेकेदार कम्पनी ?",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13081",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Nahar-Nirman-1780715272.jpg"
+    },
+    {
+      "title": "Probe finds nothing unusual in Sudan Gurung’s landholdings",
+      "summary": "Committee stops short of making definitive conclusions on financial transactions and share investments in its probe into the former home minister’s assets.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/06/probe-finds-nothing-unusual-in-sudun-gurung-s-landholdings",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/SudanGurung-1780710336.jpg&w=300&height=200"
+    },
+    {
+      "title": "Bitumen shortage disrupts major road projects across Nepal",
+      "summary": "Surging bitumen and petroleum prices linked to the conflict in West Asia have disrupted road construction across country, halting blacktopping works and slowing progress on several of Nepal’s largest highway projects.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/06/bitumen-shortage-disrupts-major-road-projects-across-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/naagdhunganaubisekhanda06620260239011000x0-1780730751.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepse slips as post-budget rally loses momentum",
+      "summary": "Benchmark index falls 26.69 points to 2,755.41 as investors book profits, wiping about Rs45 billion in market value amid slower trading and mixed sector performance.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/06/06/nepse-slips-as-post-budget-rally-loses-momentum",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Nepsechartbar-1780718684.jpg&w=300&height=200"
+    },
+    {
+      "title": "New monsoon safety directive imposes stricter operating rules on airlines",
+      "summary": "The “Monsoon Circular 2026”, which comes into effect on June 15, introduces tighter safety protocols, including dual-pilot helicopter operations and mandatory system checks before flights.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/06/06/new-monsoon-safety-directive-imposes-stricter-operating-rules-on-airlines",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/helicopter06620260647231000x0-1780734014.jpg&w=600&height=400"
+    },
+    {
+      "title": "परराष्ट्रमन्त्री खनाल र भाजपा विदेश विभाग प्रमुखबीच भेटवार्ता",
+      "summary": "कालीकोट जिल्लाको तिलागुफा नगरपालिका–१ माट्याक्टर दुर्घटनामा परेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-injured-in-tractor-accident-br-55-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780740571_tractor-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको लक्ष्य वैकल्पिक शक्ति मात्र होइन, मलुकको नेतृत्व होः लामिछाने",
+      "summary": "ताराखोला गाउँपालिकामा निर्माणाधीन जलविद्युत् आयोजनामा काम गरिरहेका एक मजदुरको फलामे पाइपले च्यापिएर मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/worker-dies-after-being-crushed-by-metal-pipe-br-42-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767337292_Nagariknews-480x320.jpg"
+    },
+    {
+      "title": "संगठन विस्तार हुँदा ‘म रहन्न कि’ भन्ने संकीर्ण चिन्ता त्याग्नुपर्छ : सभापति लामिछाने",
+      "summary": "मकवानपुरको इन्द्रसरोबर गाउँपालिका–३ स्थित सिस्नेरीमा दुई सवारी साधन एक-आपसमा ठक्कर खाँदा १४ जना घाइते भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/sumo-and-bolero-collide-in-sisneri-14-injured-br-37-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780739691_jeep_acc-480x320.jpg"
+    },
+    {
+      "title": "कानुन निर्माणमा तीन तहका सरकारबीच सहकार्य हुनुपर्ने",
+      "summary": "कोषमा यही जेठ २० गतेसम्म रु एक खर्ब ११ अर्ब सात करोड पाँच लाख ८५ हजार बराबरको योगदान रकम जम्मा भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/rs-111-billion-collected-in-social-security-fund-br-33-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1744680913_samajik surakxya-480x320.jpg"
+    },
+    {
+      "title": "संसदमा पेस भएपछि किन फेरिन्छन् करका दर",
+      "summary": "कालीकोट जिल्लाको तिलागुफा नगरपालिका–१ माट्याक्टर दुर्घटनामा परेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-injured-in-tractor-accident-br-55-13.html?click_from=just_in",
       "image_url": ""
     }
   ]
