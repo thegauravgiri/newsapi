@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-06T14:00:38.974042",
+  "scraped_at": "2026-06-06T17:21:30.679791",
   "date": "2026-06-06",
-  "total_articles": 52,
+  "total_articles": 60,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -422,6 +422,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/492-kilometers-of-two-lane-roads-blacktopped-in-the-current-fiscal-year-br-80-47.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Destruction of confiscated cell phones sparks legal and administrative scrutiny",
+      "summary": "The destroyed devices included seven iPhones and 489 Android smartphones. Officials estimate their combined value at more than Rs10 million.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/06/destruction-of-confiscated-cell-phones-sparks-legal-and-administrative-scrutiny",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/IMG20260605WA0000-1780758067.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepalis’ Europe odyssey, through the treacherous Balkan route",
+      "summary": "More than a hundred Nepalis are currently stranded in Trieste on the Italian-Slovenian border. This migration process has become almost routine.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/06/06/nepalis-europe-odyssey-through-the-treacherous-balkan-route",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/4-1780759412.jpg&w=300&height=200"
+    },
+    {
+      "title": "Karnali apple farmers’ market worry sets in months before harvest season",
+      "summary": "Record harvests are expected across Karnali this year, but growers worry that poor roads, lack of cold storage and weak market systems will once again force them to sell apples at throwaway prices while consumers pay several times more.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/06/karnali-apple-farmers-market-worry-sets-in-months-before-harvest-season",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Untitled1-1780756411.jpg&w=600&height=400"
+    },
+    {
+      "title": "प्रधानमन्त्री भन्छन्- मलाई पनि राजदूत बन्न मन छ, पीएमको नम्बर दिनुस् न",
+      "summary": "शनिबार साँझ आफ्नो आधिकारिक सामाजिक सञ्जाल अकाउन्टमार्फत उनले आफूलाई पनि राजदूत बन्ने इच्छा रहेको भन्दै प्रधानमन्त्रीको नम्बर उपलब्ध गराइदिन आग्रह गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-says-i-also-want-to-become-an-ambassador-please-give-me-the-pm-s-number-br-30-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776001745_balen saha-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा सुनसरी अधिवेशनमा पनि हातपात,तनावबीच मतदान जारी",
+      "summary": "कपिलवस्तुको बाणगंगा नगरपालिकास्थित मायादेवी रिसोर्टको स्विमिङ पुलमा डुबेर शनिबार दिउँसो एक ८ वर्षीय बालकको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/8-year-old-boy-dies-after-drowning-in-resort-swimming-pool-21-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780763468_mayadevi-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा कार्यकर्ता हानाहानमा उत्रिएपछि अधिवेशन स्थगित",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) को सुनसरी जिल्ला अधिवेशनमा विवाद र तनावका बीच मतदान प्रक्रिया अगाडि बढेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/voting-continues-amid-controversy-and-scuffles-at-rsvp-sunsari-convention-17-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780762706_suun-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा कास्की सभापतिमा यदुनाथ १ मतान्तरले विजयी",
+      "summary": "सोही क्षेत्रका किसान जगन्नाथ कडेरियाले सात कठ्ठामा लगाएको धानको अवस्था पनि उस्तै छ। उनका अनुसार करिब ८० प्रतिशत बाला पाक्न नपाउँदै सुकिसकेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/neck-blast-observed-in-chaite-5-variety-of-rice-in-chitwan-production-expected-to-decrease-43-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780762125_dhan-480x320.jpg"
+    },
+    {
+      "title": "नेपाल-भारत सम्बन्धलाई आधुनिक र विकासमुखी साझेदारीमा रूपान्तरण गर्न चाहन्छौं: परराष्ट्रमन्त्री",
+      "summary": "शनिबार साँझ आफ्नो आधिकारिक सामाजिक सञ्जाल अकाउन्टमार्फत उनले आफूलाई पनि राजदूत बन्ने इच्छा रहेको भन्दै प्रधानमन्त्रीको नम्बर उपलब्ध गराइदिन आग्रह गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-says-i-also-want-to-become-an-ambassador-please-give-me-the-pm-s-number-br-30-24.html?click_from=just_in",
       "image_url": ""
     }
   ]
