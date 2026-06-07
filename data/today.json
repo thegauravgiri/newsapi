@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-06-07T10:33:33.306729",
+  "scraped_at": "2026-06-07T14:10:42.786033",
   "date": "2026-06-07",
-  "total_articles": 43,
+  "total_articles": 48,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -350,6 +350,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/sudhan-is-confident-of-getting-cleared-says-if-he-becomes-home-minister-again-he-should-not-come-to-take-photos-for-two-months-br-79-58.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "संसद् अवरोध राष्ट्रहितका लागि हो : ऐन महर",
+      "summary": "प्रधानमन्त्रीको भनाइले राष्ट्रिय स्वाभिमान र कूटनीतिक मर्यादामाथि प्रश्न उठाएको दाबी गर्दै उनले सरकारले यस विषयलाई गम्भीरतापूर्वक लिनुपर्ने धारणा राखे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/parliament-obstruction-is-in-the-national-interest-ain-mahar-23-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780840751_Aian Mahar-480x320.jpg"
+    },
+    {
+      "title": "सीमा समस्या कूटनीतिक माध्यमबाटै हल हुन्छ, तेस्रो पक्षको मध्यस्थता खोजेका होइनौं: परराष्ट्रमन्त्री",
+      "summary": "एनसेल र अल्टिमा लाइफस्टाइलबीच भएको साझेदारीसँगै एनसेल ग्राहकहरूले अल्टिमाका विभिन्न ग्याजेटहरूमा छुट प्राप्त गर्ने भएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Corporate/ncell-customers-get-up-to-60-percent-discount-on-ultima-gadgets-br-48-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780840141_Ncell, Ultima 1-480x320.jpg"
+    },
+    {
+      "title": "तीनदिने भारत भ्रमण सकेर स्वदेश फर्किए परराष्ट्रमन्त्री",
+      "summary": "यो परिमार्जित मूल्यले स्मार्ट र प्रविधिमैत्री इलेक्ट्रिक एसयूभी खोजिरहेका ग्राहकहरूका लागि लिपमोटर B10 लाई थप पहुँचयोग्य बनाउनेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/lipmotor-b10-top-variant-price-reduced-now-available-at-new-price-of-rs-54-99-lakh-65-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780839845_China Gadi-480x320.jpg"
+    },
+    {
+      "title": "‘एक हातले त बाइक कुदाइहालिन्छ नि, के-को ठुलो इस्यु भयो ?’",
+      "summary": "परराष्ट्रमन्त्री शिशिर खनाल तीनदिने भारत भ्रमण सम्पन्न गरी आइतबार साँझ स्वदेश फर्किएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/border-issue-can-be-resolved-through-diplomatic-means-we-are-not-seeking-third-party-mediation-foreign-minister-29-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780839197_khanal-480x320.jpg"
+    },
+    {
+      "title": "कालापानी–लिपुलेकमा नेपालको अडान सधैँ छ : परराष्ट्रमन्त्री खनाल",
+      "summary": "प्रधानमन्त्रीको भनाइले राष्ट्रिय स्वाभिमान र कूटनीतिक मर्यादामाथि प्रश्न उठाएको दाबी गर्दै उनले सरकारले यस विषयलाई गम्भीरतापूर्वक लिनुपर्ने धारणा राखे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/parliament-obstruction-is-in-the-national-interest-ain-mahar-23-44.html?click_from=just_in",
       "image_url": ""
     }
   ]
