@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-06-07T04:46:38.537217",
+  "scraped_at": "2026-06-07T10:33:33.306729",
   "date": "2026-06-07",
-  "total_articles": 34,
+  "total_articles": 43,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -278,6 +278,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/tribhuvan-army-wins-women-s-hockey-title-99-27.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ापा बने लुम्बिनी प्रदेश नागरिक समाज युवा मञ्चको अध्यक्ष",
+      "summary": "ापा बने लुम्बिनी प्रदेश नागरिक समाज युवा मञ्चको अध्यक्ष",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13091",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/puran-thapa-1780821575.jpg"
+    },
+    {
+      "title": "ुमति सुर्ती तथा मदिराजन्य वस्तु विक्री",
+      "summary": "ुमति सुर्ती तथा मदिराजन्य वस्तु विक्री",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13090",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/रारा-ताल-ब्यापारी-1780804101.jpg"
+    },
+    {
+      "title": "Daraz Nepal trims workforce amid South Asia restructuring",
+      "summary": "Around 30 employees have been laid off in recent weeks as the Alibaba-backed e-commerce platform seeks to streamline operations and strengthen profitability.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/07/daraz-nepal-trims-workforce-amid-south-asia-restructuring",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/layoffs107620260302541000x0-1780810458.jpg&w=300&height=200"
+    },
+    {
+      "title": "Spiny babbler recorded in Madhesh Province for first time",
+      "summary": "Ornithologists say the rare bird, found only in Nepal, has now been confirmed across all seven provinces after a sighting in Bara district.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/07/spiny-babbler-recorded-in-madhesh-province-for-first-time",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/spinybabblephoto107620260731581000x0-1780824720.jpg&w=600&height=400"
+    },
+    {
+      "title": "सफाइ पाउनेमा ढुक्क छन् सुधन, भन्छन्- फेरि गृहमन्त्री बने भने दुई महिना फोटो खिच्न नआउनू",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सांसद एवं पूर्व गृहमन्त्री सुधन गुरुङले आफू पुनः गृह प्रशासनको नेतृत्वमा फर्किए सुरुका दुई महिना कसैलाई पनि मन्त्रालयमा तस्बिर खिच्न र बधाई दिन नआउन आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sudhan-is-confident-of-getting-cleared-says-if-he-becomes-home-minister-again-he-should-not-come-to-take-photos-for-two-months-br-79-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780825037_sudan-480x320.jpg"
+    },
+    {
+      "title": "म गृहमन्त्री बने भने दुई महिना तस्बिर खिच्न नआउनू : सुदन गुरुङ",
+      "summary": "उनले समितिको प्रतिवेदन अहिले प्रधानमन्त्री कार्यालयमा पुगिसकेको जानकारी दिँदै आफूले पूर्ण रूपमा सफाइ पाउनेमा आशावादी रहेको बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/if-i-become-home-minister-i-will-not-come-to-take-pictures-for-two-months-sudan-gurung-br-93-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780823275_sudan gurung-480x320.jpg"
+    },
+    {
+      "title": "गोरखाले मलाई काम गर्न जिताएको हो, फोटो खिच्न होइन : सुदन गुरुङ",
+      "summary": "स्वास्थ्य तथा खाद्य सुरक्षामन्त्री निशा मेहताले स्वास्थ्य क्षेत्रमा रहेका नीतिगत तथा व्यावहारिक समस्या समाधानका लागि सञ्चारकर्मीहरूसँग सुझाव संकलन गरेकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/health-and-food-security-minister-mehta-gathers-suggestions-from-journalists-br-27-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780824009_bhetwarta-480x320.jpg"
+    },
+    {
+      "title": "लिपुलेक विवादमा बेलायतको मध्यस्थता होइन, कूटनीतिक समाधान चाहन्छौँ : परराष्ट्रमन्त्री",
+      "summary": "उनले निर्वाचनमा आफूले गरेको बाचापत्र पूरा गरेरै छाड्ने प्रतिबद्धता व्यक्त गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/gorkha-won-me-over-not-for-taking-photos-but-for-working-sudan-gurung-br-89-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780823275_sudan gurung-480x320.jpg"
+    },
+    {
+      "title": "पूर्वसांसद गुप्ताको निधन",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सांसद एवं पूर्व गृहमन्त्री सुधन गुरुङले आफू पुनः गृह प्रशासनको नेतृत्वमा फर्किए सुरुका दुई महिना कसैलाई पनि मन्त्रालयमा तस्बिर खिच्न र बधाई दिन नआउन आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sudhan-is-confident-of-getting-cleared-says-if-he-becomes-home-minister-again-he-should-not-come-to-take-photos-for-two-months-br-79-58.html?click_from=just_in",
       "image_url": ""
     }
   ]
