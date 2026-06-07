@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-07T14:10:42.786033",
+  "scraped_at": "2026-06-07T17:25:14.799329",
   "date": "2026-06-07",
-  "total_articles": 46,
+  "total_articles": 53,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -374,6 +374,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/parliament-obstruction-is-in-the-national-interest-ain-mahar-23-44.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal’s postal service searches for a new role in the digital age",
+      "summary": "Once the backbone of communication, the postal system now relies largely on government business.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/07/nepal-s-postal-service-searches-for-a-new-role-in-the-digital-age",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/generalpostoffice20260607458907620260407081000x0-1780848334.jpg&w=300&height=200"
+    },
+    {
+      "title": "After BJP’s historic win in West Bengal, what lies ahead for the Gorkhaland dream",
+      "summary": "The BJP’s first-ever majority government in West Bengal has revived hopes of a separate Gorkhaland state among Nepali-speaking communities in Darjeeling and adjoining regions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/07/after-bjp-s-historic-win-in-west-bengal-what-lies-ahead-for-the-gorkhaland-dream",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/gorkhaland2074-1780841387.jpg&w=600&height=400"
+    },
+    {
+      "title": "अन्तरदेशीय डिजिटल भुक्तानीसहित यी तीन विषयमा नेपाल–भारतबीच समझदारी",
+      "summary": "परराष्ट्रमन्त्री शिशिर खनाल भारतको तीनदिने औपचारिक भ्रमण सम्पन्न गरी आइतबार साँझ स्वदेश फर्किएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepal-india-agreement-on-these-three-issues-including-cross-border-digital-payments-16-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780849533_shishir-480x320.jpg"
+    },
+    {
+      "title": "रवि लामिछानेले बोलाए सर्वदलीय बैठक",
+      "summary": "सगरमाथा आरोही सङ्घले नेपालको हिमाली क्षेत्रमा असुरक्षा बढ्दै गएको र त्यसले विदेशी पर्यटकमा नकारात्मक असर परेको जनाउँदै सुरक्षाका लागि प्रभावकारी कदम चाल्न सरकारसँग आग्रह गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/demand-for-security-citing-increasing-insecurity-in-the-himalayan-region-23-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1745804801_sagarmatha adharsibir-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा महाधिवेशनमा, कांग्रेस कलहमा",
+      "summary": "प्रहरीले ईश्वरी भुजेल हत्या प्रकरणमा थप तीन जनालाई पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/three-more-people-arrested-in-ishwari-murder-case-49-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780849097_ishwori-bhujel_eN1sbYn3jx-480x320.jpg"
+    },
+    {
+      "title": "रास्वपामा महाधिवेशन सरगर्मी: सत्ता र सङ्गठन सुदृढीकरणको दोसाँधमा नयाँ चुनौती",
+      "summary": "भारतको गुजरातस्थित अहमदाबादमा सञ्चालन भइरहेको ‘विश्व योगासन च्याम्पियनसिप २०२६’ मा नेपालले अभूतपूर्व सफलता हासिल गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/world-yoga-championship-nepal-s-historic-medal-rain-among-78-nations-64-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780847746_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "सभापति थापासँग लामो समयदेखि कुराकानी भएको छैनः पूर्णबहादुर खड्का",
+      "summary": "परराष्ट्रमन्त्री शिशिर खनाल भारतको तीनदिने औपचारिक भ्रमण सम्पन्न गरी आइतबार साँझ स्वदेश फर्किएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepal-india-agreement-on-these-three-issues-including-cross-border-digital-payments-16-40.html?click_from=just_in",
       "image_url": ""
     }
   ]
