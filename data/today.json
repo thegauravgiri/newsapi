@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-06-08T04:51:45.183211",
+  "scraped_at": "2026-06-08T12:39:37.527758",
   "date": "2026-06-08",
-  "total_articles": 34,
+  "total_articles": 43,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -278,6 +278,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/bista-elected-as-president-of-rsvp-kanchanpur-this-is-the-new-working-committee-57-83.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Government considers new bills as ordinances face uncertainty",
+      "summary": "The government is discussing fresh legislation as eight ordinances remain pending in Parliament, with opposition parties seeking their rejection and several key provisions already implemented.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/08/government-considers-new-bills-as-ordinances-face-uncertainty",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/AIenhancedpostillustration-1780895196.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal crowned Asian Games T20 Qualifiers champions after rain-hit final",
+      "summary": "Sher Malla takes four wickets before Kushal Bhurtel’s 65 powers Nepal ahead of the DLS par score against Hong Kong in Singapore.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/cricket/2026/06/08/nepal-crowned-asian-games-t20-qualifiers-champions-after-rain-hit-final",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/CANNEPALVSHONGKONG-1780915768.jpg&w=300&height=200"
+    },
+    {
+      "title": "Advanced technology is transforming archaeological conservation in Lumbini",
+      "summary": "During a four-week training last month, a team of archaeologists conserved 100 historical objects discovered within the Lumbini area.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/08/advanced-technology-is-transforming-archaeological-conservation-in-lumbini-1780918619",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Untitled1-1780918177.jpg&w=300&height=200"
+    },
+    {
+      "title": "Government moves to appoint university heads through open competition",
+      "summary": "Education and health authorities have begun the process for merit-based appointments for vice-chancellors and other senior officials.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/08/government-moves-to-appoint-university-heads-through-open-competition",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/tu28920200931341000x008620260826401000x0-1780914368.jpg&w=600&height=400"
+    },
+    {
+      "title": "मन्त्रालय घटेर १८ कायम भएसँगै २३ सचिवको सरुवा र जिम्मेवारी हेरफेर",
+      "summary": "राष्ट्रपति ट्रम्पले अज्ञानता वा मूर्खताको अधीनमा ‘शान्ति’ सम्बन्धी अन्तिम वार्ता अघि बढिरहेको बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/iran-israel-ready-for-ceasefire-trump-78-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780751360_trump-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको नीति अनुसन्धान प्रतिष्ठानको बैठक बस्दै",
+      "summary": "वीरगञ्ज महानगरपालिकाका नगर प्रमुख (मेयर) राजेशमान सिंहसहित ७ जनाविरुद्ध विशेष अदालतमा मुद्दा दायर गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/case-filed-against-7-people-including-birgunj-mayor-rajeshman-singh-br-59-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780037400_Rajeshman-480x320.jpg"
+    },
+    {
+      "title": "स्वदेशी उद्योगको संरक्षणका लागि आलोचना सहेरै भए पनि कर पुनर्संरचना गरियो: अर्थमन्त्री",
+      "summary": "सरकारले निजामती कर्मचारी अस्पताल (सिभिल अस्पताल, काठमाडौं) ले प्रदान गर्दै आएको स्वास्थ्य उपचार सुविधालाई प्रदेशस्तरसम्म विस्तार गर्ने प्रक्रिया अघि बढाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/civil-health-service-also-started-from-gandaki-hospital-civil-hospital-facility-at-the-provincial-level-br-32-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780408054_prathiva-480x320.jpg"
+    },
+    {
+      "title": "लागूऔषध सहित १७ जना पक्राउ",
+      "summary": "हुम्लाको दक्षिण भेगमा रहेको चङ्खेली गाउँपालिका-५ नेप्का गाउँ नजिकैको मुस्याँडा खोलाको नदिमा स्थानीयले आफ्नै श्रमदानमा काठे पुल निर्माण गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/construction-of-a-wooden-bridge-by-donating-labor-53-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780920257_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "विद्युत् बक्यौता असुलीमा मन्त्रालयको निर्देशन कुर्नुपर्दैन, संयन्त्र परिचालन गरी अघि बढ्नुस्: मन्त्री श्रेष्ठ",
+      "summary": "राष्ट्रपति ट्रम्पले अज्ञानता वा मूर्खताको अधीनमा ‘शान्ति’ सम्बन्धी अन्तिम वार्ता अघि बढिरहेको बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/iran-israel-ready-for-ceasefire-trump-78-40.html?click_from=just_in",
       "image_url": ""
     }
   ]
