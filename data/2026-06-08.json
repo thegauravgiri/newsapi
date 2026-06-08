@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-06-08T12:39:37.527758",
+  "scraped_at": "2026-06-08T18:29:57.558037",
   "date": "2026-06-08",
-  "total_articles": 42,
+  "total_articles": 49,
   "sources": [
-    "KathmanduPost",
     "News24",
+    "KathmanduPost",
     "NagarikNews"
   ],
   "articles": [
@@ -342,6 +342,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/iran-israel-ready-for-ceasefire-trump-78-40.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Weak arbitration defence costs government billions",
+      "summary": "State agencies’ ineffective counterclaims in disputes with construction firms have resulted in losses of at least Rs 5.5 billion over five years.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/08/weak-arbitration-defence-costs-government-billions",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/ASectionoftheSiktaProject-1780919870.jpg&w=300&height=200"
+    },
+    {
+      "title": "David Marriott Thinks Nepal Is Ready. Is Nepal?",
+      "summary": "The chair of the world’s largest hotel company makes the case for luxury hospitality as a development tool—and lays out what governments, including Nepal’s, need to deliver.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/interviews/2026/06/07/david-marriott-thinks-nepal-is-ready-is-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/interviews/DavidMarriott04-1780847651.jpg&w=300&height=200"
+    },
+    {
+      "title": "परराष्ट्रमन्त्रीले गरे बेलायतका रक्षा मन्त्रीसँग ‘भर्चुअल’ बैठक",
+      "summary": "परराष्ट्रमन्त्री शिशिर खनालले आज संयुक्त अधिराज्य बेलायतका रक्षामन्त्री जोन हिली र भूतपूर्व सैनिक तथा जनशक्तिसम्बन्धी मन्त्री लुइस स्यान्डर–जोन्ससँग भर्चुअल बैठक गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/foreign-minister-holds-virtual-meeting-with-uk-defense-minister-50-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780849533_shishir-480x320.jpg"
+    },
+    {
+      "title": "निजामती सेवामा ‘उथलपुथल’ तयारी: ५५ वर्षमै अवकाश दिने गरी अध्यादेशको मस्यौदा",
+      "summary": "विश्व फुटबल महासंघ (फिफा) ले सन् २०३० सम्म हरितगृह ग्यास उत्सर्जन ५० प्रतिशतले घटाउने र २०४० सम्म ‘नेट–जिरो’ कार्बन उत्सर्जनको लक्ष्य राखेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/world-cup-2026-br-71-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780935671_fifa-480x320.jpg"
+    },
+    {
+      "title": "फुकेन संसद्को गाँठोः प्रधानमन्त्रीले जवाफ नदिइ संसद् खुलाउने रास्वपाको प्रस्ताव ठाडै अस्विकार",
+      "summary": "प्रस्तावित प्रस्तावअनुसार ऐनको विधेयक संसद्बाट पास भएमा ५५ वर्ष उमेर पुगेका वा ३० वर्ष सेवावधि पुगेका कर्मचारी अनिवार्य अवकाशमा जानेछन्। त्यसपछि",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/retirement-age-limit-55-years-or-completion-of-30-years-of-service-preparation-to-bring-in-an-act-through-an-ordinance-br-23-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780934535_karmachari-480x320.jpg"
+    },
+    {
+      "title": "भारतबाट फर्किए लगत्तै जापानका राजदूतले भेटे परराष्ट्र मन्त्री खनाललाई",
+      "summary": "यस नयाँ प्रविधिसँगै ग्राहकहरूले परम्परागत झन्झट र ढिलाइबाट मुक्ति पाउनेछन्। अब भारतबाट पैसा पठाउँदा धेरै दिन पर्खिनु पर्दैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Corporate/nmb-bank-launches-new-cross-border-p2p-service-for-nepal-india-money-transfers-87-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780932789_NMB Cross Border Payment-480x320.jpg"
+    },
+    {
+      "title": "सुदूरपश्चिम सरकारमा कांग्रेसका ५ मन्त्री थपिए",
+      "summary": "परराष्ट्रमन्त्री शिशिर खनालले आज संयुक्त अधिराज्य बेलायतका रक्षामन्त्री जोन हिली र भूतपूर्व सैनिक तथा जनशक्तिसम्बन्धी मन्त्री लुइस स्यान्डर–जोन्ससँग भर्चुअल बैठक गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/foreign-minister-holds-virtual-meeting-with-uk-defense-minister-50-12.html?click_from=just_in",
       "image_url": ""
     }
   ]
