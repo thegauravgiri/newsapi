@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-09T11:24:25.183123",
+  "scraped_at": "2026-06-09T15:21:10.474366",
   "date": "2026-06-09",
-  "total_articles": 41,
+  "total_articles": 47,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -334,6 +334,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/mizar-accused-in-14-cases-arrested-br-42-65.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "People from 11 high JE-burden districts to be vaccinated",
+      "summary": "Chitwan, Kailali, Tanahun, Dang, Jhapa, Kapilvastu, Morang, Rupendehi, Sunsari, Rautahat and Sarlahi are among the worst-affected districts.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/06/09/people-from-11-high-je-burden-districts-to-be-vaccinated",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1781010724.jpg&w=600&height=400"
+    },
+    {
+      "title": "पशुपतिनाथ मन्दिर क्षेत्रमा सिक्री लुटपाट गर्ने पाँच भारतीय पक्राउ",
+      "summary": "प्रहरीले आज पशुपतिनाथ मन्दिर क्षेत्रमा सुनको सिक्री लुटपाट गर्ने पाँच जना भारतीय नागरिकलाई पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/five-indians-arrested-for-looting-jewellery-in-pashupatinath-temple-area-80-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771077460_pasupati-480x320.jpg"
+    },
+    {
+      "title": "दरबार हत्याकाण्डको फाइल खुल्ने भएपछि ज्ञानेन्द्र शाहीले ताने राष्ट्रपतिको नाम",
+      "summary": "नेपाली समाज बुल्गेरियाले बुल्गेरियामा रोजगारीका क्रममा असामयिक निधन भएका नेपाली नागरिक सुमन अर्यालको परिवारलाई आर्थिक सहयोग प्रदान गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/diaspora/nepali-society-in-bulgaria-provides-rs-500-000-assistance-to-late-aryal-s-family-38-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781016803_Help-480x320.jpg"
+    },
+    {
+      "title": "कोशी प्रदेशसभा बैठक जेठ २९ गते बस्ने",
+      "summary": "राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) का सांसद ज्ञानेन्द्र शाहीले दरबार हत्याकाण्डको फाइल पुनः खोल्ने गृहमन्त्री सुधन गुरुङको निर्णयको स्वागत गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/welcoming-the-decision-to-open-the-file-on-the-palace-massacre-gyanendra-shahi-sought-statements-from-the-then-home-minister-and-the-current-president-15-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781016188_67-480x320.jpg"
+    },
+    {
+      "title": "महानगरपालिकाले थाल्यो सुझाव संकलन",
+      "summary": "कोशी प्रदेशसभा बैठक जेठ २९ गते बस्ने भएको छ । प्रदेशसभा सचिवालयले सूचना प्रकाशित गरी जेठ २९ गते बस्ने जानकारी दिएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/koshi-provincial-assembly-meeting-to-be-held-on-jestha-29-40-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/photos/1781015900_Koshi Pradesh Sava-480x320-wm.jpg"
+    },
+    {
+      "title": "ऋण असुलीबाट शिव शिखरका थप २१६ जना पीडितले पाए रकम",
+      "summary": "प्रहरीले आज पशुपतिनाथ मन्दिर क्षेत्रमा सुनको सिक्री लुटपाट गर्ने पाँच जना भारतीय नागरिकलाई पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/five-indians-arrested-for-looting-jewellery-in-pashupatinath-temple-area-80-83.html?click_from=just_in",
       "image_url": ""
     }
   ]
