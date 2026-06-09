@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-09T15:21:10.474366",
+  "scraped_at": "2026-06-09T18:14:21.617485",
   "date": "2026-06-09",
-  "total_articles": 47,
+  "total_articles": 49,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -383,6 +383,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/five-indians-arrested-for-looting-jewellery-in-pashupatinath-temple-area-80-83.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "IMF flags rising crypto adoption in Nepal despite ban, urges close monitoring",
+      "summary": "Fund warns of growing stablecoin and crypto flows, calls for regulatory framework to safeguard financial stability; praises reforms in cooperative sector oversight and governance.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/06/09/imf-flags-rising-crypto-adoption-in-nepal-despite-ban-urges-close-monitoring",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1781020067.jpg&w=300&height=200"
+    },
+    {
+      "title": "योग्य, सक्षम इमान्दारी नेतृत्व आवश्यक छ: बुर्लाकोटी",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का महामन्त्री कविन्द्र बुर्लाकोटीले पार्टीमा योग्य, इमान्दार र सक्षम युवा नेतृत्वलाई पाँच वर्ष निर्भिक भएर काम गर्ने अवसर प्रदान गर्नुपर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/qualified-capable-honest-leadership-is-needed-burlakoti-55-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780828482_kabindra_rsp--480x320.jpg"
     }
   ]
 }
