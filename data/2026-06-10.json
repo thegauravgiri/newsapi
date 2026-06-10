@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-10T11:44:14.710689",
+  "scraped_at": "2026-06-10T15:55:44.805951",
   "date": "2026-06-10",
-  "total_articles": 44,
+  "total_articles": 51,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -358,6 +358,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/construction-of-297-km-transmission-line-and-two-substations-begins-under-mcc-17-74.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Rabies vaccine crisis hits districts. Sukraraj Hospital also critically low on doses",
+      "summary": "Epidemiology and Disease Control Division asks WHO for urgent doses.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/06/10/rabies-vaccine-crisis-hits-districts-sukraraj-hospital-also-critically-low-on-doses",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1781103711.jpg&w=300&height=200"
+    },
+    {
+      "title": "Monkey nation",
+      "summary": "Although immigration officials stopped Pankaj Bikram Nembang and Kiran Rai from flying out of Kathmandu on Monday night, they can follow the precedent of CEO Indraman Tuladhar, who previously bypassed the travel ban by flying to Canada via India.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/06/10/monkey-nation",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1781103711.jpg&w=400&height=267"
+    },
+    {
+      "title": "रास्वपा कोशीको सभापतिमा ४ जनाको मनोनयन, मतदान अनिश्चित",
+      "summary": "सार्वजनिक आईसीसीको सूचीमा नेपालका अलराउन्डर दीपेन्द्र सिंह ऐरी र बंगलादेशका दुई खेलाडी परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/airey-named-in-icc-player-of-the-month-list-75-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777098717_dipendra-480x320.jpg"
+    },
+    {
+      "title": "गृहमन्त्री गुरुङले गरे कालभैरवको दर्शन",
+      "summary": "स्याउको राजधानीका रूपमा परिचित मुस्ताङका किसानलाई स्याउखेती गर्न सकिने सरकारी संस्थाको नाम हो शीतोष्ण बागवानी विकास केन्द्र।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/government-run-industry-in-mustang-that-makes-juicy-apple-brandy-shuts-down-85-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781106056_brande-480x320.jpg"
+    },
+    {
+      "title": "स्थानीय तहको बजेट निर्माणमा मन्त्रालय सक्रिय, सहजीकरणका लागि तीन टोली फिल्डमा",
+      "summary": "निर्वाचन समितिका अनुसार प्रदेश सभापति पदका लागि४ जनाले उम्मेदवारी दर्ता गरेपछि मतदानबाट नेतृत्व चयनको तयारी गरिएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/4-nominated-for-rsvp-koshi-presidency-voting-uncertain-26-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/photos/1781104560_Raswapa Koshi-480x320-wm.jpg"
+    },
+    {
+      "title": "संघ सरकारलाई फुङलिङको अपिल: बजारभित्रको सडक सीमा १५ मिटर कायम होस्",
+      "summary": "दोस्रो पटक गृहमन्त्रीको जिम्मेवारी पाएका सुधन गुरुङले कालभैरवको दर्शन गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/home-minister-gurung-visits-kalabhairav-br-90-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781104156_npl-480x320.jpg"
+    },
+    {
+      "title": "संसद्‌को गतिरोध अन्त्य,बजेटमाथि छलफल सुरु",
+      "summary": "सार्वजनिक आईसीसीको सूचीमा नेपालका अलराउन्डर दीपेन्द्र सिंह ऐरी र बंगलादेशका दुई खेलाडी परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/airey-named-in-icc-player-of-the-month-list-75-71.html?click_from=just_in",
       "image_url": ""
     }
   ]
