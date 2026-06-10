@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-10T15:55:44.805951",
+  "scraped_at": "2026-06-10T18:35:25.203255",
   "date": "2026-06-10",
-  "total_articles": 51,
+  "total_articles": 53,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -415,6 +415,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/airey-named-in-icc-player-of-the-month-list-75-71.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "India’s Jaishankar is deep in Nepali leadership’s psyche",
+      "summary": "Recent diplomatic outreach has prompted a reassessment in Kathmandu of Delhi’s role nearly 11 years ago and how those perceptions have evolved since.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/opinion/2026/06/10/india-s-jaishankar-is-deep-in-nepali-leadership-s-psyche",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/HKJEQvIakAASDxS-1781111207.jpg&w=600&height=400"
+    },
+    {
+      "title": "परराष्ट्रमन्त्री शिशिर खनाल चीन भ्रमणमा जाने",
+      "summary": "परराष्ट्रमन्त्री शिशिर खनालले उत्तरी छिमेकी चीनको भ्रमण गर्ने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/foreign-minister-khanal-to-visit-china-94-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780849533_shishir-480x320.jpg"
     }
   ]
 }
