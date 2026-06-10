@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-10T04:25:03.221091",
+  "scraped_at": "2026-06-10T11:44:14.710689",
   "date": "2026-06-10",
-  "total_articles": 34,
+  "total_articles": 45,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -278,6 +278,94 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-injured-in-truck-accident-on-prithvi-highway-59-27.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "नेविसंघको माग : शिक्षामा २० प्रतिशत बजेट र पेड इन्टर्नसिप",
+      "summary": "नेविसंघको माग : शिक्षामा २० प्रतिशत बजेट र पेड इन्टर्नसिप",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13111",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/aa-1781080853.jpg"
+    },
+    {
+      "title": "स्वतन्त्रता र मिडियामाथिको आर्थिक नाकाबन्दीविरुद्ध दोलखाका पत्रकारहरू आन्दोलित, जिल्ला प्रशासन कार्यालयमा धर्ना",
+      "summary": "स्वतन्त्रता र मिडियामाथिको आर्थिक नाकाबन्दीविरुद्ध दोलखाका पत्रकारहरू आन्दोलित, जिल्ला प्रशासन कार्यालयमा धर्ना",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13110",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/dharna-3-1781080604.jpg"
+    },
+    {
+      "title": "जीपी भवन लागूऔषध प्रयोगकर्ताको अखडा",
+      "summary": "जीपी भवन लागूऔषध प्रयोगकर्ताको अखडा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13104",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/alapatra-jipi-bhaban-1781061212.jpg"
+    },
+    {
+      "title": "Sri Lanka emerges as new hub for cyber scam networks",
+      "summary": "Authorities say organised fraud networks are shifting operations to Sri Lanka as crackdowns intensify in Cambodia and Myanmar, where dozens of Nepalis have been detained in recent police raids.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/10/sri-lanka-emerges-as-new-hub-for-cyber-scam-networks",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/third-party/SriLankascam-1781081792.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nearly 2,000 Nepalis given chance to remain in Portugal after fraud case review",
+      "summary": "Migrants caught up in a document authentication scam can now apply for temporary residence permits after Portuguese authorities accepted they were victims of fraud.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/10/nearly-2-000-nepalis-given-chance-to-remain-in-portugal-after-fraud-case-review",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/lisbonembassy26220260812591000x0-1781087006.jpg&w=300&height=200"
+    },
+    {
+      "title": "Banned at TIA, grounded ANFA officials still have an open road to Mexico via India",
+      "summary": "Although immigration officials stopped Pankaj Bikram Nembang and Kiran Rai from flying out of Kathmandu on Monday night, they can follow the precedent of CEO Indraman Tuladhar, who previously bypassed the travel ban by flying to Canada via India.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/06/10/banned-at-tia-grounded-anfa-officials-still-have-an-open-road-to-mexico-via-india",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/anfaexco-1781076376.jpg&w=600&height=400"
+    },
+    {
+      "title": "आङदेम्बेको शब्दप्रति रास्वपाको आपत्ति, रेकर्डबाट हटाउन माग",
+      "summary": "एमसीसी नेपाल कम्प्याक्टअन्तर्गत रातमाटे र न्यू दमौली सबस्टेशन तथा २९७ किलोमिटर लामो विद्युत् प्रसारण लाइन निर्माण कार्यको औपचारिक शुभारम्भ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/construction-of-297-km-transmission-line-and-two-substations-begins-under-mcc-17-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781091569_mca-480x320.jpg"
+    },
+    {
+      "title": "सदन अवरोध हुनुको मुख्य कारण प्रधानमन्त्री : रामबहादुर थापा",
+      "summary": "प्रतिनिधिसभा सदस्य तथा नेपाली कांग्रेस संसदीय दलका नेता भीष्मराज आङदेम्बेले संसदमा प्रयोग गरेका शब्दप्रति राष्ट्रिय स्वतन्त्र पार्टीका सांसदले आपत्ति जनाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsp-objects-to-the-word-angdembe-demands-its-removal-from-the-record-br-70-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781091081_samiksha-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस नेता आङ्देम्बेले सभामुख अर्याललाई घुम्ने मेचमाथि‍‍... भनेपछि!",
+      "summary": "बुधबार प्रतिनिधि सभाको बैठकमा बोल्दै थापाले प्रधानमन्त्रीको अभिव्यक्ति रेकर्डबाट नहटाएसम्म सदन चल्न नसक्ने बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-main-reason-for-the-disruption-of-the-house-is-the-prime-minister-ram-bahadur-thapa-br-29-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781090807_rambahadur thapa badal-480x320.jpg"
+    },
+    {
+      "title": "रविलाई भीष्मराजको प्रश्न- दिल्लीमा सिमानाको स र कालापानीको क किन उच्चारण भएन ?",
+      "summary": "तथ्यांकअनुसार कुल ३४ हजार ५६५ घरधुरीमध्ये हालसम्म करिब ६ हजार घरधुरीमा मात्र संस्थागत रूपमा शुद्ध खानेपानी सेवा पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/about-82-percent-of-households-in-nepalgunj-are-deprived-of-clean-drinking-water-service-54-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1753612981_Khanepani-480x320.jpg"
+    },
+    {
+      "title": "सनातनी धर्मको पक्षमा बोल्दा ब*लात्कारको धम्की आयो : सांसद ओली",
+      "summary": "एमसीसी नेपाल कम्प्याक्टअन्तर्गत रातमाटे र न्यू दमौली सबस्टेशन तथा २९७ किलोमिटर लामो विद्युत् प्रसारण लाइन निर्माण कार्यको औपचारिक शुभारम्भ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/construction-of-297-km-transmission-line-and-two-substations-begins-under-mcc-17-74.html?click_from=just_in",
       "image_url": ""
     }
   ]
