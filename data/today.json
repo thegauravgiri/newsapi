@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-11T12:14:58.048798",
+  "scraped_at": "2026-06-11T18:51:11.237878",
   "date": "2026-06-11",
-  "total_articles": 43,
+  "total_articles": 50,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -350,6 +350,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/millions-of-kilograms-of-fertilizer-are-in-stock-in-warehouses-but-farmers-are-facing-shortages-67-16.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Banking offence case filed against Agrawal, Bhatta for over Rs421 million alleged loss",
+      "summary": "Separate cases also filed under securities and insurance laws.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/11/banking-offence-case-filed-against-agrawal-bhatta-for-over-rs421-million-alleged-loss",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1781185890.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal suspends three Chinese doctors linked to illegal Baluwatar hospital",
+      "summary": "Nepal Medical Council has suspended temporary registrations of the doctors and requested authorities to close Baluwatar-based Maria Hospital.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/06/11/nepal-suspends-three-chinese-doctors-linked-to-illegal-baluwatar-hospital",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1781186258.jpg&w=300&height=200"
+    },
+    {
+      "title": "‘मेरो लवजमा मैथिलीको मिठास झल्किनु स्वाभाविक हो’",
+      "summary": "खेलकुदमा कतिपय अवस्थामा घटनाभन्दा पात्र महत्वपूर्ण हुने गर्छन्। अनि फुटबलजस्तो टिम खेलमा पनि धेरैजसो अवस्थामा पात्र विशेषको प्रदर्शन, व्यवहार र शैलीले आम समर्थकलाई समग्र नतिजाभन्दा बढि लोभ्याउँछन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/fifa-world-cup-2026-golden-boot-10-contenders-br-86-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781194932_boot-480x320.jpg"
+    },
+    {
+      "title": "कर्णाली प्रदेश सरकारले लोपोन्मुख राउटे समुदायलाई सामाजिक मुलप्रवाहमा ल्याउने नीति बनायो",
+      "summary": "उपसभामुख रुवी कुमारी ठाकुरले आफ्नो बोली र लवजमा मातृभाषा मैथिलीको मिठास झल्किनु स्वाभाविक भएको बताएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/it-is-natural-for-the-sweetness-of-maithili-to-be-reflected-in-my-love-26-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781193831_rubi-480x320.jpg"
+    },
+    {
+      "title": "सभामुखसँग अमेरिकी कार्यवाहक राजदूत स्कटको शिष्टाचार भेटवार्ता",
+      "summary": "अर्थमन्त्री डा.स्वर्णिम वाग्लेले स्वास्थ्य बिमा कार्यक्रमलाई दीर्घकालीन रूपमा धान्न सकिनेगरी पुनर्संरचना गरिने बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/we-will-restructure-insurance-to-make-it-affordable-finance-minister-11-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780023684_Wagle-480x320.jpg"
+    },
+    {
+      "title": "रामहरि श्रेष्ठ हत्या प्रकरण: माओवादीका तत्कालिन ब्रिगेडियर कमान्डर बटालालाई जन्मकैद",
+      "summary": "फिफा विश्वकप फुटबल-२०२६ का खेल काठमाडौं जिल्लाभित्र सामूहिक रूपमा प्रत्यक्ष प्रसारण गर्न चाहने कुनै पनि सङ्घसंस्था वा कम्पनीले काठमाडौँ प्रशासन कार्यालयबाट अनुमति लिनुपर्ने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/permission-must-be-obtained-to-screen-world-cup-matches-in-kathmandu-19-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781193746_2026-480x320.jpg"
+    },
+    {
+      "title": "अर्थमन्त्रीलाई शाहीको चुनौती- हिम्मत र दम छ भने एमसीसीको फाइल खोलौं",
+      "summary": "खेलकुदमा कतिपय अवस्थामा घटनाभन्दा पात्र महत्वपूर्ण हुने गर्छन्। अनि फुटबलजस्तो टिम खेलमा पनि धेरैजसो अवस्थामा पात्र विशेषको प्रदर्शन, व्यवहार र शैलीले आम समर्थकलाई समग्र नतिजाभन्दा बढि लोभ्याउँछन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/fifa-world-cup-2026-golden-boot-10-contenders-br-86-96.html?click_from=just_in",
       "image_url": ""
     }
   ]
