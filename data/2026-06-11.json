@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-11T04:47:38.888437",
+  "scraped_at": "2026-06-11T12:14:58.048798",
   "date": "2026-06-11",
-  "total_articles": 33,
+  "total_articles": 42,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -270,6 +270,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/directions-for-improving-community-education-br-32-85.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "भू महाचैत्यमा वर्षौंदेखिको चुनाको तह हटाइँदै, फर्किँदै मौलिक स्वरूप",
+      "summary": "भू महाचैत्यमा वर्षौंदेखिको चुनाको तह हटाइँदै, फर्किँदै मौलिक स्वरूप",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13122",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Swoyambhu-mahachaitya-thumb-1781151896.jpg"
+    },
+    {
+      "title": "Kathmandu gears up for World Cup fever as police warn against betting and public nuisance",
+      "summary": "Authorities say large-screen football screenings will be allowed under strict safety and noise regulations, while police remain on high alert nationwide against gambling and other unlawful activities.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/11/kathmandu-gears-up-for-world-cup-fever-as-police-warn-against-betting-and-public-nuisance",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/publicscrteening-1781175882.jpg&w=300&height=200"
+    },
+    {
+      "title": "Five years on, 12 cold storage projects in Sudurpaschim remain stalled",
+      "summary": "Millions spent on facilities meant to reduce post-harvest losses, but poor planning, contractor delays and lack of electricity have left most projects unusable.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/11/five-years-on-12-cold-storage-projects-in-sudurpashcim-remain-stalled",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/coldstorage-1781173859.jpg&w=300&height=200"
+    },
+    {
+      "title": "Court begins hearing in fake Bhutanese refugee scam",
+      "summary": "Nearly three years after charges were filed, the Kathmandu District Court starts substantive proceedings in a case involving former ministers, senior officials and alleged brokers accused of defrauding hundreds with false US resettlement promises.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/11/court-begins-hearing-in-fake-bhutanese-refugee-scam",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/ktmcourt26120220429001000x011620260228541000x0-1781159501.jpg&w=300&height=200"
+    },
+    {
+      "title": "रास्वपाको पर्सामा अधिवेशन सम्पन्न",
+      "summary": "केन्द्रबाट मल पठाइए पनि शाखा कार्यालयबाट समयमै वितरण हुन नसक्दा किसानले आवश्यक समयमा मल प्राप्त गर्न नसकेको देखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/millions-of-kilograms-of-fertilizer-are-in-stock-in-warehouses-but-farmers-are-facing-shortages-67-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777558735_Rasayanik_Mal-480x320.jpg"
+    },
+    {
+      "title": "हेटौंडा विवादपछि रास्वपाको बागमती प्रदेश निर्वाचन काठमाडौंमा हुने",
+      "summary": "अमेरिका, क्यानडा र मेक्सिकोमा संयुक्त रूपमा आयोजना हुन गइरहेको सन् २०२६ को फिफा विश्वकपमा कीर्तिमानी १ हजार २४८ खेलाडी सहभागी हुँदै छन्। तीमध्ये ८९१ खेलाडी विश्वकपमा पहिलो पटक खेल्दै छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/these-20-new-faces-are-ready-to-shake-up-the-world-stage-of-football-22-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781176684_keladi-480x320.jpg"
+    },
+    {
+      "title": "चुनावी धक्कापछि संगठन सुदृढीकरणमा जुट्यो जसपा नेपाल, मैदानमा उत्रिए उपेन्द्र यादव",
+      "summary": "आर्थिक वर्ष २०८३/८४ को बजेट वक्तव्यमा पीपीए भइसकेका तर निर्माण सुरु नगरेका आयोजनाको अनुमतिपत्र रद्द गरिने उल्लेख छ। यसअनुसार अनुमति लिएर लामो समयसम्म काम नगर्ने आयोजनामाथि कारबाही गर्ने बाटो खुलेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/preparations-to-cancel-permits-for-38-projects-to-end-license-raj-61-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778844022_Biraj-480x320.jpg"
+    },
+    {
+      "title": "पन्ध्र दिनभित्र अवैध संरचना हटाउन बागलुङ नगरपालिकाको निर्देशन",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) पर्सा जिल्ला अधिवेशन सम्पन्न भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rashtriya-swayamsevak-sangh-rss-convention-concluded-in-parsa-23-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781178550_RSP_rasopa-480x320.jpg"
+    },
+    {
+      "title": "रास्वपामा पदको लडाइँ: उदाउँदै गरेको शक्तिमा किन देखिन थाल्यो गुटको छाया ?",
+      "summary": "केन्द्रबाट मल पठाइए पनि शाखा कार्यालयबाट समयमै वितरण हुन नसक्दा किसानले आवश्यक समयमा मल प्राप्त गर्न नसकेको देखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/millions-of-kilograms-of-fertilizer-are-in-stock-in-warehouses-but-farmers-are-facing-shortages-67-16.html?click_from=just_in",
       "image_url": ""
     }
   ]
