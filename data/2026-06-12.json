@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-12T15:32:26.915984",
+  "scraped_at": "2026-06-12T18:12:59.607454",
   "date": "2026-06-12",
-  "total_articles": 47,
+  "total_articles": 51,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -383,6 +383,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/sexual-enhancement-drugs-worth-2-5-million-smuggled-from-india-seized-71-43.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Met Office predicts monsoon arrival in Nepal within a few days",
+      "summary": "Thousands of people from hundreds of settlements designated as red zones are residing in disaster-prone areas, risking life and property.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/weather/2026/06/12/met-office-predicts-monsoon-arrival-in-nepal-within-a-few-days",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Ponkarlake1366x6811-1781279328.png&w=300&height=200"
+    },
+    {
+      "title": "रास्वपा संयम र अनुशासित हुनुपर्छ: महामन्त्री बुर्लाकोटी",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (राष्ट्रिय स्वतन्त्र पार्टी)का महामन्त्री कविन्द्र बुर्लाकोटीले पार्टीका सबै तहका नेता तथा कार्यकर्तालाई संयमित, जिम्मेवार र अनुशासित हुन आह्वान गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsp-should-be-restrained-and-disciplined-general-secretary-burlakoti-62-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780402665_kavindra kabindra burlakoti-480x320.jpg"
+    },
+    {
+      "title": "रावल आयोग प्रतिवेदन कार्यान्वयन गर्न सापकोटाको संयोजकत्वमा बन्यो समिति",
+      "summary": "मन्त्रालयले नापी विभागका उपमहानिर्देशक कृष्णप्रसाद सापकोटाको संयोजकत्वमा ८ सदस्यीय समिति गठन गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/committee-formed-under-sapkota-s-coordination-to-implement-rawal-commission-report-37-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781279060_Bhumi-480x320.jpg"
+    },
+    {
+      "title": "संसद्‌लाई मन नपरे प्रधानमन्त्री फेर्न सकिन्छ: अर्थमन्त्री वाग्ले",
+      "summary": "अर्थमन्त्री स्वर्णिम वाग्लेले संसद्ले कार्यपालिकालाई समग्र म्यान्डेट प्रदान गर्ने भएकाले आवश्यक परे सरकार गठनदेखि विघटनसम्मको अधिकार प्रतिनिधिसभासँग रहने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-prime-minister-can-be-changed-if-the-parliament-does-not-like-him-finance-minister-wagle-22-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769744261_1680239150_1680174413_swarnim_wagle-1200x560-1200x560-480x320.jpg"
     }
   ]
 }
