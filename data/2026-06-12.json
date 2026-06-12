@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-12T11:49:25.104891",
+  "scraped_at": "2026-06-12T15:32:26.915984",
   "date": "2026-06-12",
-  "total_articles": 41,
+  "total_articles": 47,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -334,6 +334,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/british-era-coins-and-shivalinga-found-new-clues-about-ancient-civilization-of-bardiya-85-62.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Three years on, Narayani iconic bridge project yet to take shape",
+      "summary": "Only two foundation piles have been completed since the contract was awarded to Tundi Construction in June 2023, with repeated design revisions delaying progress.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/12/three-years-on-narayani-iconic-bridge-project-yet-to-take-shape",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/iconicbridgeCHITWAN-1781270114.jpg&w=300&height=200"
+    },
+    {
+      "title": "ट्रेड युनियन खारेज संविधान विपरित: डा कोइराला",
+      "summary": "भारतबाट तस्करी गरी ल्याइएका करिब २५ लाख रुपैयाँ बराबरका यौनबर्द्धक औषधि सशस्त्र प्रहरीले बरामद गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/sexual-enhancement-drugs-worth-2-5-million-smuggled-from-india-seized-71-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781277759_apf-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीको बोलीले देशको शीर निहुरिनु हुँदैन: प्रदीप पौडेल",
+      "summary": "हुम्लाको सर्केगाड गाउँपालिका–६ को बराइमा स्काभेटर दुर्घटना हुँदा चालकको घटनास्थलमै ज्यान गएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/excavator-accident-kills-driver-25-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781276714_Sca-480x320.jpg"
+    },
+    {
+      "title": "अध्यक्षविरुद्ध भ्रम छर्न एल्गोरिदम र एआई प्रयोग भयो: महेश बस्नेत",
+      "summary": "नेपाली कांग्रेसका नेता डा शेखर कोइरालाले ट्रेड युनियन खारेजी गर्ने सरकारको प्रयास संविधान विपरित रहेको टिप्पणी गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/trade-union-abolition-is-against-the-constitution-dr-koirala-78-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781275774_Shekhar1-480x320.jpg"
+    },
+    {
+      "title": "गगन थापा भन्छन्: विपद् व्यवस्थापनको नीति भए पनि कार्यान्वयन भएन",
+      "summary": "वीरेन्द्रनगरमा जारी यु–१९ राष्ट्रिय महिला क्रिकेट प्रतियोगितामा मधेस प्रदेश फाइनलमा प्रवेश गरेको छ भने बागमती प्रदेशले कर्णालीलाई पराजित गर्दै समूह चरणको प्रतिस्पर्धामा प्रभाव जमाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/u-19-national-women-s-cricket-madhes-advances-to-final-bagmati-defeats-karnali-64-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781275076_Cricket-480x320.jpg"
+    },
+    {
+      "title": "मन्त्री चौधरी र चिनियाँ राजदूत माओमिङबीच भेटवार्ता",
+      "summary": "भारतबाट तस्करी गरी ल्याइएका करिब २५ लाख रुपैयाँ बराबरका यौनबर्द्धक औषधि सशस्त्र प्रहरीले बरामद गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/sexual-enhancement-drugs-worth-2-5-million-smuggled-from-india-seized-71-43.html?click_from=just_in",
       "image_url": ""
     }
   ]
