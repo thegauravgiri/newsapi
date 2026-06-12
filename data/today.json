@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-12T04:50:05.805945",
+  "scraped_at": "2026-06-12T11:49:25.104891",
   "date": "2026-06-12",
-  "total_articles": 34,
+  "total_articles": 42,
   "sources": [
     "KathmanduPost",
     "News24",
@@ -278,6 +278,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/rsp-leaders-matchmaking-on-social-media-asim-s-counter-to-pramod-don-t-worry-this-is-how-it-s-meant-to-be-88-90.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Promoters step down to sell shares as loophole in lock-in rules fuels concern",
+      "summary": "Insiders are resigning before share-sale restrictions end, prompting concerns over IPO practices in listed companies.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/06/12/promoters-step-down-to-sell-shares-as-loophole-in-lock-in-rules-fuels-concern",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/GeminiGeneratedImageueypiyueypiyueyp-1781242569.png&w=300&height=200"
+    },
+    {
+      "title": "Students in remote Baglung walk up to four hours daily for school",
+      "summary": "Locals said repeated efforts to establish a secondary school within their own villages have failed due to financial constraints and lack of teacher quotas.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/12/students-in-remote-baglung-walk-up-to-four-hours-daily-for-school",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/narjakabalak11620260151511000x0-1781261293.jpg&w=300&height=200"
+    },
+    {
+      "title": "How KP Sharma Oli rose, ruled and fell",
+      "summary": "From prison to four terms of prime minister, Oli’s career traced Nepal’s democratic contradictions — and, in the end, its limits.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/06/11/how-kp-sharma-oli-rose-ruled-and-fell",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/cartoons/kpolibrabindra-1781170580.jpg&w=600&height=400"
+    },
+    {
+      "title": "अभौतिक सांस्कृतिक सम्पदा विधेयक २०८३ माथिको प्रस्ताव स्वीकृत",
+      "summary": "अनुसन्धानकर्ताहरूका अनुसार यी सामग्रीहरूले यस क्षेत्रमा प्राचीन मानव बसोबास तथा धार्मिक गतिविधि भएको महत्वपूर्ण प्रमाण प्रस्तुत गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/british-era-coins-and-shivalinga-found-new-clues-about-ancient-civilization-of-bardiya-85-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/photos/1781264614_Bardiya News-480x320-wm.jpg"
+    },
+    {
+      "title": "ट्रेड युनियन खारेज गर्ने निर्णय कार्यान्वयन गर्न सरकारलाई बाटो खुल्यो",
+      "summary": "काठमाडौं उपत्यकाका केही स्थानबाट प्रयोगविहीन तार हटाउने कार्य अगाडि बढेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/unorganized-wires-in-kathmandu-valley-being-removed-br-81-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781264047_New Project-480x320.jpg"
+    },
+    {
+      "title": "सुस्तामा हतियारसहित भारतीय सुरक्षाकर्मी आएपछि के गर्दैछ सरकार ?",
+      "summary": "प्रतिनिधिसभाको आजको बैठकले ‘अभौतिक सांस्कृतिक सम्पदा (संरक्षण) विधेयक, २०८३ माथि विचार गरियोस्’ भन्ने प्रस्तावलाई सर्वसम्मतिले स्वीकृत गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/proposal-on-intangible-cultural-heritage-bill-2083-approved-br-93-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780240962_Samsad (2)-480x320.jpg"
+    },
+    {
+      "title": "रामबहादुर थापाको दाबी: भारत नेपालमा रवि नेतृत्वको सरकार चाहान्छ",
+      "summary": "क्यानाडाले युइएफए छनोटबाट अप्रत्याशित रुपमा विश्वकपमा स्थान बनाएको बोस्निया एन्ड हर्जोगोभिनासँग खेल्नेछ भने अमेरिकाको भेट १६ वर्षपछि विश्वकपमा फर्किएको पाराग्वेसँग हुनेछ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/hosts-canada-and-the-united-states-travel-to-the-world-cup-starting-friday-night-60-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781263768_fifa-480x320.jpg"
+    },
+    {
+      "title": "अर्थमन्त्रीको टिप्पणीप्रति प्रदीप ज्ञवालीको आपत्ति",
+      "summary": "अनुसन्धानकर्ताहरूका अनुसार यी सामग्रीहरूले यस क्षेत्रमा प्राचीन मानव बसोबास तथा धार्मिक गतिविधि भएको महत्वपूर्ण प्रमाण प्रस्तुत गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/british-era-coins-and-shivalinga-found-new-clues-about-ancient-civilization-of-bardiya-85-62.html?click_from=just_in",
       "image_url": ""
     }
   ]
