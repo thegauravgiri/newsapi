@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-13T04:38:41.242661",
+  "scraped_at": "2026-06-13T10:34:31.234068",
   "date": "2026-06-13",
-  "total_articles": 33,
+  "total_articles": 41,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -270,6 +270,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/committee-formed-to-implement-rawal-commission-report-32-85.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ता बाधा होइन अवसरः आत्मनिर्भर बन्दै सिन्धुपाल्चोकका १३६ जना",
+      "summary": "ता बाधा होइन अवसरः आत्मनिर्भर बन्दै सिन्धुपाल्चोकका १३६ जना",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13137",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Utpadan-Ra-Aatmanirbharta-1781319291.jpg"
+    },
+    {
+      "title": "Bearish week wipes Rs50 billion off investor wealth as Nepse falls 31 points",
+      "summary": "Turnover drops 14 percent and blue-chip stocks join the decline, though analysts say easing selling pressure could pave the way for a recovery.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/06/13/bearish-week-wipes-rs50-billion-off-investor-wealth-as-nepse-falls-31-points",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Nepsebarchart-1781327065.jpg&w=300&height=200"
+    },
+    {
+      "title": "The boy who never stopped juggling",
+      "summary": "Unable to fulfil his childhood dream of becoming a professional footballer, Ufuun Moktan Tamang discovered freestyle football during the Covid pandemic and has since become Nepal’s most recognisable name in the sport.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/06/13/the-boy-who-never-stopped-juggling",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/UfuunMoktan-1781315324.jpg&w=600&height=400"
+    },
+    {
+      "title": "भावुक हुँदै हर्क साम्पाङ भन्छन्: देशलाई बिछट्टै माया गर्दा संसारमा सबैभन्दा धेरै गाली खाने मान्छे बनेँ",
+      "summary": "श्रम संस्कृति पार्टीका अध्यक्ष हर्क साम्पाङ राईले देशप्रतिको आफ्नो गहिरो प्रेमकै कारण आफूले निरन्तर गाली र अपमान सहनुपरेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/an-emotional-hark-sampang-says-i-became-the-most-abused-person-in-the-world-because-i-loved-my-country-so-much-30-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775830930_harka-480x320.jpg"
+    },
+    {
+      "title": "उज्यालो नेपाल कतै मिसिदैन्, नयाँ पार्टीको विकल्प बन्छ : अध्यक्ष घिसिङ",
+      "summary": "भारतको उत्तरपूर्वी राज्य आसामको जोरहाटमा शनिबार भारतीय वायुसेनाको एउटा सैन्य विमान दुर्घटना हुँदा पाँच जना सैन्यकर्मीको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/indian-air-force-plane-crash-five-military-personnel-killed-one-injured-br-58-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781345080_crash-480x320.jpg"
+    },
+    {
+      "title": "बाँदरबाट बाली जोगाउन राष्ट्रिय दृष्टिकोण बनाऔं : श‌कर पोखरेल",
+      "summary": "काभ्रेको नमोबुद्ध नगरपालिका-२ बुच्चाकोटस्थित सडकमा शुक्रबार दिउँसो भएको बस दुर्घटनाको वास्तविक कारण पत्ता लगाउन छानबिन समिति गठन गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/committee-formed-to-investigate-bus-accident-in-kavre-72-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781344528_kavre_bus-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको बागमती अधिवेशनमा मतदानको तयारी",
+      "summary": "हुम्लाको सर्केगाड गाउँपालिकामा पर्ने थाग्णामा कर्णाली करिडोर माथिबाट खसेको ढुङ्गाले लागेर एक किशोरीको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/teenage-girl-dies-after-being-hit-by-falling-stone-97-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीको सीमासम्बन्धी बयानले तनाव : हर्कले रविलाई पठाए यस्तो पत्र",
+      "summary": "श्रम संस्कृति पार्टीका अध्यक्ष हर्क साम्पाङ राईले देशप्रतिको आफ्नो गहिरो प्रेमकै कारण आफूले निरन्तर गाली र अपमान सहनुपरेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/an-emotional-hark-sampang-says-i-became-the-most-abused-person-in-the-world-because-i-loved-my-country-so-much-30-45.html?click_from=just_in",
       "image_url": ""
     }
   ]
