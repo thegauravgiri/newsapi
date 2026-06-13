@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-13T10:34:31.234068",
+  "scraped_at": "2026-06-13T14:17:45.204064",
   "date": "2026-06-13",
-  "total_articles": 41,
+  "total_articles": 47,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -334,6 +334,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/an-emotional-hark-sampang-says-i-became-the-most-abused-person-in-the-world-because-i-loved-my-country-so-much-30-45.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Tinkune-Jadibuti flyover faces delay despite secured financing",
+      "summary": "Construction of the project may take up to two years to begin amid coordination hurdles and delays in land acquisition.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/13/tinkune-jadibuti-flyover-faces-delay-despite-secured-financing",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/TinkuneJadibutiflyover-1781334371.jpg&w=300&height=200"
+    },
+    {
+      "title": "विश्वकप फुटबलबारे प्रधानमन्त्रीको टिप्पणी- मलाई मनपर्ने देशले खेलेकै छैन",
+      "summary": "पश्चिम एसिया अर्थात् मध्यपूर्वमा चर्किँदै गएको द्वन्द्वको प्रभाव अब युद्ध क्षेत्रभन्दा बाहिर निस्केर विश्व अर्थतन्त्र हुँदै कृषि क्षेत्रमा समेत देखिन थालेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/impact-of-middle-east-conflict-on-indian-agriculture-farmers-under-pressure-due-to-fertilizer-shortage-and-rising-costs-14-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781359128_Krisi-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसभित्र एकता आवश्यक: निधि",
+      "summary": "इरानको विदेश मन्त्रालयका प्रवक्ता इस्माइल बगाईले आइतबार संयुक्त राज्य अमेरिका र इरानबीचको शान्ति सम्झौतामा हस्ताक्षर नहुने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/there-will-be-no-peace-deal-with-the-us-iran-30-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781358913_iran trump-480x320.jpg"
+    },
+    {
+      "title": "अपेक्षित परिणाम दिन नसके निर्णय सच्याउन सरकार तयार हुनुपर्छ : गगन थापा",
+      "summary": "प्रधानमन्त्री बालेन शाहले जारी फिफा विश्वकप फुटबल प्रतियोगितामा आफ्नो मनपर्ने देश सहभागी नभएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-s-comments-on-world-cup-football-my-favorite-country-has-never-played-br-45-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779790393_pm_balen-480x320.jpg"
+    },
+    {
+      "title": "देशका विभिन्न स्थानमा पाँच जना मृत फेला",
+      "summary": "कपिलवस्तुको तौलिहवामा कपिलवस्तु नगरपालिका क्षेत्रभित्रका ६० जना ज्येष्ठ नागरिकलाई सम्मान गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/kapilvastu-municipality-honors-60-senior-citizens-honoring-them-58-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781357567_Justha-480x320.jpg"
+    },
+    {
+      "title": "पुराना दलहरू पतनको मार्गमा छन्, उनीहरुसँग देश सुधार्ने कुनै योजना छैन: बाबुराम",
+      "summary": "पश्चिम एसिया अर्थात् मध्यपूर्वमा चर्किँदै गएको द्वन्द्वको प्रभाव अब युद्ध क्षेत्रभन्दा बाहिर निस्केर विश्व अर्थतन्त्र हुँदै कृषि क्षेत्रमा समेत देखिन थालेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/impact-of-middle-east-conflict-on-indian-agriculture-farmers-under-pressure-due-to-fertilizer-shortage-and-rising-costs-14-65.html?click_from=just_in",
       "image_url": ""
     }
   ]
