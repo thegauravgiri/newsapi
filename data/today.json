@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-13T14:17:45.204064",
+  "scraped_at": "2026-06-13T17:39:03.948715",
   "date": "2026-06-13",
-  "total_articles": 48,
+  "total_articles": 53,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -391,6 +391,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/impact-of-middle-east-conflict-on-indian-agriculture-farmers-under-pressure-due-to-fertilizer-shortage-and-rising-costs-14-65.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Chief Justice Sharma’s court record shows low authorship in key bench decisions",
+      "summary": "Published Supreme Court rulings show newly appointed chief justice was more often a signatory than the principal author of precedent-setting judgments.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/13/chief-justice-sharma-s-court-record-shows-low-authorship-in-key-bench-decisions",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/CHIEFJUSTICESHARMAANGADDHAKALTKP-1781348324.jpg&w=300&height=200"
+    },
+    {
+      "title": "Right after his India visit, Foreign Minister Khanal travels to China",
+      "summary": "The four-day visit to Beijing seeks to rebuild trust, address Chinese concerns, and advance bilateral cooperation in the changed political context in Nepal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/13/right-after-his-india-visit-foreign-minister-khanal-travels-to-china",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/HKECuYFaAAASIUA-1781367473.jpg&w=300&height=200"
+    },
+    {
+      "title": "सुदूरपश्चिम प्रदेशसभा : वार्षिक नीति कार्यक्रम पारित",
+      "summary": "खोटाङको जन्तेढुङ्गा गाउँपालिकाले वर्षभरि उत्कृट काम गर्ने ३ जना कर्मचारी तथा जेहेन्दार विद्यार्थीलाई पुरस्कारसहित सम्मान गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/outstanding-employees-of-jantedhunga-awarded-65-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781367170_samman-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको इतर पक्षले विराटनगरमा भेला गर्ने",
+      "summary": "सुदूरपश्चिम प्रदेश सभाको बैठकले प्रदेश सरकारको आगामी आर्थिक वर्ष २०८३/८४ को वार्षिक नीति तथा कार्यक्रम बहुमतले पारित गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/far-western-provincial-assembly-annual-policy-program-passed-70-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766414603_sudurpaschim-pradeshsabha-768x466-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको क्रियाशील सदस्यता अद्यावधिक गर्न नयाँ समयसीमा, विदेशस्थित समितिलाई असार १० सम्मको समय",
+      "summary": "नियमित गस्तीमा रहेको प्रहरी टोलीले देशको विभिन्न स्थानबाट १३ जनालाई लागूऔषधसहित पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/13-people-arrested-with-drugs-57-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756828601_pakrau-480x320.jpg"
     }
   ]
 }
