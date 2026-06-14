@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-14T14:20:23.145204",
+  "scraped_at": "2026-06-14T17:26:30.909228",
   "date": "2026-06-14",
-  "total_articles": 48,
+  "total_articles": 54,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -391,6 +391,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/tax-exemptions-may-seem-like-relief-but-vat-adds-burden-to-middle-class-gagan-thapa-94-20.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "The price of the American dream: 14 months, 18 countries and Rs11.5 million in debt",
+      "summary": "A pharmacy owner from Rukum West returns home after a 14-month smuggling route across 18 countries, burdened by massive loans and broken promises.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/14/the-price-of-the-american-dream-14-months-18-countries-and-rs11-5-million-in-debt",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Screenshot20260614at64320am-1781398739.png&w=300&height=200"
+    },
+    {
+      "title": "Unauthorised entry of Indian mil chopper into Nepali airspace in Darchula sparks diplomatic row",
+      "summary": "Last week, the helicopter flew directly above Nepalis’ houses in Chhangru, prompting residents to run out, shouting and protesting in anger.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/14/unauthorised-entry-of-indian-mil-chopper-into-nepali-airspace-in-darchula-sparks-diplomatic-row",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/GeminiGeneratedImagepfnmhlpfnmhlpfnm-1781457813.png&w=300&height=200"
+    },
+    {
+      "title": "बेइजिङबाट परराष्ट्रमन्त्री खनालको सन्देश : ठूला भ्रष्टाचार काण्डको छानबिन अघि बढेको छ",
+      "summary": "महिला टी–२० विश्वकप अन्तर्गत समूह–१ को महत्वपूर्ण खेलमा भारतले चिरप्रतिद्वन्द्वी पाकिस्तानलाई १७१ रनको चुनौतीपूर्ण लक्ष्य दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/women-s-t20-world-cup-india-sets-pakistan-a-tough-target-of-171-runs-20-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781453568_india_mahila-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय एकता र मेलमिलापको विकल्प छैन: शेखर",
+      "summary": "म्याग्दीको मालिका गाउँपालिकाको अदिभारा-टाक्से-रुम सडकमा छ वर्षपछि यातायात सञ्चालन हुन थालेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/adivara-taxe-rum-road-reopens-after-six-years-50-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781453147_sadak-480x320.jpg"
+    },
+    {
+      "title": "दुई मन्त्रीलाई अँगालो हालेर बालेनले लेखे- देश बनाउने टोली",
+      "summary": "मन्त्री खनालले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) सरकारमा सहभागी भएपछि चुनावका बेला गरिएको सुशासनको प्रतिबद्धतालाई कार्यान्वयन गर्न थालिएको बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/foreign-minister-khanal-s-message-from-beijing-investigation-into-major-corruption-scandals-is-moving-forward-85-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780849533_shishir-480x320.jpg"
+    },
+    {
+      "title": "नीति बदल्नेहरू पुराना फाइलमा विगत खोज्दै",
+      "summary": "कैलाश मानसरोवर दर्शनको याम सुरु भएसँगै हुम्ला हुँदै यात्रा गर्ने भारतीय तीर्थयात्रीको सङ्ख्या उल्लेख्य रूपमा बढेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/kailash-mansarovar-yatra-more-than-3-000-indian-pilgrims-pass-through-humla-br-35-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1749085722_mansarobar-480x320.jpg"
     }
   ]
 }
