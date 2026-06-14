@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-14T04:56:50.197328",
+  "scraped_at": "2026-06-14T10:52:31.866914",
   "date": "2026-06-14",
-  "total_articles": 33,
+  "total_articles": 43,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -270,6 +270,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/politics-should-be-transformed-into-a-symbol-of-service-gagan-thapa-br-51-64.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "नेपाल मोबिलिटी एक्स्पो २०२६ को स्टल बाँडफाँड कार्यक्रम सम्पन्न",
+      "summary": "नेपाल मोबिलिटी एक्स्पो २०२६ को स्टल बाँडफाँड कार्यक्रम सम्पन्न",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13145",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/DSC07982-1781429649.jpg"
+    },
+    {
+      "title": "त्तम मासमा शिवालय महादेव मन्दिरमा धार्मिक जागरण : दुईदिने भजन–कीर्तन तथा कथा वाचन भव्य रूपमा सम्पन्न",
+      "summary": "त्तम मासमा शिवालय महादेव मन्दिरमा धार्मिक जागरण : दुईदिने भजन–कीर्तन तथा कथा वाचन भव्य रूपमा सम्पन्न",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13144",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/2-1781420014.jpg"
+    },
+    {
+      "title": "भाडादेखि विद्युत र पानीको महशुलसमेत बुझाउँदैनन् उद्योगीहरु",
+      "summary": "भाडादेखि विद्युत र पानीको महशुलसमेत बुझाउँदैनन् उद्योगीहरु",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13143",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/udhyug-1781409340.jpg"
+    },
+    {
+      "title": "ै पहिलो बर्ड कार्यक्रम शुभारम्भ",
+      "summary": "ै पहिलो बर्ड कार्यक्रम शुभारम्भ",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13138",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/ktm-1781332907.jpg"
+    },
+    {
+      "title": "Nepal tea factories to shut as India tightens export rules, shipments stuck",
+      "summary": "Factories in Ilam’s Suryodaya Municipality say they are forced to halt operations from June 15 after new Indian Tea Board testing rules leave more than 300,000 kg of Nepali tea held up in Kolkata and exports disrupted across the supply chain.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/14/nepal-tea-factories-to-shut-as-india-tightens-export-rules-shipments-stuck",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/tea-1781413642.jpg&w=300&height=200"
+    },
+    {
+      "title": "काठमाडौं महानगरको नीति तथा कार्यक्रम कस्तो ?",
+      "summary": "महत्त्वाकांक्षी ‘स्मार्ट–सांस्कृतिक–समावेशी’ सहरको खाका, तर कार्यान्वयनमै सफलता–असफलताको परीक्षा",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/what-are-the-policies-and-programs-of-kathmandu-metropolitan-city-70-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769233621_Kathmandu-480x320.jpg"
+    },
+    {
+      "title": "सपना पूरा गर्न विदेशिनु पर्दैन, बजेटले स्वदेशमै अवसरको ढोका खोलेको छ: अर्थमन्त्री",
+      "summary": "अर्थमन्त्री डा. स्वर्णिम वाग्लेले युवाहरू आफ्नो सपना पूरा गर्न विदेशिनै पर्ने बाध्यताको अन्त्य गर्न सरकारले आगामी आर्थिक वर्षको बजेटमार्फत ठोस सुरुवात गरेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/budget-marks-beginning-of-end-of-compulsion-to-go-abroad-finance-minister-wagle-br-40-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781433061_wagle-480x320.jpg"
+    },
+    {
+      "title": "दरबार हत्याकाण्डबारे दुर्गा प्रसाईंको विवादास्पद अभिव्यक्ति: राजा हटाउन लिङ्देन पनि सहभागी भएको आरोप",
+      "summary": "विराटनगरस्थित एक होटलमा कोठा लिएर बसेका एक भारतीय युवकको शङ्कास्पद मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/an-indian-youth-staying-at-a-hotel-in-biratnagar-dies-39-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1737807018_crime-480x320.jpg"
+    },
+    {
+      "title": "बागमतीको मन्त्रिपरिषद् बैठक : मानव उद्धार पुनःस्थापना कार्यविधि स्वीकृत",
+      "summary": "मुलुकको औद्योगिक क्षेत्रका लागि दक्ष जनशक्तिको अभाव, कच्चा पदार्थ र उत्पादित वस्तुका लागि उपयुक्त बजार नहुनुलाई प्रमुख समस्याका रूपमा चित्रण गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nepal-rastra-bank-study-lack-of-skilled-manpower-in-the-industrial-sector-12-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764433240_nrb-480x320.jpg"
+    },
+    {
+      "title": "दुर्गा प्रसाईं भन्छन्: म बेइमान होइन, इमानदार मानिस हुँ",
+      "summary": "महत्त्वाकांक्षी ‘स्मार्ट–सांस्कृतिक–समावेशी’ सहरको खाका, तर कार्यान्वयनमै सफलता–असफलताको परीक्षा",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/what-are-the-policies-and-programs-of-kathmandu-metropolitan-city-70-19.html?click_from=just_in",
       "image_url": ""
     }
   ]
