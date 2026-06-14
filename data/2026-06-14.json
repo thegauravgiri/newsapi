@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-14T10:52:31.866914",
+  "scraped_at": "2026-06-14T14:20:23.145204",
   "date": "2026-06-14",
-  "total_articles": 43,
+  "total_articles": 48,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -350,6 +350,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/what-are-the-policies-and-programs-of-kathmandu-metropolitan-city-70-19.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "कर छुट देखावटी राहत भएपनि भ्याटले मध्यम वर्गमाथि थपियो बोझ: गगन थापा",
+      "summary": "नेपाली कांग्रेसका सभापति गगन थापाले सरकारले ल्याएको नयाँ कर नीति र बजेटले मध्यम वर्गलाई राहत दिनुको सट्टा थप आर्थिक भार बोकाएको आरोप लगाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/tax-exemptions-may-seem-like-relief-but-vat-adds-burden-to-middle-class-gagan-thapa-94-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781353643_30 gagan-480x320.jpg"
+    },
+    {
+      "title": "‘आज प्रतिपक्षमा छौं, भोलि सरकारमा आउँछौं, तर विधिको शासनमा सम्झौता हुँदैन’",
+      "summary": "तेस्रो तथा अन्तिम खेलमा एक विकेटको संघर्षपूर्ण जित निकाल्दै अस्ट्रेलियाले शृंखला क्लिनस्विप हुनबाट जोगाएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/australia-secures-consolation-win-in-odi-against-bangladesh-avoids-clean-sweep-36-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781445681_aus_bang-480x320.jpg"
+    },
+    {
+      "title": "बजेटले अगाडिको खल्तीमा हालेर पछाडिको खल्तीबाट सबै लुटेको छ: गगन",
+      "summary": "सम्झौता अझै अन्तिम रूपमा स्वीकृत भइसकेको छैन र थप वार्तापछि मात्रै अन्तिम सहमति हुने जनाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/draft-of-potential-us-iran-deal-released-proposal-to-open-hormuz-and-release-25-billion-in-assets-49-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774000428_Hormuj-480x320.jpg"
+    },
+    {
+      "title": "‘भ्रष्टाचार गर्ने आफ्नै पार्टीका नेता भए पनिछाड्दिन, बरु पद त्याग्न तयार छु’",
+      "summary": "प्रहरीले १० जनालाई नियन्त्रणमा लिएर अनुसन्धान सुरु गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/tempo-overturned-in-controversy-10-people-taken-into-custody-for-questioning-53-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781420636_tampoo-480x320.jpg"
+    },
+    {
+      "title": "पार्टी फुट्दैन, फुट्न दिन्न : शेखर कोइराला",
+      "summary": "नेपाली कांग्रेसका सभापति गगन थापाले सरकारले ल्याएको नयाँ कर नीति र बजेटले मध्यम वर्गलाई राहत दिनुको सट्टा थप आर्थिक भार बोकाएको आरोप लगाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/tax-exemptions-may-seem-like-relief-but-vat-adds-burden-to-middle-class-gagan-thapa-94-20.html?click_from=just_in",
       "image_url": ""
     }
   ]
