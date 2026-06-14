@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-14T17:26:30.909228",
+  "scraped_at": "2026-06-14T21:22:02.658142",
   "date": "2026-06-14",
-  "total_articles": 55,
+  "total_articles": 56,
   "sources": [
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -447,6 +447,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/kailash-mansarovar-yatra-more-than-3-000-indian-pilgrims-pass-through-humla-br-35-90.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1749085722_mansarobar-480x320.jpg"
+    },
+    {
+      "title": "Ganga Dahal says she is ready to cooperate with any government investigation",
+      "summary": "Pushpa Kamal Dahal’s daughter rejects claims that she is preparing to flee the country, describing them as part of a politically motivated “media trial”.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/14/ganga-dahal-says-she-is-ready-to-cooperate-with-any-government-investigation",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/gangadahal14620261235551000x0-1781458197.jpg&w=300&height=200"
     }
   ]
 }
