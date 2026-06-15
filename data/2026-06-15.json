@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-15T05:15:31.717990",
+  "scraped_at": "2026-06-15T14:30:22.625965",
   "date": "2026-06-15",
-  "total_articles": 33,
+  "total_articles": 42,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -270,6 +270,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/spain-s-young-star-yamal-to-play-against-cape-verde-but-not-in-the-starting-11-35-26.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Solar power inside forests, sirens in villages to curb wildlife attacks",
+      "summary": "Communities in Meghauli are combining forest-side water management and village-based alert systems to reduce rising human-wildlife conflict.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/15/solar-power-inside-forests-sirens-in-villages-to-curb-wildlife-attacks",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Gainda-1781521649.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal’s industrial slowdown deepens as new factory registrations fall",
+      "summary": "Only 461 industries registered in the first six months of the fiscal year, while factory utilisation, industrial lending and manufacturing’s share of the economy continue to decline.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/06/15/nepal-s-industrial-slowdown-deepens-as-new-factory-registrations-fall",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/factory-1781498135.jpg&w=300&height=200"
+    },
+    {
+      "title": "Supreme Court orders immediate removal of pavement encroachments, issues four-point mandamus order",
+      "summary": "Court says blocked pavements violate constitutional rights to dignity and freedom of movement, directs coordinated action by government bodies and Kathmandu Metropolitan City to clear obstructions and improve pedestrian safety.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/15/supreme-court-orders-immediate-removal-of-pavement-encroachments-issues-four-point-mandamus-order",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1781502044.jpg&w=300&height=200"
+    },
+    {
+      "title": "India’s pilgrimage rush tests Nepal’s tourism readiness",
+      "summary": "Rising Indian visitor numbers to sites like Muktinath and Swargadwari expose gaps in accommodation, food and basic services while officials argue the surge is an untapped economic opportunity.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/06/15/india-s-pilgrimage-rush-tests-nepal-s-tourism-readiness",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/Muktinathdarshan-1781500373.jpg&w=600&height=400"
+    },
+    {
+      "title": "शिक्षामन्त्रीसँगको छलफलमा कानुन मन्त्री गौतमले भनिन्: जनभावनालाई समेटिनेगरी विधेयक बनाउनुपर्छ",
+      "summary": "मन्त्री सोविता गौतमले सम्बन्धित मन्त्रालयले समयअनुसार नयाँ सोच र अवधारणालाई कानूनमा रूपान्तरण गर्नुपर्ने आवश्यकता औँल्याएकी छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/in-a-discussion-with-the-minister-of-education-law-minister-gautam-said-the-bill-should-be-drafted-to-reflect-public-sentiment-17-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781532950_Sovita-480x320.jpg"
+    },
+    {
+      "title": "पूर्वगृहमन्त्री धर्मबहादुर थापाको निधन",
+      "summary": "काठमाडौं महानगरमा मनाइँदै आएको ऐतिहासिक तथा सांस्कृतिक महत्वको जात्रा इन्द्रजात्रा तथा रथयात्राका प्रमुख देवगण श्री गणेश र श्री भैरवका लागि निवास निर्माण गर्न आवश्यक व्यवस्था मिलाइनेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/announcement-to-make-kathmandu-a-center-for-cultural-studies-and-research-44-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781532089_Kathmandu-480x320.jpg"
+    },
+    {
+      "title": "कार्यदलको सुझावअनुसार पार्टी पुनर्गठन हुने",
+      "summary": "युद्ध अन्त्य गर्ने उद्देश्यका साथ सहमति भए पनि तेहरानले अमेरिकाप्रति ‘गहिरो अविश्वास’ राखेको इरानको विदेश मन्त्रालयले सोमबार जनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/iran-still-suspicious-of-us-deep-mistrust-persists-97-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779705489_Iran_America-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा महाधिवेशन : सात हजार बढी कुर्सी अट्ने बाँसको ‘डोम’ बनाइँदै",
+      "summary": "रुपन्देही जिल्ला अदालतले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछाने सहितका आरोपीहरू विरुद्ध दायर गरिएको संगठित अपराध र सम्पत्ति शुद्धीकरणको अभियोग हटाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/organized-crime-and-money-laundering-charges-against-ravi-dropped-in-rupandehi-too-20-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771768547_rabi_-480x320.jpg"
+    },
+    {
+      "title": "रावल आयोगको प्रतिवेदनमा उल्लेख भएका अतिक्रमित जग्गा हकहस्तान्तरण नगर्न सरकारको निर्देशन",
+      "summary": "मन्त्री सोविता गौतमले सम्बन्धित मन्त्रालयले समयअनुसार नयाँ सोच र अवधारणालाई कानूनमा रूपान्तरण गर्नुपर्ने आवश्यकता औँल्याएकी छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/in-a-discussion-with-the-minister-of-education-law-minister-gautam-said-the-bill-should-be-drafted-to-reflect-public-sentiment-17-86.html?click_from=just_in",
       "image_url": ""
     }
   ]
