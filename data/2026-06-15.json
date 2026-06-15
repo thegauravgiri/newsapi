@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-15T14:30:22.625965",
+  "scraped_at": "2026-06-15T19:52:31.322193",
   "date": "2026-06-15",
-  "total_articles": 42,
+  "total_articles": 49,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -342,6 +342,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/in-a-discussion-with-the-minister-of-education-law-minister-gautam-said-the-bill-should-be-drafted-to-reflect-public-sentiment-17-86.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Three-quarters of newborn care facilities in Nepal lack critical medicines",
+      "summary": "Assessment by the health ministry shows newborn units rely heavily on contract staff, while infection control, hygiene and quality monitoring remain weak.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/06/15/three-quarters-of-newborn-care-facilities-in-nepal-lack-critical-medicines",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1781530500.jpg&w=300&height=200"
+    },
+    {
+      "title": "Inflation cuts deeper as food and fuel costs strain households",
+      "summary": "Consumers say official inflation figures fail to reflect the sharp rise in daily expenses.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/06/15/inflation-cuts-deeper-as-food-and-fuel-costs-strain-households",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1781533574.jpg&w=600&height=400"
+    },
+    {
+      "title": "रोक्का हुन थाल्यो अतिक्रमित सरकारी जग्गा",
+      "summary": "नेपाल आयल निगमले पेट्रोलियम पदार्थको साविकको खुद्रा बिक्री मूल्यलाई नै निरन्तरता दिने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/petrol-diesel-prices-remain-unchanged-br-59-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773591792_petrol-480x320.jpg"
+    },
+    {
+      "title": "जनमतको नयाँ राजनीतिक चाल: राष्ट्रिय वैकल्पिक मोर्चा गठन अभियान सुरु",
+      "summary": "अमेरिकासँग युद्ध अन्त्य गर्न शान्ति सम्झौता भएको केही घन्टामै द्वन्द्वमा पिल्सिएको इरान फिफा विश्वकप खेल्न कट्टर प्रतिद्वन्द्वी अमेरिकी भूमि लस एन्जलस पुग्यो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/iranian-team-in-america-a-message-of-happiness-and-unity-through-football-45-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781540007_iran-480x320.jpg"
+    },
+    {
+      "title": "परराष्ट्रमन्त्री खनाल र सिपिसीका नेता लिउबीच भेटवार्ता",
+      "summary": "खोटाङको जन्तेढुङ्गा गाउँपालिका-३ काहुलेमा सञ्चालित लक्ष्मी आवासीय माध्यमिक विद्यालयमा चालु शैक्षिकसत्रमा १३६ जना विद्यार्थी भर्ना भएका छन्। भर्ना भएकामध्ये बेसहारा १३, विपन्न ११ र टाढाका तीन जना छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/residential-school-in-jantedhunga-a-center-for-children-without-parents-44-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781539851_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "नेपाल–भारत सीमा समन्वय बैठकमा के भयो छलफल",
+      "summary": "रावल आयोगको प्रतिवेदन कार्यान्वयन प्रक्रिया औपचारिक रूपमा सुरु गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/encroached-government-land-begins-to-be-confiscated-16-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781363196_Jagga-480x320.jpg"
+    },
+    {
+      "title": "वडाध्यक्षलाई प्रश्न: वडा कार्यालयन नै बनाउन नसक्ने तपाईंले नौ वर्षसम्म के के गर्नुभो ?",
+      "summary": "नेपाल आयल निगमले पेट्रोलियम पदार्थको साविकको खुद्रा बिक्री मूल्यलाई नै निरन्तरता दिने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/petrol-diesel-prices-remain-unchanged-br-59-39.html?click_from=just_in",
       "image_url": ""
     }
   ]
