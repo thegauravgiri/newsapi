@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-16T13:00:28.534706",
+  "scraped_at": "2026-06-16T19:42:49.892833",
   "date": "2026-06-16",
-  "total_articles": 42,
+  "total_articles": 47,
   "sources": [
-    "KathmanduPost",
+    "News24",
     "NagarikNews",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -343,6 +343,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/podi-association-alleges-injustice-to-athletes-after-rule-change-in-nepal-athletics-championship-60-55.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Saudi Arabia’s new skill test rule adds hurdles for Nepali workers",
+      "summary": "New rule taking effect today requires workers travelling to the kingdom on labour visas to pass a mandatory skills certification test.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/06/16/saudi-arabia-s-new-skill-test-rule-adds-hurdles-for-nepali-workers",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/srammantri16620260933291000x0-1781614714.jpg&w=600&height=400"
+    },
+    {
+      "title": "चिनियाँ लगानीकर्तालाई नेपालमा लगानी गर्न परराष्ट्रमन्त्रीको आह्वान",
+      "summary": "सामुदायीक विद्यालयमा अध्ययनरत सात वटा विद्यालयका एक हजार ८०९ विद्यार्थीलाई निःशुल्क स्वास्थ्य सेवा प्रदान गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/free-health-camps-in-remote-community-schools-42-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781625471_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा महाधिवेशन भरतपुरमा सारियो",
+      "summary": "परराष्ट्रमन्त्री शिशिर खनालले चिनियाँ लगानीकर्ताहरूलाई नेपालमा लगानी गरी ‘पार-हिमाली’ समृद्धिको अर्को अध्याय संयुक्त रूपमा निर्माणमा योगदान गर्न आह्वान गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/foreign-minister-calls-on-chinese-investors-to-invest-in-nepal-68-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781625156_sishir-480x320.jpg"
+    },
+    {
+      "title": "आठराई त्रिबेणीको योजना : आउँदो पुसभित्र फुसको छानोरहित पालिका घोषणा गर्ने",
+      "summary": "राष्ट्रिय परीक्षा बोर्डले गत जेठमा प्रकाशित गरेको माध्यमिक शिक्षा परीक्षा (कक्षा १०) एसइईको नतिजामा लापरबाही गरेको भेटिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/negligence-in-see-results-five-percent-results-changed-in-retotaling-87-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781624410_re-480x320.jpg"
+    },
+    {
+      "title": "विगतका बजेटमा दलितलाई ढाँटियो, वर्तमान बजेट सुधारमुखी छ: परियार",
+      "summary": "फ्रान्सको रमणीय सहर इभियोनलेबामा मंगलबारदेखि विश्वका सात प्रमुख औद्योगिक राष्ट्रको समूह (जी-७) को शिखर सम्मेलन सुरु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/g-7-summit-in-france-br-82-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781623787_4-480x320.jpg"
     }
   ]
 }
