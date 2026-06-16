@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-06-16T05:19:48.750285",
+  "scraped_at": "2026-06-16T13:00:28.534706",
   "date": "2026-06-16",
-  "total_articles": 34,
+  "total_articles": 43,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -278,6 +278,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-prices-rise-modestly-silver-falls-by-rs-25-22-50.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Passport department chief detained in CIAA procurement probe",
+      "summary": "Tirtha Raj Aryal, director general of the Department of Passports, was taken into custody at Kathmandu airport as investigators examine alleged irregularities in a passport-related procurement contract.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/16/passport-department-chief-detained-in-ciaa-procurement-probe",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/tirtharajaryal16620260830461000x0-1781593839.jpg&w=300&height=200"
+    },
+    {
+      "title": "Foreign Minister Khanal meets senior CPC leader Wang in Beijing",
+      "summary": "Wang calls Nepal important in China’s neighbourhood diplomacy, Khanal seeks deeper economic engagement.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/06/16/khanal-meets-senior-cpc-leader-wang-in-beijing",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/WangHuning-1781598597.jpg&w=300&height=200"
+    },
+    {
+      "title": "Patients at cancer hospital in Chitwan struggle as chemotherapy drugs run short",
+      "summary": "Shortages of carboplatin and cisplatin are forcing patients to spend days searching for medicines, disrupting treatment at B.P. Koirala Memorial Cancer Hospital in Bharatpur.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/16/cancer-patients-at-cancer-hospital-in-chitwan-struggle-as-chemotherapy-drugs-run-short",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/BPKoiralaMemorialCancerHospital-1781601361.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepalis making treacherous trip to Europe through the Balkan route",
+      "summary": "Shortages of carboplatin and cisplatin are forcing patients to spend days searching for medicines, disrupting treatment at B.P. Koirala Memorial Cancer Hospital in Bharatpur.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/06/06/nepalis-europe-odyssey-through-the-treacherous-balkan-route",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1781588222.jpg&w=400&height=267"
+    },
+    {
+      "title": "एमालेको कोशी प्रदेश स्तरीय चुनावी समीक्षा सुरु",
+      "summary": "संघले प्रतियोगिताको प्रारम्भिक सूचनाअनुसार खेलाडी छनोट तथा तयारी गरिएको भए पनि प्रतियोगिताको अन्तिम चरणमा पुग्दा खेलका नियम तथा मापदण्ड परिवर्तन गरिएको आरोप लगाएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/podi-association-alleges-injustice-to-athletes-after-rule-change-in-nepal-athletics-championship-60-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781614648_Paudi Sangh-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको महाधिवेशन स्थल फेरियो : गेष्टहाउस चौरमा उद्घाटन, प्रदर्शनी केन्द्रमा बन्दसत्र",
+      "summary": "सरकारले ‘ओभर–द–टप’ (ओटिटी प्लेटफर्म)लाई औपचारिक रूपमा दर्ता तथा नियमनको दायरामा ल्याएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/registration-and-permission-are-now-mandatory-for-ott-platforms-br-16-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781008366_suchana tatha sanchar mantralaya-480x320.jpg"
+    },
+    {
+      "title": "भाइरल भिडियोबारे सृष्टी: निजी जीवनको सामान्य क्षण थियो, राजनीतिकरण गरियो",
+      "summary": "मंगलबार विशेष अदालतमा भएको सुनुवाइपछि न्यायाधीशहरूको संयुक्त इजलासले गौतमलाई अनुसन्धानको बाँकी प्रक्रिया पूरा नहुँदासम्म हिरासतमा राख्ने निर्णय गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/pokhara-airport-corruption-case-former-director-general-gautam-sent-to-jail-for-trial-73-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762740472_Airport-480x320.jpg"
+    },
+    {
+      "title": "बजेटले जनअपेक्षा सम्बोधन गर्न सकेन : एमाले मुख्य सचेतक",
+      "summary": "असार २ गते मंगलबार बिहान ९ः०० बजेसम्म हेलो सरकार प्रणालीमा कुल एक लाख १६ हजार सातवटा गुनासो दर्ता भइसकेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/116-000-complaints-registered-on-hello-government-65-469-resolved-br-61-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781614134_hello sarkar-480x320.jpg"
+    },
+    {
+      "title": "नयाँ सवारी दर्ता रोकिँदा यातायात व्यवसायी समस्यामा: सांसद कार्की",
+      "summary": "संघले प्रतियोगिताको प्रारम्भिक सूचनाअनुसार खेलाडी छनोट तथा तयारी गरिएको भए पनि प्रतियोगिताको अन्तिम चरणमा पुग्दा खेलका नियम तथा मापदण्ड परिवर्तन गरिएको आरोप लगाएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/podi-association-alleges-injustice-to-athletes-after-rule-change-in-nepal-athletics-championship-60-55.html?click_from=just_in",
       "image_url": ""
     }
   ]
