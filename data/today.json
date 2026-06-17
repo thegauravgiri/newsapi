@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-17T12:22:16.061613",
+  "scraped_at": "2026-06-17T18:26:25.467222",
   "date": "2026-06-17",
-  "total_articles": 42,
+  "total_articles": 51,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -342,6 +342,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/no-need-to-wait-for-budget-for-everything-finance-minister-27-77.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Saudi Arabia’s skills certification programme for Nepali workers suspended after protests",
+      "summary": "Foreign employment agencies accuse Saudi authorities of bypassing bilateral labour mechanisms and adding new financial burdens on migrant workers.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/17/saudi-arabia-s-skills-certification-programme-for-nepali-workers-suspended-after-protests",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb4-1781701802.jpg&w=300&height=200"
+    },
+    {
+      "title": "How a 33-year-old land probe was formed and what it uncovered",
+      "summary": "A Rawal Commission official recalls how field teams surveyed Kathmandu’s public land and documented large-scale irregularities.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/17/how-a-33-year-old-land-probe-was-formed-and-what-it-uncovered",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/whatsappimage20260616at18382616620260306491000x0-1781705813.jpg&w=300&height=200"
+    },
+    {
+      "title": "Right budget for the moment. Now Nepal must make it fly",
+      "summary": "Despite landmark court rulings and constitutional guarantees, members of the community state they still encounter discrimination when seeking documents, education, healthcare, and jobs.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/06/17/right-budget-for-the-moment-now-nepal-must-make-it-fly",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Untitled1-1781707577.jpg&w=400&height=267"
+    },
+    {
+      "title": "Why Nepal's economic future is now tethered to the stock market",
+      "summary": "Twelve months from now, the measure of this budget will not be what was announced, but what changed.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/06/17/why-nepal-s-economic-future-is-now-tethered-to-the-stock-market",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/whatsappimage20260616at18382616620260306491000x0-1781705813.jpg&w=400&height=267"
+    },
+    {
+      "title": "दिपक र सुलभलाई थुनामा पठाउन आदेश",
+      "summary": "जिल्लामा गत जेठ महिनामा भएका विभिन्न प्राकृतिक तथा गैर–प्राकृतिक विपद्का घटनाबाट १० करोडभन्दा बढीको आर्थिक क्षति भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/disaster-related-incidents-in-jhapa-cause-over-rs-100-million-in-damage-in-a-single-month-34-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767275182_hatti-atanka-480x320.jpg"
+    },
+    {
+      "title": "प्रचण्ड-माधवलाई झलनाथको अल्टिमेटम: तपाईंहरूबाट पार्टी चल्दैन, मार्गप्रशस्त गर्नुस्",
+      "summary": "१४ वर्षीया बालिकामाथि जबरजस्ती करणी गरेको आरोपमा एक जना पक्राउ परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/man-arrested-for-raping-14-year-old-girl-66-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767683851_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "‘ओहो ! कमरेड प्रचण्डले मलाई कुन खौलामा खसाउनु भयो’",
+      "summary": "त्यस्ता ठगीबाट बच्न विशेष सावधानी अपनाउन अनुरोध गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/couple-arrested-for-defrauding-by-promising-to-marry-and-take-them-to-america-14-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777469920_Arrest-480x320.jpg"
+    },
+    {
+      "title": "झलनाथको प्रश्न: भ्रष्टाचार मुद्दा खेपेका माधव नेपाललाई सह-संयोजक बनाइनु कति उचित ?",
+      "summary": "सरकारले निजामती सेवाका सचिव, सह-सचिव लगायत माथिल्लो तहका पदमा छड्के प्रवेश गराइ बाहिरबाट भर्ना गर्ने सकिने प्रस्ताव तयार गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-draft-civil-service-bill-is-being-introduced-into-the-law-and-attempts-are-being-made-to-recruit-secretaries-and-joint-secretaries-from-outside-48-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781711833_kakrak-480x320.jpg"
+    },
+    {
+      "title": "पीआर लिएर विदेश बसेका दुई कर्मचारीमाथि कडा कारबाही सिफारिस, सरकारी सेवामै अयोग्य ठहरिने",
+      "summary": "जिल्लामा गत जेठ महिनामा भएका विभिन्न प्राकृतिक तथा गैर–प्राकृतिक विपद्का घटनाबाट १० करोडभन्दा बढीको आर्थिक क्षति भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/disaster-related-incidents-in-jhapa-cause-over-rs-100-million-in-damage-in-a-single-month-34-15.html?click_from=just_in",
       "image_url": ""
     }
   ]
