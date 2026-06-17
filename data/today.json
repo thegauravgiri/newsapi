@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-06-17T04:59:05.033969",
+  "scraped_at": "2026-06-17T12:22:16.061613",
   "date": "2026-06-17",
-  "total_articles": 34,
+  "total_articles": 42,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -278,6 +278,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/today-is-world-day-against-desertification-and-khaderi-br-68-95.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "नी शक्तिपीठदेखि विकाससम्म : सप्तरीको हनुमाननगरमा मेयरको प्रतिबद्धता र जनताको आक्रोश",
+      "summary": "नी शक्तिपीठदेखि विकाससम्म : सप्तरीको हनुमाननगरमा मेयरको प्रतिबद्धता र जनताको आक्रोश",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13165",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Sidha-Kura-Meyor-sanga-1781668751.jpg"
+    },
+    {
+      "title": "Deubas seek safe passage home amid money laundering probe",
+      "summary": "In letters from Hong Kong, Sher Bahadur Deuba and Arzu say they are undergoing medical treatment and will cooperate with investigators.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/06/17/deubas-seek-safe-passage-home-amid-money-laundering-probe",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1781657757.jpg&w=300&height=200"
+    },
+    {
+      "title": "Baglung emerges as key stop on Muktinath pilgrimage route",
+      "summary": "Indian tourists and pilgrims are spending more time in the district, drawn by religious attractions, heritage sites and the unique Shaligram Museum.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/17/baglung-emerges-as-key-stop-on-muktinath-pilgrimage-route",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/indianharu17620260614231000x0-1781682302.jpg&w=300&height=200"
+    },
+    {
+      "title": "पर्यटनमन्त्री भन्छन्: पर्यटनलाई खुसी बेच्ने व्यवसाय बनाऔँ",
+      "summary": "अर्थमन्त्री स्वर्णिम वाग्लेले सबै कुराका लागि बजेट कुर्नु नपर्ने बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/no-need-to-wait-for-budget-for-everything-finance-minister-27-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778572244_wagle-480x320.jpg"
+    },
+    {
+      "title": "जेनजी शहीद परिवारका १६ जनाले पाए प्राधिकरणमा जागिर",
+      "summary": "पाकिस्तानको उत्तरपश्चिमी खैबर पख्तुनख्वा प्रान्तमा काउन्टर टेररिज्म डिपार्टमेन्ट (सीटीडी) ले सञ्चालन गरेको गुप्तचर सूचनामा आधारित कारबाहीमा तीन आतंककारी मारिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/three-terrorists-killed-in-police-operation-in-northwest-pakistan-23-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781697682_paak 03-480x320.jpg"
+    },
+    {
+      "title": "नेकपा विवाद: वरिष्ठ नेता खनालद्वारा पुष्पकमल-माधवमाथि ३६ बुँदे आरोप (पत्रसहित)",
+      "summary": "उनी पहिलो ट्रान्स महिला (एलजीबिटिक्यू) हुन्, जसले सफल सगरमाथाको चुचुरोमा पुग्न सफल भएकी हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/nepal-s-trans-woman-neelam-poudel-climbs-mount-everest-for-5-million-80-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781697277_nilam1-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रियता, लोकतन्त्र र वाम आन्दोलनमाथि एकैसाथ संकट आयो: प्रदीप ज्ञवाली",
+      "summary": "फेवातालमा यो सिजनमा मध्यान्हपछि पोखरामा हावाहुरी चल्ने र त्यसले तालमा छाल उब्जाउँदा तालमा पर्यटकलाई सवार गराईरहेका सर्फिङ बोट चपेटामा पर्ने गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/the-dangers-of-surfing-in-fewa-lake-br-23-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1781696436_Fewatal Rescue  (2)-480x320.jpg"
+    },
+    {
+      "title": "सभामुखलाई अझै पार्टीको धङधङ्गेले छोडेन: सांसद यादव",
+      "summary": "अर्थमन्त्री स्वर्णिम वाग्लेले सबै कुराका लागि बजेट कुर्नु नपर्ने बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/no-need-to-wait-for-budget-for-everything-finance-minister-27-77.html?click_from=just_in",
       "image_url": ""
     }
   ]
