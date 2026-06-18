@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-18T11:55:02.351367",
+  "scraped_at": "2026-06-18T15:44:25.167532",
   "date": "2026-06-18",
-  "total_articles": 44,
+  "total_articles": 52,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -358,6 +358,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/krishna-bahadur-mahara-announces-to-take-leave-from-active-politics-due-to-health-reasons-br-83-16.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Awaiting resettlement, displaced squatter families struggle with life in holding centres",
+      "summary": "Young children are bearing the brunt of life in holding centres, where parents worry about nutrition, sickness and unsafe conditions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/18/awaiting-resettlement-displaced-squatter-families-struggle-with-life-in-holding-centres",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/suqtters-1781787762.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal’s northern border is not dispute-free, foreign minister tells parliament",
+      "summary": "There has been no joint boundary inspection since 2006, although a protocol requires periodic reviews.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/18/nepal-s-northern-border-is-not-dispute-free-foreign-minister-tells-parliament",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/GDKTMDG9827-1781789270.jpg&w=300&height=200"
+    },
+    {
+      "title": "Beyond fertiliser: Why decision-making is important for Nepal’s investment framework",
+      "summary": "Political favouritism and poor planning have rendered a multibillion-rupee investment in sports infrastructure virtually useless across Sudurpaschim.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/06/18/beyond-fertiliser-why-decision-making-is-important-for-nepal-s-investment-framework",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/4f16f1b70c27adc3b4b1b1386c3e796d-1781794546.jpg&w=400&height=267"
+    },
+    {
+      "title": "रास्वपा महाधिवेशन बन्द सत्रका लागि उद्योग संघले दियो स्वीकृति",
+      "summary": "दीपा १४ वर्षकी मात्रै थिइन्। पढ्दापढ्दै भर्खरै माओवादीको ‘होलटाइमर’ बनेकी थिइन्। केही दिनपछि दीपाले लेखेको चिट्ठी घरमा आइपुग्यो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-new-generation-must-be-involved-in-the-fight-for-justice-31-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781796887_fsa-480x320.jpg"
+    },
+    {
+      "title": "पोखरा महानगरको नीति तथा कार्यक्रमः पृथ्वीचोकमा आधुनिक बसपार्क निर्माणदेखि फिर्के खोला करिडोरसम्म",
+      "summary": "रुपन्देहीको मुख्य नाका बेलहिया र आसपासका सीमाक्षेत्रमा केही चहलपहल फर्किएको देखिए पनि विगतको तुलनामा अवस्था अझै सुस्त नै छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/change-in-the-border-businessmen-happy-locals-and-consumers-worried-36-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781796479_Truck-480x320.jpg"
+    },
+    {
+      "title": "अमेरिका-इरान सम्झौता: नेपालले भन्यो- स्वागतयोग्य",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)को सचिवालयले विधान परिवर्तन गरेर १५१ केन्द्रीय सदस्य बनाउने प्रस्ताव गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/industry-association-gives-approval-for-closed-session-of-rsp-general-convention-82-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781796132_Chitawan-480x320.jpg"
+    },
+    {
+      "title": "सुकुमवासी बस्ती हटाउन सेना परिचालन गरिएको छैन: अर्थमन्त्री",
+      "summary": "कोशी प्रदेशमा गीत-संगीतको सार्वजनिक प्रयोग गरेर लाभ लिने सार्वजनिक सवारी साधनका लागि संगीत रोयल्टी अनिवार्य गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/from-now-on-you-will-have-to-pay-royalties-if-you-play-songs-on-public-transport-44-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781795428_55-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीको जवाफ अर्थमन्त्रीले दिएपछि एमालेको प्रश्न: ‘सधैँका लागि जिम्मेवारी हस्तान्तरण गरिएको हो ?’",
+      "summary": "दीपा १४ वर्षकी मात्रै थिइन्। पढ्दापढ्दै भर्खरै माओवादीको ‘होलटाइमर’ बनेकी थिइन्। केही दिनपछि दीपाले लेखेको चिट्ठी घरमा आइपुग्यो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-new-generation-must-be-involved-in-the-fight-for-justice-31-33.html?click_from=just_in",
       "image_url": ""
     }
   ]
