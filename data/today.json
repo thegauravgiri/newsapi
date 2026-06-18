@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-18T04:48:50.751229",
+  "scraped_at": "2026-06-18T11:55:02.351367",
   "date": "2026-06-18",
-  "total_articles": 34,
+  "total_articles": 44,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -278,6 +278,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/rpp-s-performance-committee-meeting-underway-85-42.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "फ्युचर फोरम २०२६ : नेपालको भविष्यबारे उच्चस्तरीय राष्ट्रिय संवाद शुक्रबार काठमाडौंमा",
+      "summary": "फ्युचर फोरम २०२६ : नेपालको भविष्यबारे उच्चस्तरीय राष्ट्रिय संवाद शुक्रबार काठमाडौंमा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13174",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/lalal-1781765818.jpg"
+    },
+    {
+      "title": "दश रक्तदाता समूहमा स्थान बनाउन सफल तमु समाज कुवेत सम्मानित",
+      "summary": "दश रक्तदाता समूहमा स्थान बनाउन सफल तमु समाज कुवेत सम्मानित",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13167",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/4-1781675012.jpg"
+    },
+    {
+      "title": "CIAA summons Arzu Rana Deuba in passport procurement corruption probe",
+      "summary": "Former foreign minister tells the anti-graft body she is abroad for medical treatment and cannot appear within the deadline, while expressing willingness to cooperate with the investigation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/18/ciaa-summons-arzu-rana-deuba-in-passport-procurement-corruption-probe",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1781776041.jpg&w=300&height=200"
+    },
+    {
+      "title": "Only one-third of September protest damage claims settled after nine months",
+      "summary": "Of Rs 23.53 billion in claims, Rs 7.62 billion has been paid as insurers blame pending assessments and incomplete paperwork for delays.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/18/only-one-third-of-september-protest-damage-claims-settled-after-nine-months",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/cgdigitalpark18620260302451000x0-1781763137.jpg&w=300&height=200"
+    },
+    {
+      "title": "Government resumes digital verification of displaced squatters",
+      "summary": "Fresh data collection covers previously registered families living outside holding centres as relief payments near.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/18/government-resumes-digital-verification-of-displaced-squatters",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/displacedsquatterverification-1781758230.jpg&w=300&height=200"
+    },
+    {
+      "title": "रोगले थलिएपछि सक्रिय राजनीतिबाट महराले बिदा लिए",
+      "summary": "नेपाली कम्युनिस्ट पार्टी (नेकपा) का नेता एवं पूर्व सभामुख कृष्णबहादुर महराले सक्रिय राजनीतिबाट बिदा लिने घोषणा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/krishna-bahadur-mahara-announces-to-take-leave-from-active-politics-due-to-health-reasons-br-83-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1760025642_Mahara-480x320.jpg"
+    },
+    {
+      "title": "कानुन निर्माणमा प्राथमिकता खोज्दै मन्त्री गौतम: मन्त्रालयगत छलफल गर्दै",
+      "summary": "मन्त्रालयगत छलफल गर्दै सबै मन्त्रालयका आवश्यकता खोज्दै छलफल गरिरहेकी छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/minister-gautam-seeks-priority-in-lawmaking-holding-ministry-level-discussions-23-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775377879_Sovita_Gautam-480x320.jpg"
+    },
+    {
+      "title": "शक्तिशाली बोर्डको अवधारणासहित किसानमैत्री नीति ल्याइन्छ: मन्त्री चौधरी",
+      "summary": "कृषि, वन तथा पर्यावरणमन्त्री गीता चौधरीले कानुन संशोधन गरी राष्ट्रिय दुग्ध विकास बोर्डलाई अझ शक्तिशाली र आत्मनिर्भर बनाई किसानमैत्री नीति तथा कार्यक्रम ल्याइने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/farmer-friendly-policy-to-be-introduced-with-the-concept-of-a-powerful-board-minister-chaudhary-63-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781782211_mantri_chaudhari-480x320.jpg"
+    },
+    {
+      "title": "अख्तियारलाई आरजुको जवाफ: तत्काल उपस्थित हुन सक्दिन",
+      "summary": "नेपाल सरकारको नियमित अनुगमन प्रक्रिया अन्तर्गत अस्पताल जस्तो अत्यावश्यक क्षेत्रमा कार्यरत श्रमिकहरूको हकहित सुनिश्चित गर्न यो कदम चालिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/frontline-hospitals-instructed-to-join-social-security-fund-45-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781781474_hospita-480x320.jpg"
+    },
+    {
+      "title": "सामाजिक सञ्जाल नियमनमा सरकार, भ्रामक विज्ञापन २४ घण्टाभित्र हटाउन निर्देशन",
+      "summary": "नेपाली कम्युनिस्ट पार्टी (नेकपा) का नेता एवं पूर्व सभामुख कृष्णबहादुर महराले सक्रिय राजनीतिबाट बिदा लिने घोषणा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/krishna-bahadur-mahara-announces-to-take-leave-from-active-politics-due-to-health-reasons-br-83-16.html?click_from=just_in",
       "image_url": ""
     }
   ]
