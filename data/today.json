@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-06-19T05:09:43.750282",
+  "scraped_at": "2026-06-19T12:14:18.740932",
   "date": "2026-06-19",
-  "total_articles": 34,
+  "total_articles": 40,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -278,6 +278,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/electricity-to-industries-in-hetauda-that-have-not-paid-their-dues-will-be-cut-off-today-as-well-br-82-86.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Central Zoo closes indefinitely after bird flu outbreak",
+      "summary": "The virus has been confirmed in egrets, owls and vultures, as well as civets and leopard cats.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/19/central-zoo-closes-indefinitely-after-bird-flu-outbreak",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/centralzoofinal19620261216291000x0-1781866143.jpg&w=300&height=200"
+    },
+    {
+      "title": "राष्ट्रियसभाबाट विभिन्न अध्यादेशसम्बन्धी प्रस्ताव स्वीकृत",
+      "summary": "तनहुँको सदरमुकाम दमौलीस्थित नमूना पशु अस्पताल भवन तोकिएकै समयमा निर्माण पूरा नभएपछि अन्ततः ठेक्का सम्झौता रद्द गर्ने प्रक्रिया अगाडि बढेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/eventually-canceled-contract-br-32-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767337292_Nagariknews-480x320.jpg"
+    },
+    {
+      "title": "खुश्बु ओलीको प्रश्नः संवैधानिक तथा प्रशासनिक निकायमाथि हस्तक्षेपकिन ?",
+      "summary": "कृषि तथा पशुपन्छी अनुदानको छानबिन गर्न पाँच सदस्यीय कार्यदल गठन भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/government-seeks-grant-accounting-five-member-investigation-task-force-formed-76-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1736772998_krisi_ministry-480x320.jpg"
+    },
+    {
+      "title": "रवि लामिछानेविरुद्धको सङ्गठित अपराध मुद्दा फिर्ता लिन अदालतको अनुमति",
+      "summary": "राष्ट्रियसभाको आजको बैठकले विभिन्न अध्यादेशसम्बन्धी प्रस्ताव स्वीकृत गरेको छ।बैठकमा सांसद सम्झना देवकोटाले ‘सहकारी (पहिलो संशोधन) अध्यादेश २०८३ लाई अस्वीकार गरियोस्’ भनी राखेको प्रस्तावलाई बहुमतले अस्वीकृत गरेको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/national-assembly-approves-proposals-related-to-various-ordinances-br-60-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778661463_rastaya 30-480x320.jpg"
+    },
+    {
+      "title": "झलनाथलाई माधवको जवाफ: नकारात्मक प्रचारले होइन, महाधिवेशनले मात्रै पार्टीको दिशा तय गर्छ",
+      "summary": "उनको जितलाई सङ्कटमा परेका प्रधानमन्त्री किर स्टार्मरमाथि थप राजनीतिक दबाब सिर्जना गर्ने घटनाका रूपमा हेरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/burnham-s-victory-puts-pressure-on-prime-minister-starmer-br-83-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781869377_New Project-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय सभाबाट स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी अध्यादेश स्वीकृत",
+      "summary": "तनहुँको सदरमुकाम दमौलीस्थित नमूना पशु अस्पताल भवन तोकिएकै समयमा निर्माण पूरा नभएपछि अन्ततः ठेक्का सम्झौता रद्द गर्ने प्रक्रिया अगाडि बढेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/eventually-canceled-contract-br-32-95.html?click_from=just_in",
       "image_url": ""
     }
   ]
