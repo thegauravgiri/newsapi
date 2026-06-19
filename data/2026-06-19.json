@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-06-19T12:14:18.740932",
+  "scraped_at": "2026-06-19T18:04:03.053911",
   "date": "2026-06-19",
-  "total_articles": 39,
+  "total_articles": 46,
   "sources": [
-    "KathmanduPost",
     "News24",
+    "KathmanduPost",
     "NagarikNews"
   ],
   "articles": [
@@ -318,6 +318,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/eventually-canceled-contract-br-32-95.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Drought-like conditions, contaminated water spark outbreak risks",
+      "summary": "Sixty percent of drinking water samples in Lalitpur’s Konjyosom have been found contaminated with faecal coliform.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/06/19/drought-like-conditions-contaminated-water-spark-outbreak-risks",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1781870975.jpg&w=300&height=200"
+    },
+    {
+      "title": "Grade 12 pass rate improves for third consecutive year",
+      "summary": "Overall pass rate reaches 64.13 percent as the National Examinations Board publishes results in a record 40 days.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/19/grade-12-pass-rate-improves-for-third-consecutive-year",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1781883066.jpg&w=600&height=400"
+    },
+    {
+      "title": "सहमतिकै आधारमा नेतृत्व चयन गर्ने प्रयासमा छौँ: महामन्त्री शाह",
+      "summary": "काठमाडौं उपत्यका ट्राफिक प्रहरी कार्यालयले मोडिफाइ गरी ठूलो तथा चर्को ध्वनि निकाल्ने एक हजार ३२९ मोटरसाइकललाई नियन्त्रणमा लिएर कारबाही गरेको जनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/1-329-motorcycles-that-make-loud-noises-to-be-taken-into-action-74-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774020015_moter-480x320.jpg"
+    },
+    {
+      "title": "हल प्रयोग बापत चितवन उद्योग संघलाई १३ लाख ५० हजार बुझाउँदै रास्वपा",
+      "summary": "एरिका गुरुङले २२औं सिनियर एसियाली कराते प्रतियोगितामा शुक्रबार कांस्य पदक जितेकी छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/erica-wins-bronze-in-asian-karate-29-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781885123_erica-480x320.jpg"
+    },
+    {
+      "title": "सबै मन्त्रीसँग कानुन मन्त्री गौतमको छलफल, असार मसान्तभित्र विधेयक सूची तयार गर्न आग्रह",
+      "summary": "यी खेलपछि समूहमा कसले नकआउट चरणका लागि बलियो पकड बनाउनेछ भन्ने स्पष्ट हुने अपेक्षा गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/group-c-can-haiti-challenge-brazil-22-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781883789_brazil-haiti-480x320.jpg"
+    },
+    {
+      "title": "नेपालमा भ्रष्टाचार थप बढ्दै गएको कांग्रेस सभापति गगन थापाको दावी",
+      "summary": "राष्ट्रिय परीक्षा बोर्डले शुक्रबार सार्वजनिक गरेको २०८३ सालको कक्षा १२ को नतिजामा उत्तीर्ण दर उल्लेख्य रूपमा सुधार भएको देखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/significant-improvement-in-grade-12-results-still-fewer-with-high-gpa-22-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1745331578_exam-board-2242025114315-480x320.jpg"
+    },
+    {
+      "title": "जग्गासम्बन्धी समस्या समाधान गर्न काम भइरहेको छः मन्त्री रावल",
+      "summary": "काठमाडौं उपत्यका ट्राफिक प्रहरी कार्यालयले मोडिफाइ गरी ठूलो तथा चर्को ध्वनि निकाल्ने एक हजार ३२९ मोटरसाइकललाई नियन्त्रणमा लिएर कारबाही गरेको जनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/1-329-motorcycles-that-make-loud-noises-to-be-taken-into-action-74-75.html?click_from=just_in",
       "image_url": ""
     }
   ]
