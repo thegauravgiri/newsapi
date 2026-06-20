@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-20T04:21:50.449309",
+  "scraped_at": "2026-06-20T10:37:10.002408",
   "date": "2026-06-20",
-  "total_articles": 33,
+  "total_articles": 40,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -270,6 +270,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/fifa-world-cup-why-was-paraguay-s-miguel-almiron-given-a-red-card-26-86.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "How pressure from the prime minister’s office is accelerating the passport investigation",
+      "summary": "Officials describe a Monday at Singha Durbar that left a constitutional body cornered, a foreign ambassador fuming, and a long-stalled investigation suddenly moving fast.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/06/20/how-pressure-from-the-prime-minister-s-office-is-accelerating-the-passport-investigation",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/AIGenerated-1781938975.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepse sheds 21.92 points as investor wealth shrinks by Rs40 billion",
+      "summary": "Market analysts cite weak company fundamentals, oversupply of stocks and ongoing investigations as factors dampening market sentiment.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/06/20/nepse-sheds-21-92-points-as-investor-wealth-shrinks-by-rs40-billion",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Nepsebar-1781940650.jpg&w=300&height=200"
+    },
+    {
+      "title": "सिँचाइ, तटबन्ध र नदी व्यवस्थापन सरकारको उच्च प्राथमिकतामा",
+      "summary": "विभिन्न ‘होल्डिङ सेन्टर’मा रहेका बालबालिकाको आवास, मनोरञ्जन र शिक्षाका लागि सरकारको पहल सकारात्मक रहेको अध्ययनले देखाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/government-s-initiative-for-children-in-holding-centers-is-positive-93-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777945796_balbalika-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको यात्रा स्मरण गर्दै भावुक बने रवि",
+      "summary": "सरकारले आगामी आर्थिक वर्षमा थप १५ हजार ७७६ हेक्टर खेतीयोग्य जमिनमा सिँचाइ सुविधा विस्तार गरी देशको कुल सिञ्चित खेतीयोग्य क्षेत्र ६४ प्रतिशत पुर्‍याउने लक्ष्य निर्धारण गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/irrigation-embankments-and-river-management-are-top-priorities-of-the-government-33-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776165316_krishi balen-480x320.jpg"
+    },
+    {
+      "title": "तोसिमाले भनिन्- गर्मी छ, टन्न पानी पिउनुहोला",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछाने पार्टी स्थापना गर्दाका कठिन दिनहरू सम्झँदै भावुक बनेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ravi-becomes-emotional-while-recalling-the-journey-of-the-rashtriya-swayamsevak-sangh-rss-89-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781950530_Rabi-480x320.jpg"
+    },
+    {
+      "title": "आन्तरिक लोकतन्त्र र विधिमा सम्झौता हुँदैन: रवि लामिछाने",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) को पहिलो राष्ट्रिय महाधिवेशनमा सहभागी हुन आएका प्रतिनिधि तथा शुभेच्छुकहरूलाई स्वास्थ्यमा विशेष ध्यान दिन आग्रह गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/toshima-said-it-s-hot-drink-lots-of-water-br-17-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781949826_55-480x320.jpg"
+    },
+    {
+      "title": "भरतपुरमा रास्वपा केन्द्रीय समितिको बैठक जारी",
+      "summary": "विभिन्न ‘होल्डिङ सेन्टर’मा रहेका बालबालिकाको आवास, मनोरञ्जन र शिक्षाका लागि सरकारको पहल सकारात्मक रहेको अध्ययनले देखाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/government-s-initiative-for-children-in-holding-centers-is-positive-93-75.html?click_from=just_in",
       "image_url": ""
     }
   ]
