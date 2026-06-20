@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-20T10:37:10.002408",
+  "scraped_at": "2026-06-20T14:21:27.089626",
   "date": "2026-06-20",
-  "total_articles": 40,
+  "total_articles": 46,
   "sources": [
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -326,6 +326,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/government-s-initiative-for-children-in-holding-centers-is-positive-93-75.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "From thatch huts to ‘German Hangers’: Chitwan’s enduring role in hosting party conventions",
+      "summary": "From underground communist assemblies during the Panchayat era to the RSP’s inaugural national convention, the centrally located district has repeatedly shaped the country’s political journey.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/20/from-thatch-huts-to-german-hangers-chitwan-s-enduring-role-in-hosting-party-conventions",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/72371187217982146311601033659170370792911412n-1781958737.jpg&w=300&height=200"
+    },
+    {
+      "title": "रास्वपा महाधिवेशन: प्यानल वा गुटबन्दी गरे उम्मेदवारी नै खारेज हुने",
+      "summary": "‘यौनिक तथा लैंगिक अल्पसंख्यक समुदाय’ले राजनीतिक, सामाजिक अधिकार र समावेशितामा आफुहरुलाई बञ्चित गरिएको दुखेसो पोखेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/complaints-of-sexual-and-gender-minorities-being-deprived-of-their-rights-br-31-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781964953_Main-480x320.jpg"
+    },
+    {
+      "title": "सभामुख अर्यालद्वारा मछिन्द्रनाथको भोटो जात्राको शुभकामना",
+      "summary": "बसपार्क भित्रका अन्य घर, टहरामा डोजर चल्दा पनि बास्तोला कम्प्लेक्समा डोजर चलेको थिएन ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/320-shutters-collapsed-while-bulldozer-was-operating-at-pokhara-bus-park-89-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781964705_Pokhara-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय स्वाधीनता खतरमा छ: राजेन्द्र पाण्डे",
+      "summary": "लागु औषधसहित बिहीबार तीन र शुक्रबार दुई जनालाई प्रहरीले पक्राउ गरेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/five-people-arrested-with-drugs-69-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756829024_pakrau-480x320.jpg"
+    },
+    {
+      "title": "विश्व शक्ति चीन र भारततिर सर्दै गर्दा नेपालमा भू–राजनीतिक तानातानी बढ्योः वर्षमान",
+      "summary": "प्रहरीका अनुसार जेठ महिनामा हराएका व्यक्तिमध्ये १० महिला, तीन पुरुष, एक बालक, चार बालिका र तीन जना ज्येष्ठ नागरिक रहेका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/17-of-21-missing-people-from-tanahun-found-35-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779865322_Missing-480x320.jpg"
+    },
+    {
+      "title": "सिगास गाउँपालिकाले हटायो आइतबारको बिदा",
+      "summary": "‘यौनिक तथा लैंगिक अल्पसंख्यक समुदाय’ले राजनीतिक, सामाजिक अधिकार र समावेशितामा आफुहरुलाई बञ्चित गरिएको दुखेसो पोखेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/complaints-of-sexual-and-gender-minorities-being-deprived-of-their-rights-br-31-69.html?click_from=just_in",
       "image_url": ""
     }
   ]
