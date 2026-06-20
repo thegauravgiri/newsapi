@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-20T14:21:27.089626",
+  "scraped_at": "2026-06-20T17:41:01.876915",
   "date": "2026-06-20",
-  "total_articles": 46,
+  "total_articles": 51,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -375,6 +375,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/complaints-of-sexual-and-gender-minorities-being-deprived-of-their-rights-br-31-69.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Nepal’s summer tourism thrives as Indians escaping heat fill hotel rooms",
+      "summary": "Indian arrivals to Chitwan and Pokhara jump sharply as travellers seek relief from soaring temperatures in Uttar Pradesh and Bihar, boosting Nepal’s wildlife and leisure tourism during the traditional off-season.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/20/nepal-s-summer-tourism-thrives-as-indians-escaping-heat-fill-hotel-rooms",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1781960460.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal still on ‘grey list’ as FATF shares its review report",
+      "summary": "The country’s steps to improve its standing by addressing technical compliance deficiencies in targeted financial sanctions regime for ‘terrorist financing’ and ‘proliferation financing’ have fallen short.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/06/20/nepal-still-on-grey-list-as-fatf-shares-its-review-report",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1781969123.jpg&w=300&height=200"
+    },
+    {
+      "title": "रास्वपाको नयाँ संरचना : १५८ सदस्यीय केन्द्रीय समिति, १९ पदाधिकारी र समावेशी प्रतिनिधित्वको नयाँ मोडेल",
+      "summary": "प्रशासनले स्थानीय समय अनुसार साँझ पाँच बजेसम्मका लागि मात्र प्रदर्शनको अनुमति दिए पनि प्रदर्शनकारीहरू अझै पछि हटेका छैनन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/india-cockroach-janata-party-protests-continue-into-the-night-demanding-the-resignation-of-the-education-minister-51-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781974971_CJP India-480x320.jpg"
+    },
+    {
+      "title": "माधव नेपाल भन्छन्: भ्रममा नपर्नुहोस्, एमालेसँग एकता सम्भव छैन",
+      "summary": "सडक विस्तार र सवारीसाधनको संख्या बढ्दै गए पनि सुरक्षा व्यवस्थापन, पूर्वाधार र चालक अनुशासनमा अपेक्षित सुधार नदेखिँदा दुर्घटनाको जोखिम बढ्दो अवस्थामा छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/increasing-road-accidents-in-karnali-challenges-of-high-speed-weak-infrastructure-and-management-21-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781972562_accident1-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको पहिलो महाधिवेशन भोलिदेखि: रवि लामिछाने र बालेन्द्र शाहले सम्बोधन गर्ने",
+      "summary": "केन्द्रीय समिति १५८ सदस्यीय बनाउने निर्णय गरेको छ। शनिबार बसेको केन्द्रीय समिति बैठकले पारित गरेको संशोधित विधानअनुसार १५१ जना महाधिवेशनबाट चयन हुनेछन् भने सातै प्रदेशका सभापति स्वतः केन्द्रीय सदस्य रहने व्यवस्था गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/new-structure-of-the-rashtriya-swayamsevak-sangh-rss-party-158-member-central-committee-19-office-bearers-and-a-new-model-of-inclusive-representation-55-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781950529_Rabi_Chitawan-480x320.jpg"
     }
   ]
 }
