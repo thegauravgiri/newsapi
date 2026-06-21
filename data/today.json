@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-21T11:21:13.660861",
+  "scraped_at": "2026-06-21T14:26:30.359587",
   "date": "2026-06-21",
-  "total_articles": 42,
+  "total_articles": 49,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -342,6 +342,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/playgrounds-are-in-abeyance-due-to-lack-of-sufficient-budget-10-93.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Political leaders urge RSP not to squander historic public mandate",
+      "summary": "Leaders from across the political spectrum ask the Rastriya Swatantra Party to focus on good governance, constitutional amendments, democracy and the national interest as it holds its first general convention.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/06/21/political-leaders-urge-rsp-not-to-squander-historic-public-mandate",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/whatsappimage20260621at60010pm21620260224511000x0-1782048553.jpg&w=300&height=200"
+    },
+    {
+      "title": "Weeks after dog bite, man dies of rabies",
+      "summary": "The 48-year-old from Chandragiri could not get anti-rabies vaccine on time due to shortages in his locality and reached Sukraraj Hospital only after symptoms appeared.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/06/21/weeks-after-dog-bite-man-dies-of-rabies",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/FJBVULCT2BOA3IMURNH4Y2VGRE-1782046466.jpg&w=300&height=200"
+    },
+    {
+      "title": "लागूऔषध सहित देशका विभिन्न स्थानबाट २७ जना समातिए",
+      "summary": "अत्यधिक रक्तश्राव पाँचखपन नगरपालिका-७ की २७ वर्षीया सनिता परियारको नेपाली सेनाको हेलिकप्टरमार्फत उद्धार गरिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/woman-bleeding-profusely-rescued-by-helicopter-10-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1738420858_heli-480x320.jpg"
+    },
+    {
+      "title": "भक्तपुरमा नयाँ संग्रहालय बन्ने",
+      "summary": "बागलुङको गलकोट नगर अस्पतालले न्यूनतम सेवा मापदण्ड सूचकमा गण्डकी प्रदेशमै उत्कृष्ट घोषणा भएको छ। न्यूनतम सेवा मापदण्ड सूचक (एमएसएस) मूल्याङ्कनमा पालिकास्तरका अस्पतालमा सबैभन्दा बढी अङ्क प्राप्त गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/galkot-municipal-hospital-becomes-the-best-in-gandaki-province-53-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782051345_galkot-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा महाधिवेशन : घण्टी बजाएरै समापन भयो उद्घाटन सत्र",
+      "summary": "अभियानबाट हालसम्म २ करोड ७९ लाख ६२ हजार रुपैयाँ संकलन भएको जग्गा व्यवस्थापन समितिका कोषाध्यक्ष टंक केसीले जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/land-for-hospital-purchased-by-raising-rs-35-million-from-citizens-83-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/photos/1782050478_Galkot Nagar Hospital-480x320-wm.jpg"
+    },
+    {
+      "title": "रास्वपामाथि उठेका प्रश्नको जवाफ दिँदै रविले भने: देश रास्वपाको हातमा छ, अनि सुरक्षित छ",
+      "summary": "अवैध लागूऔषध सहित देशका विभिन्न स्थानबाट प्रहरीले २७ जनालाई नियन्त्रणमा लिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/27-people-arrested-from-various-locations-with-illegal-drugs-71-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755793803_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "कोशी प्रदेश सभामा बजेटमाथि छलफल",
+      "summary": "अत्यधिक रक्तश्राव पाँचखपन नगरपालिका-७ की २७ वर्षीया सनिता परियारको नेपाली सेनाको हेलिकप्टरमार्फत उद्धार गरिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/woman-bleeding-profusely-rescued-by-helicopter-10-12.html?click_from=just_in",
       "image_url": ""
     }
   ]
