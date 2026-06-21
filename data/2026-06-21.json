@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-21T14:26:30.359587",
+  "scraped_at": "2026-06-21T17:45:01.529986",
   "date": "2026-06-21",
-  "total_articles": 48,
+  "total_articles": 51,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -391,6 +391,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/health/woman-bleeding-profusely-rescued-by-helicopter-10-12.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "गोरखामा योग शिविर",
+      "summary": "बाह्रौँ विश्व योग दिवसका अवसरमा आज निःशुल्क योग शिविर सम्पन्न भएको छ। जिल्ला प्रशासन कार्यालय गोरखाको आयोजनामा सदरमुकामस्थित द्रव्यशाह बहुमुखी क्याम्पसमा योग शिविर सञ्चालन गरिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/yoga-camp-in-gorkha-73-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782058571_Untitled-7-480x320.jpg"
+    },
+    {
+      "title": "'सत्ताको उन्माद र आन्तरिक अहंकारबाट मुक्त हुनुहोस्'",
+      "summary": "प्रधानमन्त्री हुनुअघि बालेन शाहले चुनावी अभियानका क्रममा सुदूरपश्चिमको धनगढीमा आयोजित सभालाई सम्बोधन गर्ने क्रममा भनेका थिए, ‘मान्छेले देशलाई स्विट्जरल्याण्ड बनाउनुपर्छ भन्छन्। स्विजरल्याण्डको बाउ बडीमालिका यहीं छ किन बनाउनु पर्‍यो स्विजरल्याण्ड ?’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/both-kalikot-and-bajura-claim-triveni-br-83-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782058207_triveni_patan-480x320.jpg"
+    },
+    {
+      "title": "कर्णाली बजेटः दलित, महिला र राउटेको सशक्तीकरणमा जोड",
+      "summary": "तिलिचो ताललाई धार्मिक तथा आध्यात्मिक पर्यटकीय गन्तव्यका रुपमा विकास गर्ने उद्देश्यले आयोजित तिलिचो ताल भक्ति यात्रा, २०८३ सम्पन्न भएको छ। श्री १००८ स्वामी ऋषि प्रपन्नचार्यको सङ्कल्पमा आयोजना गरिएका यात्रा आज सकिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/tilicho-devotional-journey-completes-70-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782057358_साहसिक तिलिचो भक्ति यात्रा सम्पन्न (1)-480x320.jpg"
     }
   ]
 }
