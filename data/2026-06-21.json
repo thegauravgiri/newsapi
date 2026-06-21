@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-21T05:05:47.517941",
+  "scraped_at": "2026-06-21T11:21:13.660861",
   "date": "2026-06-21",
-  "total_articles": 33,
+  "total_articles": 41,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -270,6 +270,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-and-silver-prices-increased-25-84.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "स्थानीयलाई खानेपानी हाहाकार, के गर्दैछन तीन तहका सरकार ?",
+      "summary": "स्थानीयलाई खानेपानी हाहाकार, के गर्दैछन तीन तहका सरकार ?",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13194",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/pani-abhab-1782012201.jpg"
+    },
+    {
+      "title": "Why Nepal’s private sector is choosing safety over growth",
+      "summary": "A convergence of regulatory scrutiny, economic stagnation and legal anxiety has pushed entrepreneurs into a defensive, wait-and-see posture.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/06/21/why-nepal-s-private-sector-is-choosing-safety-over-growth",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1782006112.jpg&w=600&height=400"
+    },
+    {
+      "title": "HOT TAKE: Elon Musk would be in jail if he were born in Nepal",
+      "summary": "A convergence of regulatory scrutiny, economic stagnation and legal anxiety has pushed entrepreneurs into a defensive, wait-and-see posture.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/06/21/hot-take-elon-musk-would-be-in-jail-if-he-were-born-in-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/72561558414547004897587983533116708184836202n1-1782039087.jpg&w=400&height=267"
+    },
+    {
+      "title": "बालेनले राजा ल्याउँछ भनेर धेरैले रास्वपालाई मत दिएका छन्: राजेन्द्र लिङ्देन",
+      "summary": "तनहुँका विभिन्न स्थानमा खेलमैदान निर्माण भए पनि आवश्यक पूर्वाधार र व्यवस्थापनको अभावमा खेलकुदका गतिविधि सञ्चालन गर्न कठिनाइ भइरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/playgrounds-are-in-abeyance-due-to-lack-of-sufficient-budget-10-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782040413_football-480x320.jpg"
+    },
+    {
+      "title": "राजा ल्याउँछन् भनेर बालेनलाई भोट हालेका छन् : राजेन्द्र लिङ्देन",
+      "summary": "राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) का अध्यक्ष राजेन्द्र लिङ्देनले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) लाई मत दिनेमा राजतन्त्रवादीहरू समेत रहेको दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/many-voted-for-the-rashtriya-swayamsevak-sangh-rss-believing-that-balen-would-bring-a-king-rajendra-lingden-br-88-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782039739_Lingden-480x320.jpg"
+    },
+    {
+      "title": "जनकपुरको प्रतिबद्धता पूरा भए महाकाली पुगेर प्रधानमन्त्रीको गीत गाउँछु: सीके राउत",
+      "summary": "म पनि भन्छु राजा ल्याउँछन् भनेर धेरै जनताले बालेनलाई भोट हालेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/they-voted-for-balen-because-they-thought-he-would-bring-a-king-rajendra-lingden-22-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782039739_Lingden-480x320.jpg"
+    },
+    {
+      "title": "मुलुकलाई नयाँ दिशामा लैजाने अवसर रास्वपाको काँधमा छ: उपेन्द्र यादव",
+      "summary": "जनमत पार्टीका अध्यक्ष चन्द्रकान्त (सीके) राउतले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) नेतृत्वले निर्वाचनअघि गरेका प्रतिबद्धता पूरा गरे प्रधानमन्त्री बालेन्द्र शाहको खुलेर प्रशंसा गर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/if-janakpur-s-commitment-is-fulfilled-i-will-reach-mahakali-and-sing-the-prime-minister-s-song-ck-raut-32-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782038020_505-480x320.jpg"
+    },
+    {
+      "title": "हामी नयाँ राजनीतिक संस्कार बसाल्छौँ : स्वर्णिम वाग्ले",
+      "summary": "तनहुँका विभिन्न स्थानमा खेलमैदान निर्माण भए पनि आवश्यक पूर्वाधार र व्यवस्थापनको अभावमा खेलकुदका गतिविधि सञ्चालन गर्न कठिनाइ भइरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/playgrounds-are-in-abeyance-due-to-lack-of-sufficient-budget-10-93.html?click_from=just_in",
       "image_url": ""
     }
   ]
