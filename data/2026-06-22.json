@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-22T05:16:38.635870",
+  "scraped_at": "2026-06-22T13:40:57.392225",
   "date": "2026-06-22",
-  "total_articles": 33,
+  "total_articles": 44,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -270,6 +270,94 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/the-cycle-of-regime-change-in-nepal-br-56-47.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "CIAA files corruption case against Aryal, 17 others over Rs10.13 billion passport procurement",
+      "summary": "Anti-graft body charges passport department chief, government officials and two foreign companies over alleged irregularities in e-passport contract.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/22/ciaa-files-corruption-case-against-aryal-17-others-over-rs10-13-billion-passport-procurement",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/thumb-1782133318.jpg&w=300&height=200"
+    },
+    {
+      "title": "Tea industry shutdown puts 60,000 workers at risk after India tightens export rules",
+      "summary": "More than 80 factories and estates in Jhapa and Ilam remain closed, pushing daily wage workers into an immediate income and livelihood crisis.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/22/tea-industry-shutdown-puts-60-000-workers-at-risk-after-india-tightens-export-rules",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/img353822620260811341000x0-1782124108.jpg&w=300&height=200"
+    },
+    {
+      "title": "“Comedy Darbar” episode at centre of censorship controversy",
+      "summary": "Prime Television says it inserted beep sounds after a verbal caution from the Press Council, while artists accuse state institutions of undermining freedom of expression.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/06/22/comedy-darbar-episode-at-centre-of-censorship-controversy",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/comedydurbar-1782115958.jpg&w=300&height=200"
+    },
+    {
+      "title": "Kathmandu underpasses move forward as tunnel road plans stall",
+      "summary": "Work is set to start on underpasses at Satdobato and Ekantakuna next fiscal year, but most of Nepal’s planned tunnel roads are still awaiting feasibility studies.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/22/kathmandu-underpasses-move-forward-as-tunnel-road-plans-stall",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/road-1782102981.jpg&w=600&height=400"
+    },
+    {
+      "title": "We know how to stop rabies. We just aren’t doing it",
+      "summary": "Work is set to start on underpasses at Satdobato and Ekantakuna next fiscal year, but most of Nepal’s planned tunnel roads are still awaiting feasibility studies.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/06/22/we-know-how-to-stop-rabies-we-just-aren-t-doing-it",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/thumb-1782133318.jpg&w=400&height=267"
+    },
+    {
+      "title": "HOT TAKE: No one owns the moon",
+      "summary": "Given the preventable yet fatal nature of this disease, there should be no justification for shortages of rabies vaccines.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/06/22/hot-take-no-one-owns-the-moon",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/bishnupaudel02320260710431000x002420260525341000x0-1782133075.jpg&w=400&height=267"
+    },
+    {
+      "title": "विष्णु पौडेल पक्राउपछि महेशले भने- प्रतिशोध साधियो, प्रतिकार गराैं",
+      "summary": "फक्ताङलुङ गाउँपालिका-१ का दुर्गा कटुवाल र गणेश कटुवालको घरमा पहिरोले क्षति पुर्‍याएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/landslide-in-taplejung-damages-two-houses-45-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1754879997_Pahiro-480x320.jpg"
+    },
+    {
+      "title": "विष्णु पौडेललाई आज नेपालगन्जमै राखिने, भोलि बिहानै काठमाडौं ल्याइने",
+      "summary": "नेकपा एमालेका सचिव महेश बस्नेतले उपाध्यक्ष विष्णुप्रसाद पौडेलको गिरफ्तारीलाई राजनीतिक प्रतिशोध भनेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/after-bishnu-poudel-s-arrest-mahesh-said-vengeance-has-been-achieved-let-s-retaliate-br-21-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768211911_mahesh_-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधि परिचयपत्र वितरणमा ढिलाइले रास्वपाको बन्दसत्र आजलाई स्थगित",
+      "summary": "सम्पत्ति शुद्धीकरणको मुद्दामा सुर्खेतबाट पक्राउ परेका नेकपा एमालेका उपाध्यक्ष एवं पूर्वअर्थमन्त्री विष्णुप्रसाद पौडेललाई आज नेपालगन्जमै राखिने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/bishnu-poudel-to-be-kept-in-nepalgunj-today-brought-to-kathmandu-tomorrow-morning-br-76-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782134379_bisnu1-480x320.jpg"
+    },
+    {
+      "title": "एमालेले मदन जयन्ती संगठनात्मक अभियानका साथ मनाउने",
+      "summary": "स्वास्थ्य तथा खाद्य स्वच्छता मन्त्रालयका प्रवक्ता डा समीरकुमार अधिकारीले मन्त्रालयको पहल र निर्देशन अनुरुप १४ वटा सङ्घीय अस्पतालमा जलन उपचार युनिट स्थापना भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/burn-units-in-large-hospitals-54-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775657027_Teaching-480x320.jpg"
+    },
+    {
+      "title": "सिंहदरबार चलाउँदै एक्ला मन्त्री महाविर",
+      "summary": "फक्ताङलुङ गाउँपालिका-१ का दुर्गा कटुवाल र गणेश कटुवालको घरमा पहिरोले क्षति पुर्‍याएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/landslide-in-taplejung-damages-two-houses-45-86.html?click_from=just_in",
       "image_url": ""
     }
   ]
