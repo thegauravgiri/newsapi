@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-06-22T13:40:57.392225",
+  "scraped_at": "2026-06-22T19:36:02.342310",
   "date": "2026-06-22",
-  "total_articles": 44,
+  "total_articles": 52,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -358,6 +358,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/landslide-in-taplejung-damages-two-houses-45-86.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "UML vice-chair Bishnu Paudel arrested in money laundering investigation",
+      "summary": "Former finance minister was detained in Surkhet at the request of the department of money laundering investigation, a home ministry source says.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/22/uml-vice-chair-bishnu-paudel-arrested-in-money-laundering-investigation",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/bishnupaudel02320260710431000x002420260525341000x0-1782133075.jpg&w=300&height=200"
+    },
+    {
+      "title": "Government cancels national ID tender, plans in-house management",
+      "summary": "Decision to scrap foreign technical support comes amid printer breakdown, server failures, and mounting card-production backlog.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/22/government-cancels-national-id-tender-plans-in-house-management",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb45-1782144157.jpg&w=300&height=200"
+    },
+    {
+      "title": "Kathmandu Valley battles bird flu outbreaks",
+      "summary": "Officials say infection has been reported at over 50 places.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/06/22/kathmandu-valley-battles-bird-flu-outbreaks",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1782136701.jpg&w=600&height=400"
+    },
+    {
+      "title": "एमालेले भन्यो- सरकारको कदमविरुद्ध हामी देशभक्त, न्याय प्रेमी नागरिक एकजुट हुनुपर्छ",
+      "summary": "लियोनल मेस्सीको कीर्तिमानी गोलमा अर्जेन्टिनाले जित हात पारेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/messi-s-record-goal-sends-argentina-into-knockout-stages-97-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782155117_messi-480x320.jpg"
+    },
+    {
+      "title": "एमालेले भन्यो- अपहरणको शैलीमा विष्णुलाई गिरफ्तार गरियो, कानुनको धज्जी उडाइयो",
+      "summary": "लियोनल मेस्सी फिफा विश्वकपमा सर्वाधिक गोल गर्ने खेलाडी बनेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/messi-becomes-top-scorer-in-fifa-world-cup-52-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1761378990_Messi-480x320.jpg"
+    },
+    {
+      "title": "पञ्चायती व्यवस्थामा भन्दा अहिले बढी दमन हुन थाल्यो: ओली",
+      "summary": "पार्टीका सांगठनिक कार्यक्रमका सिलसिलामा सुर्खेतमा रहेका पौडेललाई सोमबार प्रहरीले नियन्त्रणमा लिएपछि एमालेले सरकारको यो कदम राजनीतिक प्रतिशोधबाट प्रेरित रहेको निष्कर्ष निकालेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-calls-for-unity-against-government-s-arbitrary-actions-says-we-will-face-retaliation-firmly-64-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1741792074_pm_oli-480x320.jpg"
+    },
+    {
+      "title": "दुई समस्याग्रस्त सहकारीका थप ८२ बचतकर्ताले पाए बचत फिर्ता",
+      "summary": "बागमती प्रदेशका रिजन पौडेल र सुदूरपश्चिम प्रदेशकी मनीषाकुमारी राना क्षेत्री तेस्रो राष्ट्रिय मुवाँथाई प्रतियोगितामा च्याम्पियन भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/region-poudel-champion-in-national-muay-thai-22-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782144926_Games-480x320.jpg"
+    },
+    {
+      "title": "८० जना नेता कार्यकर्ता भएका ठाउँबाट पक्राउ परेका थिए पौडेल",
+      "summary": "लियोनल मेस्सीको कीर्तिमानी गोलमा अर्जेन्टिनाले जित हात पारेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/messi-s-record-goal-sends-argentina-into-knockout-stages-97-19.html?click_from=just_in",
       "image_url": ""
     }
   ]
