@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-23T11:24:19.283852",
+  "scraped_at": "2026-06-23T15:16:59.664033",
   "date": "2026-06-23",
-  "total_articles": 41,
+  "total_articles": 49,
   "sources": [
-    "KathmanduPost",
+    "News24",
     "NagarikNews",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -334,6 +334,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/elections-are-certain-at-the-rsp-general-convention-president-lamichhane-calls-for-healthy-competition-15-47.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "DoTM lifts restriction for public vehicles imported before registration ban",
+      "summary": "The decision applies only to vehicles for which letters of credit were opened by May 23 and have already entered the country, officials say.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/23/dotm-lifts-restriction-for-public-vehicles-imported-before-registration-ban",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/crowedofpassangeratjadibutitakingbus202603031000103678-1782189599.jpg&w=300&height=200"
+    },
+    {
+      "title": "Six sentenced to life in Binod Shahi murder case",
+      "summary": "Dipayal High Court overturns earlier district court ruling, orders compensation to victim’s family in a case linked to 2022 local election violence.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/23/six-sentenced-to-life-in-binod-shahi-murder-case",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/BinodShahi-1782214069.jpg&w=600&height=400"
+    },
+    {
+      "title": "The myth of compensation for wildlife-related damages",
+      "summary": "Dipayal High Court overturns earlier district court ruling, orders compensation to victim’s family in a case linked to 2022 local election violence.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/06/23/the-myth-of-compensation-for-wildlife-related-damages",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/bishnupaudelincourt23620260223321000x0-1782225045.jpg&w=400&height=267"
+    },
+    {
+      "title": "सरकारप्रति भरोसा र बढ्यो, लोकतन्त्रमा आशा जाग्यो: रास्वपा",
+      "summary": "नेतृत्वको सरकारले नागरिकमा लोकतान्त्रिक प्रणालीप्रति विश्वास बढाएको र नयाँ आशा सिर्जना गरेको निष्कर्ष प्रस्तुत गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/trust-in-the-government-has-increased-hope-in-democracy-has-been-revived-rsp-56-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782209919_rsp-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा महाधिवेशन स्थलमा चुनावी माहौल: पदाधिकारीदेखि केन्द्रीय सदस्यसम्म उम्मेदवारी घोषणा",
+      "summary": "आज महाधिवेशनको बन्दसत्र औपचारिक रूपमा अघि बढेसँगै नेताहरूले विभिन्न पदका लागि उम्मेदवारी घोषणा गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/election-atmosphere-at-the-rsvp-convention-venue-candidacy-announcements-continue-from-office-bearers-to-central-members-98-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782212206_Raswapa_Meeting-480x320.jpg"
+    },
+    {
+      "title": "वैचारिक दिशा परिवर्तन गर्दै रास्वपा: संवैधानिक समाजवादबाट सामाजिक लोकतन्त्र अपनाउने प्रस्ताव",
+      "summary": "इयुले नेपाल तथा दक्षिण एसियासँगको हवाई सहकार्यलाई अझ सुदृढ बनाउने उद्देश्यसहित काठमाडौंमा दुई क्षेत्रीय हवाई सुरक्षा कार्यक्रम सञ्चालन गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/efforts-to-remove-from-eu-s-black-list-kathmandu-becomes-center-of-regional-dialogue-on-aviation-security-22-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774944364_Nepal Airliness-480x320.jpg"
+    },
+    {
+      "title": "एमालेको सचिवालय बैठक गुण्डुमा जारी",
+      "summary": "रास्वपाले आफ्नो मूल राजनीतिक सिद्धान्त परिवर्तन गर्दै अब ‘संवैधानिक समाजवाद’ को सट्टा ‘सामाजिक लोकतन्त्र’ लाई पार्टीको मार्गदर्शक विचारका रूपमा अघि सार्ने प्रस्ताव गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rashtriya-swayamsevak-sangh-rss-is-changing-its-ideological-direction-proposes-to-adopt-social-democracy-from-constitutional-socialism-62-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782211054_Raswapa-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा सभापतिमा रविको उम्मेदवारी, बालेन प्रस्तावक",
+      "summary": "नेतृत्वको सरकारले नागरिकमा लोकतान्त्रिक प्रणालीप्रति विश्वास बढाएको र नयाँ आशा सिर्जना गरेको निष्कर्ष प्रस्तुत गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/trust-in-the-government-has-increased-hope-in-democracy-has-been-revived-rsp-56-96.html?click_from=just_in",
       "image_url": ""
     }
   ]
