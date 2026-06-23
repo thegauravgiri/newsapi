@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-23T04:11:23.174505",
+  "scraped_at": "2026-06-23T11:24:19.283852",
   "date": "2026-06-23",
-  "total_articles": 33,
+  "total_articles": 40,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -270,6 +270,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/ashok-rai-submits-application-for-registration-of-samajwadi-party-82-36.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal earns record Rs12 billion from large cardamom exports",
+      "summary": "Export earnings rose despite modest production growth. Traders urge diversification beyond India and stronger direct access to Middle Eastern and South Asian markets.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/06/23/nepal-earns-record-rs12-billion-from-large-cardamom-exports",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb4-1782176777.jpg&w=300&height=200"
+    },
+    {
+      "title": "Saudi Arabia’s new skill test rule adds hurdles for Nepali workers",
+      "summary": "Investigation underway as Qatar rules out sabotage and confirms no impact on LNG operations.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/06/16/saudi-arabia-s-new-skill-test-rule-adds-hurdles-for-nepali-workers",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/ICC.jpg&w=400&height=267"
+    },
+    {
+      "title": "रास्वपा महाधिवेशनमा निर्वाचन निश्चित, स्वस्थ प्रतिस्पर्धामा उत्रन सभापति लामिछानेको आह्वान",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) को प्रथम महाधिवेशनमा नेतृत्व चयनका लागि निर्वाचन हुने पक्का भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/elections-are-certain-at-the-rsp-general-convention-president-lamichhane-calls-for-healthy-competition-15-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782211054_Raswapa-480x320.jpg"
+    },
+    {
+      "title": "हामी हरेक धक्काबाट उठेका छौँ, फेरि उठ्छौँ : महासचिव पोखरेल",
+      "summary": "जुम्लामा कृषि क्षेत्रमा उल्लेखनीय योगदान पुर्‍याउने तीन जना कृषकलाई ‘मुख्यमन्त्री उत्कृष्ट कृषक पुरस्कार’ सहित सम्मान गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/three-farmers-honored-for-cultivating-good-apples-77-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782213682_Golden-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा महाधिवेशनमा प्रतिनिधि शुल्क नलिने: बुझाएको रकम फिर्ता दिने",
+      "summary": "“हामी हरेक धक्काबाट उठेका छौँ, फेरि उठ्छौँ,” उनले भने, “कठिन परिस्थितिलाई अवसर र शक्तिमा बदल्न सक्ने क्षमता एमालेसँग छ। पार्टीलाई जनताको विश्वासयोग्य शक्ति बनाउँदै अघि बढ्नुपर्ने बताए ।”",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-have-risen-from-every-setback-and-we-will-rise-again-general-secretary-pokharel-55-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782212746_Shankar-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा महाधिवेशन अझै एक दिन लम्बिन सक्ने",
+      "summary": "राष्ट्रिय महाधिवेशनमा सहभागी प्रतिनिधिहरूबाट लिइँदै आएको प्रतिनिधि शुल्क नलिन सम्बन्धित निकायलाई निर्देशन दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/no-delegate-fee-for-rsvp-convention-amount-paid-will-be-refunded-45-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782211054_Raswapa-480x320.jpg"
+    },
+    {
+      "title": "कसैलाई पनि उम्मेदवारीबाट वञ्चित गराइँदैन, आफ्नो विवेकले नेतृत्व छान्नुहोला : रवि",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) को प्रथम महाधिवेशनमा नेतृत्व चयनका लागि निर्वाचन हुने पक्का भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/elections-are-certain-at-the-rsp-general-convention-president-lamichhane-calls-for-healthy-competition-15-47.html?click_from=just_in",
       "image_url": ""
     }
   ]
