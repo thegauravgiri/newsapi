@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-24T11:10:50.083607",
+  "scraped_at": "2026-06-24T14:48:00.048115",
   "date": "2026-06-24",
-  "total_articles": 39,
+  "total_articles": 46,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -318,6 +318,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/the-excitement-of-the-world-cup-in-china-91-94.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "RSP outlines liberal welfare-state model, social market economy at first convention",
+      "summary": "Party commits to social justice-led liberal economy, stronger regulation, investment push and employment expansion.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/24/rsp-outlines-liberal-welfare-state-model-social-market-economy-at-first-convention",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/PROKTMWhatsAppImage20260621at40249PM-1782274992.jpg&w=300&height=200"
+    },
+    {
+      "title": "Cabinet expands ministers’ advisers and personal secretariats",
+      "summary": "New provisions permit up to 57 advisers and 153 secretariat staff across ministries, reversing an earlier drive to reduce such appointments.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/06/24/cabinet-expands-ministers-advisers-and-personal-secretariats",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/CouncilofMinisters-1782287962.jpg&w=300&height=200"
+    },
+    {
+      "title": "मेरो उम्मेदवारी रवि लामिछानेको सपना साकार पार्न: यज्ञमणि न्यौपाने",
+      "summary": "यज्ञमणि न्यौपानेले पार्टी सभापति रवि लामिछानेमाथि अन्याय र प्रतिशोधपूर्ण व्यवहार भएको दाबी गर्दै आफूले उनको सपना साकार पार्न नेतृत्वमा उम्मेदवारी दिएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/my-candidacy-is-to-fulfill-ravi-lamichhane-s-dream-yagyamani-neupane-39-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782311100_Yagyamani-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको महाधिवेशनः नौ मन्त्री केन्द्रीय सदस्यको प्रतिस्पर्धामा",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) को चितवनको भरतपुरमा जारी प्रथम राष्ट्रिय महाधिवेशनअन्तर्गत केन्द्रीय समितिको निर्वाचनका लागि वर्तमान मन्त्रिपरिषद्का नौ जना सदस्यहरूले उम्मेदवारी दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsvp-general-convention-nine-ministers-in-competition-for-central-member-post-27-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777279704_sarkar 1-480x320.jpg"
+    },
+    {
+      "title": "हामी सम्भव भएसम्म सर्वसम्मतिको प्रयास गर्छौँ: सोबिता गौतम",
+      "summary": "कानुन, न्याय तथा संसदीय मामिला मन्त्री एवं राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) की सांसद सोबिता गौतमले पार्टीको पहिलो महाधिवेशन भएकाले व्यवस्थापनमा केही प्राविधिक कठिनाइ देखिए पनि मतदान प्रक्रिया चाँडै सुरु हुने बताएकी छिन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-strive-for-consensus-as-much-as-possible-sobita-gautam-br-96-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782308665_sobita_gautam-480x320.jpg"
+    },
+    {
+      "title": "ललितपुर महानगरले ल्यायो ‘फायर फाइटिङ’ क्रेन",
+      "summary": "पोखरामा असार १४ गते रोपाईं महोत्सव हुने भएको छ। पोखरा पर्यटन परिषद्ले हरेक वर्ष आयोजना गर्दै आएको असारे रोपाईं महोत्सवको २१ औं संस्करण यही असार १४ गते हुने भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/preparations-for-the-planting-festival-in-pokhara-are-in-the-final-stages-54-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782308321_pokhara-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा सफाइ गर्ने पार्टी हो: केपी खनाल",
+      "summary": "यज्ञमणि न्यौपानेले पार्टी सभापति रवि लामिछानेमाथि अन्याय र प्रतिशोधपूर्ण व्यवहार भएको दाबी गर्दै आफूले उनको सपना साकार पार्न नेतृत्वमा उम्मेदवारी दिएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/my-candidacy-is-to-fulfill-ravi-lamichhane-s-dream-yagyamani-neupane-39-82.html?click_from=just_in",
       "image_url": ""
     }
   ]
