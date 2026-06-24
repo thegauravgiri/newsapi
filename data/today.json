@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-24T14:48:00.048115",
+  "scraped_at": "2026-06-24T18:01:42.895849",
   "date": "2026-06-24",
-  "total_articles": 47,
+  "total_articles": 53,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -383,6 +383,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/my-candidacy-is-to-fulfill-ravi-lamichhane-s-dream-yagyamani-neupane-39-82.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Private education sector adds Rs160 billion to Nepal’s GDP annually",
+      "summary": "On average, each institution spends around Rs11.04 million annually, charges students a monthly fee of Rs3,305 and pays employees an average monthly salary of Rs15,683.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/06/24/private-education-sector-adds-rs160-billion-to-nepal-s-gdp-annually",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Untitled1-1782314132.jpg&w=300&height=200"
+    },
+    {
+      "title": "Three in four maternal deaths in Nepal occur in health facilities or in transit",
+      "summary": "Experts blame referral delays and poor quality care in birthing centres and district hospitals for high maternal death.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/06/24/three-in-four-maternal-deaths-in-nepal-occur-in-health-facilities-or-in-transit",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1782314670.jpg&w=300&height=200"
+    },
+    {
+      "title": "Fear and uncertainty grip displaced families as exit deadline nears",
+      "summary": "Residents worry about losing temporary shelter before a permanent resettlement plan is in place.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/24/fear-and-uncertainty-grip-displaced-families-as-exit-deadline-nears",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/holdingcenter24620261238261000x0-1782306130.jpg&w=600&height=400"
+    },
+    {
+      "title": "प्रधानमन्त्री पत्नी सबिना भन्छिन्- सुरक्षाकर्मीले बोकेको ब्याग उहाँकै निजी हो, मेरो होइन",
+      "summary": "कृषि क्षेत्रमा सामूहिक खेती, अर्गानिक उत्पादन, पशुपालन, दुग्ध तथा मत्स्य उत्पादन, कृषि बीमा र भेटेरिनरी सेवा विस्तार गरिने बजेटमा समेटिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/emphasis-on-collective-and-organic-production-in-itahari-54-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782318377_Itahari1-480x320.jpg"
+    },
+    {
+      "title": "साढे १० बजेलाई सर्‍यो मतदानको समय",
+      "summary": "मधुवन नगरपालिकाले विकासको मेरुदण्ड शिक्षा, स्वास्थ्य र कृषिलाई मुख्य आधार स्तम्भको रुपमा अघि बढाउने आगामी वर्षको नीति तथा कार्यक्रममा सार्वजनिक गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/madhuvan-will-make-education-health-and-agriculture-the-main-foundations-of-development-78-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782317279_Madhuwan-480x320.jpg"
+    },
+    {
+      "title": "नक्कली डाक्टर बनेर बिरामी जाँच्ने व्यक्ति पक्राउ",
+      "summary": "‘जुन सुरक्षाकर्मीले त्यो ब्याग बोक्नुभएको छ, त्यो ब्याग उहाँको आफ्नै निजी हो,’ उनले लेखेकी छन्, ‘तर यहाँ अनेक शंका र अनेक अड्कलबाजीले मेरो चरित्र हत्या गर्न खोजिएको छ।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-s-wife-sabina-says-the-bag-carried-by-the-security-personnel-is-hers-not-mine-59-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782315975_ddd-480x320.jpg"
     }
   ]
 }
