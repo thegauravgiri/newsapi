@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-24T04:14:17.998048",
+  "scraped_at": "2026-06-24T11:10:50.083607",
   "date": "2026-06-24",
-  "total_articles": 34,
+  "total_articles": 40,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -278,6 +278,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/world-cup-cricket-australia-s-fourth-consecutive-win-leaves-pakistan-pointless-31-21.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Schools are posting kids’ photos online. Parents say they didn’t consent",
+      "summary": "Despite regulations requiring parental consent, Nepali schools continue to have publicly accessible social media accounts filled with student photographs.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/24/nepal-schools-put-children-s-photos-online-parents-aren-t-asked",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/childrens-1782262592.jpg&w=300&height=200"
+    },
+    {
+      "title": "प्रतिनिधिसभा निर्वाचन खर्च अध्ययन प्रतिवेदनः जित्नेले भन्दा हार्ने उम्मेदवारको बढी",
+      "summary": "प्रत्यक्ष उपस्थित भएर फिफा विश्वकप फुटवल प्रतियोगिता हेर्न नपाएका चिनिया समर्थकहरु व्यापारिक सामग्री किनमेलमा व्यस्त भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/the-excitement-of-the-world-cup-in-china-91-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782299367_World_Cup-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा महाधिवेशन: केन्द्रीय सदस्यका लागि ३८४ उमेदवारको प्रारम्भिक नामावली सार्वजनिक (सूची)",
+      "summary": "कृषि विभागले देशभर करिब १० प्रतिशत धान रोपाइँ भएको जनाएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/sowing-on-137-000-hectares-of-land-across-the-country-46-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782114700_dhan ropaii-480x320.jpg"
+    },
+    {
+      "title": "लुम्बिनी विकास कोषका १२ पदमा सात सयभन्दा बढी आवेदन",
+      "summary": "फागुन २१ गते सम्पन्न प्रतिनिधिसभा निर्वाचनमा उम्मेदवारको प्रचार खर्चसम्बन्धी अध्ययन प्रतिवेदन आज सार्वजनिक गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/house-of-representatives-election-spending-study-report-more-losing-candidates-than-winning-ones-70-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773048666_Election-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा महाधिवेशनको असर संसद बैठकमा: प्रतिनिधिसभा १२ गतेलाई सर्‍यो",
+      "summary": "कक्षा १२ को नतिजाप्रति असन्तुष्टि जनाउँदै विद्यार्थीहरूले भोलि काठमाडौंको माइतीघर मण्डलामा प्रदर्शन गर्ने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/class-12-results-controversy-students-to-protest-at-maitighar-tomorrow-76-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782298726_CDo-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा महाधिवेशन: केन्द्रीय सदस्य उमेदवारको प्रारम्भिक नामावली सार्वजनिक",
+      "summary": "प्रत्यक्ष उपस्थित भएर फिफा विश्वकप फुटवल प्रतियोगिता हेर्न नपाएका चिनिया समर्थकहरु व्यापारिक सामग्री किनमेलमा व्यस्त भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/the-excitement-of-the-world-cup-in-china-91-94.html?click_from=just_in",
       "image_url": ""
     }
   ]
