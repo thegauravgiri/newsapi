@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-25T04:14:28.358205",
+  "scraped_at": "2026-06-25T10:48:56.561464",
   "date": "2026-06-25",
-  "total_articles": 33,
+  "total_articles": 42,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -270,6 +270,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/revenue-collected-from-traffic-operations-rs-1-931-million-83-40.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "तिकारी प्रेस संगठनको संयोजकमा नारायण पंगेनी निर्वाचित",
+      "summary": "तिकारी प्रेस संगठनको संयोजकमा नारायण पंगेनी निर्वाचित",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13198",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/pangeni-2-1782018541.jpg"
+    },
+    {
+      "title": "RSP’s push for a directly elected executive and fully proportional representation sparks political debate",
+      "summary": "As the largest party in parliament formally tables its constitutional amendment agenda in its general convention, major political stakeholders remain at odds over governance models and electoral reform.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/06/25/rsp-s-push-for-a-directly-elected-executive-and-fully-proportional-representation-sparks-political-debate",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Constitutionofnepal-1782350683.jpg&w=300&height=200"
+    },
+    {
+      "title": "FIFA suspends ANFA over third-party interference",
+      "summary": "Indefinite suspension sidelines Nepal’s national teams and clubs from international football and cuts access to FIFA and AFC programmes.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/06/25/fifa-suspends-anfa-over-third-party-interference",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/anfa02220260507261000x0125620260420131000x0-1782362652.jpg&w=600&height=400"
+    },
+    {
+      "title": "Nepali workers among injured in Qatar gas plant explosion, 13 killed",
+      "summary": "Nearly 600,000 birds have been culled as authorities race to contain the outbreak, while compensation delays deepen financial strain on poultry producers.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/06/23/nepali-workers-among-injured-in-qatar-gas-plant-explosion-13-killed",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/PhotoKisan1-1782351965.jpg&w=400&height=267"
+    },
+    {
+      "title": "एमाले उपाध्यक्ष पौडेललाई अदालतले छोड्न मानेन, कारण देखाउ आदेश जारी",
+      "summary": "कक्षा १२ को परीक्षाफल त्रुटि भएको भन्दै विद्यार्थीहरू सडक आन्दोलनमा उत्रिएपछि विभिन्न विद्यार्थी संगठनहरूको ध्यानाकर्षण भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/student-organizations-raise-objections-after-class-12-results-are-disputed-br-26-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/photos/1782370763_5-480x320-wm.jpg"
+    },
+    {
+      "title": "खेलकुदमन्त्रीले भने- नेपाली फुटबलको पुनर्निर्माण गर्छौं",
+      "summary": "भेनेजुएलामा लगातार गएको भूकम्पमा परी कम्तीमा १६४ जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/venezuela-earthquake-164-dead-over-700-injured-br-83-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782384320_venezuala (1)-480x320.jpg"
+    },
+    {
+      "title": "रास्वपामा पदाधिकारी निर्वाचनमा ‘नो भोट’ व्यवस्था हुनुपर्ने सागर ढकालको प्रस्ताव",
+      "summary": "नेकपा एमालेका उपाध्यक्ष विष्णु पौडेललाई सर्वोच्च अदालतले तत्कालका लागि रिहा गर्न अस्वीकार गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/court-refuses-to-release-uml-vice-president-poudel-issue-show-cause-order-33-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765854060_bishnu-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा महाधिवेशनमा एमालेका वडाध्यक्ष प्रतिनिधि, कारबाहीको सिफारिस",
+      "summary": "अन्तर्राष्ट्रिय फुटबल महासंघ (फिफा) ले अखिल नेपाल फुटबल संघ (एन्फा) लाई निलम्बन गरेपछि शिक्षा तथा खेलकुद मन्त्री सस्मित पोखरेलले वर्तमान तथा पूर्व खेलाडीहरूसँगको सहकार्यमा नेपाली फुटबलको पुनर्निर्माण गर्ने प्रतिबद्धता जनाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sports-minister-says-we-will-rebuild-nepali-football-43-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782382867_anfa-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा महाधिवेशन : मतदान मुचुल्का सकियो, प्रवासको मतपछि गणना सुरु हुने",
+      "summary": "कक्षा १२ को परीक्षाफल त्रुटि भएको भन्दै विद्यार्थीहरू सडक आन्दोलनमा उत्रिएपछि विभिन्न विद्यार्थी संगठनहरूको ध्यानाकर्षण भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/student-organizations-raise-objections-after-class-12-results-are-disputed-br-26-51.html?click_from=just_in",
       "image_url": ""
     }
   ]
