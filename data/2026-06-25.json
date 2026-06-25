@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-25T14:47:27.509099",
+  "scraped_at": "2026-06-25T18:19:04.731741",
   "date": "2026-06-25",
-  "total_articles": 50,
+  "total_articles": 58,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -406,6 +406,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/police-vehicles-parked-on-sidewalks-under-action-br-39-42.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "AI-powered vibe coding is gaining ground in Nepal",
+      "summary": "Tasks that once took weeks can now be done in hours, but experts warn that speed may come with security risks.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/science-technology/2026/06/25/ai-driven-vibe-coding-gains-ground-in-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Vicecoding-1782384469.jpg&w=300&height=200"
+    },
+    {
+      "title": "Outcry grows over Grade 12 results. Students demand education minister’s scalp",
+      "summary": "Government announces investigation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/25/outcry-grows-over-grade-12-results-students-demand-education-minister-s-scalp",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/studnetsprotest-1782400366.jpg&w=300&height=200"
+    },
+    {
+      "title": "67 Nepalis died in Japan over ten months, 25 killed themselves",
+      "summary": "Most victims were student visa holders engaged in work, as rising costs, loan pressure and weak support systems fuel concern over mental health and labour oversight.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/06/25/67-nepalis-die-in-japan-in-over-ten-months-25-by-suicide",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/image-1782381152.jpg&w=600&height=400"
+    },
+    {
+      "title": "रास्वपा महामन्त्रीमा सागर ढकालको उम्मेदवारी घोषणा",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सांसद सागर ढकालले पार्टीको महामन्त्री पदमा उम्मेदवारी दिने घोषणा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sagar-dhakal-s-candidacy-for-the-post-of-general-secretary-of-the-rashtriya-swayamsevak-sangh-rss-announced-br-24-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777458667_sagardhakal-480x320.jpg"
+    },
+    {
+      "title": "श्रम विभागद्वारा निजी अस्पताल र बैङ्कमा अनुगमन: न्यूनतम पारिश्रमिक नदिनेलाई कारबाहीको चेतावनी",
+      "summary": "नेपाल सरकार, श्रम तथा व्यवसायजन्य सुरक्षा विभागले विभिन्न निजी अस्पताल, बैङ्क तथा वित्तीय संस्थाहरूमा गरिएको अनुगमनका क्रममा श्रम कानुनको गम्भीर उल्लङ्घन पाइएको भन्दै ध्यानाकर्षण गराएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/labor-department-monitors-private-hospitals-and-banks-warning-of-action-against-those-who-do-not-pay-minimum-wage-44-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782390408_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा खुल्ला केन्द्रीय सदस्यको मतपरिणाम: स्वर्णिम वाग्ले पहिलो, सोविता दोस्रो (सूची)",
+      "summary": "विश्वसँगै नेपालको सहरदेखि गाउँगाउँसम्म विश्वकप फुटबल प्रतियोगिता २०२६ को चर्चा चलिरहँदा यतिबेला नेपाली फुटबल क्षेत्रमा भने अन्यौलता छाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nepali-football-in-turmoil-after-fifa-suspension-47-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1742987110_anfa-480x320.jpg"
+    },
+    {
+      "title": "बजेट विवादले कर्णाली प्रदेशसभा अवरुद्ध",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) को खुला श्रेणीको ३५ केन्द्रीय सदस्यका लागि भएको मतदानको नतिजा सार्वजनिक भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/party-s-86-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782402731_13-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा केन्द्रीय सदस्यमा डा. स्वर्णिम वाग्लेलाई सर्वाधिक मत",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सांसद सागर ढकालले पार्टीको महामन्त्री पदमा उम्मेदवारी दिने घोषणा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sagar-dhakal-s-candidacy-for-the-post-of-general-secretary-of-the-rashtriya-swayamsevak-sangh-rss-announced-br-24-83.html?click_from=just_in",
       "image_url": ""
     }
   ]
