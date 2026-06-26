@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-26T17:57:39.769491",
+  "scraped_at": "2026-06-26T21:24:24.028654",
   "date": "2026-06-26",
-  "total_articles": 52,
+  "total_articles": 55,
   "sources": [
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -423,6 +423,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/dragon-fruit-turnover-worth-1-8-million-in-two-days-41-35.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "For displaced children, returning to school remains an uphill battle",
+      "summary": "Weeks after families from informal riverbank settlements were displaced, some children remain unenrolled, while others attend school under uncertain arrangements amid poor coordination.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/26/for-displaced-children-returning-to-school-remains-an-uphill-battle",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Untitled1-1782486326.jpg&w=300&height=200"
+    },
+    {
+      "title": "Rights groups warn torture, custodial deaths persist despite legal safeguards",
+      "summary": "A report documents 29 custodial deaths and 22 alleged torture cases since 2024, blaming weak investigations and impunity for continued abuses.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/26/rights-groups-warn-torture-custodial-deaths-persist-despite-legal-safeguards",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Custodialtorture-1782466348.jpg&w=300&height=200"
+    },
+    {
+      "title": "Bipin Acharya elected RSP general secretary, Sobita Gautam becomes party vice-chair",
+      "summary": "RSP’s first general convention in Bharatpur continues amid closely contested internal elections and strong gains in women’s representation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/06/26/bipin-acharya-elected-rsp-general-secretary-sobita-gautam-becomes-party-vice-chair",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/bipin1112026091940-1782485529.jpg&w=300&height=200"
     }
   ]
 }
