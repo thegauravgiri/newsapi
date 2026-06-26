@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-06-26T04:21:01.630446",
+  "scraped_at": "2026-06-26T10:57:15.877166",
   "date": "2026-06-26",
-  "total_articles": 34,
+  "total_articles": 41,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -278,6 +278,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/rsp-general-convention-only-morning-tea-available-on-friday-no-food-80-51.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "27 local governments miss budget deadline for fiscal year 2026-27",
+      "summary": "The Ministry of Federal Affairs says 726 local governments met the deadline, while disputes, coordination issues and administrative delays affected the remaining units.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/26/27-local-governments-miss-budget-deadline-for-fiscal-year-2026-27",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/AIenhancedpostillustration-1782464947.jpg&w=300&height=200"
+    },
+    {
+      "title": "Morang farmers get above-government support price for spring paddy",
+      "summary": "Arju Rice Mill is paying Rs28.97 per kilogramme for spring paddy, 39 paisa above the government's minimum support price, offering relief to farmers during the harvest season.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/06/26/morang-farmers-get-above-government-support-price-for-spring-paddy",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/ArjuRiceMill-1782460151.jpg&w=600&height=400"
+    },
+    {
+      "title": "रास्वपाका नवनिर्वाचित नेतृत्वको शपथ साँझ साढे ६ बजे",
+      "summary": "गत वर्षको असार २४ गते ल्हेन्दे खोलामा आएको बाढीले क्षति पुर्‍याएको बेतेगौँडा सिँचाइ आयोजना लिफ्ट प्रणालीमार्फत पुनः सञ्चालनमा आएपछि उत्तरगया गाउँपालिकाका किसान लाभान्वित भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/irrigation-facilities-expanded-in-rasuwa-through-lift-system-42-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782471061_444-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रियसभाः शोक प्रस्ताव पारित",
+      "summary": "दक्षिण कोरियाले पनि उत्तरबाट बढ्दो सुरक्षा चुनौतीको सामना गर्न आफ्नो ड्रोन युद्ध क्षमता व्यापक रूपमा विस्तार गर्ने योजना सार्वजनिक गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/kim-s-aggressive-message-70-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782470264_kim 12-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा महाधिवेशन : मतदानको समय थप",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) को पहिलो राष्ट्रिय महाधिवेशनबाट निर्वाचित सबै पदाधिकारी तथा केन्द्रीय सदस्यहरूको शपथ ग्रहण कार्यक्रम आजै साँझ सम्पन्न हुने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-newly-elected-leadership-of-the-rashtriya-swayamsevak-sangh-rss-will-be-sworn-in-at-6-30-pm-49-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782469912_f-480x320.jpg"
+    },
+    {
+      "title": "२३ वर्षीया जेनजी रास्वपाको केन्द्रीय सदस्य",
+      "summary": "धितोपत्र बजारका शेयर कारोबार मापक नेप्से परिसूचक आज झिनो अङ्कले ओरालो लागेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nepse-index-falls-for-fifth-day-br-56-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/photos/1778667617_nepsa-480x320-wm.jpg"
+    },
+    {
+      "title": "प्रदेश र स्थानीय तहको चुनावमा एमालेसँग सहकार्य हुन्छ : प्रचण्ड",
+      "summary": "गत वर्षको असार २४ गते ल्हेन्दे खोलामा आएको बाढीले क्षति पुर्‍याएको बेतेगौँडा सिँचाइ आयोजना लिफ्ट प्रणालीमार्फत पुनः सञ्चालनमा आएपछि उत्तरगया गाउँपालिकाका किसान लाभान्वित भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/irrigation-facilities-expanded-in-rasuwa-through-lift-system-42-79.html?click_from=just_in",
       "image_url": ""
     }
   ]
