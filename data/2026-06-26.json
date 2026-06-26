@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-06-26T10:57:15.877166",
+  "scraped_at": "2026-06-26T14:39:44.004115",
   "date": "2026-06-26",
-  "total_articles": 40,
+  "total_articles": 46,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -326,6 +326,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/irrigation-facilities-expanded-in-rasuwa-through-lift-system-42-79.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Health Ministry urges aid agencies to boost nutrition funding",
+      "summary": "Teams of nutritionists have been sent to provinces to coordinate immediate measures after a government assessment found over 200,000 children under five acutely malnourished.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/06/26/health-ministry-urges-aid-agencies-to-boost-nutrition-funding",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1782478889.jpg&w=600&height=400"
+    },
+    {
+      "title": "हाम्रा कमीकमजोरी महाधिवेशनसम्म देखियो, सच्याएर अब परिपक्व हुन्छौं: लामिछाने",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले विगत चार वर्षमा पार्टीले सोचेअनुरूप काम गर्न नसकेको स्वीकार गर्दै कमीकमजोरीहरूलाई सच्याएर अघि बढ्ने प्रतिबद्धता जनाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/our-shortcomings-were-evident-until-the-general-convention-we-will-correct-them-and-now-mature-lamichhane-br-30-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782484014_rav-480x320.jpg"
+    },
+    {
+      "title": "रवि लामिछानेले लिए रास्वपा सभापतिको शपथ",
+      "summary": "गृह मन्त्रालयले गरेको देशभरका प्रशासन कार्यालयहरूको कार्यसम्पादन मूल्याङ्कनमा मनाङ पहिलो भएको छ । उसले १८ अङ्क प्राप्त गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/manang-excels-in-performance-evaluation-while-dhanusha-is-last-where-is-kathmandu-42-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782484428_1767856986_Home-1200x560-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाका नवनिर्वाचित पदाधिकारीको शपथग्रहण हुँदै",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले पार्टी सभापति पदको शपथ लिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ravi-lamichhane-takes-oath-as-rsp-president-26-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782483597_rr-480x320.jpg"
+    },
+    {
+      "title": "सय दिन नपुग्दै उद्योग मन्त्रालयले पूरा गर्यो ३२ बुँदे कार्यसम्पादन",
+      "summary": "विशेषगरी महिनाको सुरुआती दिनहरूमा वर्षा अत्यन्त न्यून रह्यो भने पछिल्ला दिनहरूमा केही सुधार देखिए पनि सामान्य अवस्थासम्म पुग्न सकेको छैन ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/monsoon-weak-rainfall-below-average-39-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780677053_Rain-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाकाे पदाधिकारीमा कसले कति मत ल्याए ?",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले विगत चार वर्षमा पार्टीले सोचेअनुरूप काम गर्न नसकेको स्वीकार गर्दै कमीकमजोरीहरूलाई सच्याएर अघि बढ्ने प्रतिबद्धता जनाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/our-shortcomings-were-evident-until-the-general-convention-we-will-correct-them-and-now-mature-lamichhane-br-30-78.html?click_from=just_in",
       "image_url": ""
     }
   ]
