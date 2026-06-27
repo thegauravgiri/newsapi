@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-27T10:17:46.493584",
+  "scraped_at": "2026-06-27T13:58:53.138752",
   "date": "2026-06-27",
-  "total_articles": 43,
+  "total_articles": 48,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -350,6 +350,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/mother-dies-from-beating-son-arrested-for-beating-her-br-34-16.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "बालेन सरकार उल्टो गतिमा चलेको कुलमान घिसिङको आरोप",
+      "summary": "पछिल्लो समय सामाजिक सञ्जालमा आफ्ना निजी मेसेजहरूको स्क्रिनसट भाइरल भएपछि चर्चित गायक सुजन चापागाईले औपचारिक स्पष्टीकरण दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/after-private-message-went-viral-sujan-chapagain-said-i-apologize-for-past-conversations-br-98-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782567971_sujan-480x320.jpg"
+    },
+    {
+      "title": "श्रममन्त्री यादव र साउदी अरबका राजदूतबिच शिष्टाचार भेट",
+      "summary": "उज्यालो नेपाल पार्टीका अध्यक्ष कुलमान घिसिङले सरकार उल्टो गतिमा चलेको आरोप लगाएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/kulman-ghising-alleges-that-the-balen-government-is-moving-in-the-opposite-direction-74-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780287854_kulman-480x320.jpg"
+    },
+    {
+      "title": "महेशले ओलीको तारिफ गर्दै भने: गलत नबुझौँ ओलीले सुविधा होइन प्रमाण मागेको",
+      "summary": "नेपालकै अग्रणी सौन्दर्य सेवा प्रदायक संस्था ‘फेसियल हाउस’ ले काठमाडौंको सितापाइलास्थित अनुपम महलमा आफ्नो १२औँ शाखा औपचारिक रूपमा सञ्चालनमा ल्याएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/facial-house-s-12th-branch-inaugurated-in-sitapaila-making-quality-beauty-services-more-accessible-86-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782567088_90-480x320.jpg"
+    },
+    {
+      "title": "राप्रपा विदेशी शक्तिको घेराबन्‍दीमा परो भन्दै किन गुनासो गर्दैछन् राजेन्द्र लिङ्देन ?",
+      "summary": "युवा, श्रम तथा रोजगारमन्त्री रामजी यादवसँग नेपालका लागि साउदी अरबका राजदूत फहद मोहम्मद ए. मिएखरले शिष्टाचार भेट गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/saudi-arabian-ambassador-pays-courtesy-call-on-labor-minister-yadav-34-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782565582_Untitled-1-Recovered-480x320.jpg"
+    },
+    {
+      "title": "मधेसमा पार्टीको उपस्थितिको समीक्षा गर्दै एमाले: पार्टी पुनर्गठन अभियान चलाउने",
+      "summary": "पछिल्लो समय सामाजिक सञ्जालमा आफ्ना निजी मेसेजहरूको स्क्रिनसट भाइरल भएपछि चर्चित गायक सुजन चापागाईले औपचारिक स्पष्टीकरण दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/after-private-message-went-viral-sujan-chapagain-said-i-apologize-for-past-conversations-br-98-86.html?click_from=just_in",
       "image_url": ""
     }
   ]
