@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-27T04:07:33.321151",
+  "scraped_at": "2026-06-27T10:17:46.493584",
   "date": "2026-06-27",
-  "total_articles": 34,
+  "total_articles": 43,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -278,6 +278,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/only-three-percent-of-the-bagmati-region-is-planted-78-27.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ILO global labour convention aims to improve conditions for millions working via Nepal’s digital platforms",
+      "summary": "The new international labour standard seeks to guarantee fair wages, social protection, workplace safety and collective bargaining rights for platform workers, offering Nepal a roadmap to regulate its rapidly growing gig economy.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/06/27/ilo-global-labour-convention-aims-to-improve-conditions-for-millions-working-via-nepal-s-digital-platforms-1782530920",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/Foodmandu201608113I1A3236-1782530894.jpg&w=300&height=200"
+    },
+    {
+      "title": "RSP elects new leadership in convention marred by delays, rifts",
+      "summary": "Convention ends after six days with dwindled delegate numbers, leaked WhatsApp voting lists and open displays of divisions despite party’s anti-factional stance.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/06/27/rsp-elects-new-leadership-in-convention-marred-by-delays-rifts",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/WhatsAppImage20260627at074732-1782525899.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepse sheds 2 percent in broad-based sell-off, wiping out Rs 80 billion in market value",
+      "summary": "All 13 sectoral indices decline as investor confidence weakens amid capital market investigations, despite steady trading volumes.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/06/27/nepse-sheds-2-percent-in-broad-based-sell-off-wiping-out-rs-80-billion-in-market-value",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Nepsebar-1782537824.jpg&w=300&height=200"
+    },
+    {
+      "title": "Meet the Nepali designer building a career with America’s most iconic brands",
+      "summary": "From a fashion apprenticeship in Kathmandu to the studios of Ralph Lauren and J Crew, Alina Shrestha has carved out a place in one of the world’s most competitive creative industries.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/06/27/meet-the-nepali-designer-building-a-career-with-america-s-most-iconic-brands",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/AlinaShrestha-1782529380.jpg&w=600&height=400"
+    },
+    {
+      "title": "३६ वर्षका सबै बालेन र ८० वर्षका सबै ट्रम्प हुँदैनन्: लिङ्देन",
+      "summary": "सूर्यविनायक नगरपालिका–९ भातेढिकुर चोकमा शुक्रबार साँझ छोराको कुटपिटबाट ४० वर्षीया आमा मेघिया चौधरीको मृत्यु भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/mother-dies-from-beating-son-arrested-for-beating-her-br-34-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756829024_pakrau-480x320.jpg"
+    },
+    {
+      "title": "ताप्लेजुङलाई अलैंचीको सुपरजोन बनाउन पहल गर्छु : थेबे",
+      "summary": "विगत तिन महिनादेखि अस्पतालहरूमा उच्च रक्तचाप, मधुमेह, मानसिक रोग र परिवार नियोजनका औषधिको अभाव भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/free-medicine-in-short-supply-for-three-months-21-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1749194402_medicine-480x320.jpg"
+    },
+    {
+      "title": "मदन भण्डारीको जन्मजयन्तीमा एकै मञ्चमा देखिँदै ओली, प्रचण्ड र माधव नेपाल",
+      "summary": "स्थानीय गाई केवल दूधका लागि मात्र नभई गाउँको संस्कृति, धार्मिक आस्था र कृषि प्रणालीसँग जोडिएको जानकारहरू बताउँछन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/cow-care-allowance-for-farmers-in-gulmi-br-87-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779026819_Cow-480x320.jpg"
+    },
+    {
+      "title": "साउदीसँग नेपाली श्रमिकको सीप प्रमाणीकरण प्रक्रिया तत्काल स्थगन गर्न अनुरोध",
+      "summary": "अभिनेत्री स्वस्तिमा खड्का मुख्य भूमिकामा रहेको चलचित्र ‘लालीबजार’ ले प्रदर्शनको ५१ औं दिन पूरा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/celebrating-51-days-of-the-movie-lalibazar-br-58-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782554610_lali-480x320.jpg"
+    },
+    {
+      "title": "राज्य सञ्चालनमा यो पटक शिक्षा लिएर अर्को पटक राम्रो गर्छौँ भन्ने छुट हुँदैन : मिश्र",
+      "summary": "सूर्यविनायक नगरपालिका–९ भातेढिकुर चोकमा शुक्रबार साँझ छोराको कुटपिटबाट ४० वर्षीया आमा मेघिया चौधरीको मृत्यु भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/mother-dies-from-beating-son-arrested-for-beating-her-br-34-16.html?click_from=just_in",
       "image_url": ""
     }
   ]
