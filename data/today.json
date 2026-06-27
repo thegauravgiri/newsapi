@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-27T13:58:53.138752",
+  "scraped_at": "2026-06-27T17:18:09.903537",
   "date": "2026-06-27",
-  "total_articles": 48,
+  "total_articles": 51,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -391,6 +391,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/after-private-message-went-viral-sujan-chapagain-said-i-apologize-for-past-conversations-br-98-86.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Tea exports to India to ease as it softens quality inspection rules",
+      "summary": "Producers say repeated trade disruptions leave them unconvinced the latest decision will ensure smooth exports.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/27/tea-exports-to-india-to-ease-as-it-softens-quality-inspection-rules",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1782569664.jpg&w=300&height=200"
+    },
+    {
+      "title": "Oli, Dahal explore fresh alignment amid election setbacks and probes",
+      "summary": "Battered by election losses and spooked by government asset probes, Nepal’s top communist rivals look set to share a stage and possibly a future.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/06/27/oli-dahal-explore-fresh-alignment-amid-election-setbacks-and-probes",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/olianddahalnewphotos26620260101261000x0-1782555407.jpg&w=300&height=200"
+    },
+    {
+      "title": "सुरक्षा निकायलाई पत्तै नदिई बारा र पर्साका नाकामा गृहमन्त्रीको ‘छड्के’",
+      "summary": "गृहमन्त्री सुदन गुरुङले बारा र पर्साका विभिन्न सीमा नाकाहरूमा सुरक्षा निकायलाई पूर्वजानकारी नदिई छड्के अनुगमन गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/home-minister-s-sneaky-exit-at-bara-and-parsa-checkpoints-without-informing-security-agencies-97-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782579233_to-480x320.jpg"
     }
   ]
 }
