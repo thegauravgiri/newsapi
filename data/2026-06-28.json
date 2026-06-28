@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-06-28T04:40:37.730061",
+  "scraped_at": "2026-06-28T10:31:41.883656",
   "date": "2026-06-28",
-  "total_articles": 33,
+  "total_articles": 42,
   "sources": [
-    "KathmanduPost",
     "News24",
+    "KathmanduPost",
     "NagarikNews"
   ],
   "articles": [
@@ -270,6 +270,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/meeting-of-the-house-of-representatives-is-underway-br-88-84.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "्दोलनको ज्वाला दन्किरहने माइतीघर मण्डल, जहाँ सुनिन्छ जनताको माग !",
+      "summary": "्दोलनको ज्वाला दन्किरहने माइतीघर मण्डल, जहाँ सुनिन्छ जनताको माग !",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13231",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/balen-1782617613.jpg"
+    },
+    {
+      "title": "Nepali farmers battle surging plantation costs as delayed monsoon dims paddy outlook",
+      "summary": "Water shortages, nationwide shortages of fertilisers and seeds, and mounting production costs shave farmer profits off paddy cultivation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/28/nepali-farmers-battle-surging-plantation-costs-as-delayed-monsoon-dims-paddy-outlook",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/paddy-1782608055.jpg&w=300&height=200"
+    },
+    {
+      "title": "Over half of licensed hydropower projects in Nepal show weak progress",
+      "summary": "Of 274 approved projects, 178 are below 25 percent completion, raising concerns over financing delays and regulatory compliance.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/28/over-half-of-licensed-hydropower-projects-in-nepal-show-weak-progress",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1782622328.jpg&w=300&height=200"
+    },
+    {
+      "title": "New draft law allows courts to replace prison with home detention under electronic monitoring",
+      "summary": "Proposed amendments would let judges replace prison terms with house arrest, widen parole and community service options, and expand use of open prisons under tighter supervision rules.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/28/new-draft-law-allows-courts-to-replace-prison-with-home-detention-under-electronic-monitoring",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Gemini_Generated_Image_fdj8kafdj8kafdj8.png&w=300&height=200"
+    },
+    {
+      "title": "मदन भण्डारी जीवित भएको भए समाजवादको नयाँ चरण सुरु गर्नुहुन्थ्यो: दाहाल",
+      "summary": "तलब र सेवा सुबिधाको माग गर्दै वीरगन्ज महानगरपालिकाका सरसफाइ कर्मचारीहरूलेप्रदर्शन गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/sanitation-workers-stage-protest-demanding-salary-increase-br-60-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782642452_Bir-480x320.jpg"
+    },
+    {
+      "title": "‘कुराले चिउरा भिज्दैन, यथार्थको धरातलमा टेकेर कम्युनिस्ट एकता गरौं’",
+      "summary": "नेपाली कम्युनिस्ट पार्टी (नेकपा) का संयोजक पुष्पकमल दाहालले जननेता मदन भण्डारी जीवित रहेको भए समाजवादको नयाँ चरणअनुसार पार्टीका नीति तथा कार्यक्रम परिमार्जन गर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/if-madan-bhandari-were-alive-he-would-have-started-a-new-phase-of-socialism-dahal-br-75-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782641468_prachanda-480x320.jpg"
+    },
+    {
+      "title": "कम्युनिस्ट एकता भावनाले होइन, आत्मसमीक्षाले मात्रै सम्भव: माधव नेपाल",
+      "summary": "आर्थिक सङ्कटका कारण कोशी प्रदेशका ४४ वटा एफएम रेडियो स्टेशन बन्द भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/koshi-s-44-fm-radio-stations-shut-down-due-to-economic-crisis-62-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782641907_Radio1-480x320.jpg"
+    },
+    {
+      "title": "विदेशी शक्तिले नेपाललाई द्वन्द्वमा फसाउन खोजे, सरकारको रवैया सन्देहास्पद: माधव नेपाल",
+      "summary": "नेपाली कम्युनिस्ट पार्टी (नेकपा) का सह-संयोजक माधव कुमार नेपालले कम्युनिस्ट पार्टीहरुबीचको एकता भावनात्मक कुराले मात्र सम्भव नहुने भन्दै यथार्थको धरातलमा टेकेर अघि बढ्न आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/talk-doesn-t-make-us-wet-let-s-unite-as-communists-by-standing-on-the-ground-of-reality-br-88-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782639955_madhav_nepal-480x320.jpg"
+    },
+    {
+      "title": "झलनाथ खनालको आह्वान : वामपन्थी एकताको विकल्प छैन, आजैदेखि नयाँ सुरुआत गरौँ",
+      "summary": "तलब र सेवा सुबिधाको माग गर्दै वीरगन्ज महानगरपालिकाका सरसफाइ कर्मचारीहरूलेप्रदर्शन गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/sanitation-workers-stage-protest-demanding-salary-increase-br-60-76.html?click_from=just_in",
       "image_url": ""
     }
   ]
