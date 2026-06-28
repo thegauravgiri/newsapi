@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-28T10:31:41.883656",
+  "scraped_at": "2026-06-28T14:05:32.062157",
   "date": "2026-06-28",
-  "total_articles": 42,
+  "total_articles": 47,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -342,6 +342,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/sanitation-workers-stage-protest-demanding-salary-increase-br-60-76.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "वामपन्थी दल: सत्तामा हुँदा फुट, संकट परेपछि जुट !",
+      "summary": "अवैध लागूऔषध सहित प्रहरिले देशका विभिन्न स्थानबाट २५ जनालाई नियन्त्रणमा लिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/25-people-arrested-from-various-parts-of-the-country-with-drugs-43-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755793803_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "पूर्वमन्त्री भन्छन्: कोशी सरकार परिवर्तन हुने जोखिम छ",
+      "summary": "मुलुकमा मनसुन क्रमशः सक्रिय हुँदै गएको जनाउँदै जल तथा मौसम पूर्वानुमान महाशाखाले आगामी असार १६ र १७ गते देशका अधिकांश भागमा मुसलधारे वर्षा हुने बताएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/monsoon-becoming-active-torrential-rains-expected-in-some-places-on-ashad-16-and-17-90-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774086715_rain-480x320.jpg"
+    },
+    {
+      "title": "के छ प्रतिनिधि सभाबाट बहुमतले स्वीकृत भएको सहकारी विधेयकमा ?",
+      "summary": "समनपुर–हरैया घाट क्षेत्रमा दिउँसो करिब ३ बजेर २० मिनेटतिर नुहाइरहेका स्थानीय बासिन्दा भन्टु राय यादवका ८ वर्षीय छोरा अनिकेश यादव अचानक नदीमा डुबेका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-children-die-after-drowning-in-bagmati-river-54-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1602497238_dubera-480x320.jpg"
+    },
+    {
+      "title": "प्रत्यक्ष कार्यकारी प्रणाली नेपालका लागि उपयुक्त छैन, संविधान संशोधन गर्न सकिन्छ: भण्डारी",
+      "summary": "जिल्लाका ९ वटै स्थानीय तहलाई जेठभित्र पूर्णखोप सुनिश्चित तथा दिगोपना घोषणा गरेर आइतबार जिल्लालाई घोषणा गरिएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/kalikot-declared-a-fully-vaccinated-and-sustainable-district-29-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782653874_Kalikot -480x320.jpg"
+    },
+    {
+      "title": "लोकतन्त्र सिध्याउने गरी भदौ २३ र २४ मा प्रतिगामी षड्यन्त्र भयो: ओली",
+      "summary": "अवैध लागूऔषध सहित प्रहरिले देशका विभिन्न स्थानबाट २५ जनालाई नियन्त्रणमा लिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/25-people-arrested-from-various-parts-of-the-country-with-drugs-43-67.html?click_from=just_in",
       "image_url": ""
     }
   ]
