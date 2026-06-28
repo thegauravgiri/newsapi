@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-28T14:05:32.062157",
+  "scraped_at": "2026-06-28T17:20:51.621031",
   "date": "2026-06-28",
-  "total_articles": 48,
+  "total_articles": 53,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -391,6 +391,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/25-people-arrested-from-various-parts-of-the-country-with-drugs-43-67.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Kathmandu Metropolis provides 1,800 vials of anti-rabies vaccine to Sukraraj Hospital",
+      "summary": "Government officials seek more doses from provincial and local governments as it will take weeks for the ongoing procurement process to be completed.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/06/28/kathmandu-metropolis-provides-1-800-vials-of-anti-rabies-vaccine-to-sukraraj-hospital",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/2RP73DVAKROQ5LEQUWR5IIS6Q41-1782650578.jpg&w=300&height=200"
+    },
+    {
+      "title": "In Nepal’s high Himalayas, a year of work must be done in two months",
+      "summary": "In Taplejung’s highest settlements, villagers have just two snow-free months to build trails, bridges and drainage systems before winter brings life to a halt.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/28/in-nepal-s-high-himalayas-a-year-of-work-must-be-done-in-two-months",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/olangchunggola11-1782658409.jpg&w=300&height=200"
+    },
+    {
+      "title": "मानव अधिकार आयोगसँग लेखक मागे प्रमाण",
+      "summary": "विनाशकारी भूकम्प गएको ८५ घण्टाभन्दा बढी समय बितिसक्दा पनि भेनेजुएलामा भग्नावशेषभित्र पुरिएका दुई ११ वर्षीय बालकको जीवितै उद्धार गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/venezuela-earthquake-two-children-rescued-alive-from-rubble-after-85-hours-57-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782663144_ven-480x320.jpg"
+    },
+    {
+      "title": "वामदेव गौतमको आह्वान: मदन–आश्रितलाई न्याय र कम्युनिस्ट एकताको नयाँ सङ्कल्प गरौँ",
+      "summary": "सङ्खुवासभाको मकालु गाउँपालिका–१ चिर्खाङमा चट्याङ लागेर एक महिलाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/woman-dies-after-being-struck-by-lightning-in-sankhuwasabha-72-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1746363305_chatyang-480x320.jpg"
+    },
+    {
+      "title": "हर्क साम्पाङको प्रश्न : प्रचण्ड–ओली मिल्दा सामान्य, हामी मिले अचम्म ?",
+      "summary": "त्रिभुवन आर्मी क्लब ३०औं पुरुष तथा ११औं महिला राष्ट्रिय बक्सिङ प्रतियोगितामा दबदबा कायम गर्दै च्याम्पियन भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/army-wins-national-boxing-championship-with-all-11-golds-77-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782662424_Army_Gold-480x320.jpg"
     }
   ]
 }
