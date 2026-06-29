@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-29T12:39:52.998209",
+  "scraped_at": "2026-06-29T18:16:23.774998",
   "date": "2026-06-29",
-  "total_articles": 40,
+  "total_articles": 49,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -326,6 +326,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/case-filed-against-9-people-for-corruption-in-tourism-related-programs-br-41-72.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Faster exam results raise questions over accuracy and credibility",
+      "summary": "Over 32,000 grade 12 students apply for retotalling, while SEE re-evaluations alter results for more than 5 per cent of applicants, raising concerns over exam accuracy.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/29/faster-exam-results-raise-questions-over-accuracy-and-credibility",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/12student19620260310521000x0-1782740105.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal to wait until July 19 before deciding on German passport deal",
+      "summary": "PM’s Office doubts German firms’ preparedness to roll out biometric passports, but Foreign Ministry believes they can meet the deadline.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/29/nepal-to-wait-until-july-19-before-deciding-on-german-passport-deal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1782748584.jpg&w=300&height=200"
+    },
+    {
+      "title": "Left parties weigh unity amid investigations, policy clashes and shifting political ground",
+      "summary": "With investigations targeting former leaders and political tensions rising, UML and NCP leaders move toward coordination in parliament, on the streets and possibly in elections.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/06/29/leftist-parties-turn-to-unity-talks-as-political-pressure-mounts-on-former-ruling-bloc",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/4pmandexpresident28620261107591000x0-1782732014.jpg&w=300&height=200"
+    },
+    {
+      "title": "Hospitals in the hills and mountains seek anti-venom",
+      "summary": "Shortages at some snake bite treatment centres have forced officials to shift antivenom from centres with extra stocks.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/06/29/hospitals-in-the-hills-and-mountains-seek-anti-venom",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1782741974.jpg&w=600&height=400"
+    },
+    {
+      "title": "सरकारको उच्च जरिवाना नीतिप्रति महेश- विदेशको अन्धानक्कल नगरौं, जनताको क्षमता हेरौं",
+      "summary": "नेकपा एमालेका सचिव महेश बस्नेतले प्रधानमन्त्री बालेन्द्र शाहको उच्च जरिवानासम्बन्धी पछिल्लो नीतिप्रति असन्तुष्टि जनाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mahesh-basnet-s-dissatisfaction-with-balen-s-fine-policy-let-s-not-blindly-follow-foreign-countries-let-s-look-at-the-people-s-potential-br-65-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768211911_mahesh_-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री बालेनको बोलीबारे भीम रावलको टिप्पणी",
+      "summary": "देशभर पर्याप्त वर्षा नहुँदा किसानले रोपाइँका बेला सिँचाइ अभावको समस्या झेलिरहेका बेला नेपालमा सिँचाइ विस्तारको लक्ष्य पनि अझै पूरा हुन सकेको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/irrigation-facilities-are-available-in-only-62-68-percent-of-the-country-79-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1742797507_sinchai-480x320.jpg"
+    },
+    {
+      "title": "राज्य किसानप्रति अनुदार बन्दै गएको छ : महामन्त्री पौडेल",
+      "summary": "काठमाडौं महानगरपालिकाले महानगर प्रहरी बलको सप्ताहव्यापी ‘नमस्ते सेवा अभियान’ सुरु गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/namaste-seva-campaign-launched-in-kathmandu-83-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770708958_Sunita-480x320.jpg"
+    },
+    {
+      "title": "गृहमन्त्री र गृहसचिवको गाडीबाट हटाइयो कालो सिसा",
+      "summary": "यस वर्षको मनसुनजन्य विपद्‌बाट देशभर करिब सवा २ लाख नागरिक प्रभावित हुने सरकारी प्रक्षेपण छ। सम्भावित जनधनको क्षति रोक्न राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणले ३ सय जोखिमपूर्ण ठाउँको भौगर्भिक अध्ययन गर्दै ‘कमाण्ड पोस्ट’ मार्फत पूर्वतयारीलाई युद्धस्तरमा अघि बढाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/2-25-lakh-citizens-at-high-risk-of-monsoon-preparations-underway-from-15-day-rations-to-drones-and-rafting-br-14-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782748599_7-480x320.jpg"
+    },
+    {
+      "title": "झलनाथ भन्छन्: समाजवादी क्रान्तिको नयाँ बहस : पुराना कार्यक्रमले अब पुग्दैनन्",
+      "summary": "नेकपा एमालेका सचिव महेश बस्नेतले प्रधानमन्त्री बालेन्द्र शाहको उच्च जरिवानासम्बन्धी पछिल्लो नीतिप्रति असन्तुष्टि जनाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mahesh-basnet-s-dissatisfaction-with-balen-s-fine-policy-let-s-not-blindly-follow-foreign-countries-let-s-look-at-the-people-s-potential-br-65-27.html?click_from=just_in",
       "image_url": ""
     }
   ]
