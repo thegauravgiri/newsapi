@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-29T04:49:08.310765",
+  "scraped_at": "2026-06-29T12:39:52.998209",
   "date": "2026-06-29",
-  "total_articles": 33,
+  "total_articles": 40,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -270,6 +270,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/farmers-suffer-after-indian-seeds-mp-3030-fail-to-sprout-br-16-46.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ीय राजधानी पोखरामा असार १५ बन्दैछ पर्यटक तान्ने माध्यम",
+      "summary": "ीय राजधानी पोखरामा असार १५ बन्दैछ पर्यटक तान्ने माध्यम",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13242",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/ropai-mahusap-1782706181.jpg"
+    },
+    {
+      "title": "Calls grow for probe after 35,257 minors found in RSP membership list",
+      "summary": "Child rights activists, Congress demand probe and action after thousands of members of the party found to be under 18.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/06/29/calls-grow-for-probe-after-35-257-minors-found-in-rsp-membership-list",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb5-1782693898.jpg&w=600&height=400"
+    },
+    {
+      "title": "सम्पत्ति शुद्धीकरण मुद्दामा विष्णु पौडेलमाथि अनुसन्धान जारी, अदालतबाट थप तीन दिन म्याद",
+      "summary": "आयोगले नयाँ पर्यटन गन्तव्य पहिचान गर्ने उद्देश्यले सञ्चालित कार्यक्रममा भ्रष्टाचार भएको अभियोगमा नौ जनाविरुद्ध विशेष अदालतमा मुद्दा दायर गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/case-filed-against-9-people-for-corruption-in-tourism-related-programs-br-41-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770014467_Akhtiyar-Durupayog-480x320.jpg"
+    },
+    {
+      "title": "पार्टी एकताका लागि जस्तोसुकै जिम्मेवारी र त्याग गर्न तयार छु: डा शशांक",
+      "summary": "यसअघि अदालतले दिएको सात दिने म्याद असार १४ गते सकिएपछि अनुसन्धान अधिकारीहरूले थप समय माग गर्दै पुनः अदालत पुगेका थिए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/investigation-continues-against-bishnu-poudel-in-money-laundering-case-court-grants-three-more-days-remand-61-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755861632_Bishnu Paudel-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रकै एकता आवश्यक परेको बेला कम्युनिष्ट एकता स्वतः पर्‍यो: भीम रावल",
+      "summary": "राष्ट्रिय कृषि आधुनिकीकरण कार्यक्रम, कार्यक्रम कार्यान्वयन एकाई चितवनको आयोजनामा भएको धान दिवस कार्यक्रममा महिला दिदीबहिनीले रासायनिक मल नपाउँदाको पीडा पोखेका हुन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/farmers-face-fertilizer-shortages-as-government-celebrates-national-rice-day-81-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782734829_Dhan_Khet-480x320.jpg"
+    },
+    {
+      "title": "नेतृत्व हस्तान्तरण नभएसम्म वामपन्थी एकता सम्भव छैन: जनार्दन शर्मा",
+      "summary": "यस खेलमा पराजित टोली घर फर्कनेछ भने विजेता टोली अन्तिम १६ मा पुग्नेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/world-cup-knockout-germany-faces-paraguay-br-12-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782735069_New Project (3)-480x320.jpg"
+    },
+    {
+      "title": "नेतृत्वको कमजोरीले कम्युनिस्ट आन्दोलन कमजोर बन्यो: जनार्दन शर्मा",
+      "summary": "आयोगले नयाँ पर्यटन गन्तव्य पहिचान गर्ने उद्देश्यले सञ्चालित कार्यक्रममा भ्रष्टाचार भएको अभियोगमा नौ जनाविरुद्ध विशेष अदालतमा मुद्दा दायर गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/case-filed-against-9-people-for-corruption-in-tourism-related-programs-br-41-72.html?click_from=just_in",
       "image_url": ""
     }
   ]
