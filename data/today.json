@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-30T04:15:41.538917",
+  "scraped_at": "2026-06-30T11:15:55.696028",
   "date": "2026-06-30",
-  "total_articles": 34,
+  "total_articles": 42,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -278,6 +278,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/police-seize-illegal-iphone-worth-over-2-million-br-91-63.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal’s first transgender lawmaker is just getting started",
+      "summary": "Bhumika Shrestha was bullied out of school and once struggled to find words for her identity. Now she sits in Nepal’s federal Parliament, carrying decades of activism into the country's highest legislative body.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/30/nepal-s-first-transgender-lawmaker-is-just-getting-started",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/interviewbhumikashrestha202606054569-1782784023.jpg&w=300&height=200"
+    },
+    {
+      "title": "16 Karnali Highway contracts terminated as road works remain incomplete",
+      "summary": "Authorities say contractors repeatedly ignored deadlines and warnings, leading to cancellations and action to blacklist firms and recover public funds.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/29/16-karnali-highway-contracts-terminated-as-road-works-remain-incomplete",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/photokarnalirajmarg1129620260938501000x0-1782735051.jpg&w=300&height=200"
+    },
+    {
+      "title": "At 14, she defied her family’s plan to marry her late sister’s husband",
+      "summary": "Sushilata Nepali, a teenager from Achham district, resisted her family, her community and an entrenched tradition to stop her own child marriage. Now she leads the campaign to ensure no other child faces the same fate.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/29/at-14-she-defied-her-family-s-plan-to-marry-her-late-sister-s-husband",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/susmita529620261114381000x0-1782740539.jpg&w=600&height=400"
+    },
+    {
+      "title": "निस्वार्थ भावले मानव सेवामा समर्पित हुनु नै ठूलो धर्म हो: राष्ट्रपति",
+      "summary": "विद्यालय तहको राष्ट्रिय पाठ्यक्रम प्रारुप पुनरावलोकन कार्यदलले पाठ्यक्रम सुधार गर्न देशभरका विभिन्न ५० हजार विज्ञसँग सुझाव सङ्कलन गरिने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/collecting-suggestions-from-50-000-to-improve-school-level-curriculum-br-12-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782817419_New Project (7)-480x320.jpg"
+    },
+    {
+      "title": "जिसस ताप्लेजुङको ९ औँ सभा : फुङलिङ–फुङफुङ्गे कालोपत्रे गर्ने देखि अलैंची सुपरजोनसम्मका योजनाको प्रस्ताव",
+      "summary": "राष्ट्रपति रामचन्द्र पौडेलले नेपालीहरूको जीवन दर्शन सेवा, करुणा, प्रेम, मानवता र शान्तिको उच्चतम अभ्यासबाट अभिप्रेरित भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepalis-philosophy-of-life-is-inspired-by-the-highest-practices-of-service-compassion-love-humanity-and-peace-president-poudel-br-42-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782816638_ramchadra-480x320.jpg"
+    },
+    {
+      "title": "प्रतिपक्षी दलमा हलचल: कांग्रेसमा शक्ति सङ्घर्ष, वाम दलमा एकताको संकेत",
+      "summary": "रौतहटमा एक निजी विद्यालयका विद्यार्थीमाथि निर्घात कुटपिट भएको घटना सार्वजनिक भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/parents-demand-action-against-students-who-were-beaten-up-for-not-doing-homework-br-56-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782817644_New Project (9)-480x320.jpg"
+    },
+    {
+      "title": "पालुङटार र टोखा नगरपालिकाबीच भगिनी सम्बन्ध स्थापना",
+      "summary": "जिल्ला प्रशासन कार्यालय, मकवानपुरले कान्ति लोकपथ (हेटौंडा–काठमाडौं सडकखण्ड) मा रातको समयमा यात्रा नगर्न र नगराउन सबैमा आग्रह गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/administration-urges-people-not-to-travel-on-kanti-lokpath-at-night-after-heavy-rains-forecast-32-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1745587880_Kantipath-480x320.jpg"
+    },
+    {
+      "title": "सरकारकै हस्तक्षेपका कारण ‘एन्फा’ प्रतिबन्धमा पर्‍याे: ओली",
+      "summary": "विद्यालय तहको राष्ट्रिय पाठ्यक्रम प्रारुप पुनरावलोकन कार्यदलले पाठ्यक्रम सुधार गर्न देशभरका विभिन्न ५० हजार विज्ञसँग सुझाव सङ्कलन गरिने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/collecting-suggestions-from-50-000-to-improve-school-level-curriculum-br-12-61.html?click_from=just_in",
       "image_url": ""
     }
   ]
