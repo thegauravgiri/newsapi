@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-30T14:35:12.886736",
+  "scraped_at": "2026-06-30T18:04:50.278224",
   "date": "2026-06-30",
-  "total_articles": 49,
+  "total_articles": 53,
   "sources": [
-    "News24",
+    "KathmanduPost",
     "NagarikNews",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -399,6 +399,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Corporate/nabil-bank-receives-three-prestigious-awards-including-the-gold-award-for-the-third-consecutive-time-86-20.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Supreme Court seeks government’s explanation over stalled probe into Nepal Airlines’ Chinese aircraft deal",
+      "summary": "Bench orders government agencies to explain why no investigation has been launched into the controversial procurement of six Chinese aircraft, despite billions in public losses and years of failed operations.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/06/30/supreme-court-seeks-government-s-explanation-over-stalled-probe-into-nepal-airlines-chinese-aircraft-deal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Untitled1-1782822802.jpg&w=300&height=200"
+    },
+    {
+      "title": "राहदानी सङ्कटको संघारमा: विभागसँग एक हप्तालाई मात्र पुग्ने ३३ हजार मौज्दात बाँकी, त्यसपछि के ?",
+      "summary": "दक्षिण एसियाभरका लाखौं गृह-श्रमिक (होम–बेस्ड वर्कर्स) को जीवनस्तर रूपान्तरण गर्न सफल काठमाडौं घोषणापत्र जारी भएको २५ वर्ष पूरा भएको अवसरमा मंगलबार काठमाडौंमा विशेष समारोह आयोजना गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/25-years-of-the-kathmandu-declaration-south-asian-domestic-workers-solidarity-is-writing-a-new-chapter-21-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782836978_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "बर्माकी नेतृ आङ सान सुकीलाई रिहा गर्न विमलेन्द्र निधिको माग",
+      "summary": "राहदानी विभागमा राहदानीको मौज्दात रित्तिँदै गएको छ। हाल विभागसँग करिब ३३ हजार राहदानी मात्र मौज्दात रहेको र यसले अबको करिब एक हप्ताका लागि मात्र वितरण धान्न सक्ने देखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/passport-crisis-looms-department-has-33-000-in-stock-enough-for-just-one-week-what-next-84-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782836489_pass-480x320.jpg"
+    },
+    {
+      "title": "स्थानीय तह निर्वाचन मिति तय नहुँदै उम्मेदवारी घोषणा, घोराहीको मेयरमा गणेश वेलवासेले स्वतन्त्र उम्मेदवारी दिने",
+      "summary": "सडक विभागले यस वर्षको मनसुनमा देशका विभिन्न १४० स्थानमा पहिरो गई राजमार्ग/सडक अवरुद्ध हुनसक्ने अनुमानसहित आवश्यक तयारी गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/road-department-identifies-140-landslide-sites-br-88-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764996198_faper pahiro-480x320.jpg"
     }
   ]
 }
