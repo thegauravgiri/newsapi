@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-06-30T11:15:55.696028",
+  "scraped_at": "2026-06-30T14:35:12.886736",
   "date": "2026-06-30",
-  "total_articles": 42,
+  "total_articles": 49,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -342,6 +342,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/education/collecting-suggestions-from-50-000-to-improve-school-level-curriculum-br-12-61.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Faster exam results raise questions over accuracy and credibility",
+      "summary": "Over 32,000 grade 12 students apply for retotalling, while SEE re-evaluations alter results for more than 5 per cent of applicants, raising concerns over exam accuracy.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/29/faster-exam-results-raise-questions-over-accuracy-and-credibility",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/protestatmaitighrfor12exam202606254748copy-1782785220.jpg&w=300&height=200"
+    },
+    {
+      "title": "TU says no infrastructure authorised for party-affiliated student unions",
+      "summary": "FSU presidents from Kathmandu campuses demand the Prime Minister’s removal as university chancellor, accusing the government of interfering in university affairs.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/06/30/tu-says-no-infrastructure-authorised-for-party-affiliated-student-unions",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/img20260630wa000030620261122251000x0-1782821582.jpg&w=300&height=200"
+    },
+    {
+      "title": "कर्मचारी सरुवा प्रक्रिया अब पूर्ण रूपमा डिजिटल प्रणालीबाट हुने",
+      "summary": "नेपाल चार्टर्ड एकाउन्टेन्ट्स संस्था (आइक्यान) ले प्रदान गर्ने वार्षिक उत्कृष्ट प्रतिवेदन (बीपीए) अवार्ड अन्तर्गत नबिल बैंकले निजी क्षेत्रको बैंकतर्फको 'गोल्ड अवार्ड' लगातार तेस्रो पटक प्राप्त गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Corporate/nabil-bank-receives-three-prestigious-awards-including-the-gold-award-for-the-third-consecutive-time-86-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782829478_Nabil Bank-480x320.jpg"
+    },
+    {
+      "title": "होटल–रेष्टुरेन्टमा अनुगमन प्रभावकारी बनाउन सिडिओलाई गृहको निर्देशन",
+      "summary": "जिल्लाभरका सबै खोप लगाउने उमेर समूहका बालबालिका तथा गर्भवती महिलाले तोकिएबमोजिम खोप पाइसकेको सुनिश्चित भएसँगै जिल्लालाई यस वर्षको पूर्ण खोप सुनिश्चित जिल्ला घोषणा गरिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/khotang-declared-a-fully-vaccinated-district-this-year-as-well-56-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782829195_Khotang News-480x320.jpg"
+    },
+    {
+      "title": "सीडीओलाई गृहको निर्देशन- गुणस्तरहीन खाना बेच्ने होटलमाथि कारबाही गर्नू",
+      "summary": "जिल्लामा रहेका १५ महिनादेखि ५९ महिनासम्मका सबै बालबालिकाहरू खोपको पहुँचमा पुगेको प्रतिवेदन प्रस्तुत गर्दै जिल्लालाई पूर्ण खोप जिल्ला घोषणा गरिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/kapilvastu-declares-full-vaccination-assurance-for-the-second-time-22-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782828910_purna khop-480x320.jpg"
+    },
+    {
+      "title": "बजेट नसच्याएको भन्दै कर्णाली प्रदेश सभा अवरुद्ध",
+      "summary": "यो सेफ ड्राइभिङ अनलाइन कोर्स हाल सञ्चालनमा आइसकेको छ भने धेरै चालकहरूले कोर्स पूरा गरिसकेका छन्। अब यो कोर्स नेपालभरिका १ लाखभन्दा बढी इनड्राइभ चालकहरूसम्म पुर्‍याउने लक्ष्य राखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/indrive-nepal-launches-safe-driving-online-course-to-empower-driver-partners-74-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782828669_SAFE DRIVING ONLINE COURSE_img-480x320.jpg"
+    },
+    {
+      "title": "विष्णु पौडेल पक्राउ प्रकरण: व्यापारी दीपक भट्ट मुद्दाका कागजात झिकाउन सर्वोच्चको आदेश",
+      "summary": "नेपाल चार्टर्ड एकाउन्टेन्ट्स संस्था (आइक्यान) ले प्रदान गर्ने वार्षिक उत्कृष्ट प्रतिवेदन (बीपीए) अवार्ड अन्तर्गत नबिल बैंकले निजी क्षेत्रको बैंकतर्फको 'गोल्ड अवार्ड' लगातार तेस्रो पटक प्राप्त गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Corporate/nabil-bank-receives-three-prestigious-awards-including-the-gold-award-for-the-third-consecutive-time-86-20.html?click_from=just_in",
       "image_url": ""
     }
   ]
