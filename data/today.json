@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-01T11:30:08.495030",
+  "scraped_at": "2026-07-01T14:51:38.372896",
   "date": "2026-07-01",
-  "total_articles": 42,
+  "total_articles": 47,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -342,6 +342,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/most-petrol-pumps-closed-queues-in-bhadrakali-photo-br-38-32.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "‘भदौ २४ को घटना कम्युनिष्ट कमजोर पार्ने योजनाबद्ध प्रतिक्रान्ति’",
+      "summary": "दाहालले तत्कालीन आन्दोलनका क्रममा देशलाई अस्थिरता र द्वन्द्वतर्फ धकेल्ने प्रयास भएको उल्लेख गर्दै विदेशी शक्तिहरूले नेपाली राजनीतिक परिवर्तनलाई प्रभावित पार्न खोजेको आरोप लगाए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/bhadra-24-incident-is-a-conspiracy-created-by-imperialist-powers-prachanda-63-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782916864_Prachanda Prgm PIC-480x320.jpg"
+    },
+    {
+      "title": "भदौ २४ को घटना साम्राज्यवादी शक्तिले रचेको प्रपञ्च : प्रचण्ड",
+      "summary": "नेकपा (एमाले) का अध्यक्ष केपी शर्मा ओलीले अहिलेको अवस्थामा कम्युनिष्ट पार्टीहरूबीच हतारमा सांगठनिक एकता गर्नुभन्दा विचार मिल्ने शक्तिहरूसँग कार्यगत एकता गरेर अघि बढ्नुपर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/not-immediate-unity-among-communist-parties-but-practical-unity-is-necessary-chairman-oli-br-89-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782643288_oli_-480x320.jpg"
+    },
+    {
+      "title": "ओली भन्छन्- तत्काल पार्टी एकता होइन, कार्यगत एकता आवश्यक",
+      "summary": "स्थानीयस्तरमै रोजगारी सृजना गर्दै युवा विदेश पलायन घटाउने उद्देश्यसहित त्रियुगा नगरपालिकाले ‘रोजगार संवाद कार्यक्रम’ सुरु गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/triyuga-nagar-launches-employment-focused-dialogue-program-80-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782916425_uday-480x320.jpg"
+    },
+    {
+      "title": "बैंककमा मन्त्री चौधरीको कूटनीतिक सक्रियता, यूएन ईस्क्याप र बंगलादेशसँग सहकार्य विस्तारमा जोड",
+      "summary": "प्लस टु’ अध्ययनरत विद्यार्थीहरुलाई लक्षित गर्दै बिहानी इभेन्ट्सले‘फुटसल मेनियाः नेसनल इन्टर हाई स्कुल फुटसल टुर्नामेन्ट’ गर्ने भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/48-teams-to-compete-in-futsal-mania-prize-money-worth-rs-200-000-58-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782916140_Footsal-480x320.jpg"
+    },
+    {
+      "title": "कर्णालीमा जलवायु उत्थानशीलताका लागि नेपाललाई ८.५ मिलियन अमेरिकी डलर अनुदान",
+      "summary": "दाहालले तत्कालीन आन्दोलनका क्रममा देशलाई अस्थिरता र द्वन्द्वतर्फ धकेल्ने प्रयास भएको उल्लेख गर्दै विदेशी शक्तिहरूले नेपाली राजनीतिक परिवर्तनलाई प्रभावित पार्न खोजेको आरोप लगाए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/bhadra-24-incident-is-a-conspiracy-created-by-imperialist-powers-prachanda-63-83.html?click_from=just_in",
       "image_url": ""
     }
   ]
