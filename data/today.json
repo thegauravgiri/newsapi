@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-01T14:51:38.372896",
+  "scraped_at": "2026-07-01T18:04:42.293982",
   "date": "2026-07-01",
-  "total_articles": 47,
+  "total_articles": 51,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -383,6 +383,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/bhadra-24-incident-is-a-conspiracy-created-by-imperialist-powers-prachanda-63-83.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Budget process stalls in four provinces as rifts emerge within ruling coalitions",
+      "summary": "Internal disputes over budget allocations have delayed deliberations in Sudurpaschim, Lumbini, Karnali and Koshi, while Madhesh prepares to begin debate 17 days after unveiling its spending plan.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/01/budget-process-stalls-in-four-provinces-as-rifts-emerge-within-ruling-coalitions",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/img983901720260239131000x0-1782900361.jpg&w=300&height=200"
+    },
+    {
+      "title": "Janakpur High Court sentences former MPs Koiri and Sharma to five years in APF officer murder case",
+      "summary": "The court overturns an earlier acquittal of former federal lawmaker Laxmi Mahato Koiri, while reducing the life sentence previously handed to former provincial lawmaker Abhiram Sharma.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/01/janakpur-high-court-sentences-former-mps-koiri-and-sharma-to-five-years-in-apf-officer-murder-case",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb4-1782919860.jpg&w=300&height=200"
+    },
+    {
+      "title": "सरकारले भन्यो- सरकारी कागजात मोबाइल एपबाट ‘स्क्यान’ नगर्नू",
+      "summary": "दाङको घोराहीमा सिँचाइका लागि बनाइएको ड्याममा पौडी खेल्ने क्रममा डुबेर आज एक बालिकाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/girl-drowns-while-swimming-in-dang-82-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "बालबालिकालाई रुखमा बाँधेर कुटपिट गर्ने चार महिला पक्राउ",
+      "summary": "नेपाल राष्ट्र बैंकले ग्राहक सन्तुष्टि सर्वेक्षण २०८३ सुरु गर्ने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nepal-rastra-bank-conducting-customer-satisfaction-survey-2083-22-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764433240_nrb-480x320.jpg"
     }
   ]
 }
