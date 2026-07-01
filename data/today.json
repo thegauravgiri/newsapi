@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-01T04:44:07.712717",
+  "scraped_at": "2026-07-01T11:30:08.495030",
   "date": "2026-07-01",
-  "total_articles": 34,
+  "total_articles": 42,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -278,6 +278,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/210-000-metric-tons-of-chemical-fertilizers-to-be-imported-by-shrawan-82-11.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ो सुरक्षा र माटोको रक्षाका लागि सुस्ताबासीको क्रन्दन",
+      "summary": "ो सुरक्षा र माटोको रक्षाका लागि सुस्ताबासीको क्रन्दन",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13250",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/susta-bachau-1782879003.jpg"
+    },
+    {
+      "title": "Nagdhunga-Sisnekhola tunnelway completed after 79 months, set to open within weeks",
+      "summary": "Nepal’s first tunnelway is expected to open by mid-July after years of delays, introducing electronic toll collection and cutting travel time.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/01/nagdhunga-sisnekhola-tunnelway-completed-after-79-months-set-to-open-within-weeks",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1782879722.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal on high alert as monsoon intensifies across the country",
+      "summary": "Heavy rainfall is forecast over the next two days, with authorities activating emergency response plans and deploying rescue assets in vulnerable areas.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/01/nepal-on-high-alert-as-monsoon-intensifies-across-the-country",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/armyabhyas01720260824561000x0-1782893386.jpg&w=600&height=400"
+    },
+    {
+      "title": "‘कर्मचारी महोदय’ भइरल भएपछि केपीले भने- जिब्रो हो लट्पटिन्छ, ट्रोल बनाउनेलाई धन्यवाद",
+      "summary": "पेट्रोलियम पदार्थको मूल्य घटेपछि काठमाडौं उपत्यकालगायत अधिकांश स्थानका पेट्रोल पम्पहरू बन्द गरिएको छ। खुला भएका पम्पमा लामो लाइन छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/most-petrol-pumps-closed-queues-in-bhadrakali-photo-br-38-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782905319_Army1-480x320.jpg"
+    },
+    {
+      "title": "बजेट नल्याउने २३ स्थानीय तहसँग मन्त्रालयद्वारा स्पष्टीकरण",
+      "summary": "पोखराको पालिखेचोकस्थित प्रतिभा बिजनेस स्कुलले काठमाडौं विश्वविद्यालय अन्तर्गतको ‘ब्याचलर अफ इन्फरमेसन टेक्नोलोजी’ (बिआइटी) को अध्यापन गराउने भएको छ। पोखरामा सूचना प्रविधिको पहुँच बढाएर नयाँ जनशक्ति उत्पादन गर्नका लागि नयाँ पाठ्यक्रम अध्यापन गराउन थालेको स्कुलले बताएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/bit-will-be-taught-at-pratibha-business-school-66-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1782905090_Prativa Business School News -480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रपतिसँग पाकिस्तानी राजदूतको बिदाइ भेट",
+      "summary": "वीरगन्जमा साइकलमा आँप बिक्री गर्दै हिँडिरहेका एक भारतीय नागरिकलाई प्रहरीले ठूलो परिमाणमा लागूऔषध ब्राउन सुगरसहित पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/indian-youth-arrested-with-brown-sugar-while-selling-mangoes-in-birgunj-84-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756829024_pakrau-480x320.jpg"
+    },
+    {
+      "title": "सभामुख अर्यालसँग साउदी राजदूतको भेट",
+      "summary": "प्रतिनिधिसभा बैठकमा सभामुखलाई ‘कर्मचारी महोदय’ भनेर सम्बोधन गरेपछि चर्चामा रहेका राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सांसद केपी खनालले मानवीय त्रुटिका कारण शब्द चिप्लिएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/after-employee-sir-went-viral-kp-said-it-s-tongue-tied-thank-you-to-the-trolls-br-25-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781250465_KP Khanal (1)-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको अनुशासन आयोगमा लेखनाथ पौडेल नियुक्त, बाँकी मनोनयनको जिम्मा सभापति लामिछानेलाई",
+      "summary": "पेट्रोलियम पदार्थको मूल्य घटेपछि काठमाडौं उपत्यकालगायत अधिकांश स्थानका पेट्रोल पम्पहरू बन्द गरिएको छ। खुला भएका पम्पमा लामो लाइन छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/most-petrol-pumps-closed-queues-in-bhadrakali-photo-br-38-32.html?click_from=just_in",
       "image_url": ""
     }
   ]
