@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-02T04:11:01.689233",
+  "scraped_at": "2026-07-02T10:48:12.831346",
   "date": "2026-07-02",
-  "total_articles": 33,
+  "total_articles": 44,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -270,6 +270,94 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/house-of-representatives-meeting-underway-here-is-the-agenda-16-94.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "र्थ बैंक १८औं काठमाडौं म्याराथन आउन १०० दिन बाँकी, तयारी तीव्र",
+      "summary": "र्थ बैंक १८औं काठमाडौं म्याराथन आउन १०० दिन बाँकी, तयारी तीव्र",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13256",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/myarathan-1782985141.jpg"
+    },
+    {
+      "title": "नेपाली बजारमा ल्यायो किफायती ‘Essential Series’ घरेलु उपकरण",
+      "summary": "नेपाली बजारमा ल्यायो किफायती ‘Essential Series’ घरेलु उपकरण",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13251",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/WhatsApp-Image-2026-06-29-at-5.36.32-PM-1782897441.JPEG"
+    },
+    {
+      "title": "Police say TikTok personality “Nepali Bro” planned wife’s murder over affair",
+      "summary": "Investigation concludes Kumar Thapa Magar killed senior Nepali Army warrant officer Ishwori Bhujel after escalating marital disputes linked to his relationship with Pratikshya Acharya. Both have been charged with murder.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/02/police-say-tiktok-personality-nepali-bro-planned-wife-s-murder-over-affair",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/kumarthapanepalibro06620260541551000x0-1782974498.jpg&w=300&height=200"
+    },
+    {
+      "title": "Sub-engineer beaten after objecting to poor-quality road work in Bhojpur",
+      "summary": "Police detain six labourers after Anand Kumar Sah was attacked during a site inspection when he questioned the quality of an under-construction retaining wall.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/02/sub-engineer-beaten-after-objecting-to-poor-quality-road-work-in-bhojpur",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/third-party/engeenear02720260756541000x0-1782978786.jpg&w=300&height=200"
+    },
+    {
+      "title": "A passenger rescued unconscious after Karnali river microbus plunge",
+      "summary": "The vehicle travelling from Surkhet to Kalikot plunged around 400 metres from Karnali Highway, prompting a rescue operation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/02/a-passenger-rescued-unconscious-after-karnali-river-microbus-plunge",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/dailekhdurghatana02720260955561000x0-1782980773.jpg&w=600&height=400"
+    },
+    {
+      "title": "BOOKTALK: Writing from memory, writing for tomorrow",
+      "summary": "While stricter rules are necessary to save lives, they must be equitable and align with the nation’s reality.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/07/02/writing-from-memory-writing-for-tomorrow",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1782984475.jpg&w=400&height=267"
+    },
+    {
+      "title": "एन्फालाई राजनीतिक भर्ती केन्द्र र भ्रष्टाचारको अखडा हुन दिँदैनौं: खेलकुदमन्त्री",
+      "summary": "जितको खुसीयाली मनाउने क्रममा भएको अत्यधिक भीडका कारण १९ वर्षीया युवतीसहित चार जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/the-pain-caused-by-celebrating-four-people-died-while-celebrating-victory-78-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782988899_World_Cup1-480x320.jpg"
+    },
+    {
+      "title": "रणनीतिक बैठकको तयारीमा कांग्रेसको इत्तरसमूह",
+      "summary": "सरकारले अखिल नेपाल फुटबल सङ्घ (एन्फा) मा व्याप्त बेथिति र भ्रष्टाचार अन्त्य गर्दै यसलाई पूर्वखेलाडी तथा खेलप्रेमीहरूको नेतृत्वमा अघि बढाउने प्रतिबद्धता व्यक्त गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-will-not-allow-anfa-to-become-a-political-recruitment-center-and-a-breeding-ground-for-corruption-sports-minister-60-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782382867_anfa-480x320.jpg"
+    },
+    {
+      "title": "यी हुन् मन्त्रिपरिषद् बैठकका निर्णयहरू (सूचीसहित)",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले इटालीकी प्रधानमन्त्री जर्जिया मेलोनीमाथि सार्वजनिक रूपमा आलोचना गरेपछि त्यसको उल्टो प्रभाव देखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/europe-unites-against-trump-s-attack-on-meloni-95-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782987814_trump meloni-480x320.jpg"
+    },
+    {
+      "title": "सम्पत्ति शुद्धीकरण निवारण विधेयक बहुमतले पारित",
+      "summary": "नेपाली कांग्रेसका निवर्तमान कार्यवाहक सभापति पूर्णबहादुर खड्काले संस्थापनइतर समूहको रणनीतिक बैठक बोलाएका छन्। बैठक शुक्रबार उनका निवासमा बस्ने तय भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-s-executive-committee-prepares-for-strategic-meeting-68-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777258589_Purna Khadka-480x320.jpg"
+    },
+    {
+      "title": "कोशी प्रदेश सभाको बैठक लगातार तीन दिन स्थगित",
+      "summary": "जितको खुसीयाली मनाउने क्रममा भएको अत्यधिक भीडका कारण १९ वर्षीया युवतीसहित चार जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/the-pain-caused-by-celebrating-four-people-died-while-celebrating-victory-78-47.html?click_from=just_in",
       "image_url": ""
     }
   ]
