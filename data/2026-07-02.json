@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-02T10:48:12.831346",
+  "scraped_at": "2026-07-02T14:21:34.672014",
   "date": "2026-07-02",
-  "total_articles": 44,
+  "total_articles": 50,
   "sources": [
-    "KathmanduPost",
+    "NagarikNews",
     "News24",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -359,6 +359,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/the-pain-caused-by-celebrating-four-people-died-while-celebrating-victory-78-47.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Nepal cracks down on vehicles with illegal tinted windows",
+      "summary": "Police say dark window films obstruct surveillance and aid crime.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/valley/2026/07/02/nepal-cracks-down-on-illegal-tinted-vehicle-windows",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/blackstriker02720261021421000x0-1782987413.png&w=300&height=200"
+    },
+    {
+      "title": "Quality certification helps Nepali tile maker challenge imports",
+      "summary": "Lumbini Ceramics, manufacturer of the flagship tile brands Laminar and Cresta, says it has captured a quarter of Nepal's tile market in two years, with Nepal Standard certification boosting consumer confidence and supporting import substitution.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/02/quality-certification-helps-nepali-tile-maker-challenge-imports",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/tilesmain-1782989060.jpg&w=300&height=200"
+    },
+    {
+      "title": "Electrification cannot come at the cost of lives",
+      "summary": "Personal accounts and expert views show how parental separation significantly affects childhood, mental health, and family stability.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/editorial/2026/07/01/damaging-power",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/watertank-1783002053.jpg&w=400&height=267"
+    },
+    {
+      "title": "विष्णु पौडेलको बन्दीप्रत्यक्षीकरण रिट सर्वोच्चद्वारा खारेज",
+      "summary": "सदरमुकाम गौरमा शान्ति सुरक्षालाई थप प्रभावकारी बनाउन र अवाञ्छित गतिविधि नियन्त्रण गर्न रौतहट प्रहरीले पहिलोपटक ड्रोन प्रविधिमार्फत निगरानी सुरु गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/drone-patrols-in-rautahat-monitoring-disorderly-activities-from-the-sky-br-82-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783001286_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "स्वदेशमै रोजगार सिर्जना गर्छाैं: श्रममन्त्री यादव",
+      "summary": "असार महिना ‘माना रोपेर मुरी उब्जाउने समय’ हो । असार १५ सँगै किसान रोपाइँमा जुटिरहेका छन् । तर पहिला जस्तो रोपाइँमा असारे भाकाको रौनक भने छैन ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-asare-bhaka-has-left-its-echoes-26-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783001589_Ropai11-480x320.jpg"
+    },
+    {
+      "title": "सिआईबीको नेतृत्व उमाप्रसाद चतुर्वेदीलाई",
+      "summary": "चियाका लागि प्रख्यात नेपाल पछिल्लो समय कफीको हब बन्दै गएको छ। चिया उत्पादन मात्रै होइन, उपभोगका लागि पनि अगाडि रहेको नेपाल पछिल्लो समय कफीका लागि पनि प्रख्यात बन्दै गएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nepali-habit-drinking-cheap-coffee-selling-it-expensively-21-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783001079_coffee-480x320.jpg"
     }
   ]
 }
