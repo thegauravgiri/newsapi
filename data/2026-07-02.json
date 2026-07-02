@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-07-02T14:21:34.672014",
+  "scraped_at": "2026-07-02T17:57:38.247025",
   "date": "2026-07-02",
-  "total_articles": 50,
+  "total_articles": 54,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -407,6 +407,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/nepali-habit-drinking-cheap-coffee-selling-it-expensively-21-55.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783001079_coffee-480x320.jpg"
+    },
+    {
+      "title": "Nepal returns to global ICT Index but digital use still lags infrastructure growth",
+      "summary": "The report highlights a wide gap between the availability of digital infrastructure in the country and how effectively people use it.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/science-technology/2026/07/02/nepal-returns-to-global-ict-index-but-digital-use-still-lags-infrastructure-growth",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/AIgenreatedimage-1783004853.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal updates water tank standards to keep up with new manufacturing technology",
+      "summary": "Revised draft sets stricter quality, material and testing requirements for polyethylene water storage tanks, while manufacturers urge the government to make compliance mandatory.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/02/nepal-updates-water-tank-standards-to-keep-up-with-new-manufacturing-technology",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/watertank-1783002053.jpg&w=300&height=200"
+    },
+    {
+      "title": "वीरगन्जलाई उजाडिनबाट बचाइदिन रवि समक्ष पीडितको आग्रह",
+      "summary": "वीरगन्जको मुख्य सडक विस्तारका क्रममा घर र सटर भत्काइएका पीडितहरूले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेलाई भेटेर आफ्नो समस्या समाधानका लागि पहल गरिदिन आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/birgunj-s-main-road-victims-meet-with-rsp-president-11-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783009671_4-480x320.jpg"
+    },
+    {
+      "title": "अब को हुँदैछन् मुख्यसचिव ?",
+      "summary": "आज काठमाडौंसहित विभिन्न जिल्लामा भारी वर्षा भएको छ । पछिल्लो २४ घण्टामा सबैभन्दा बढी कञ्चनपुरको दोधारा-चाँदनीमा १७५ मिलिमिटर वर्षा भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/how-much-rain-fell-where-when-kathmandu-was-submerged-96-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783008669_bag (2)-480x320.jpg"
     }
   ]
 }
