@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-03T10:45:35.097366",
+  "scraped_at": "2026-07-03T14:25:40.667588",
   "date": "2026-07-03",
-  "total_articles": 45,
+  "total_articles": 50,
   "sources": [
-    "KathmanduPost",
+    "News24",
     "NagarikNews",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -366,6 +366,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/the-division-of-labor-is-inconsistent-and-the-person-centered-plan-is-not-implemented-23-51.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "रास्वपा सभापति रवि भन्छन्: प्रदेश संरचनालाई थप प्रभावकारी बनाउन खुला बहस गरौँ",
+      "summary": "वैदेशिक भ्रमण तथा अन्तर्राष्ट्रिय सहभागितामा अवरोध नगर्न अन्तरिम आदेश जारी गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/patan-high-court-issues-interim-order-not-to-stop-anfa-officials-from-traveling-abroad-36-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774228628_ANFA LOGO-480x320.jpg"
+    },
+    {
+      "title": "संघीय मामिलाको सय दिनमा ४८ उपलब्धि (सूचीसहित)",
+      "summary": "प्रदेश संरचनालाई थप प्रभावकारी बनाउने विषयमा खुला बहस आवश्यक रहेको बताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsp-president-ravi-says-let-s-have-an-open-debate-to-make-the-provincial-structure-more-effective-54-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782484950_Rabi Sapath-480x320.jpg"
+    },
+    {
+      "title": "देउवा समूह सक्रिय : सम्पर्क कार्यालय उद्घाटनसँगै राष्ट्रिय भेलाको तयारी",
+      "summary": "मन्त्री प्रतिभा रावलले १०० दिनको अवधिमा मन्त्रालयले प्रशासनिक सुधार, सेवा प्रवाह, भूमि व्यवस्थापन, सहकारी क्षेत्र सुधार, डिजिटल प्रणाली विस्तार तथा सुशासन प्रवर्द्धनका क्षेत्रमा उल्लेखनीय कामहरू सार्वजनिक गरेकी हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/48-achievements-in-100-days-of-federal-affairs-with-list-52-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777462685_Pratibha Rawal-480x320.jpg"
+    },
+    {
+      "title": "विद्यार्थीलाई नेमकिपा अध्यक्ष बिचुक्छेंको आग्रहः तत्कालको फाइदाभन्दा माथि उठेर काम गर्नुहोस्",
+      "summary": "स्वास्थ्य तथा खाद्य स्वच्छता मन्त्री निशा मेहताको निर्देशनअनुसार सहुलियत दरमा गुणस्तरीय औषधि उपलब्ध गराउने उद्देश्यले उक्त सेवा सुरु गरिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/sulabh-pharmacy-to-be-launched-at-narayani-hospital-in-birgunj-70-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783087040_Narayani Hospital-480x320.jpg"
+    },
+    {
+      "title": "प्रमुख निर्वाचन आयुक्तमा मानबहादुर कार्की सिफारिस",
+      "summary": "वैदेशिक भ्रमण तथा अन्तर्राष्ट्रिय सहभागितामा अवरोध नगर्न अन्तरिम आदेश जारी गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/patan-high-court-issues-interim-order-not-to-stop-anfa-officials-from-traveling-abroad-36-48.html?click_from=just_in",
       "image_url": ""
     }
   ]
