@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-03T14:25:40.667588",
+  "scraped_at": "2026-07-03T17:40:37.407349",
   "date": "2026-07-03",
-  "total_articles": 51,
+  "total_articles": 54,
   "sources": [
-    "News24",
+    "KathmanduPost",
     "NagarikNews",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -415,6 +415,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/patan-high-court-issues-interim-order-not-to-stop-anfa-officials-from-traveling-abroad-36-48.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "‘Action-oriented’ home minister’s first 100 days test procedural limits",
+      "summary": "Amid high-profile arrests and pledges of police reform, Sudan Gurung’s push for rapid action has raised questions about due process and institutional safeguards.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/03/action-oriented-home-minister-s-first-100-days-test-procedural-limits",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1783088093.png&w=300&height=200"
+    },
+    {
+      "title": "मन्त्रीहरूले धमाधम नियुक्त गर्न थाले सल्लाहकार सचिव, कुन सचिव शक्तिशाली ?",
+      "summary": "बजेट संशोधन नगरेसम्म बजेटमाथिको छलफल हुन नदिने अडान लिँदै विपक्षी दलहरूले बैठक अवरुद्ध गरेपछि प्रदेशसभा बैठक अनिश्चितकालका लागि स्थगित भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/budget-dispute-flares-up-in-madhes-provincial-assembly-discussion-uncertain-due-to-opposition-obstruction-95-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782917579_Madesh-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा सांसद खत्रीको प्रश्न : निलो रङ रास्वपाको दाइजो हो र ?",
+      "summary": "यसले नेपालको बाह्य छवि र प्रतिष्ठामा समेत प्रभाव परेको विज्ञहरू बताउँछन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/has-the-issue-of-purchasing-e-passports-affected-nepal-s-international-image-68-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783094058_Passport-480x320.jpg"
     }
   ]
 }
