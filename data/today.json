@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-07-03T07:31:08.753894",
+  "scraped_at": "2026-07-03T10:45:35.097366",
   "date": "2026-07-03",
-  "total_articles": 40,
+  "total_articles": 46,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -327,6 +327,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/education/change-in-the-thinking-of-school-students-25-83.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783062558_student-480x320.jpg"
+    },
+    {
+      "title": "Six years after Bhuji disaster, survivors still await homes and safety",
+      "summary": "As this year's monsoon revives fears of fresh disasters, many families remain without permanent housing, damaged infrastructure has yet to be restored, and authorities have failed to relocate settlements in high-risk areas.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/03/six-years-after-bhuji-disaster-survivors-still-await-homes-and-safety",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/money/Bhujiriverlandslide-1783069817.jpg&w=300&height=200"
+    },
+    {
+      "title": "कार्यविभाजन विपरीत र व्यक्ति–केन्द्रित योजना कार्यान्वयन नहुने",
+      "summary": "बजेट सीमा नाघ्ने नयाँ योजनालाई रोक्दै क्रमागत तथा अधुरा आयोजना मात्र अघि बढाइने निर्णय गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-division-of-labor-is-inconsistent-and-the-person-centered-plan-is-not-implemented-23-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777359107_Karnali-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय सभामा ६ विधेयक टेबुल",
+      "summary": "चालु आव २०८२/८३ को असार १७ गतेसम्मको विवरणअनुसार सो अदालतमा अब तीन हजार ५३३ मुद्दा फछ्र्यौट हुन बाँकी रहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rupandehi-court-4-109-cases-resolved-br-58-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783072630_rupandehi-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको डिजिटल प्लेटफर्म सार्वजनिक, सांसदलाई प्रविधिमैत्री कार्यप्रणालीबारे अभिमुखीकरण",
+      "summary": "पक्राउ पर्नेमा मकवानपुरको बागमती गाउँपालिका–५ निवासी २५ वर्षीय शिशिर परियार रहेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/prisoner-in-theft-case-who-escaped-during-genji-movement-arrested-21-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782487226_1767683851_Pakrau-1200x560-480x320.jpg"
+    },
+    {
+      "title": "सरकारका १०० दिन : डिजिटल सेवा विस्तारदेखि अलपत्र आयोजनाको सञ्चालनसम्म",
+      "summary": "राष्ट्रिय सभाको बैठकमा विभिन्न ६ विधेयक टेबुल गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/6-bills-tabled-in-national-assembly-br-59-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783072088_New Project (10)-480x320.jpg"
+    },
+    {
+      "title": "कोशीमा बजेट विवादको असर सत्ता गठबन्धनसम्म",
+      "summary": "बजेट सीमा नाघ्ने नयाँ योजनालाई रोक्दै क्रमागत तथा अधुरा आयोजना मात्र अघि बढाइने निर्णय गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-division-of-labor-is-inconsistent-and-the-person-centered-plan-is-not-implemented-23-51.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
