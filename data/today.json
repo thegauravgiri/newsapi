@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-03T03:57:46.244636",
+  "scraped_at": "2026-07-03T07:31:08.753894",
   "date": "2026-07-03",
-  "total_articles": 34,
+  "total_articles": 40,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -279,6 +279,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/melamchi-water-supply-shuts-down-11-38.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Nepal’s courts embrace AI, keep judgment writing human",
+      "summary": "A new policy adopted by the Supreme Court permits artificial intelligence in legal research, case management and administrative work, but prohibits its use in judgments, writ petitions or other decisions requiring judicial discretion.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/03/nepal-s-courts-embrace-ai-keep-judgment-writing-human",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/anchornew1783043539-1783051308.png&w=300&height=200"
+    },
+    {
+      "title": "Madhesh parties oppose RSP’s proposal to scrap provincial assemblies",
+      "summary": "Seek clarity from RSP and government, saying proposal would undermine federal structure.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/07/03/madhesh-parties-oppose-rsp-s-proposal-to-scrap-provincial-assemblies",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/third-party/madhesh03720260345281000x0-1783050006.png&w=300&height=200"
+    },
+    {
+      "title": "Priority lending is dragging down Nepali banks into huge bad debt",
+      "summary": "Agriculture, construction, and deprived-sector lending lead the default wave.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/03/priority-lending-is-dragging-down-nepali-banks-into-huge-bad-debt",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1783038727.jpg&w=300&height=200"
+    },
+    {
+      "title": "सरकारले पुरानो शैली भत्काउने प्रयास गरेको छ,अझै केही समय दिनुपर्छ : बाबुराम भट्टराई",
+      "summary": "संयुक्त राष्ट्रसङ्घको विश्व मौसम विज्ञान सङ्गठन (डब्लुएमओ) ले एल निनो आगामी केही महिनाभित्र तीव्र रूपमा बलियो हुने चेतावनी दिँदै विश्वका धेरै क्षेत्रमा खडेरी, अत्यधिक वर्षा, गर्मीको लहर तथा अन्य चरम मौसमीय घटनाको जोखिम उल्लेखनीय रूपमा बढ्ने जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/el-nino-intensifies-increasing-risk-of-extreme-weather-89-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783063391_elnino-480x320.jpg"
+    },
+    {
+      "title": "स्थानीय तहमा गैरदलीय उम्मेदवारबिच प्रतिस्पर्धा गराउने प्रस्ताव : लोकतन्त्रको मर्मविपरीत",
+      "summary": "फिफा विश्वकप फुटबल प्रतियोगिता नकआउट चरणमा प्रवेश गरेपछि हालसम्म देखिएको नतिजाले कुनै पनि टिम सुरक्षित नरहेको स्पष्ट सङ्केत देखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/a-world-cup-where-no-team-is-safe-37-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783063615_New Project (7)-480x320.jpg"
+    },
+    {
+      "title": "सरकारले २० घण्टा बितिसक्दा पनि कर्णालीमा बेपत्ता नागरिकको उद्धार गर्न सकेन : शाही",
+      "summary": "ललितपुरको लूभूस्थित महालक्ष्मी माध्यमिक विद्यालयमा पहिले छात्र (केटा)हरू महिनावारीका विषयमा कुरा गर्न लजाउँथे। अहिले उनीहरू महिनावारीलाई प्राकृतिक प्रक्रिया हो भनेर बुझाउन सक्ने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/change-in-the-thinking-of-school-students-25-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783062558_student-480x320.jpg"
     }
   ]
 }
