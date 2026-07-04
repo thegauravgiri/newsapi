@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-04T03:51:11.702189",
+  "scraped_at": "2026-07-04T06:53:22.458861",
   "date": "2026-07-04",
-  "total_articles": 33,
+  "total_articles": 36,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -271,6 +271,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/new-system-being-implemented-passport-services-to-be-closed-for-a-few-days-91-93.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "हुलाकलाई ‘सरकारी कुरियर सेवा’का रूपमा विकास गर्न सरकार सफल",
+      "summary": "पूर्वाधार विकास कार्यालय मुस्ताङबाट कार्यान्वयनमा आएको घरपझोङ चक्रपथ सडक आयोजना सात वर्षमा निर्माण सम्पन्न भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/construction-of-ring-road-in-gharpajhong-completed-traffic-eased-br-21-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783147473_20 0-480x320.jpg"
+    },
+    {
+      "title": "पपुलिजमका भरमा सत्तामा पुगेपछि सुशासन दिनुपर्छ : शंकर पोखरेल",
+      "summary": "हुलाक सेवालाई पुनर्जीवन दिँदै आधुनिक, प्रविधिमैत्री र नागरिकमैत्री सेवाका रूपमा विकास गर्ने अभियानमा सरकार सफल देखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/100-days-of-government-government-succeeds-in-developing-postal-services-as-government-courier-service-br-12-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783146931_hulak-480x320.jpg"
+    },
+    {
+      "title": "‘ब्लु बस’ योजनामा कुलमान : रङ परिवर्तनभन्दा सोच परिवर्तन आवश्यक छ",
+      "summary": "महालेखा नियन्त्रक कार्यालयले सेवानिवृत्त हुने राष्ट्रसेवक कर्मचारीको असार २५ गतेसम्म सुविधाबापतको रकम निकासा गरी भुक्तानी गर्न/गराउनका लागि सबै कोष तथा लेखा नियन्त्रक कार्यालयलाई निर्देशन दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/retired-civil-servants-will-receive-payment-by-ashar-25-91-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1731903535_mahalekha-1200x560-480x320.jpg"
     }
   ]
 }
