@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-04T06:53:22.458861",
+  "scraped_at": "2026-07-04T10:19:39.829621",
   "date": "2026-07-04",
-  "total_articles": 36,
+  "total_articles": 43,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -295,6 +295,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/retired-civil-servants-will-receive-payment-by-ashar-25-91-39.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1731903535_mahalekha-1200x560-480x320.jpg"
+    },
+    {
+      "title": "Nepse records modest gain as banking stocks lift market despite weak trading",
+      "summary": "Market capitalisation adds Rs 20 billion despite lower turnover, while analysts say investors remained cautious amid ongoing investigations and loan repayment pressures.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/04/nepse-records-modest-gain-as-banking-stocks-lift-market-despite-weak-trading",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Nepsebarchart-1783142932.jpg&w=300&height=200"
+    },
+    {
+      "title": "In 100 days, RSP government delivers just a third of planned actions",
+      "summary": "Data show Prime Minister Shah’s administration has met key targets on digital governance and anti-corruption, but nearly two-thirds of its 100-point agenda remains unimplemented or on paper.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/04/in-100-days-rsp-government-delivers-just-a-third-of-planned-actions",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/third-party/PMBalendraShah-1783129271.jpg&w=300&height=200"
+    },
+    {
+      "title": "एमाले अध्यक्ष ओली भन्छन्: समृद्ध नेपालका लागि संघर्ष र त्याग आवश्यक",
+      "summary": "आरोग्य पर्यटन रणनीति स्वीकृत भए पनि नयाँ गन्तव्य विकास, उड्डयन सुधार र पूर्वाधार विस्तारमा अपेक्षित गति आउन सकेन",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/100-days-of-the-ministry-of-tourism-policy-progressed-implementation-still-a-challenge-26-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783159423_Paryatan111-480x320.jpg"
+    },
+    {
+      "title": "नेपाललाई ‘ग्रे लिस्ट’ बाट हटाउन सरकार प्रतिबद्ध छ: अर्थमन्त्री",
+      "summary": "तनहुँको आँबुखैरेनी र चितवन जोड्ने त्रिशूली नदीमाथि दुई वटा झोलुङ्गे पुल निर्माणका लागि एक करोड बजेट विनियोजन भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/blog/10-million-budget-allocated-for-construction-of-suspension-bridge-29-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783159580_khola-480x320.jpg"
+    },
+    {
+      "title": "बागमती प्रदेश: बजेटका पक्षमा मतदान गर्न ‘ह्विप’ जारी",
+      "summary": "नेकपा (एमाले) का अध्यक्ष केपी शर्मा ओलीले आफूहरुले समृद्ध नेपाल र सुखी नेपाली बनाउन चाहेको बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-chairman-oli-says-struggle-and-sacrifice-are-necessary-for-a-prosperous-nepal-13-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780471139_kp oli-480x320.jpg"
+    },
+    {
+      "title": "भूमि व्यवस्था मन्त्रालयका यस्ता छन् सय दिनका उपलब्धि",
+      "summary": "अर्थमन्त्री डा. स्वर्णिम वाग्लेले सरकार मुलुकलाई फाइनान्सिएल एक्सन टास्क फोर्स (एफएटिए) को ‘ग्रे लिस्ट’ बाट हटाउन प्रतिबद्धताका साथ लागेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-committed-to-removing-country-from-fatf-s-grey-list-finance-minister-51-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775483573_swarnim-480x320.jpg"
+    },
+    {
+      "title": "पूर्वाधारमन्त्री लम्साल कोरला सडकको निरीक्षणमा",
+      "summary": "आरोग्य पर्यटन रणनीति स्वीकृत भए पनि नयाँ गन्तव्य विकास, उड्डयन सुधार र पूर्वाधार विस्तारमा अपेक्षित गति आउन सकेन",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/100-days-of-the-ministry-of-tourism-policy-progressed-implementation-still-a-challenge-26-31.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
