@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-07-04T10:19:39.829621",
+  "scraped_at": "2026-07-04T13:50:26.434327",
   "date": "2026-07-04",
-  "total_articles": 43,
+  "total_articles": 49,
   "sources": [
-    "KathmanduPost",
     "News24",
+    "KathmanduPost",
     "NagarikNews"
   ],
   "articles": [
@@ -350,6 +350,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/100-days-of-the-ministry-of-tourism-policy-progressed-implementation-still-a-challenge-26-31.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Balendra Shah government’s first 100 days raise press freedom concerns",
+      "summary": "Media groups point to ministerial warnings, online intimidation, a disputed advertising policy and court rulings as evidence of growing pressure on the press.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/04/balendra-shah-government-s-first-100-days-raise-press-freedom-concerns",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/nfj03720260149351000x0-1783155884.jpg&w=300&height=200"
+    },
+    {
+      "title": "प्रेस स्वतन्त्रताप्रति प्रदेश सरकार प्रतिबद्ध: मुख्यमन्त्री पाण्डे",
+      "summary": "अवैध लागूऔषध सहित प्रहरीले देशका विभिन्न स्थानबाट १७ जनालाई पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/17-people-arrested-from-various-places-with-drugs-from-10-districts-with-names-15-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755793803_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "सय दिनमा नीतिगत सुधारमा अपेक्षाकृत नतिजा प्राप्त भयो: मुख्यसचिव अर्याल",
+      "summary": "कर्णाली प्रदेशको राजधानी वीरेन्द्रनगरमा ‘कर्णाली कप रेटिङ्ग बुद्धिचाल प्रतियोगिता–२०२६’ सुरु भएको छ। कर्णाली प्रदेश बुद्धिचाल संघको आयोजनामा सुरु भएको तीनदिने प्रतियोगिता असार २० देखि २२ गतेसम्म सञ्चालन भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/karnali-cup-rating-intelligence-competition-2026-begins-in-birendranagar-16-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783171716_budhi_chal-480x320.jpg"
+    },
+    {
+      "title": "सरकारको सय दिन : १६ मुलुकसँग श्रम सम्झौताको तयारी, वैदेशिक रोजगारी रोक्न नसकिने तर्क",
+      "summary": "गण्डकी प्रदेश सरकारका मुख्यमन्त्री सुरेन्द्रराज पाण्डेले प्रेस तथा अभिव्यक्ति स्वतन्त्रताप्रति प्रदेश सरकार प्रतिबद्ध रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/provincial-government-committed-to-press-freedom-10-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783171289_surendra-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले भन्यो: सरकारको १०० बुँदे कार्यसूची कार्यान्वयन कमजोर",
+      "summary": "नेपाल सरकारका मुख्यसचिव सुमनराज अर्यालले वर्तमान सरकारले एक सय दिनको अवधिमा संस्थागत र नीतिगत सुधारमा अपेक्षाकृत नतिजा हासिल गरेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/expected-results-have-been-achieved-in-policy-reforms-in-100-days-chief-secretary-aryal-br-91-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783170966_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "कर्मचारी संगठनलाई आन्दोलन गर्न किन उक्साउँदैछन् गण्डकीका मुख्यमन्त्री",
+      "summary": "अवैध लागूऔषध सहित प्रहरीले देशका विभिन्न स्थानबाट १७ जनालाई पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/17-people-arrested-from-various-places-with-drugs-from-10-districts-with-names-15-53.html?click_from=just_in",
       "image_url": ""
     }
   ]
