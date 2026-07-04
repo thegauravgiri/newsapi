@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-04T13:50:26.434327",
+  "scraped_at": "2026-07-04T17:14:19.192032",
   "date": "2026-07-04",
-  "total_articles": 50,
+  "total_articles": 56,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -406,6 +406,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/17-people-arrested-from-various-places-with-drugs-from-10-districts-with-names-15-53.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "In 100 days, finance minister unable to give fillip to the economy, restore private sector confidence",
+      "summary": "Economists credit the government for initiating reforms, but say implementation has lagged and the economy has yet to show meaningful signs of recovery.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/04/in-100-days-finance-minister-unable-to-give-fillip-to-the-economy-restore-private-sector-confidence",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/SWARNIMWAGLEPOSTPHOTO-1783170472.jpg&w=300&height=200"
+    },
+    {
+      "title": "‘हामी विरुद्ध गलत प्रचार भयो’",
+      "summary": "अहिले पनि काठमाडौं, बझाङ, पर्वत, सिन्धुपाल्चोकलगायत जिल्लामा वर्षा भइरहेकै छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/torrential-rains-in-various-areas-including-kathmandu-47-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774004021_Rain9-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय सभामा मन्त्री रावलको जवाफ: बचत फिर्ता गराउनकै लागि कानुनी गाँठा फुकाउन पर्ने भएकाले संशोधन ल्यायौँ",
+      "summary": "केपी ओलीले आफू र पार्टी विरुद्ध गलत प्रचार भइरहेको बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/there-was-false-propaganda-against-us-38-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774520113_KP-480x320.jpg"
+    },
+    {
+      "title": "बढी पीडितलाई राहत दिन सांसदको माग",
+      "summary": "इन्धनको मूल्य घटेको प्रभाव उपभोग्य वस्तु तथा सेवाको मूल्यमा पनि देखिनुपर्ने भन्दै व्यवसायीलाई मूल्य समायोजन गर्न आग्रह गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/government-urges-to-reduce-market-prices-as-fuel-prices-fall-38-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782909992_Gauri Mahato-480x320.jpg"
+    },
+    {
+      "title": "मन्त्री बादीको १०० दिन : के के भए काम ?",
+      "summary": "मन्त्री प्रतिभा रावलले सहकारी पीडितको बचत रकम यथाशीघ्र फिर्ता गराउने उद्देश्यका साथ सहकारी ऐन संशोधन गरिएको बताएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/minister-rawal-s-response-in-the-national-assembly-we-brought-the-amendment-because-we-need-to-untie-the-legal-knot-to-get-the-savings-back-25-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775559451_Pratibha Rawal-480x320.jpg"
+    },
+    {
+      "title": "मोरङ प्रशासनलाई गृहमन्त्रीको निर्देशन- कागज बोकेर सेवाग्राही होइन, कर्मचारी कुद्नुपर्‍यो",
+      "summary": "अहिले पनि काठमाडौं, बझाङ, पर्वत, सिन्धुपाल्चोकलगायत जिल्लामा वर्षा भइरहेकै छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/torrential-rains-in-various-areas-including-kathmandu-47-69.html?click_from=just_in",
       "image_url": ""
     }
   ]
