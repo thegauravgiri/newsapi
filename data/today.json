@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-05T04:10:00.353648",
+  "scraped_at": "2026-07-05T10:23:53.667743",
   "date": "2026-07-05",
-  "total_articles": 34,
+  "total_articles": 43,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -278,6 +278,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/aamir-khan-is-getting-married-to-gauri-today-at-the-age-of-61-77-89.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Minister’s actions kicked up a lot of dust in the education sector, clear picture yet to emerge",
+      "summary": "Sasmit Pokharel’s tenure has seen faster exam results, policy moves and curriculum reforms, but critics say weak coordination, contested decisions and limited progress on structural change marked his 100 days.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/05/minister-s-actions-kicked-up-a-lot-of-dust-in-the-education-sector-clear-picture-yet-to-emerge",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1783213168.jpg&w=300&height=200"
+    },
+    {
+      "title": "BP Highway reconstruction continues as flood damage repairs drag on",
+      "summary": "Vehicles are currently running through diversions, with authorities continuing slope protection and embankment on new track.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/05/bp-highway-reconstruction-continues-as-flood-damage-repairs-drag-on",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/bphighway1783215874-1783225360.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal brings social media, AI advertising under new national policy",
+      "summary": "The National Advertising Policy 2026 introduces regulation for influencer marketing, sponsored content and AI-generated ads, while tightening oversight across digital platforms.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/05/nepal-brings-social-media-ai-advertising-under-new-national-policy",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/ai1783215874-1783224238.jpg&w=300&height=200"
+    },
+    {
+      "title": "In his first sitting with a foreign official, Prime Minister Shah to meet ADB president",
+      "summary": "Shah, who had been avoiding one-on-one meetings with foreign officials, has a meeting with ADB President Kanda on Tuesday.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/05/in-his-first-sitting-with-a-foreign-official-prime-minister-shah-to-meet-adb-president",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/ADB-1783213413.jpg&w=600&height=400"
+    },
+    {
+      "title": "इतिहासमै पहिलो पटक मुख्यमन्त्रीले बजेट बिग्रियो भनेर घोषणा गरे : नेता आङ्वो",
+      "summary": "दुर्घटनामा एकजनाको मृत्यु भएको र केही सङ्ख्यामा घाइते भएको स्थानीयको भनाइ उल्लेख गर्दै प्रहरीले जानकारी दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jit-accident-in-dolpa-one-dead-several-injured-update-65-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771124570_1764911820_1649837678_accident-1200x560-1200x560 (1)-480x320.jpg"
+    },
+    {
+      "title": "२० वर्षमा आधा मात्र बनेको ५२ अर्बको सिक्टामा मन्त्रीको चासो",
+      "summary": "नेता आङ्वोले कोशी प्रदेशका मुख्यमन्त्री हिक्मतकुमार कार्कीले इतिहासमै पहिलो पटक आफैले ल्याएको बजेट बिग्रियो भनेर घोषणा गरेको बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/for-the-first-time-in-history-a-chief-minister-announced-that-the-budget-was-ruined-leader-angwo-br-73-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783246744_New Project (8)-480x320.jpg"
+    },
+    {
+      "title": "संविधान संशोधनमा केटाकेटीपन देखियो: गगन थापा",
+      "summary": "प्रहरी टोली घटनास्थल जाँदै गरेको ट्राफिक प्रहरी कार्यालय कर्णाली प्रदेशका प्रमुख मुकुन्दप्रसाद रिजालले बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jeep-accident-in-dolpa-more-details-coming-soon-66-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767336714_Accident-480x320.jpg"
+    },
+    {
+      "title": "गगनको नजरमा सरकारको १०० दिन: बजारले आत्मविश्वास गुमायो, भयको वातावरण सिर्जना भयो",
+      "summary": "निर्माण सुरु भएको दुई दशक बित्दा पनि आधा मात्र काम सकिएको राष्ट्रिय गौरवको सिक्टा सिँचाइ आयोजनाको कामलाई तीव्रता दिन सरकारले पहल थालेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/minister-shrestha-directs-to-complete-sikta-irrigation-project-on-time-24-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783246256_biraj-480x320.jpg"
+    },
+    {
+      "title": "सरकार ‘लाइफ’ भन्दा ‘लाइक’ को पछि दौडियो : गगन थापा",
+      "summary": "दुर्घटनामा एकजनाको मृत्यु भएको र केही सङ्ख्यामा घाइते भएको स्थानीयको भनाइ उल्लेख गर्दै प्रहरीले जानकारी दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jit-accident-in-dolpa-one-dead-several-injured-update-65-30.html?click_from=just_in",
       "image_url": ""
     }
   ]
