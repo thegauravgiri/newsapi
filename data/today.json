@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-05T13:57:13.073319",
+  "scraped_at": "2026-07-05T17:20:25.215025",
   "date": "2026-07-05",
-  "total_articles": 48,
+  "total_articles": 55,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -390,6 +390,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/prachanda-saved-the-honor-of-former-prime-ministers-by-winning-the-election-madhav-nepal-74-15.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Indian safeguard duty slashes Nepal’s iron and steel exports by two-thirds",
+      "summary": "Export earnings have fallen by Rs10.6 billion in 11 months due to safeguard duties and BIS certification hurdles. Manufacturers urge Kathmandu to begin high-level trade negotiations.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/05/indian-safeguard-duty-slashes-nepal-s-iron-and-steel-exports-by-two-thirds",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1783262758.jpg&w=300&height=200"
+    },
+    {
+      "title": "How Nepal could lose a generation of footballers due to FIFA’s suspension",
+      "summary": "Players are missing international tournaments, domestic football has stalled, thousands of livelihoods are at risk, and years of political interference have left the country's football future hanging in the balance.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/football/2026/07/05/how-fifa-s-suspension-is-pushing-nepali-football-towards-a-lost-generation",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1783213608.jpg&w=300&height=200"
+    },
+    {
+      "title": "जनप्रतिनिधि जनताप्रति उत्तरदायी हुनुपर्छः मन्त्री लम्साल",
+      "summary": "पूर्वाधार विकासमन्त्री सुनिल लम्सालले जनप्रतिनिधि जनताप्रति सधैँ उत्तरदायी बन्नुपर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/public-representatives-should-be-accountable-to-the-people-minister-lamsal-29-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783268411_sunil-480x320.jpg"
+    },
+    {
+      "title": "कोशी अस्पतालको अतिक्रमित जग्गा खाली गराउन गृहमन्त्रीको निर्देशन",
+      "summary": "स्वास्थ्य तथा खाद्य स्वच्छतामन्त्री निशा मेहताले बिपी कोइराला स्वास्थ्य विज्ञान प्रतिष्ठानको सेवा विस्तार, पूर्वाधार विकास तथा गुणस्तरीय स्वास्थ्य सेवा प्रवाहमा सरकार पूर्ण रूपमा प्रतिबद्ध रहेको बताएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/government-committed-to-expanding-bp-foundation-services-health-minister-mehta-97-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783267466_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस महाधिवेशन : भोटिङमा ‘ईभीएम’ प्रयोग गरिने, उपत्यकामा महिला निर्वाचन अधिकृत",
+      "summary": "गृहमन्त्री सुधन गुरुङले विराटनगरस्थित कोशी अस्पतालको अतिक्रमित जग्गा तत्काल खाली गराउन निर्देशन दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/home-minister-directs-to-vacate-encroached-land-of-koshi-hospital-42-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781771611_sudan-480x320.jpg"
+    },
+    {
+      "title": "मधेस प्रदेशमा त्रुटीपूर्ण बजेट कार्यान्वयन हुन नसक्ने विपक्षी दलको दाबी",
+      "summary": "कानुन, न्याय तथा संसदीय मामिलामन्त्री सोविता गौतमले मानव–वन्यजन्तु द्वन्द्व न्यूनीकरणका लागि तत्काल र दीर्घकालीन दुवै उपाय अवलम्बन गरिने प्रतिबद्धता व्यक्त गरेकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/minister-gautam-s-commitment-to-provide-relief-to-victims-of-elephant-attacks-56-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783265918_sobita-480x320.jpg"
+    },
+    {
+      "title": "नेपाल प्रहरी र सशस्त्रका महानिरीक्षक न्यूयोर्क प्रस्थान",
+      "summary": "पूर्वाधार विकासमन्त्री सुनिल लम्सालले जनप्रतिनिधि जनताप्रति सधैँ उत्तरदायी बन्नुपर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/public-representatives-should-be-accountable-to-the-people-minister-lamsal-29-77.html?click_from=just_in",
       "image_url": ""
     }
   ]
