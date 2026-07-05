@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-05T10:23:53.667743",
+  "scraped_at": "2026-07-05T13:57:13.073319",
   "date": "2026-07-05",
-  "total_articles": 42,
+  "total_articles": 47,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -342,6 +342,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jit-accident-in-dolpa-one-dead-several-injured-update-65-30.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "प्रचण्डले चुनाव जितर पूर्वप्रधानमन्त्रीहरूको इज्जत बचाइदिए: माधव नेपाल",
+      "summary": "नेपाली कम्युनिष्ट पार्टी (नेकपा) का सहसंयोजक माधवकुमार नेपालले पार्टी संयोजक पुष्पकमल दाहाल ‘प्रचण्ड’ ले चुनाव जितेर पूर्वप्रधानमन्त्रीहरूको इज्जत जोगाएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prachanda-saved-the-honor-of-former-prime-ministers-by-winning-the-election-madhav-nepal-74-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765453267_Madhav_Nepal-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको १५ औँ महाधिवेशन प्रविधिमैत्री हुने: पेपरलेस बनाउने, विद्युतीय मतदान मेसिन प्रयोग गर्ने",
+      "summary": "सरकारी अस्पतालमा सघन उपचार कक्ष (आइसियु) को शय्या पाउन सास्ती भइरहेको गुनासो बढ्ने गरेपछि चितवनस्थित भरतपुर अस्पतालले सेवामा पारदर्शिता ल्याउन नयाँ अभ्यास सुरु गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/bharatpur-hospital-posts-names-of-patients-waiting-in-icu-on-display-board-87-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1753859538_bharatpur_hospital-1200x560-480x320.jpg"
+    },
+    {
+      "title": "मलाई सिध्याउने सामर्थ्य बालेनसँग छैन: प्रचण्ड",
+      "summary": "इंल्याण्ड पनि घरेलु टोलीलाई स्तब्ध पार्दै क्वाटरफाइनल प्रवेश गर्ने लक्ष्यको साथ मैदानमा उत्रनेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/mexico-aims-to-make-history-on-home-soil-england-eyes-quarterfinals-br-77-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783256530_england mexico-480x320.jpg"
+    },
+    {
+      "title": "सामाजिक सञ्जालको लाइकलाई प्राथमिकतामा राख्नु सरकारको कमजोरी : गगन थापा",
+      "summary": "गाजाको उत्तरी क्षेत्रमा रहेको कमाल अदवान अस्पतालका निर्देशक डा हुसम अबु सफियाको स्वास्थ्य अवस्था गम्भीर रूपमा बिग्रिएको भन्दै उनका परिवार र मानवअधिकार संस्थाहरूले तत्काल रिहाइको माग गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/palestinian-doctor-dr-hussam-abu-safia-in-israeli-custody-son-appeals-for-release-70-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783256832_ame 02-480x320.jpg"
+    },
+    {
+      "title": "'मुलुकको आवश्यकतालाई ध्यानमा राखेर संसद्ले कानुन निर्माण गर्छ'",
+      "summary": "नेपाली कम्युनिष्ट पार्टी (नेकपा) का सहसंयोजक माधवकुमार नेपालले पार्टी संयोजक पुष्पकमल दाहाल ‘प्रचण्ड’ ले चुनाव जितेर पूर्वप्रधानमन्त्रीहरूको इज्जत जोगाएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prachanda-saved-the-honor-of-former-prime-ministers-by-winning-the-election-madhav-nepal-74-15.html?click_from=just_in",
       "image_url": ""
     }
   ]
