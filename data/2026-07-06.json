@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-06T12:10:52.070394",
+  "scraped_at": "2026-07-06T18:16:00.264565",
   "date": "2026-07-06",
-  "total_articles": 39,
+  "total_articles": 47,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -318,6 +318,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/education-and-sports-sectors-are-a-high-priority-for-the-government-minister-pokharel-br-43-79.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Government plans 151 bills for new fiscal year",
+      "summary": "Law ministry prepares legislative calendar with proposals ranging from AI regulation and surrogacy to secondary stock market access for non-resident Nepalis.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/06/huge-bills-lineup-for-new-fiscal-year",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/ORDINANCESANDBILLS-1783340696.jpg&w=300&height=200"
+    },
+    {
+      "title": "Late monsoon slows Nepal’s paddy transplantation, but experts say there’s no need to worry",
+      "summary": "Paddy transplantation has reached just 32.4 percent of the country’s 1.37 million hectares, well behind last year’s pace, though officials and experts say the season can still recover by July-end.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/06/late-monsoon-slows-nepal-s-paddy-transplantation-but-experts-say-there-s-no-need-to-worry",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Untitled1-1783345274.jpg&w=300&height=200"
+    },
+    {
+      "title": "Landslides threaten 60 locations in Kedarsyu and Thalara in Bajhang",
+      "summary": "Decades of erosion, unplanned road construction and delayed mitigation measures have destabilised fragile slopes.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/06/landslides-threaten-60-locations-in-kedarsyu-and-thalara-in-bajhang",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/Untitled2-1783348052.jpg&w=600&height=400"
+    },
+    {
+      "title": "रविको निर्देशन नमाने प्रधानमन्त्री बालेन स्वतः पदमुक्त हुने",
+      "summary": "विशेष अदालतले नेपाल दूरसञ्चार प्राधिकरणको टेरामक्स खरिद प्रकरणमा प्राधिकरणका तत्कालीन अध्यक्ष दीगम्बर झासहित तीन जनालाई दोषी ठहर गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/terramax-case-three-people-including-then-chairman-jha-found-guilty-mohan-bahadur-basnet-22-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762938040_mohan_basnet-480x320.jpg"
+    },
+    {
+      "title": "ट्रेड युनियनले ओगटेको सरकारी जग्गा तीन दिनभित्र खाली गर्न मन्त्री रावलको निर्देशन",
+      "summary": "पर्याप्त पानी नपर्दा तल्लो भेगमा धान रोपाइँले गति लिन नसके पनि गोरखाको पर्यटकीय गाउँ बारपाकमा भने यतिबेला कोदो रोपाइँको चटारो छ। गाउँका पाखाबारीमा किसानहरू परम्परागत गीत गाउँदै र नाच्दै अर्मपर्मका आधारमा कोदो रोप्न व्यस्त छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/singing-dancing-and-planting-millet-the-barpakis-41-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783354672_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "१०० दिनमै वैदेशिक रोजगारीका पीडितलाई ३० करोड क्षतिपूर्ति भराइयो",
+      "summary": "काठमाडौंमा दर्ता भएको अर्को मुद्दामा पक्राउ पुर्जी जारी रहेकाले उनी थुनामुक्त हुन पाएनन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/abhishek-giri-who-was-released-on-bail-by-the-court-is-back-in-the-custody-of-the-cib-62-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783354423_Giri-480x320.jpg"
+    },
+    {
+      "title": "गृहमन्त्रीले भने- ऋतु खनालको साहसलाई सलाम, अब अन्याय सहेर बस्नु पर्दैन",
+      "summary": "नेपाली उमा कुङफु खेलाडी सरिना घलेले डब्लुएमएसी ब्रिटिस च्याम्पियनसिपमा स्वर्ण जितेकी छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/serena-wins-gold-in-uk-29-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783353861_Serena-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री भाइरल होइन, जिम्मेवार बन्नुपर्छ",
+      "summary": "विशेष अदालतले नेपाल दूरसञ्चार प्राधिकरणको टेरामक्स खरिद प्रकरणमा प्राधिकरणका तत्कालीन अध्यक्ष दीगम्बर झासहित तीन जनालाई दोषी ठहर गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/terramax-case-three-people-including-then-chairman-jha-found-guilty-mohan-bahadur-basnet-22-46.html?click_from=just_in",
       "image_url": ""
     }
   ]
