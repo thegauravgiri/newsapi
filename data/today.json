@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-06T04:17:06.153112",
+  "scraped_at": "2026-07-06T12:10:52.070394",
   "date": "2026-07-06",
-  "total_articles": 34,
+  "total_articles": 40,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -278,6 +278,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/how-did-modi-transform-india-28-72.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Food aid ends at holding centres as displaced families face uncertainty",
+      "summary": "Authorities say assistance deadlines have expired, but residents allege delays in payments and growing hardship as shelters shut down services and push families to leave.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/valley/2026/07/06/food-aid-ends-at-holding-centres-as-displaced-families-face-uncertainty",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/holdingcentres-1783317591.jpg&w=300&height=200"
+    },
+    {
+      "title": "शिक्षा तथा खेलकुद क्षेत्र सरकारको प्राथमिकता उच्च छ : मन्त्री पोखरेल",
+      "summary": "मन्त्री पोखरेलले शिक्षा तथा खेलकुद क्षेत्रलाई सरकारले उच्च प्राथमिकता दिएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/education-and-sports-sectors-are-a-high-priority-for-the-government-minister-pokharel-br-43-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783339394_sasmit pokhrel-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको देउवा पक्ष भन्छ: संस्थापन पक्षले मिति तय गरोस्, हामी वार्ताका लागि तयार छौँ",
+      "summary": "मिलाउने इच्छाशक्ति भए अहिलेको अवस्थामा पनि सहमति सम्भव रहेको धारणा व्यक्त गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/deuba-faction-of-congress-says-let-the-establishment-faction-set-the-date-we-are-ready-for-talks-31-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783338789_Congresh11-480x320.jpg"
+    },
+    {
+      "title": "मीन विश्वकर्मा भन्छन्: सदस्यता अद्यावधिकले अर्थ राखेन, पार्टीभित्र झन् विवाद बढायो",
+      "summary": "फिफा विश्वकप २०२६मा गोल्डेन बुटको प्रतिस्पर्धा निकै रोमाञ्चक बनेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/messi-mbappe-and-haaland-who-are-the-contenders-for-the-golden-boot-56-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783338431_messi mbappe haaland-480x320.jpg"
+    },
+    {
+      "title": "नेपाललाई ‘सडक बालबालिका मुक्त’ बनाइने, ५० स्थानीय तहमा ज्येष्ठ नागरिक दिवा सेवा केन्द्र थपिने",
+      "summary": "विश्वकर्माले सदस्यता अद्यावधिक गरेका कार्यकर्तासमेत पार्टी छोड्ने क्रम बढिरहेको दाबी गर्दै पार्टीप्रति वितृष्णा बढ्दै गएको बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/meen-vishwakarma-says-membership-update-made-no-sense-increased-controversy-within-the-party-47-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783079921_Min-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभाः कुन सांसदले के विषय उठाए ?",
+      "summary": "मन्त्री पोखरेलले शिक्षा तथा खेलकुद क्षेत्रलाई सरकारले उच्च प्राथमिकता दिएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/education-and-sports-sectors-are-a-high-priority-for-the-government-minister-pokharel-br-43-79.html?click_from=just_in",
       "image_url": ""
     }
   ]
