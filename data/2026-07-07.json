@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-07T11:15:34.735926",
+  "scraped_at": "2026-07-07T14:54:10.146221",
   "date": "2026-07-07",
-  "total_articles": 41,
+  "total_articles": 47,
   "sources": [
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -334,6 +334,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/what-is-in-the-27-point-monetary-policy-full-text-44-59.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal’s central bank sticks to cautiously flexible monetary policy, backs government’s 7 percent growth",
+      "summary": "NRB keeps key policy rates unchanged, eases lending for EVs and stressed borrowers, while warning that geopolitical tensions and climate risks could threaten inflation and growth targets.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/07/nepal-s-central-bank-sticks-to-cautiously-flexible-monetary-policy-backs-government-s-7-percent-growth",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/thumb5-1783433658.jpg&w=300&height=200"
+    },
+    {
+      "title": "लेखा समितिको आन्तरिक कार्यविधि परिमार्जनसहित पारित",
+      "summary": "पालिकाको कार्यालयभित्र सुरु भएको जनप्रतिनिधि र कर्मचारीबिचको हानाहानको दृश्य बाहिरसम्म चलेको भिडियो सामाजिक सञ्जालमा सार्वजनिक भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/clashes-between-employees-and-public-representatives-in-the-rural-municipality-33-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783435429_Kutai-480x320.jpg"
+    },
+    {
+      "title": "सूचनाको हक मन्त्रालयको उच्च प्राथमिकतामा: सञ्चारमन्त्री",
+      "summary": "लागूऔषध दुरुपयोग, युवाको स्वास्थ्य र सामाजिक सुरक्षालाई प्रमुख चुनौतीका रूपमा समेट्दै रोकथाम, उपचार र पुनःस्थापनामा बहुपक्षीय सहकार्यलाई प्राथमिकता दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rising-drug-addiction-a-deepening-crisis-for-the-youth-emphasis-on-prevention-and-rehabilitation-70-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783435283_Gaja-480x320.jpg"
+    },
+    {
+      "title": "संविधान संशोधन बहसपत्र तयार गर्न गठित कार्यदलको प्रतिवेदन लेखन अन्तिम चरणमा",
+      "summary": "पोखरामा सरकार र निजी क्षेत्रसँगको भेटपछि फ्लाई दुबईको टोली उत्साहित भएर फर्किएको छ। तर मौखिक आश्वासन पाएको सो टोलीले चाँडै औपचारिक निर्णय लिखित भएर आओस् भन्ने अपेक्षा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/pokhara-dubai-flight-will-the-dream-of-international-flights-come-true-this-time-58-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783434991_Fly-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री शाह भक्तपुरको नवदुर्गा द्योछेंमा",
+      "summary": "बहुचर्चित नक्कली भुटानी शरणार्थी प्रकरणको मुद्दामा जिल्ला अदालत काठमाडौंले मङ्गलबार फैसला सुनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/fake-bhutanese-refugee-case-some-convicted-44-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783434985_1684325549_top b khan-1200x560-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय सभा : चार विधेयक विधायन समितिमा पठाउने प्रस्ताव स्वीकृत",
+      "summary": "पालिकाको कार्यालयभित्र सुरु भएको जनप्रतिनिधि र कर्मचारीबिचको हानाहानको दृश्य बाहिरसम्म चलेको भिडियो सामाजिक सञ्जालमा सार्वजनिक भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/clashes-between-employees-and-public-representatives-in-the-rural-municipality-33-57.html?click_from=just_in",
       "image_url": ""
     }
   ]
