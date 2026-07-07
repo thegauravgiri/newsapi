@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-07T14:54:10.146221",
+  "scraped_at": "2026-07-07T18:06:53.406430",
   "date": "2026-07-07",
-  "total_articles": 47,
+  "total_articles": 52,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -383,6 +383,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/clashes-between-employees-and-public-representatives-in-the-rural-municipality-33-57.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Blind students in Achham battle distance, poverty and barriers to learning",
+      "summary": "Despite Nepal’s inclusive education policy, many children with visual impairment lose years of schooling because poetry, remoteness and lack of accessible facilities keep them away from classrooms.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/07/blind-students-in-achham-battle-distance-poverty-and-barriers-to-learning",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/Untitled1-1783437706.jpg&w=300&height=200"
+    },
+    {
+      "title": "German-printed passports set for Nepal rollout",
+      "summary": "Foreign Minister Khanal cancelled his US visit after the passport row surfaced.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/07/german-printed-passports-set-for-nepal-rollout",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb49-1783443692.jpg&w=600&height=400"
+    },
+    {
+      "title": "महेश भन्छन्- शरणार्थी र टेरामक्स फैसलाले दलहरूलाई बदनाम गराउने ‘काल्पनिक कथा’ पुष्टि गर्‍यो",
+      "summary": "फिफा विश्वकप २०२६ को नकआउट चरण (राउन्ड अफ १६) मा साविक विजेता अर्जेन्टिनाले खेलको अन्तिम समयमा नाटकीय पुनरागमन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/world-cup-messi-s-goal-leads-argentina-to-a-stunning-comeback-drawing-2-2-with-egypt-61-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783446601_Messi (1)-480x320.jpg"
+    },
+    {
+      "title": "शरणार्थी प्रकरण: खाँण मतियार ठहर, बेचन झालाई ठगी उद्योग मात्रै, असार २९ मा सजाय तोकिने",
+      "summary": "खेलको ५८औँ मिनेटमा भिडियो प्रविधि (भिएआर) मार्फत इजिप्टको गोल रद्द भए पनि ६७औँ मिनेटमा मुस्तफा जिकोले गोल गर्दै इजिप्टको अग्रता दोब्बर पारेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/world-cup-defending-champions-argentina-fear-elimination-egypt-leads-2-0-46-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783445950_Two goal-480x320.jpg"
+    },
+    {
+      "title": "शरणार्थी प्रकरण: पूर्वगृहमन्त्री खाँण, टोपबहादुर र पाण्डे दोषी ठहर, सन्दीप र प्रतीकसहित ७ लाई सफाइ",
+      "summary": "इजिप्टका गोलरक्षक शोबेयरको उत्कृष्ट प्रदर्शनले पहिलो हाफमा अर्जेन्टिनालाई गोलविहीन बनाउन मुख्य भूमिका खेल्यो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/world-cup-egypt-leads-1-0-in-first-half-messi-misses-penalty-58-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783443967_Messi-480x320.jpg"
     }
   ]
 }
