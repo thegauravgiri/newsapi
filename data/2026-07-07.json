@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-07T04:06:45.775832",
+  "scraped_at": "2026-07-07T11:15:34.735926",
   "date": "2026-07-07",
-  "total_articles": 33,
+  "total_articles": 41,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -270,6 +270,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/far-western-provincial-assembly-meeting-underway-br-72-31.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "RSP statute gives chair power to remove parliamentary party leader",
+      "summary": "Party’s newly approved statute says parliamentary party leader’s position will automatically become vacant for failing to follow policy directives issued by the chair.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/07/07/rsp-statute-gives-chair-power-to-remove-parliamentary-party-leader",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb4-1783409651.jpg&w=300&height=200"
+    },
+    {
+      "title": "Seven sectors shrink in third quarter, dimming hopes of economic rebound",
+      "summary": "Sluggish agricultural output and a slump in construction materials weigh heavily on the latest economic performance indicators.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/07/seven-sectors-shrink-in-third-quarter-dimming-hopes-of-economic-rebound",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1783396892.jpg&w=300&height=200"
+    },
+    {
+      "title": "Three prime ministers, 10 premierships. Why is Sudurpaschim still Nepal’s poorest province?",
+      "summary": "Sudurpaschim’s abundant resources and prominent national leaders have done little to improve livelihoods, as chronic political instability and poor execution continue to undermine development.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/07/three-prime-ministers-10-premierships-why-is-sudurpaschim-still-nepal-s-poorest-province",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/sudu-1783385035.jpg&w=600&height=400"
+    },
+    {
+      "title": "प्रधानमन्त्रीको निर्देशनपछि डिडिसीको गुणस्तर सुध्रियो, लापरबाही गर्ने कर्मचारी बर्खास्त",
+      "summary": "आर्थिक वर्ष २०८३/८४ मा निजी क्षेत्रतर्फ ११ प्रतिशतको कर्जा विस्तार हुने र १४ ब्रोड मनि स्पलाई हुने प्रक्षेपण गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/what-is-in-the-27-point-monetary-policy-full-text-44-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770538462_Bank-480x320.jpg"
+    },
+    {
+      "title": "सबै राजमार्गमा ‘अन्डरपास’ र ‘ओभरपास’ बनाउँछाैं: पूर्वाधारमन्त्री",
+      "summary": "अख्तियार दुरुपयोग अनुसन्धान आयोगलेगढीमाई नगरपालिकाका नगर प्रमुखसहित चारजना विरुद्ध विशेष अदालतमा भ्रष्टाचार मुद्दा दायर गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/corruption-of-rs-25-7-million-in-gadhimai-gravel-contract-case-filed-against-four-people-including-the-mayor-br-80-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783421693_gadimai-480x320.jpg"
+    },
+    {
+      "title": "जलविद्युतको मागभन्दा उत्पादन बढी छ: ऊर्जामन्त्री",
+      "summary": "प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालयको निर्देशनपछि दुग्ध विकास संस्थान (डिडिसी) ले सङ्कलन गर्ने कच्चा दूधको गुणस्तरमा सुधार आएको छ। डिडिसीले कच्चा दूधको गुणस्तर सुधारका लागि कडाइका साथ मापदण्डको कार्यान्वयन गरेपछि गुणस्तरमा सुधार देखिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ddc-quality-improvement-following-prime-minister-s-directive-25-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783421643_ff-480x320.jpg"
+    },
+    {
+      "title": "कृषितर्फको ५९ प्रतिशत बजेट रासायनिक मल आपूर्तिमा खर्च हुन्छ: कृषिमन्त्री",
+      "summary": "सङ्घीय राजधानीको प्रमुख पर्यटकीय गन्तव्य ठमेलमा पछिल्लो समय भारतीय पर्यटकको सङ्ख्यामा वृद्धि भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/indian-tourists-increase-in-thamel-br-28-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783420830_New Project-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रियसभामा विभिन्न विषयमा सरकारको ध्यानाकर्षण",
+      "summary": "आर्थिक वर्ष २०८३/८४ मा निजी क्षेत्रतर्फ ११ प्रतिशतको कर्जा विस्तार हुने र १४ ब्रोड मनि स्पलाई हुने प्रक्षेपण गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/what-is-in-the-27-point-monetary-policy-full-text-44-59.html?click_from=just_in",
       "image_url": ""
     }
   ]
