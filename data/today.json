@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-08T10:26:38.791242",
+  "scraped_at": "2026-07-08T14:32:07.569772",
   "date": "2026-07-08",
-  "total_articles": 51,
+  "total_articles": 56,
   "sources": [
-    "KathmanduPost",
+    "NagarikNews",
     "News24",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -414,6 +414,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/former-indian-secretary-says-nepal-airlines-delay-will-not-boost-tourism-and-consumption-85-57.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "सभापतिले चाहे मात्र कांग्रेस विभाजन हुन्छ : पूर्णबहादुर खड्का",
+      "summary": "काठमाडौं महानगरपालिकाकी कार्यवाहक प्रमुख सुनिता डङ्गोल त्रिशूल जात्रामा सहभागी भएकी छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/sunita-dangol-says-the-fundamental-significance-of-the-pashupati-region-s-festivals-is-unique-48-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783520625_Sunita-480x320.jpg"
+    },
+    {
+      "title": "गुनासो व्यवस्थापनलाई थप प्रभावकारी बनाउन उर्जा र पर्यटन मन्त्रीले गरे ‘हेलो सरकार’को अवलोकन",
+      "summary": "चितवन राष्ट्रिय निकुञ्जबाट गाउँ पसेको ध्रुवे हात्तीलाई नियन्त्रण गर्न अनुगमन सुरू गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/dhruv-elephant-to-be-radio-collared-rs-2-million-relief-for-family-of-deceased-br-99-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1760060449_1672588455_1629948796_1610072429_elephant-1200x560-1200x560-1200x560 (1)-480x320.jpg"
+    },
+    {
+      "title": "विष्णु पौडेललाई थप पाँच दिन हिरासतमा राखिने",
+      "summary": "ट्रम्पले इरानसँग भविष्यमा हुने कुनै पनि आणविक सम्झौताको स्थायित्वमाथि शंका व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/talks-with-tehran-a-waste-of-time-will-strike-harder-tonight-trump-33-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783520265_Trump-480x320.jpg"
+    },
+    {
+      "title": "एमाले उपाध्यक्ष पौडेलविरुद्ध फेरि ५ दिन म्याद थप",
+      "summary": "इराकका विभिन्न क्षेत्रबाट आएका श्रद्धाञ्जलि कार्यक्रममा सहभागीहरूले खामेनीलाई क्षेत्रीय राजनीतिमा प्रभावशाली नेताका रूपमा स्मरण गरेका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/thousands-attend-funeral-procession-for-khamenei-in-iraqi-cities-51-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783519574_khameni-480x320.jpg"
+    },
+    {
+      "title": "यी हुन् मन्त्रिपरिषद् बैठकका आठ निर्णयहरु",
+      "summary": "काठमाडौं महानगरपालिकाकी कार्यवाहक प्रमुख सुनिता डङ्गोल त्रिशूल जात्रामा सहभागी भएकी छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/sunita-dangol-says-the-fundamental-significance-of-the-pashupati-region-s-festivals-is-unique-48-79.html?click_from=just_in",
       "image_url": ""
     }
   ]
