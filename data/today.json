@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-07-08T14:32:07.569772",
+  "scraped_at": "2026-07-08T17:45:48.317438",
   "date": "2026-07-08",
-  "total_articles": 56,
+  "total_articles": 60,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -455,6 +455,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/sunita-dangol-says-the-fundamental-significance-of-the-pashupati-region-s-festivals-is-unique-48-79.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "कांग्रेस देउवा पक्ष: एकतालाई पहिलो प्राथमिकतामा, सहमति नभए ‘अर्को विकल्प’",
+      "summary": "नेपाली कांग्रेसका निवर्तमान सभापति शेरबहादुर देउवा समूहले पार्टीभित्रको एकतालाई पहिलो प्राथमिकता दिने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-deuba-faction-unity-is-the-first-priority-another-option-if-no-agreement-is-reached-42-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783338789_Congresh11-480x320.jpg"
+    },
+    {
+      "title": "उद्योगी व्यवसायीलाई हतोत्साही बनाउन धरपकड गरेको होइन्: प्रधानमन्त्री बालेन",
+      "summary": "नेपाली रिपब्लिक मिडियाकी संथापक शोभा ज्ञावालीले मुलुकको दिगो विकासका लागि सुशासन र शून्य भ्रष्टाचारसँगै आर्थिक सशक्तिकरणको पाटोलाई तीव्र रूपमा अघि बढाउनुपर्नेमा जोड दिएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/along-with-good-governance-and-zero-corruption-economic-empowerment-of-the-country-should-be-the-priority-now-founder-gyawali-br-36-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783527020_shoba-480x320.jpg"
+    },
+    {
+      "title": "मन्त्री चौधरीको निर्देशनमा प्रदूषण जाँच : आधाभन्दा बढी सवारी साधन मापदण्डविपरीत",
+      "summary": "अव्यवस्थित पहिचान गरी नापनक्सा गरेर निस्सासमेत वितरण भइसकेको जमिनको निस्सा नगरपालिकाले रद्द गरेपछि त्रियुगा नगरपालिका ९ गहिरुननजिकैको सिङ्गो बस्ती अन्यौलमा परेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/landowners-awaiting-title-deeds-in-confusion-after-municipality-cancels-title-deeds-24-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783526294_Triyuga-480x320.jpg"
+    },
+    {
+      "title": "वैदेशिक रोजगार विभागको कडा एक्सन : एकैदिन १८ नयाँ मुद्दा दर्ता, २९ जना विरुद्ध पक्राउको तयारी",
+      "summary": "विराटनगरकी एक ३० वर्षीया महिला र उनको मामाको नागरिकता बनाइदिएपछि नक्कली नागरिकता बनाइदिने व्यक्ति र स्थान प्रहरीले फेला पारेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/two-arrested-for-fake-citizenship-by-turning-photo-studio-into-administration-office-33-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783525783_Fake Nagrikta-480x320.jpg"
     }
   ]
 }
