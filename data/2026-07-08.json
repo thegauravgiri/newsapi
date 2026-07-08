@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-08T06:34:27.140213",
+  "scraped_at": "2026-07-08T10:26:38.791242",
   "date": "2026-07-08",
-  "total_articles": 43,
+  "total_articles": 50,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -350,6 +350,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/after-a-uml-mp-asked-the-speaker-do-you-listen-or-not-br-95-36.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Aggregate supply dispute stalls Tribhuvan airport expansion",
+      "summary": "Work on Tribhuvan International Airport's taxiway and international apron has stopped after high-grade crushed stone supplies from Godawari were cut off amid a legal dispute involving quarry operators and the municipality.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/08/aggregate-supply-dispute-stalls-tribhuvan-airport-expansion",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/money/tiareopen211520260519291000x0-1783501801.jpg&w=300&height=200"
+    },
+    {
+      "title": "Kathmandu Valley steps up CCTV-based traffic enforcement",
+      "summary": "Traffic police use real-time camera feeds to detect violations and are preparing to introduce a fully digital system that will issue fines remotely.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/valley/2026/07/08/kathmandu-valley-steps-up-cctv-based-traffic-enforcement",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/tarfficpolice-1783497559.jpg&w=300&height=200"
+    },
+    {
+      "title": "दुई विधेयक दफावार छलफलका लागि स्वीकृत",
+      "summary": "भारत सरकारका पूर्व सचिव एवं लेखक अनिल स्वरुपले नेपाल वायुसेवा निगमको गैरजिम्मेवार र ढिलासुस्तीपूर्ण कार्यशैलीप्रति आक्रोश व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/former-indian-secretary-says-nepal-airlines-delay-will-not-boost-tourism-and-consumption-85-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783504211_ind-480x320.jpg"
+    },
+    {
+      "title": "नेपाललाई पूर्व भारतीय सचिवको सुझाव- योजना होइन, कार्यशैली बदल्नुस्",
+      "summary": "प्रतिनिधिसभाको बैठकले आज ‘पर्यटन विधेयक २०८२’ र ‘नेपाल राष्ट्र बैंक तेस्रो संशोधन विधेयक २०८३’ गरी दुई विधेयक दफावार छलफलका लागि सम्बन्धित समितिमा पठाउन सर्वसम्मतले स्वीकृत गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/two-bills-approved-for-clause-wise-discussion-br-62-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783505113_parla 25-480x320.jpg"
+    },
+    {
+      "title": "एमाले सांसद पद्मा अर्याल भन्छिन् : रास्वपा ‘वासिङ मेसिन’ बन्यो",
+      "summary": "बुधबार बिहान विद्युत्को झट्का लागेर उदयपुरमा विद्युत्कै एक कर्मचारीको निधन भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/electricity-worker-dies-of-electrocution-br-61-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1760871133_Current-480x320.jpg"
+    },
+    {
+      "title": "अर्थतन्त्रको विकासका लागि निजी क्षेत्रसँग सहकार्य गर्छौँ : प्रधानमन्त्री शाह",
+      "summary": "भारत सरकारका पूर्व सचिव एवं चर्चित लेखक अनिल स्वरुपले नेपालमा जलविद्युत विकास र समृद्धिका पर्याप्त योजनाहरू भए पनि तिनको सफल कार्यान्वयनका लागि प्रशासनिक ढिलासुस्ती अन्त्य हुनुपर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/there-is-no-shortage-of-plans-in-nepal-administrative-transparency-and-a-digital-file-system-should-be-implemented-for-implementation-former-secretary-to-the-government-of-india-swaroop-52-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783504211_ind-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभामा सांसदहरूको सरकारलाई ध्यानाकर्षण",
+      "summary": "भारत सरकारका पूर्व सचिव एवं लेखक अनिल स्वरुपले नेपाल वायुसेवा निगमको गैरजिम्मेवार र ढिलासुस्तीपूर्ण कार्यशैलीप्रति आक्रोश व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/former-indian-secretary-says-nepal-airlines-delay-will-not-boost-tourism-and-consumption-85-57.html?click_from=just_in",
       "image_url": ""
     }
   ]
