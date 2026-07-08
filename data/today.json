@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-07-08T03:32:15.430736",
+  "scraped_at": "2026-07-08T06:34:27.140213",
   "date": "2026-07-08",
-  "total_articles": 34,
+  "total_articles": 44,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -278,6 +278,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/uncle-arrested-for-raping-disabled-woman-43-41.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "लाई नेपाल चिनाउँदै गोरखा पिक इन्टरनेशनल",
+      "summary": "लाई नेपाल चिनाउँदै गोरखा पिक इन्टरनेशनल",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13284",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/japan-ma-hurkadai-nepali-pusta-1783481978.jpg"
+    },
+    {
+      "title": "ेक्टर गुरुङको चर्तिकलाः ११ करोड वित्तिय स्क्याण्डलको पर्दाफास !",
+      "summary": "ेक्टर गुरुङको चर्तिकलाः ११ करोड वित्तिय स्क्याण्डलको पर्दाफास !",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13275",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/apf-1783303811.jpg"
+    },
+    {
+      "title": "Migrant workers can strike under new Qatari labour law",
+      "summary": "Amendments introduce worker-management committees, allow virtual dispute hearings, tighten penalties for wage violations and extend non-compete restrictions to two years.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/07/08/migrant-workers-can-strike-under-new-qatari-labour-law",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/NPBY4NDCSVKIRP6TN2MW47TFQE-1783471967.jpg&w=300&height=200"
+    },
+    {
+      "title": "Govt to bypass Khokana deadlock to push ahead with Kathmandu-Tarai Expressway",
+      "summary": "Officials split the disputed 6.5km stretch into separate contract packages and revise the project design to construct two bridges between Farsidol and Dukuchhap.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/08/govt-to-bypass-khokana-deadlock-to-push-ahead-with-kathmandu-tarai-expressway",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/main1769777905-1783483398.jpg&w=300&height=200"
+    },
+    {
+      "title": "Guglielmo Arena leaves Nepal men’s football team after ANFA suspension",
+      "summary": "Swiss-Italian coach says suspension has made it impossible to continue the long-term project he began with the national team.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/football/2026/07/08/guglielmo-arena-leaves-nepal-men-s-football-team-after-anfa-suspension",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/football-1783485164.jpg&w=600&height=400"
+    },
+    {
+      "title": "एमालेका सांसदले सभामुखलाई ‘कान सुन्नु हुन्छ की हुँदैन’ भन्दै प्रश्न गरेपछि...",
+      "summary": "प्रतिनिधिसभाको बैठकमा नेकपा (एमाले) का सांसद राजेन्द्र कुमार राईले सभामुख डीपी अर्याललाई ‘कान सुन्न हुन्छ कि हुदैन’ भन्ने प्रश्न गरेसगैं आजको बैठक स्थगित भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/after-a-uml-mp-asked-the-speaker-do-you-listen-or-not-br-95-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783491847_rajendra rai-480x320.jpg"
+    },
+    {
+      "title": "राजेन्द्र राईको अभिव्यक्तिपछि प्रतिनिधिसभा बैठक स्थगित",
+      "summary": "चार वर्षअघि नेपालकै दोस्रो अन्तर्राष्ट्रिय विमानस्थलका रुपमा ठूलो उत्साहका साथ सञ्चालनमा आएको भैरहवास्थित गौतमबुद्ध अन्तर्राष्ट्रिय विमानस्थल आज पनि नियमित अन्तर्राष्ट्रिय उडानको प्रतीक्षामा छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/gautam-buddha-international-airport-awaits-regular-international-flights-br-83-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783491545_gautam budhha airport bhairahawa airport-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभा बैठक सुरु हुँदै, यस्तो छ आजको कार्यसूची",
+      "summary": "अमेरिकी सेनाले इरानभित्र शक्तिशाली आक्रमण गरेपछि तेहरानले बहराइन र कुवेतमा रहेका अमेरिकी सैन्य अड्डालाई निशाना बनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/middle-east-tensions-iran-retaliates-against-bahrain-and-kuwait-after-us-attack-50-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783480413_Trump vs Ghalibaf -480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रियसभाबाट प्रतिस्थापन विधेयक पारित हुनेमा आशंका",
+      "summary": "नेपालमा जलविद्युत् उत्पादनको इतिहास ११५ वर्ष पुगिसकेको छ। १९६८ सालमा फर्पिङ जलविद्युत् आयोजना सञ्चालन भएपछि सुरु भएको नेपालको विद्युत् विस्तार पछिल्लो समय निरन्तर बढ्दै गएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/half-of-total-electricity-generation-comes-from-bagmati-province-br-14-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783490696_hu kai 68-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री शाहले उद्योगी व्यवसायीसँग संवाद गर्दै",
+      "summary": "प्रतिनिधिसभाको बैठकमा नेकपा (एमाले) का सांसद राजेन्द्र कुमार राईले सभामुख डीपी अर्याललाई ‘कान सुन्न हुन्छ कि हुदैन’ भन्ने प्रश्न गरेसगैं आजको बैठक स्थगित भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/after-a-uml-mp-asked-the-speaker-do-you-listen-or-not-br-95-36.html?click_from=just_in",
       "image_url": ""
     }
   ]
