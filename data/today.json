@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-09T15:27:10.866598",
+  "scraped_at": "2026-07-09T18:03:49.066538",
   "date": "2026-07-09",
-  "total_articles": 52,
+  "total_articles": 56,
   "sources": [
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -423,6 +423,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/women-of-chandrapur-are-becoming-self-reliant-through-commercial-vegetable-farming-50-60.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Karnali Highway remains province’s deadliest road despite millions spent on repairs",
+      "summary": "Police say the highway accounts for nearly 56 percent of road accidents in the province as poor road conditions, ageing vehicles, difficult terrain and weak traffic discipline continue to fuel fatal crashes.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/09/karnali-highway-remains-province-s-deadliest-road-despite-millions-spent-on-repairs",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1783610441.jpg&w=300&height=200"
+    },
+    {
+      "title": "Govt unveils ambitious national commitment paper outlining governance reform agenda",
+      "summary": "The Cabinet-endorsed document sets ambitious targets, including 7 percent annual economic growth, 1.5 million new jobs and wide-ranging reforms in governance, digitalisation and public service delivery.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/09/govt-unveils-ambitious-national-commitment-paper-outlining-governance-reform-agenda",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/balen-1783613356.jpg&w=600&height=400"
+    },
+    {
+      "title": "एमालेमा निर्वाचन समीक्षा र पार्टी पुनर्गठनको मस्यौदा तयार पार्ने जिम्मा थापा–पोखरेललाई",
+      "summary": "उनले युवाहरूलाई आफ्नो ऊर्जा करियर निर्माण वा सीप विकासमा लगाउन आग्रह गरेकी छिन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/kangana-on-ketan-murder-case-passion-without-purpose-is-a-waste-modern-lifestyle-is-deadly-11-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783614092_Kangana Ketan-480x320.jpg"
+    },
+    {
+      "title": "आर्थिक–सामाजिक असन्तोषले जन्मायो नयाँ राजनीतिक शक्ति : शंकर पोखरेल",
+      "summary": "काठमाडौं महानगरपालिकाका नगर प्रहरी प्रमुख विष्णुप्रसाद जोशीले राहदानी विभाग अगाडि भएको आत्मदाह प्रयासको घटनामा नगरप्रहरीको कुनै गलत नियत वा पूर्वाग्रह नरहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/metropolitan-police-chief-says-self-immolation-is-not-necessary-for-a-fine-of-rs-1-000-there-may-be-other-reasons-too-70-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783613644_mm-480x320.jpg"
     }
   ]
 }
