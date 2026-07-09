@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-09T11:13:37.947023",
+  "scraped_at": "2026-07-09T15:27:10.866598",
   "date": "2026-07-09",
-  "total_articles": 43,
+  "total_articles": 52,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -350,6 +350,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/the-formula-system-used-by-local-levels-will-be-discontinued-from-midnight-today-42-25.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Fresh bird flu detection in dead crows keeps Central Zoo shut",
+      "summary": "Zoo has lost around Rs20 million since closing three weeks ago, as bird flu spreads to 84 poultry farms across the Valley and 22 in Kavrepalanchok.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/09/fresh-bird-flu-detection-in-dead-crows-keeps-central-zoo-shut",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/crow-1783599742.jpg&w=300&height=200"
+    },
+    {
+      "title": "Court acquits former Nepal Telecom chief and 17 others in corruption case",
+      "summary": "Anti-graft agency had sought Rs330 million in damages over alleged irregularities in the company’s billing system upgrade.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/09/court-acquits-former-nepal-telecom-chief-and-17-others-in-corruption-case",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/sunilpaudel09720260334431000x0-1783605889.jpg&w=300&height=200"
+    },
+    {
+      "title": "Karnali shelves flagship girls’ savings scheme, leaving 11,000 beneficiaries in limbo",
+      "summary": "The provincial government has excluded the programme from next year’s budget after suspending deposits for four years, triggering criticism from lawmakers and uncertainty over more than Rs420 million already held in beneficiaries’ accounts.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/karnali-province/2026/07/09/karnali-shelves-flagship-girls-savings-scheme-leaving-11-000-beneficiaries-in-limbo",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/GeminiGeneratedImager6g2lxr6g2lxr6g2-1783592256.png&w=300&height=200"
+    },
+    {
+      "title": "Meal suspension at holding centres sparks criticism, government resumes food supply",
+      "summary": "Hundreds of displaced families were left uncertain about their next meal after food distribution stopped for nearly two days, before authorities restored the service on Tuesday evening.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/09/meal-suspension-at-holding-centres-sparks-criticism-government-resumes-food-supply",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/sukamagurung09720260246511000x0-1783580440.jpg&w=600&height=400"
+    },
+    {
+      "title": "दलाई लामा जन्मोत्सव: नेपाल-चीन सम्बन्धमा पर्ला असर !",
+      "summary": "रौतहटको चन्द्रपुर नगरपालिका-७ वनबहुअरीकी दुखनी थरुनीलाई हिजोआज तरकारी टिप्न र बेच्न भ्याइनभ्याइ छ। करिब पाचँ कट्ठा जमिनमा व्यावसायिक रूपमा लगाइएको तरकारीखेतीले उनको व्यस्तता बढाउनुका साथै आर्थिक रूपमा पनि सबल बनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/women-of-chandrapur-are-becoming-self-reliant-through-commercial-vegetable-farming-50-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783610369_mahila-480x320.jpg"
+    },
+    {
+      "title": "सरकारलाई सांसद् हमालको प्रश्न: सरकारको गाडी अटो ड्राइभमा चलेको त छैन ?",
+      "summary": "संसद्‌देखि सडकसम्म यसको तीव्र आलोचना र कूटनीतिक बहस सुरु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/dalai-lama-s-birthday-will-it-affect-nepal-china-relations-38-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783610231_Dalai_Lama-480x320.jpg"
+    },
+    {
+      "title": "‘बालेन सरकारलाई संविधान संशोधनका नाममा पुनर्लेखनको अधिकार छैन’",
+      "summary": "दाङको टरिगाउँ विमानस्थलमा नियमित हवाई सेवा सञ्चालन नहुँदा इन्धन डिपो समस्यमा परेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/tarigaun-airport-fuel-depot-in-trouble-due-to-lack-of-regular-flights-22-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783609443_air-480x320.jpg"
+    },
+    {
+      "title": "पुकार बमको चेतावनी : हेर्दै जाम, यो शान्त ज्वालामुखीले क-कसलाई खरानी बनाउँछ",
+      "summary": "बिहीबार मन्त्रालयमा आयोजित कार्यक्रममा मन्त्री पोखरेलले सम्मानपत्र र मायाको चिनोसहित अल्ट्रा धाविका बुढालाई सम्मान गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/government-honors-ultra-runner-sunmaya-budha-49-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783608851_Sasmit_Dhabika-480x320.jpg"
+    },
+    {
+      "title": "सरकारलाई होइन, हामीलाई गाली गर्नुस् : अध्यक्ष ओली",
+      "summary": "रौतहटको चन्द्रपुर नगरपालिका-७ वनबहुअरीकी दुखनी थरुनीलाई हिजोआज तरकारी टिप्न र बेच्न भ्याइनभ्याइ छ। करिब पाचँ कट्ठा जमिनमा व्यावसायिक रूपमा लगाइएको तरकारीखेतीले उनको व्यस्तता बढाउनुका साथै आर्थिक रूपमा पनि सबल बनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/women-of-chandrapur-are-becoming-self-reliant-through-commercial-vegetable-farming-50-60.html?click_from=just_in",
       "image_url": ""
     }
   ]
