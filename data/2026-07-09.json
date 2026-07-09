@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-09T04:01:03.377273",
+  "scraped_at": "2026-07-09T11:13:37.947023",
   "date": "2026-07-09",
-  "total_articles": 33,
+  "total_articles": 42,
   "sources": [
     "NagarikNews",
     "News24",
@@ -270,6 +270,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/courageous-dialogue-is-the-condition-for-prosperity-97-27.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "र पनि सदाचार नीतिको बन्धनमा, के गर्ने– के नगर्ने ? नागरिकदेखि सरकारसम्म कस्दै नीति",
+      "summary": "र पनि सदाचार नीतिको बन्धनमा, के गर्ने– के नगर्ने ? नागरिकदेखि सरकारसम्म कस्दै नीति",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13286",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/sadarchar-niti-1783482666.jpg"
+    },
+    {
+      "title": "Man sets himself on fire outside passport department in Kathmandu, seriously injured",
+      "summary": "Police say the 25-year-old took the extreme step after city police locked his motorcycle parked outside the department’s gate.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/valley/2026/07/09/man-sets-himself-on-fire-outside-passport-department-in-kathmandu-seriously-injured",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/passportdepartment09720261133431000x01-1783591411.jpg&w=300&height=200"
+    },
+    {
+      "title": "Half-filled LPG policy leaves consumers paying more as supply fears ease",
+      "summary": "Consumers, dealers and bottling companies say the emergency measure introduced during the West Asia conflict has outlived its purpose, adding transport costs and operational burdens while full gas supplies remain unavailable.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/09/half-filled-lpg-policy-leaves-consumers-paying-more-as-supply-fears-ease",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/money/gas11320260317551000x0-1783586605.jpg&w=300&height=200"
+    },
+    {
+      "title": "Three arrested over alleged Bal Mandir property embezzlement",
+      "summary": "CIB team detains three people for investigation into alleged misappropriation of property belonging to Bal Mandir in Naxal, Kathmandu.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/09/three-arrested-over-alleged-bal-mandir-property-embezzlement",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/balmandirnaxalbuilding09520240943191000x009720260701061000x0-1783577602.jpg&w=600&height=400"
+    },
+    {
+      "title": "आज मध्यरातदेखि सूत्र प्रणाली बन्द हुने",
+      "summary": "महालेखा नियन्त्रक कार्यालयले स्थानीय तहका लागि आर्थिक कारोबार सञ्चालनमा प्रयोग भएको ‘स्थानीय सञ्चित कोष व्यवस्थापन प्रणाली’ (सूत्र) आज मध्यरातदेखि बन्द हुने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-formula-system-used-by-local-levels-will-be-discontinued-from-midnight-today-42-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783594800_sut 25-480x320.jpg"
+    },
+    {
+      "title": "सरकारलाई एमालेको प्रश्न: एक–चीन नीति बदलिएको हो ? (भिडियो)",
+      "summary": "प्रमुख प्रतिपक्षी दल नेकपा (एमाले)ले वर्तमान सरकारको परराष्ट्र नीति र एक–चीन नीतिप्रतिको प्रतिबद्धतामाथि प्रश्न उठाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-s-question-to-the-government-has-the-one-china-policy-changed-video-95-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777026186_ain_mahar-480x320.jpg"
+    },
+    {
+      "title": "कृषि पढेर पनि पठाओ चलाउन बाध्य थिए गणेश, महानगरले रोजीरोटि खोस्दा छर्किए पेट्रोल",
+      "summary": "काठमाडौंको त्रिपुरेश्वरस्थित राहदानी विभाग अगाडि बिहीबार दिउँसो एक पठाओ चालकले आफ्नै शरीरमा पेट्रोल छर्किएर आत्मदाहको प्रयास गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/pathao-driver-attempts-self-immolation-after-city-police-seize-his-motorcycle-ganesh-from-mugu-an-agriculture-graduate-is-on-the-verge-of-life-and-death-85-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783594006_55-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा सचेतकको प्रश्न : चालिस वर्षअघिको राष्ट्रिय सुरक्षाको अवधारणा अहिले सान्दर्भिक छ ?",
+      "summary": "सुरक्षित पुनर्स्थापनाको सुनिश्चितता, भू–स्वामित्वसहितको आवास अधिकार तथा सम्मानजनक जीवनयापनको माग गर्दै सुकुमवासीहरूले काठमाडौंको माइतीघर मण्डलामा प्रदर्शन गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/photo-feature/sukum-residents-protest-at-their-homes-demanding-food-shelter-and-clothing-photo-feature-br-49-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783594019_Sukumbasi1-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रियसभाबाट ‘राष्ट्र ऋण उठाउने’ विधेयक स्वीकृत",
+      "summary": "महालेखा नियन्त्रक कार्यालयले स्थानीय तहका लागि आर्थिक कारोबार सञ्चालनमा प्रयोग भएको ‘स्थानीय सञ्चित कोष व्यवस्थापन प्रणाली’ (सूत्र) आज मध्यरातदेखि बन्द हुने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-formula-system-used-by-local-levels-will-be-discontinued-from-midnight-today-42-25.html?click_from=just_in",
       "image_url": ""
     }
   ]
