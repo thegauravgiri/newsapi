@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-10T14:44:22.897546",
+  "scraped_at": "2026-07-10T17:52:35.309059",
   "date": "2026-07-10",
-  "total_articles": 49,
+  "total_articles": 54,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -399,6 +399,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/136-nepali-athletes-selected-for-20th-asian-games-to-compete-in-22-sports-49-38.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Ganesh Nepali was fined 1,000 rupees. It cost him his life",
+      "summary": "The ride-hailing driver’s death from self-immolation has forced the government to confront a warning it gave itself years ago — as opposition lawmakers quote Balendra Shah’s own past words on state failure back to him in parliament.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/10/ganesh-nepali-was-fined-1-000-rupees-it-cost-him-his-life",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/main09720260358311000x0-1783699103.jpg&w=300&height=200"
+    },
+    {
+      "title": "Government reiterates commitment to one-China policy amid Dalai Lama birthday controversy",
+      "summary": "Foreign Ministry says country-specific economic diplomacy strategies prepared for 20 nations.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/10/government-reiterates-commitment-to-one-china-policy-amid-dalai-lama-birthday-controversy",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/FOREIGNSECRETARY-1783697051.jpg&w=300&height=200"
+    },
+    {
+      "title": "प्रतिनिधिसभा नियमावलीविरुद्ध कांग्रेस सर्वोच्चमा, विवादित प्रावधान खारेज गर्न रिट",
+      "summary": "केही प्रावधान संविधानसँग बाझिएको दाबी गर्दै तिनलाई खारेज गर्न मागसहित सर्वोच्च अदालतमा रिट दायर गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-files-writ-petition-in-supreme-court-against-house-of-representatives-regulations-to-quash-controversial-provision-80-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776412980_Congress-480x320.jpg"
+    },
+    {
+      "title": "संसदीय अभ्यास थप प्रभावकारी बनाउने सातै प्रदेशका उपसभामुखहरूको प्रतिबद्धता",
+      "summary": "विधिको शासन, शक्ति पृथकीकरण, सन्तुलन तथा नियन्त्रणको संवैधानिक सिद्धान्तप्रति पूर्ण प्रतिबद्धता जनाउँदै घोषणापत्र जारी गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/deputy-speakers-of-all-seven-provinces-commit-to-making-parliamentary-practice-more-effective-59-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783699357_Upa-480x320.jpg"
+    },
+    {
+      "title": "सरकारलाई सर्वोच्चको दवाव: सम्पत्ति छानबिन आयोगलाई कारबाही सिफारिस नगर्न अन्तरिम आदेश",
+      "summary": "बागमती प्रदेश सरकारले विपद् व्यवस्थापनको पूर्वतयारीलाई उच्च प्राथमिकतामा राख्दै सुरक्षा संयन्त्रलाई ‘हाई अलर्ट’मा राखेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bagmati-on-high-alert-for-monsoon-related-disasters-80-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783698357_Hetauda-480x320.jpg"
     }
   ]
 }
