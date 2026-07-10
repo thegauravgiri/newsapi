@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-10T11:12:33.843119",
+  "scraped_at": "2026-07-10T14:44:22.897546",
   "date": "2026-07-10",
-  "total_articles": 43,
+  "total_articles": 49,
   "sources": [
     "News24",
     "NagarikNews",
@@ -350,6 +350,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/the-home-minister-s-question-which-is-causing-further-conflict-by-standing-on-the-rostrum-of-parliament-which-party-is-in-government-at-the-scene-37-19.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Jhuma Limbu, Nhyoo Bajracharya win top honours at Radio Kantipur National Music Awards",
+      "summary": "The event, organised to celebrate Radio Kantipur’s 28th anniversary, recognises artists in playback, folk, modern and other music categories.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/07/10/jhuma-limbu-nhyoo-bajracharya-win-top-honours-at-radio-kantipur-music-awards",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/74147493717497586695128095334877550431189363n10720261251181000x0-1783687336.jpg&w=300&height=200"
+    },
+    {
+      "title": "प्रतिनिधिसभा नियमावलीविरुद्ध सर्वोच्चमा कांग्रेसको रिट, बुधबार पेसी",
+      "summary": "जापानमा आयोजना हुने २०औँ एसियाली खेलकुद (एसियाड) का लागि नेपालबाट २२ खेलमा प्रतिस्पर्धा गर्ने १३६ खेलाडीको नाम टुंगो लागेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/136-nepali-athletes-selected-for-20th-asian-games-to-compete-in-22-sports-49-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778570462_Nepali Cricket-480x320.jpg"
+    },
+    {
+      "title": "गणेश नेपाली निधन: माइतीघरमा दीप प्रज्वलन",
+      "summary": "बारम्बार ‘झ्याप्प–झ्याप्प’ बत्ती जाने समस्या मौसमी नभई विद्युत् वितरण पूर्वाधारको दीर्घकालीन संरचनागत कमजोरीका कारण उत्पन्न भएको निष्कर्ष निकालिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/what-is-the-root-cause-of-the-problem-of-lights-going-out-flashing-16-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768349465_Light-480x320.jpg"
+    },
+    {
+      "title": "गगन थापा भन्छन्: सडक विस्तार मात्र विकास होइन, सुरक्षित र समावेशी यातायातमा जोड दिनुपर्छ",
+      "summary": "कांग्रेसले शुक्रबार दर्ता गरेको रिटमाथि संवैधानिक इजलासमा सुनुवाइका लागि अदालतले आगामी ३१ गतेको पेसी तोकेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-s-writ-petition-in-supreme-court-against-house-of-representatives-regulations-to-be-filed-on-wednesday-19-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783692563_NC News (1)-480x320.jpg"
+    },
+    {
+      "title": "राजस्वको दायरा विस्तार र प्रदेशको आम्दानी बढाउनुपर्नेमा जोड",
+      "summary": "क्वार्टरफाइनलमा युरोपका दुई बलिया टोली स्पेन र बेल्जियमबीच प्रतिस्पर्धा हुँदैछ। लस एन्जलसमा हुने खेल नेपाली समयअनुसार राति १२:४५ बजे सुरु हुनेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/world-cup-spain-and-belgium-face-off-in-second-quarterfinal-66-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783692429_Spain-480x320.jpg"
+    },
+    {
+      "title": "सरकारसँग गीता गुरुङको प्रश्न : गरिबको बलि कहिलेसम्म?",
+      "summary": "जापानमा आयोजना हुने २०औँ एसियाली खेलकुद (एसियाड) का लागि नेपालबाट २२ खेलमा प्रतिस्पर्धा गर्ने १३६ खेलाडीको नाम टुंगो लागेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/136-nepali-athletes-selected-for-20th-asian-games-to-compete-in-22-sports-49-38.html?click_from=just_in",
       "image_url": ""
     }
   ]
