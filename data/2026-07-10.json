@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-10T04:00:48.798994",
+  "scraped_at": "2026-07-10T11:12:33.843119",
   "date": "2026-07-10",
-  "total_articles": 33,
+  "total_articles": 43,
   "sources": [
     "News24",
     "NagarikNews",
@@ -270,6 +270,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/hearing-the-pain-of-dhurmus-an-emotional-mp-khatri-says-how-inappropriate-it-is-for-someone-who-makes-others-laugh-to-be-crying-54-88.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "लागि छुट्याइएको जग्गाः गणेशमानपुत्रीको मनपरी !",
+      "summary": "लागि छुट्याइएको जग्गाः गणेशमानपुत्रीको मनपरी !",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13297",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/balmandir-1783655204.jpg"
+    },
+    {
+      "title": "Man who set himself on fire outside passport department succumbs to injuries",
+      "summary": "Ganesh Nepali, 25, from Mugu, died while undergoing treatment at Bir Hospital after suffering severe burn injuries in a self-immolation attempt in Kathmandu.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/10/man-who-set-himself-on-fire-outside-passport-department-succumbs-to-injuries",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/ganeshnepali-1783665174.jpg&w=300&height=200"
+    },
+    {
+      "title": "Families to remain first line of care under proposed elderly policy",
+      "summary": "The proposed policy prioritises family and community-based care while assigning local governments a larger role in healthcare, rehabilitation and social support for senior citizens.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/10/families-to-remain-first-line-of-care-under-proposed-elderly-policy",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1783681747.jpg&w=300&height=200"
+    },
+    {
+      "title": "Protests erupt after ride-hailing driver dies from burn injuries",
+      "summary": "Demonstrators demanding justice for Ganesh Nepali marched in Kathmandu after he died following a self-immolation outside the Department of Passports. Police blocked protesters from reaching Bir Hospital.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/visual-stories/2026/07/10/protests-erupt-after-ride-hailing-driver-dies-from-burn-injuries",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/74079692717447225200439291909253972677043623n10720261131091000x0-1783678437.jpg&w=600&height=400"
+    },
+    {
+      "title": "Who is accountable for Ganesh Nepali’s death?",
+      "summary": "Demonstrators demanding justice for Ganesh Nepali marched in Kathmandu after he died following a self-immolation outside the Department of Passports. Police blocked protesters from reaching Bir Hospital.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/07/10/who-is-accountable-for-ganesh-nepali-s-death",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1783681747.jpg&w=400&height=267"
+    },
+    {
+      "title": "गणेश नेपालीको मृत्युमा गृहमन्त्री भन्छन् : स्थानीय सरकार रास्वपाको छ?",
+      "summary": "जुन ठाउँमा घटना घट्यो, त्यो ठाउँमा ट्राफिकले ह्वील लक गरेको होइन । कुनै भिडियोमा ट्राफिकले ह्वील लक गरेको देखिन्छ ?",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-home-minister-s-question-which-is-causing-further-conflict-by-standing-on-the-rostrum-of-parliament-which-party-is-in-government-at-the-scene-37-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783680109_Sudhan_Gurung-480x320.jpg"
+    },
+    {
+      "title": "संसद्को रोष्टममा उभिएर थप द्वन्द्व निम्त्याउने गृहमन्त्रीको प्रश्न: घटनास्थलमा कुन दलको सरकार छ ?",
+      "summary": "लामो समयपछि शुक्रबार भएको भारी वर्षाबाट महोत्तरी जिल्लाको सदरमुकाम जलेश्वर जलमग्न बनेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jaleshwor-submerged-after-rain-br-22-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783680160_jaleshwor-480x320.jpg"
+    },
+    {
+      "title": "सरकारविरुद्ध माइतीघरमा सशक्त आन्दोलन {तस्बिरहरू}",
+      "summary": "मुगुका गणेश नेपालीको मृत्युको घटनापछि बिरोध गर्दै रहेका प्रदर्शनकारी वीर अस्पतालतर्फ जानेक्रममा प्रहरीले माइतीघरमा रोकेपछि तनावको स्थिति भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/strong-protest-in-maitighar-against-the-government-photos-15-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783679974_Maitighar111-480x320.jpg"
+    },
+    {
+      "title": "संसद्‌मा भावुक भएर उभिएका गृहमन्त्री सांसद्हरूका अगाडि रोए (भिडियो)",
+      "summary": "गणेश नेपाली मृत्यु प्रकरणमा जवाफ दिन संसदमा उपस्थित भएका गृहमन्त्री सुधन गुरुङ भावुक बने ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/home-minister-cries-in-front-of-mps-while-standing-emotionally-in-parliament-video-68-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783680109_Sudhan_Gurung-480x320.jpg"
+    },
+    {
+      "title": "बालेनविरुद्ध आक्रामक रक्षा बम: सरकारको 'गरिबमारा' नीतिले नेपालीको मृत्यु, दोष सुनितामाथि थोपर्ने प्रपञ्च!",
+      "summary": "जुन ठाउँमा घटना घट्यो, त्यो ठाउँमा ट्राफिकले ह्वील लक गरेको होइन । कुनै भिडियोमा ट्राफिकले ह्वील लक गरेको देखिन्छ ?",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-home-minister-s-question-which-is-causing-further-conflict-by-standing-on-the-rostrum-of-parliament-which-party-is-in-government-at-the-scene-37-19.html?click_from=just_in",
       "image_url": ""
     }
   ]
