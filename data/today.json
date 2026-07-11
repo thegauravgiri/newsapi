@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-07-11T03:27:50.257609",
+  "scraped_at": "2026-07-11T06:21:06.072046",
   "date": "2026-07-11",
-  "total_articles": 34,
+  "total_articles": 38,
   "sources": [
-    "KathmanduPost",
     "News24",
+    "KathmanduPost",
     "NagarikNews"
   ],
   "articles": [
@@ -279,6 +279,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/this-is-the-wholesale-price-of-agricultural-produce-for-today-24-42.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "नवीकरण नगर्ने ४४ निर्माण कम्पनीको इजाजत खारेज",
+      "summary": "काठमाडौंको कीर्तिपुरस्थित राधास्वामी सुकुम्बासी होल्डिङ सेन्टरमा बाढी पसेपछि त्यहाँ आश्रित परिवारको बिचल्ली भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/taking-out-wet-belongings-the-squatters-said-we-are-not-dogs-and-cats-government-br-23-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783750337_ff-480x320.jpg"
+    },
+    {
+      "title": "हर्क लेख्छन्- यो देवताको शासन हो ! यहाँ बोल्न पाइँदैन !",
+      "summary": "भेनेजुएलामा आएको विनाशकारी भूकम्पमा परी मृत्यु हुनेको सङ्ख्या चार हजार पुगेको भेनेजुयला सरकारले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/venezuela-earthquake-death-toll-reaches-4-000-br-37-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783749567_venezuala-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाले देश चलाउन सक्दैन भन्ने प्रमाणित भइसक्यो: हर्क साम्पाङ",
+      "summary": "ठाओ चालक २५ वर्षीय गणेश नेपालीको आत्मदाहपछि शुक्रबार मृत्यु भएको छ। सोही विषयले शुक्रबार सडकदेखि सदनसम्म तात्यो; जुन अस्वाभाविक होइन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/anger-ritual-in-parliament-ganesh-nepalis-disappearing-amidst-accusations-and-counter-accusations-br-65-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783749657_ghu 98-480x320.jpg"
+    },
+    {
+      "title": "मन्त्री पुनको प्रश्न : अपराध गर्नेलाई दण्ड नगरे समाज कस्तो हुन्छ ?",
+      "summary": "नेपालगन्ज विमानस्थल कार्यालयले दुई महिनादेखि सुविधासम्पन्न टर्मिनल भवनबाट आफ्नो सेवा दिइरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/infrastructure-expansion-flight-reduction-br-85-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783748875_dju 98  uuuuuuuuuuuuuu-480x320.jpg"
     }
   ]
 }
