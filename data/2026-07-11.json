@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-11T13:42:57.581753",
+  "scraped_at": "2026-07-11T17:05:21.056004",
   "date": "2026-07-11",
-  "total_articles": 49,
+  "total_articles": 55,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -399,6 +399,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jeep-accident-in-bajhang-three-dead-five-injured-84-49.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770873227_1681104705_accident-1200x560-wm-1200x560-480x320.jpg"
+    },
+    {
+      "title": "Floods in Bangladesh kill 44, leave over a million stranded",
+      "summary": "Power outages, damaged roads ​and broken communication links have slowed rescue and relief efforts.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/07/11/floods-in-bangladesh-kill-44-leave-over-a-million-stranded",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/FXBIAOIIGFJIHHVX4N4KQ27XVE-1783779928.jpg&w=300&height=200"
+    },
+    {
+      "title": "RSP’s women leaders on what it took to reach a majority",
+      "summary": "Fifty-one of 99 elected seats now held by women — but the party's own leaders say the harder battle is for power at the top, not just numbers.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/11/rsp-s-women-leaders-on-what-it-took-to-reach-a-majority",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/thumb-1783781302.jpg&w=300&height=200"
+    },
+    {
+      "title": "कांग्रेस सभापति थापाको सरकारलाई सुझाव: प्रश्नको जवाफ गिरफ्तारी र दमन होइन, संवाद हुनुपर्छ",
+      "summary": "उनले बाढीपीडितको अवस्था बुझ्न र राज्यसँग जवाफ माग्न पुगेका युवामाथि बल प्रयोग गरिएको भन्दै सरकारको व्यवहारप्रति प्रश्न उठाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-president-thapa-s-suggestion-to-the-government-the-answer-to-the-question-should-not-be-arrests-and-repression-but-dialogue-22-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782486344_1781421850_gagan 300-1200x560-480x320.jpg"
+    },
+    {
+      "title": "नियम जनता बचाउने बनाउनुपर्छ: हर्क",
+      "summary": "प्रहरीको कुटपिट तथा धरपकडमा घाइते भएका जेनजी अभियन्ता तथा अधिवक्ता माजिद अन्सारीलाई थप उपचारका लागि त्रिभुवन विश्वविद्यालय शिक्षण अस्पताल, महाराजगञ्ज रिफर गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/genji-activist-majid-ansari-injured-in-police-beating-referred-to-teaching-hospital-81-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783784897_Majid-480x320.jpg"
+    },
+    {
+      "title": "परराष्ट्रविद् श्रेष्ठ भन्छन्: नेपाल दुई होइन, तीन ढुङ्गाबीचको तरुल भयो",
+      "summary": "लोपोन्मुख राउटे समुदायका १ सय ३३ जना लाभग्राहीलाई बस्तीमै पुगेर १५ लाख ९६ हजार रुपैयाँ सामाजिक सुरक्षा भत्ता वितरण गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/social-security-allowance-of-rs-1-596-million-distributed-to-133-people-in-raute-settlement-br-97-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783784073_Raut-480x320.jpg"
+    },
+    {
+      "title": "‘गणेश नेपालीलाई न्याय नपाए आन्दोलन चर्काउँछौँ’",
+      "summary": "भक्तपुरको पुरानो जगातीस्थित ऐतिहासिक पुल पुनःनिर्माण सम्पन्न भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-use-belongs-to-the-residents-of-changunarayan-suryabinayak-the-budget-belongs-to-bhaktapur-municipality-13-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783783460_bkt-480x320.jpg"
     }
   ]
 }
