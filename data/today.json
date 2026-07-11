@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-11T09:44:03.758385",
+  "scraped_at": "2026-07-11T13:42:57.581753",
   "date": "2026-07-11",
-  "total_articles": 44,
+  "total_articles": 51,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -359,6 +359,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/haaland-s-success-mental-vision-and-positive-thinking-along-with-physical-ability-46-20.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783750159_Haland new-480x320.jpg"
+    },
+    {
+      "title": "Three youth activists detained from Kirtipur holding centre",
+      "summary": "Eyewitnesses dispute police claims of ‘obstructing rescue operations’, pointing instead to excessive force and political bias.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/11/three-youth-activists-detained-from-kirtipur-holding-centre",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/MAJID-1783775488.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nearly 2.6 million smart driving licences printed as backlog cleared",
+      "summary": "A new digital licensing system is set to launch in mid-July, while over 300,000 licences nearing expiry will be issued only after renewal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/11/nearly-2-6-million-smart-driving-licences-printed-as-backlog-cleared",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/LICENSE-1783776603.jpg&w=300&height=200"
+    },
+    {
+      "title": "Breaking Nepal’s investor paralysis",
+      "summary": "His tragedy is not merely a localised incident of a fine gone wrong. It is a symptom of a deeper, more systemic rot in our urban governance.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/07/11/breaking-nepal-s-investor-paralysis",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/MAJID-1783775488.jpg&w=400&height=267"
+    },
+    {
+      "title": "सुकुम्बासी व्यवस्थापनमा सरकार असफल भएको एमाले महासचिव पोखरेलको आरोप",
+      "summary": "इनफा इभेन्ट्स यूके र इन्फा नेपालको संयुक्त आयोजनामा सम्पन्न भएको तेस्रो अन्तर्राष्ट्रिय नेपाली फिल्म अवार्ड (ईन्फा) २०२६ अन्तर्गत उत्कृष्ट पाँच मनोनयन सार्वजनिक तथा मनोनयन प्रमाणपत्र",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/top-five-nominations-for-the-3rd-international-nepali-film-awards-infa-2026-announced-91-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783776363_aaj-480x320.jpg"
+    },
+    {
+      "title": "कालोबजारी देखिए तुरुन्त हटलाइनमा खबर गर्न मन्त्री चौधरीको आग्रह",
+      "summary": "मोबाइल व्यवसायसँग सम्बन्धित कानुनी तथा नीतिगत समस्याको समाधानका लागि संसद् र नीति निर्माण तहमा सशक्त रूपमा आवाज उठाउने प्रतिबद्धता व्यक्त गरेकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/mp-sita-thapaliya-commits-to-raise-the-issues-of-mobile-business-operators-in-parliament-20-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781173136_Sita-480x320.jpg"
+    },
+    {
+      "title": "इजाजतपत्र नवीकरण नगर्ने ४४ निर्माण व्यवसायीको लाइसेन्स स्वतः खारेज",
+      "summary": "धनुषाको मिथिला नगरपालिका–९ बडहरीस्थित पूर्व–पश्चिम लोकमार्गमा उपमेयर सवार गाडी र एम्बुलेन्स ठोक्किँदा ८ जना घाइते भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/8-injured-in-dhanusha-accident-between-deputy-mayor-s-car-and-ambulance-br-95-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783775553_New Project (1)-480x320.jpg"
+    },
+    {
+      "title": "सरकार पुरानै विभेदकारी र अधिनायकवादी बाटोमा अघि बढ्यो : राजेन्द्र महतो",
+      "summary": "बझाङको केदारस्यूँ गाउँपालिका–७ स्थित सुङगरे क्षेत्रमा भएको जीप दुर्घटनामा तीन जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jeep-accident-in-bajhang-three-dead-five-injured-84-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770873227_1681104705_accident-1200x560-wm-1200x560-480x320.jpg"
     }
   ]
 }
