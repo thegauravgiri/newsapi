@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-11T06:21:06.072046",
+  "scraped_at": "2026-07-11T09:44:03.758385",
   "date": "2026-07-11",
-  "total_articles": 38,
+  "total_articles": 44,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -311,6 +311,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/infrastructure-expansion-flight-reduction-br-85-88.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783748875_dju 98  uuuuuuuuuuuuuu-480x320.jpg"
+    },
+    {
+      "title": "Supreme Court stalls government’s high-profile asset probe",
+      "summary": "The apex court orders the commission not to seek asset details or recommend legal action against public officials until a full bench delivers its verdict.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/11/supreme-court-stalls-government-s-high-profile-asset-probe",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Supremecourt-1783734125.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepse loses Rs 90 billion in week of broad market sell-off",
+      "summary": "Benchmark index falls nearly 2 percent as all sectoral indices close in the red, despite higher trading turnover. Analysts expect easing selling pressure and policy support to improve sentiment.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/11/nepse-loses-rs-90-billion-in-week-of-broad-market-sell-off",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Nepsebarchart-1783757644.jpg&w=300&height=200"
+    },
+    {
+      "title": "The morning after the flood",
+      "summary": "At the Kirtipur holding centre, families displaced by eviction surveyed the damage after a night of rising waters and lost possessions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/visual-stories/2026/07/11/the-morning-after-the-flood",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/74257309410247791932596723207793882234788355n11720260232511000x0-1783753485.jpg&w=600&height=400"
+    },
+    {
+      "title": "चितवनमा कृषि मन्त्री चौधरीले गरिन् किसानसँग प्रत्यक्ष संवाद",
+      "summary": "सुदूरपश्चिम प्रदेशमा कालाजार (लिस्मानियासिस) का बिरामीको सङ्ख्या पछिल्ला केही वर्षयता निरन्तर घट्दै गएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/kala-azar-cases-decreasing-in-the-far-west-71-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1754035569_Dengue-1200x560-480x320.jpg"
+    },
+    {
+      "title": "पशु वधशाला ऐन कार्यान्वयन गरिने",
+      "summary": "पशुपतिनाथको पूजाआराधना एवं दर्शनका लागि आउने भक्तजनको सहजताका लागि पशुपति क्षेत्रमा सफाइ अभियान सुरु गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/preparations-for-sawan-monday-at-pashupati-cleanup-campaign-begins-br-36-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756826122_pasupati-480x320.jpg"
+    },
+    {
+      "title": "संसद्‌मा बालेनले भनेका थिए- सुकुम्बासीलाई डुबानबाट जोगाउन ‘होल्डिङ सेन्टर’ मा सार्‍याैं",
+      "summary": "हालान्डको सफलताको सबैभन्दा ठूलो रहस्य उनको मनोवैज्ञानिक दृष्टिकोण पनि हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/haaland-s-success-mental-vision-and-positive-thinking-along-with-physical-ability-46-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783750159_Haland new-480x320.jpg"
     }
   ]
 }
