@@ -1,7 +1,7 @@
 {
   "scraped_at": "2026-07-11T03:27:50.257609",
   "date": "2026-07-11",
-  "total_articles": 34,
+  "total_articles": 32,
   "sources": [
     "KathmanduPost",
     "News24",
@@ -137,14 +137,6 @@
       "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/FOREIGNSECRETARY-1783697051.jpg&w=600&height=400"
     },
     {
-      "title": "Government reiterates commitment to one-China policy amid Dalai Lama birthday controversy",
-      "summary": "The apex court orders the commission not to seek asset details or recommend legal action against public officials until a full bench delivers its verdict.",
-      "source": "KathmanduPost",
-      "language": "en",
-      "source_url": "https://kathmandupost.com/national/2026/07/10/government-reiterates-commitment-to-one-china-policy-amid-dalai-lama-birthday-controversy",
-      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/FOREIGNSECRETARY-1783697051.jpg&w=600&height=400"
-    },
-    {
       "title": "Who is accountable for Ganesh Nepali’s death?",
       "summary": "Foreign Ministry says country-specific economic diplomacy strategies prepared for 20 nations.",
       "source": "KathmanduPost",
@@ -183,14 +175,6 @@
       "language": "en",
       "source_url": "https://kathmandupost.com/art-culture/2026/07/11/events-july-11-to-july-17-2026",
       "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Nepse-1783735178.jpg&w=400&height=267"
-    },
-    {
-      "title": "A night of honours and performances for Nepali music",
-      "summary": "Here are some of the photos taken by our photojournalists and reporters this week.",
-      "source": "KathmanduPost",
-      "language": "en",
-      "source_url": "https://kathmandupost.com/art-culture/2026/07/10/a-night-of-honours-and-performances-for-nepali-music",
-      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/AeroplanedepartureTIA0108220U8A5749copy-1783735046.jpg&w=400&height=267"
     },
     {
       "title": "Jhuma Limbu, Nhyoo Bajracharya win top honours at Radio Kantipur National Music Awards",
