@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-07-12T13:44:04.405518",
+  "scraped_at": "2026-07-12T17:08:25.739899",
   "date": "2026-07-12",
-  "total_articles": 46,
+  "total_articles": 49,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -375,6 +375,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/100-capital-budget-expenditure-in-udayapurgadhi-28-34.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Latest tests find faecal contamination in Kathmandu drinking water",
+      "summary": "Water samples collected from Chandragiri, Kritipur, Dakshinkali and Gokarneshwar municipalities, and Kathmandu Metropolitan City, were found to contain faecal coliform and E coli.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/07/12/latest-tests-find-faecal-contamination-in-kathmandu-drinking-water",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/water12720261140301000x0-1783860543.jpg&w=300&height=200"
+    },
+    {
+      "title": "कांग्रेस नीति तथा प्रतिष्ठानमा छ उपसमितिका संयोजक चयन",
+      "summary": "चीनमा एक साताभित्रै आएको दोस्रो शक्तिशाली समुद्री आँधी ‘टाइफून बाभी’ का कारण तटीय क्षेत्रबाट करिब २० लाख मानिसलाई सुरक्षित स्थानमा सारिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/powerful-typhoon-hits-china-2-million-people-displaced-flights-and-rail-services-disrupted-99-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783873466_chin-480x320.jpg"
+    },
+    {
+      "title": "सुकुमवासी समस्याको दीर्घकालीन समाधानका लागि सरकार गम्भीर छः गृहमन्त्री",
+      "summary": "अमेरिका र इरानबीच पुनः सैन्य भिडन्त सुरु भएसँगै रणनीतिक रूपमा महत्त्वपूर्ण मानिने हर्मुज जलसन्धि बन्द भएको इरानले घोषणा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/military-confrontation-between-america-and-iran-resumes-iran-says-hormuz-closed-78-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783872040_hormuz-480x320.jpg"
     }
   ]
 }
