@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-12T03:39:34.484983",
+  "scraped_at": "2026-07-12T06:41:07.048456",
   "date": "2026-07-12",
-  "total_articles": 34,
+  "total_articles": 37,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -279,6 +279,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/allegations-of-repression-against-activists-at-kirtipur-holding-center-demand-for-investigation-and-release-55-26.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Ganesh Nepali’s family refuses to claim body, seeks state accountability over death",
+      "summary": "Relatives demand responsibility from authorities after the ride-hailing driver died following self-immolation outside the passport office, as a probe examines the dispute over a motorcycle wheel lock.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/12/ganesh-nepali-s-family-refuses-to-claim-body-seeks-state-accountability-over-death",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/7412657138994938292278211908486585284949895n-1783828488.jpg&w=300&height=200"
+    },
+    {
+      "title": "Floods at Kirtipur holding centre expose flaws in government’s squatter relocation plan",
+      "summary": "Families relocated from riverbanks lose their homes and belongings again as the government's holding centre floods.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/12/floods-at-kirtipur-holding-centre-expose-flaws-in-government-s-squatter-relocation-plan",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/sukumbasi-1783827195.jpg&w=300&height=200"
+    },
+    {
+      "title": "सय दिनमै ‘निरंकुशताको गन्ध’ आएको महतोको आरोप : संघीयता कमजोर पार्ने प्रयास नगर्न चेतावनी",
+      "summary": "हिजो राति उनलाई मुटु दुखेको होइन रहेछ, बरु उनकै दुई छोराले दूधमा विष मिसाएर खुवाएका रहेछन्!",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/death-br-57-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776489446_Ganesh 67-480x320.jpg"
     }
   ]
 }
