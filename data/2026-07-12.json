@@ -1,7 +1,7 @@
 {
   "scraped_at": "2026-07-12T03:39:34.484983",
   "date": "2026-07-12",
-  "total_articles": 34,
+  "total_articles": 33,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -131,14 +131,6 @@
     {
       "title": "What’s the cost of building a home? It’s getting more expensive",
       "summary": "Builders cite rising material prices, higher transport costs and stricter building standards, while official data show electrical wires and bricks posted the sharpest price increases.",
-      "source": "KathmanduPost",
-      "language": "en",
-      "source_url": "https://kathmandupost.com/money/2026/07/12/what-s-the-cost-of-building-a-home-it-s-getting-more-expensive",
-      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/bulding-1783820197.jpg&w=600&height=400"
-    },
-    {
-      "title": "What’s the cost of building a home? It’s getting more expensive",
-      "summary": "Families relocated from riverbanks lose their homes and belongings again as the government's holding centre floods.",
       "source": "KathmanduPost",
       "language": "en",
       "source_url": "https://kathmandupost.com/money/2026/07/12/what-s-the-cost-of-building-a-home-it-s-getting-more-expensive",
