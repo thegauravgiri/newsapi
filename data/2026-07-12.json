@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-12T09:58:13.278119",
+  "scraped_at": "2026-07-12T13:44:04.405518",
   "date": "2026-07-12",
-  "total_articles": 40,
+  "total_articles": 46,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -327,6 +327,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/messi-said-speak-to-me-nicely-when-he-had-an-argument-with-the-referee-in-the-world-cup-quarter-final-94-59.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783848459_Angry Messi-480x320.jpg"
+    },
+    {
+      "title": "Government, family of self-immolation victim Ganesh Nepali sign nine-point agreement",
+      "summary": "Deal ends days of deadlocked talks with commitments to an independent inquiry, employment for the deceased’s wife, financial assistance for the family and education support for his daughter.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/12/government-family-of-self-immolation-victim-ganesh-nepali-sign-nine-point-agreement",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/ganesh10720260814511000x0-1783863337.jpg&w=300&height=200"
+    },
+    {
+      "title": "लामिछाने निवासमा बालेनको चार घण्टा लामो राजनीतिक संवाद",
+      "summary": "असार २५ गते मध्यरातिदेखि महालेखा नियन्त्रक कार्यालयले नियन्त्रित स्थानीय तहहरूको आर्थिक कारोबार गर्ने बैंक खाता (सुत्र) बन्द गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/100-capital-budget-expenditure-in-udayapurgadhi-28-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1757120119_Budget-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको नीति प्रतिष्ठानमा ६ उपसमिति संयोजक चयन",
+      "summary": "काठमाडौंको त्रिपुरेश्वरमा आत्मदाह प्रयासपछि ज्यान गुमाएका मुगुका २५ वर्षीय गणेश नेपालीकी श्रीमती एकमाया नेपालीलाई काठमाडौं महानगरपालिकाले रोजगारी दिने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/ganesh-nepali-case-metropolis-to-provide-employment-to-deceased-s-wife-14-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783861474_55-480x320.jpg"
+    },
+    {
+      "title": "लोकतन्त्रको लागि सरकारको अशुभ संकेत धेरै भयो : एमाले सचिव बस्नेत",
+      "summary": "अर्जेन्टिना अर्को उपाधि नजिक छ रइंग्ल्याण्डसँगको बहुप्रतीक्षित भेट अब विश्व फुटबलकै सबैभन्दा ठूलो आकर्षणमध्ये एक बनेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/messi-is-facing-england-for-the-first-time-will-maradona-s-history-be-repeated-45-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783862873_messi (1)-480x320.jpg"
+    },
+    {
+      "title": "गृहमन्त्रीसहित मन्त्रीहरूले गरे खरिपाटी होल्डिङ सेन्टरको अवलोकन",
+      "summary": "काठमाडौंको त्रिपुरेश्वरमा आत्मदाह प्रयासपछि ज्यान गुमाएका मुगुका २५ वर्षीय गणेश नेपालीको मृत्यु प्रकरणमा जोडिएका काठमाडौं महानगरपालिकाका नगर प्रहरी कर्मचारीहरू तत्काल निलम्बनमा पर्ने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/ganesh-nepali-case-metropolitan-police-force-personnel-deployed-in-the-incident-will-be-suspended-immediately-38-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783861474_55-480x320.jpg"
+    },
+    {
+      "title": "सुदूरपश्चिम प्रदेश : सत्तारुढ दलबिच बजेटको विवाद चर्किँदा सरकार धरापमा",
+      "summary": "असार २५ गते मध्यरातिदेखि महालेखा नियन्त्रक कार्यालयले नियन्त्रित स्थानीय तहहरूको आर्थिक कारोबार गर्ने बैंक खाता (सुत्र) बन्द गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/100-capital-budget-expenditure-in-udayapurgadhi-28-34.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
