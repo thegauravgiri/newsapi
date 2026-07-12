@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-12T06:41:07.048456",
+  "scraped_at": "2026-07-12T09:58:13.278119",
   "date": "2026-07-12",
-  "total_articles": 36,
+  "total_articles": 40,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -295,6 +295,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/death-br-57-31.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776489446_Ganesh 67-480x320.jpg"
+    },
+    {
+      "title": "विमानस्थलबाट पक्राउ गरेर प्रहरीले दुर्गा प्रसाईंलाई किन घरमा छाड्यो?",
+      "summary": "बेलायतमा हुँदै आएको ‘अन्तर्राष्ट्रिय नेपाली फिल्म अवार्ड’ (इनफा) को तेस्रो संस्करण यसवर्ष नेपालमा आयोजना हुने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/the-third-international-nepali-film-awards-will-be-held-in-nepal-25-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783849948_infa-480x320.jpg"
+    },
+    {
+      "title": "निकुञ्ज क्षेत्रमा रहेका हात्तीको पालनपोषणमा विशेष ध्यान दिन मन्त्री चौधरीको निर्देशन",
+      "summary": "गोरखामा धान रोपाइँको मुख्य समयमा आवश्यक रासायनिक मलको एकतिहाइ मात्र आपूर्ति भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/even-as-asad-is-coming-to-an-end-there-is-not-enough-fertilizer-in-gorkha-to-meet-demand-35-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777558735_Rasayanik_Mal-480x320.jpg"
+    },
+    {
+      "title": "सार्वजनिक प्रतिबद्धता पूरा गर्न सरकार असफल : भीष्मराज आङ्देम्बे",
+      "summary": "अवैध लागूऔषध सहित प्रहरीले विभिन्न स्थानबाट २८ जनालाई नियन्त्रणमा लिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/28-people-arrested-from-various-locations-with-illegal-drugs-12-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755793803_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "नेपालगन्ज उपमहानगरपालिकाको एक अर्ब ७६ करोडको बजेट पारित",
+      "summary": "क्यामेरामा कैद भएको उक्त दृश्यमा मेस्सीले आफ्ना हातहरू पछाडि राखेर निकै शान्त तर दृढताका साथ रेफ्रीलाई सम्झाएको देखिन्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/messi-said-speak-to-me-nicely-when-he-had-an-argument-with-the-referee-in-the-world-cup-quarter-final-94-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783848459_Angry Messi-480x320.jpg"
     }
   ]
 }
