@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-13T07:29:09.346699",
+  "scraped_at": "2026-07-13T11:21:31.102610",
   "date": "2026-07-13",
-  "total_articles": 40,
+  "total_articles": 46,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -327,6 +327,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/youth-learning-skills-to-become-self-employed-92-51.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783926526_sip-480x320.jpg"
+    },
+    {
+      "title": "Police actions against Gen Z activists raise concerns over shrinking space for dissent",
+      "summary": "Detentions of activists supporting flood-affected squatters and critics of the government have sparked criticism from rights advocates, while police say they acted only against those obstructing law enforcement.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/13/police-actions-against-gen-z-activists-raise-concerns-over-shrinking-space-for-dissent",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/arrest-1783916735.jpg&w=300&height=200"
+    },
+    {
+      "title": "घर बलियो भए सदन पनि बलियो हुन्छ: भीष्मराज आङदेम्बे",
+      "summary": "काठमाडौं उपत्यकासहित देशका अधिकांश स्थानमा अहिले वर्षा भइरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/heavy-rain-in-kathmandu-very-heavy-rain-in-makawanpurgadhi-and-myagdi-br-35-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769597881_Rain13-480x320.jpg"
+    },
+    {
+      "title": "सरकारले ल्यायो जेन-जी प्याकेज- मुद्दा फिर्तादेखि सरकारी सेवामा प्राथमिकता",
+      "summary": "गणेश नेपालीका परिवारले घटनाको निष्पक्ष छानबिनको माग गर्दै प्रहरी वृत्त कालिमाटीमा ज्यानसम्बन्धी कसुरअन्तर्गत जाहेरी दर्ता गराएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/ganesh-nepali-s-funeral-at-pashupati-aryaghat-85-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/photos/1783940904_Ganesh Nepali-480x320-wm.jpg"
+    },
+    {
+      "title": "पूर्वमन्त्री रामेश्वर खनालको प्रश्न: गाडीको नम्बरप्लेट स्पष्ट देखिन्छ, शंकास्पद कसरी भएछ ?",
+      "summary": "नेपालको सुशासन र भ्रष्टाचार विरुद्धको अभियानमा ऐतिहासिक योगदान पुर्‍याएको भन्दै जेन-जी आन्दोलनको इतिहासलाई विद्यालय तहको पाठ्यक्रममा समावेश गरिने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/gen-g-movement-good-governance-and-lessons-against-corruption-to-be-included-in-school-curriculum-82-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1757322325_genz-480x320.jpg"
+    },
+    {
+      "title": "सातै प्रदेशमा ‘बर्न’ उपचार केन्द्र तत्काल विस्तार गर्न प्रधानमन्त्रीको निर्देशन",
+      "summary": "साताको पहिलो कारोबार दिन नेप्से परिसूचक लगातार तेस्रो दिन पनि ओरालो लागेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/nepse-declines-for-third-consecutive-day-trading-volume-exceeds-rs-7-46-billion-47-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770804328_nepse-share-nawayug-480x320.jpg"
+    },
+    {
+      "title": "सातै प्रदेशमा ‘बर्न’ उपचार केन्द्र विस्तार गर्न प्रधानमन्त्रीको निर्देशन",
+      "summary": "काठमाडौं उपत्यकासहित देशका अधिकांश स्थानमा अहिले वर्षा भइरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/heavy-rain-in-kathmandu-very-heavy-rain-in-makawanpurgadhi-and-myagdi-br-35-22.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
