@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-07-13T14:51:46.485738",
+  "scraped_at": "2026-07-13T18:00:49.081933",
   "date": "2026-07-13",
-  "total_articles": 51,
+  "total_articles": 57,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -415,6 +415,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/bhanubhakti-s-writings-recited-at-the-vedanta-department-of-valmiki-vidyapeeth-39-37.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Political reset fails to lift Nepal’s stock market",
+      "summary": "Nepse has lost over 380 points and nearly Rs600 billion in market value since Balendra Shah became prime minister.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/13/political-reset-fails-to-lift-nepal-s-stock-market",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/nepse05420261134021000x0-1783956142.jpg&w=300&height=200"
+    },
+    {
+      "title": "Vehicle linked to RSP leader among those blocking three media houses",
+      "summary": "The vehicle left outside Kantipur was traced to Rabi Jaiswal, a Rautahat-based businessman who was appointed to the Rastriya Swatantra Party's Central Research and Documentation Department.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/13/vehicle-linked-to-rsp-leader-among-those-blocking-three-media-houses",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/main2913720261229171000x0-1783942755.jpg&w=300&height=200"
+    },
+    {
+      "title": "How far will Nepal’s ruling party go to silence its critics?",
+      "summary": "Flood-displaced families say shifting to Bhaktapur could derail children’s education unless the government delivers on transport promises.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/editorial/2026/07/13/how-far-will-nepal-s-ruling-party-go-to-silence-its-critics",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb51-1783957765.jpg&w=400&height=267"
+    },
+    {
+      "title": "अलोकतान्त्रिक गतिविधिविरुद्ध एकजुट भएर प्रतिवाद गर्न कांग्रेसको आह्वान",
+      "summary": "कास्कीको अन्नपूर्ण गाउँपालिका-११ स्थित किम्रुङ खोलामा आएको बाढीले सोही स्थानमा निर्माणाधीन माथिल्लो मोदी ‘ए’ जलविद्युत् आयोजनामा क्षति पुर्‍याएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/flood-damages-upper-modi-a-hydropower-project-under-construction-40-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783959666_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "अभिनेत्री केकी अधिकारी भन्छिन्- सस्तो स्टन्टले देश बन्दैन",
+      "summary": "कांग्रेसले लोकतन्त्र, प्रेस स्वतन्त्रता र नागरिक अधिकारको संरक्षणका लागि लोकतन्त्रवादी शक्ति, सञ्चारजगत्, नागरिक समाज तथा आम नागरिकलाई यस्ता अलोकतान्त्रिक गतिविधिविरुद्ध एकजुट भएर प्रतिवाद गर्न पनि आह्वान गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-calls-for-united-resistance-against-undemocratic-activities-59-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781225751_congress 68-480x320.jpg"
+    },
+    {
+      "title": "सरकारले बिजनेस दिन नसक्दा संसद् बैठक पातलिँदै",
+      "summary": "अष्ट्रेलियालाई कर्मथलो बनाएर प्राध्यापन पेसामा आबद्ध नेपाली योगी आचार्य राजन शर्माको यो वर्ष नेपाल आउनुको मुख्य उद्देश्य थियो, कैलाश मानसरोवर पुगेर अन्तर्राष्ट्रिय योग दिवस मनाउनु र यहाँका साधकहरूबीच योग तथा ध्यान कार्यक्रम सम्पन्न गर्नु।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/barefoot-mansarovar-pilgrimage-on-a-snowy-path-br-88-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783958852_56-480x320.jpg"
     }
   ]
 }
