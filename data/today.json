@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-13T03:41:24.178343",
+  "scraped_at": "2026-07-13T07:29:09.346699",
   "date": "2026-07-13",
-  "total_articles": 34,
+  "total_articles": 40,
   "sources": [
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -279,6 +279,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/27-killed-60-injured-in-bangkok-bar-fire-69-94.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Ride-hailing driver’s self-immolation sparks debate over municipal police’s jurisdiction, aggression",
+      "summary": "Experts say the municipality police’s legal mandate does not authorise physical coercion, detention or independent crowd-control operations.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/13/ride-hailing-driver-s-self-immolation-sparks-debate-over-municipal-police-s-jurisdiction-aggression",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1783904022.jpg&w=600&height=400"
+    },
+    {
+      "title": "Tracing the spaces memory leaves behind",
+      "summary": "If an amendment can fail even when it is procedurally flawless, who decides when that line has been crossed?",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/arts/2026/07/13/tracing-the-spaces-memory-leaves-behind",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/FIKC7TB2MZMJLCO2N6TR72PPPE-1783907175.jpg&w=400&height=267"
+    },
+    {
+      "title": "Fiction: The town’s tragedy",
+      "summary": "Iran says it struck US military facilities across the Gulf as Washington intensifies attacks on Iranian military assets, raising fears of a wider regional conflict and prolonged disruption to global energy supplies.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/07/12/fiction-the-town-s-tragedy",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/main2copy-1783905150.jpg&w=400&height=267"
+    },
+    {
+      "title": "भानुभक्त कवि मात्र नभएर नेपाली आत्माको स्वर हुन् : सभामुख अर्याल",
+      "summary": "भद्रपुर नगरपालिका–३ ज्ञानेचोकबाट लुकाएर राखेको करिब ३९ क्विन्टल खर्बुजाको बीउ बरामद गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/39-quintals-of-melon-seeds-seized-from-jhapa-br-14-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783927195_kharbuja biu-480x320.jpg"
+    },
+    {
+      "title": "देशको वर्तमान संकटको समाधान क्षणिक उत्तेजनाबाट सम्भव हुँदैन : महासचिव पोखरेल",
+      "summary": "जल तथा मौसम विज्ञान विभागले आगामी तीन दिनसम्म देशका साना नदीमा आकस्मिक बाढीको पूर्वानुमान गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/flash-flood-forecast-for-small-rivers-63-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1750639990_ktm badhi-480x320.jpg"
+    },
+    {
+      "title": "सरकारका कामप्रति रवि असन्तुष्ट",
+      "summary": "सिन्धुलीको ग्रामीण क्षेत्रका युवाबर्ग रोजगारीका लागि विदेश वा सहर धाउने परम्पराभन्दा फरक बाटो रोज्दै व्यावसायिक सीप सिकेर आफ्नै गाउँमा स्वरोजगार बन्न अग्रसर हुन थालेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/youth-learning-skills-to-become-self-employed-92-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783926526_sip-480x320.jpg"
     }
   ]
 }
