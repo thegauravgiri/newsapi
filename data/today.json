@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-13T11:21:31.102610",
+  "scraped_at": "2026-07-13T14:51:46.485738",
   "date": "2026-07-13",
-  "total_articles": 46,
+  "total_articles": 52,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -374,6 +374,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/heavy-rain-in-kathmandu-very-heavy-rain-in-makawanpurgadhi-and-myagdi-br-35-22.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "The Himalayas are running out of their prized harvest",
+      "summary": "Yarsagumba collectors in Mugu and Dolpa are earning far less as declining yields and climate pressures weaken a vital source of income.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/13/the-himalayas-are-running-out-of-their-prized-harvest",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/dolpayarsarupapatan111520260954191000x0-1783934129.jpg&w=300&height=200"
+    },
+    {
+      "title": "सञ्चार क्षेत्रका समस्या समाधान गर्न सरकार तयार : मन्त्री तिमिल्सिना",
+      "summary": "आदिकवि भानुभक्त आचार्यका काव्यमा निहित वेदान्तीय दर्शन, अध्यात्म, नैतिक मूल्य र राष्ट्रिय चेतनामाथि गहन अध्ययन तथा अनुसन्धानको आवश्यकता औँल्याएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/bhanubhakti-s-writings-recited-at-the-vedanta-department-of-valmiki-vidyapeeth-39-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783954070_Bhanu-480x320.jpg"
+    },
+    {
+      "title": "‘राजनीतिक पदाधिकारीको सम्पत्ति छानबिन यथावत्’",
+      "summary": "अर्थमन्त्री डा. वाग्लेले मन्त्रीस्तरीय निर्णय गर्दै अर्याललाई राजस्व क्षेत्र हेर्ने गरी अवैतनिक सल्लाहकारमा नियुक्त गरेका हुन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/bhojan-aryal-appointed-as-revenue-advisor-to-finance-minister-98-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783953914_Wagle-480x320.jpg"
+    },
+    {
+      "title": "नागरिकको मुख थुनेर अधिनायकवाद लाद्ने प्रयास हुँदैछ: गगन थापा",
+      "summary": "प्रदेश सरकारसँगको सहकार्यमा निःशुल्क मृर्गौला प्रत्यारोपण गरिएको जनरल सर्जन डा. विकाश खड्काले जानकारी दिए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/free-kidney-transplant-in-karnali-15-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783952811_Kidney-480x320.jpg"
+    },
+    {
+      "title": "रहस्यमय गाडी पार्किङ-विनाशकाले विपरीत बुद्धि: शंकर पोखरेल",
+      "summary": "लगातारको वर्षा, बाढी र पहिरोका कारण काठमाडौं उपत्यकासहित देशका विभिन्न मुख्य राजमार्गहरू अवरुद्ध भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/floods-and-landslides-wreak-havoc-on-major-highways-across-the-country-most-road-sections-including-kantilokpath-and-kaligandaki-corridor-remain-closed-80-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783952331_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "विष्णु पौडेललाई अझै तीन दिन हिरासतमा राख्न अदालतको अनुमति",
+      "summary": "आदिकवि भानुभक्त आचार्यका काव्यमा निहित वेदान्तीय दर्शन, अध्यात्म, नैतिक मूल्य र राष्ट्रिय चेतनामाथि गहन अध्ययन तथा अनुसन्धानको आवश्यकता औँल्याएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/bhanubhakti-s-writings-recited-at-the-vedanta-department-of-valmiki-vidyapeeth-39-37.html?click_from=just_in",
       "image_url": ""
     }
   ]
