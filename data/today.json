@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-14T10:05:19.842056",
+  "scraped_at": "2026-07-14T14:02:16.109364",
   "date": "2026-07-14",
-  "total_articles": 48,
+  "total_articles": 56,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -390,6 +390,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/supreme-court-quashes-government-circular-banning-government-advertisements-to-private-media-42-98.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Lawmakers accuse government of intimidation after vehicles block media houses",
+      "summary": "MPs from both the opposition and ruling parties allege that the blockades outside media outlets and politicians’ homes were aimed at deflecting public anger over recent controversies.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/14/lawmakers-accuse-government-of-intimidation-after-vehicles-block-media-houses",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/krbktmu3a206314720261035361000x0-1784026532.jpg&w=300&height=200"
+    },
+    {
+      "title": "Supreme Court scraps government ban on private media receiving official ads",
+      "summary": "The ruling overturns April decision that allowed government advertisements and notices to be published only through state-owned media outlets.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/14/supreme-court-scraps-government-ban-on-private-media-receiving-official-ads",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/supremecourtnew515520260155081000x0-1784026098.jpg&w=300&height=200"
+    },
+    {
+      "title": "Rs26.39 million returned to 1,754 cooperative victims in two months",
+      "summary": "Depositors from 10 of the 23 cooperatives declared crisis-ridden by the government have received partial refunds. Victims allege the payout process remains unfair.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/14/rs26-39-million-returned-to-1-754-cooperative-victims-in-two-months",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb52-1784036543.jpg&w=600&height=400"
+    },
+    {
+      "title": "विद्यार्थी कुटिएको घटनाप्रति शिक्षा मन्त्रालयको चासो",
+      "summary": "नमूनाको कल्चर परीक्षण भइरहेको र रिपोर्ट आउन बाँकी रहेको इपिडिमियोलोजी तथा रोग नियन्त्रण महाशाखाको रोग निगरानी शाखाका प्रमुख हेमराज पाण्डेले जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/kathmandu-valley-at-high-risk-of-cholera-61-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1732698892_Hetauda Hospital-480x320.jpg"
+    },
+    {
+      "title": "‘सवारी आतंक’ नियोजित होइन, संलग्न जो भए पनि कारबाही हुन्छ: सरकार",
+      "summary": "नेपाल सरकारका पूर्वसचिव जीवगर जोशीको ७६ वर्षको उमेरमा आज निधन भएको छ। उनी केही समयदेखि मुटुसम्बन्धी समस्याले पीडित थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/former-secretary-joshi-passes-away-92-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784036355_Joshi-480x320.jpg"
+    },
+    {
+      "title": "बेइमानी गर्ने सहकारी सञ्चालकलाई कारबाही हुन्छ : मुख्यमन्त्री बानियाँ",
+      "summary": "बैंकबाट रिसोर्ट निर्माणका लागि लिएको कर्जा दुरुपयोग गरेको आरोपमा व्यवसायी शशी शर्मा पौडेल पक्राउ परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/a-businessman-close-to-uml-vice-president-bishnu-poudel-was-arrested-60-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1738407818_CIB-480x320.jpg"
+    },
+    {
+      "title": "उपराष्ट्रपति यादव कतार प्रस्थान",
+      "summary": "काठमाडौंको बौद्धमा रहेको खावालिङ विद्यालयमा शिक्षिकाले विद्यार्थीलाई कुटपिट गरेको घटनाप्रति शिक्षा तथा खेलकुद मन्त्रालयले चासो लिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ministry-of-education-concerned-over-student-beating-incident-br-26-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784035911_New Project (3)-480x320.jpg"
+    },
+    {
+      "title": "नेपाल वायुसेवा निगममा महेश्वरभक्त श्रेष्ठलाई दोहोरो जिम्मेवारी",
+      "summary": "नमूनाको कल्चर परीक्षण भइरहेको र रिपोर्ट आउन बाँकी रहेको इपिडिमियोलोजी तथा रोग नियन्त्रण महाशाखाको रोग निगरानी शाखाका प्रमुख हेमराज पाण्डेले जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/kathmandu-valley-at-high-risk-of-cholera-61-43.html?click_from=just_in",
       "image_url": ""
     }
   ]
