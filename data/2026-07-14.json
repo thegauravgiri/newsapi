@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-14T06:18:42.084530",
+  "scraped_at": "2026-07-14T10:05:19.842056",
   "date": "2026-07-14",
-  "total_articles": 40,
+  "total_articles": 47,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -326,6 +326,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/lumbini-government-preparing-to-reduce-the-number-of-ministries-34-17.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Twenty-one Pulchowk graduates join Airbus this year",
+      "summary": "Nepal's first aerospace engineering programme has now placed about 44 graduates at the global aircraft manufacturer over the past three years.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/14/twenty-one-pulchowk-graduates-join-airbus-this-year",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/hm4hklaoaa0p5314720260951421000x0-1784022986.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal moves to set ethanol standards ahead of petrol blending rollout",
+      "summary": "Quality rules propose 99.5 percent purity for ethanol used in petrol, as Nepal prepares to blend up to 10 percent biofuel to reduce fuel imports and promote domestic production.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/14/nepal-moves-to-set-ethanol-standards-ahead-of-petrol-blending-rollout",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/petrol-1784011626.jpg&w=600&height=400"
+    },
+    {
+      "title": "मलाई ‘आमा कसम तँलाई गो’ली हान्छु भनेर’ धम्की आयो: ऐन महर",
+      "summary": "सर्वोच्च अदालतले सरकारी विज्ञापन वितरणमा सरकारले लागू गरेको एकद्वार प्रणाली खारेज गरिदिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/supreme-court-quashes-government-circular-banning-government-advertisements-to-private-media-42-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1760588843_supreme-480x320.jpg"
+    },
+    {
+      "title": "मन्त्रिपरिषद् बैठक बस्दै",
+      "summary": "नेकपा (एमाले) का सांसद् ऐन महरले सामाजिक सञ्जालमार्फत आफूलाई निरन्तर ज्यान मार्ने धम्की आइरहेको भन्दै संसदमा सुरक्षाको विषय उठाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/i-was-threatened-with-i-swear-i-ll-shoot-you-mother-ain-mahar-30-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784022565_ain-480x320.jpg"
+    },
+    {
+      "title": "सर्भर समस्याले रोकिए मालपोतका काम, बैंकिङ कारोबार समेत प्रभावित",
+      "summary": "बैठक सिंहदरबारस्थित प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालयमा आयोजना हुने जनाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/cabinet-meeting-underway-br-86-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784022687__cabinet--480x320.jpg"
+    },
+    {
+      "title": "विपद् जोखिम न्यूनीकरण प्रभावकारी बनाउन सभामुख अर्यालद्वारा सरकारलाई रुलिङ",
+      "summary": "तीव्र गतिमा कुदिरहेको सरकारलाई ‘ट्रक साहित्य’ को उदाहरण दिँदै उनले भनिन्, ‘एक्सप्रेस वेमा तीव्र गतिमा अगाडि बढिरहेको सरकारलाई म एउटा ट्रक साहित्य सम्झाउन चाहन्छु, हतार गरे भन्न सकिन्न, बिस्तारै गए अवश्य पुगिन्छ।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rima-reminds-the-government-of-the-express-way-truck-literature-you-can-t-say-if-you-hurry-you-will-definitely-reach-it-if-you-go-slowly-br-22-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784021472_rima-480x320.jpg"
+    },
+    {
+      "title": "संसद्‌ पुगेको २० मिनेटमै बाहिरिए प्रधानमन्त्री शाह",
+      "summary": "सर्वोच्च अदालतले सरकारी विज्ञापन वितरणमा सरकारले लागू गरेको एकद्वार प्रणाली खारेज गरिदिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/supreme-court-quashes-government-circular-banning-government-advertisements-to-private-media-42-98.html?click_from=just_in",
       "image_url": ""
     }
   ]
