@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-14T03:16:47.876530",
+  "scraped_at": "2026-07-14T06:18:42.084530",
   "date": "2026-07-14",
-  "total_articles": 33,
+  "total_articles": 40,
   "sources": [
     "NagarikNews",
     "News24",
@@ -270,6 +270,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/world-cup-semi-final-why-are-argentina-england-tickets-twice-as-expensive-as-france-spain-94-23.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Tribhuvan University recovers only a fraction of funds from staff who abused paid study leave",
+      "summary": "More than 250 teachers and staff are believed to have failed to return after taking fully paid study leave abroad, leaving Nepal’s largest university with estimated losses exceeding Rs1.5 billion.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/14/tribhuvan-university-recovers-only-a-fraction-of-funds-from-staff-who-abused-paid-study-leave",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/tribhuwanuniversitytu14720260350461000x0-1784001898.jpg&w=300&height=200"
+    },
+    {
+      "title": "He dreamed of playing for Nepal. Now he’s fighting a battle off the pitch",
+      "summary": "Aashish Rai was once a promising midfielder. Then came a devastating injury and a funding crisis, compounded by ANFA’s indifference.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/07/14/he-dreamed-of-playing-for-nepal-now-he-s-fighting-a-battle-off-the-pitch",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/RAI1-1783992287.jpg&w=300&height=200"
+    },
+    {
+      "title": "मन्त्रालय संख्या घटाउने तयारीमा लुम्बिनी सरकार",
+      "summary": "मन्त्रालय संख्या घटाउने निर्णय गरेको लुम्बिनी प्रदेश सरकार आगामी आर्थिक वर्षदेखि कार्यान्वयन हुने गरी मन्त्रालय घटाउने तयारीमा लागेको छ, तर यो विषयमा ठोस पहल भने सरकारले गरिसकेको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/lumbini-government-preparing-to-reduce-the-number-of-ministries-34-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784009481_lumbini sarkar-480x320.jpg"
+    },
+    {
+      "title": "कोशी प्रदेशद्वारा १४ प्रकारका घातक रोगविरुद्ध निःशुल्क खोप प्रदान",
+      "summary": "नेपालमा पछिल्ला वर्षमा आत्महत्या सार्वजनिक स्वास्थ्य र सामाजिक दुवै दृष्टिले गम्भीर चुनौतीका रूपमा देखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/why-is-suicide-increasing-27-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1716518394_depression-480x320.jpg"
+    },
+    {
+      "title": "गगन थापा र अमरेश सिंहले विवेक मण्डलको परिवारलाई सहयोग गर्ने",
+      "summary": "कोशी प्रदेशका मुख्यमन्त्री कार्कीले प्रदेशलाई पूर्णखोप सुनिश्चितता भए नभएको यकिन गरी कोशी प्रदेश पूर्ण खोप सुनिश्चितता घोषणा गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/koshi-province-provides-free-vaccinations-against-14-deadly-diseases-br-35-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783945584_KoshiPradesh-480x320.jpg"
+    },
+    {
+      "title": "कतारको औपचारिक भ्रमणमा जाँदै उपराष्ट्रपति यादव",
+      "summary": "त्रिभुवन विश्वविद्यालय (त्रिवि) सहित विभिन्न विश्वविद्यालय तथा त्यस अन्तर्गतका सम्पूर्ण आङ्गिक क्याम्पसहरूमा अब कम्तीमा १० प्रतिशत विद्यार्थीलाई पूर्ण छात्रवृत्ति सुनिश्चित हुने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/joint-initiative-of-university-vice-chancellors-to-ensure-10-percent-scholarship-in-higher-education-90-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1782538171__tu-13-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभा बैठक : यी विधेयक र प्रतिवेदनमाथि छलफल हुँदै",
+      "summary": "मन्त्रालय संख्या घटाउने निर्णय गरेको लुम्बिनी प्रदेश सरकार आगामी आर्थिक वर्षदेखि कार्यान्वयन हुने गरी मन्त्रालय घटाउने तयारीमा लागेको छ, तर यो विषयमा ठोस पहल भने सरकारले गरिसकेको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/lumbini-government-preparing-to-reduce-the-number-of-ministries-34-17.html?click_from=just_in",
       "image_url": ""
     }
   ]
