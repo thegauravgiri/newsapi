@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-14T14:02:16.109364",
+  "scraped_at": "2026-07-14T17:21:56.973007",
   "date": "2026-07-14",
-  "total_articles": 56,
+  "total_articles": 61,
   "sources": [
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -455,6 +455,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/health/kathmandu-valley-at-high-risk-of-cholera-61-43.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Government decides to implement all commission reports on loan sharking",
+      "summary": "Tuesday’s Cabinet meeting also appointed Maheshwor Bhakta Shrestha as the executive chairperson of Nepal Airlines Corporation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/14/government-decides-to-implement-all-commission-reports-on-loan-sharking",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Untitled1-1784032985.jpg&w=300&height=200"
+    },
+    {
+      "title": "नेपाल टेलिकमका पूर्वप्रबन्ध निर्देशक सुनिल पौडेल दोषी ठहर",
+      "summary": "काठमाडौं जिल्ला अदालतका न्यायाधीश चन्द्रकान्त पौडेलको इजलासले मंगलबार उनलाई बलात्कार कसुरमा दोषी ठहर गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/former-madhesh-provincial-chief-rajesh-ahiraj-found-guilty-in-rape-case-40-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784046099_ttt-480x320.jpg"
+    },
+    {
+      "title": "६० हजार करारका कर्मचारी हटाउन प्रस्ताव तयार",
+      "summary": "सोनम वाङचुकले ‘युवा ककरोच जनता पार्टी (सीजेपी)’ का संस्थापकसँग मिलेर मध्य दिल्लीमा धर्ना दिइरहेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/sonam-who-is-on-a-hunger-strike-demanding-the-resignation-of-a-minister-in-the-modi-government-has-her-health-deteriorated-she-is-urged-to-end-her-hunger-strike-38-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784044554_Sonam (1)-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभा बैठकको समय परिवर्तन",
+      "summary": "विशेष अदालतले गैरकानुनी सम्पत्ति आर्जनको अभियोगमा नेपाल टेलिकमका पूर्वप्रबन्ध निर्देशक सुनिल पौडेललाई दोषी ठहर गर्दै साढे दुई वर्ष कैद सजाय सुनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/former-managing-director-of-nepal-telecom-sunil-poudel-found-guilty-12-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1738667817_nepal_telecom-480x320.jpg"
+    },
+    {
+      "title": "सुकुम्बासी समस्या समाधान सम्बन्धमा कांग्रेसले संसद्‍मा सार्वजनिक महत्वको प्रस्ताव लैजाने",
+      "summary": "सरकारले संघ, प्रदेश र स्थानीय तहअन्तर्गत विभिन्न मन्त्रालय, निकाय, आयोग तथा कार्यालयहरूमा कार्यरत करिब ६० हजार करार, अस्थायी तथा ज्यालादारी कर्मचारी हटाउने नीतिगत निर्णयका लागि प्रस्ताव तयार गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/proposal-prepared-to-remove-60-000-contract-employees-br-81-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784043408_karmachari-480x320.jpg"
     }
   ]
 }
