@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-15T13:58:42.786508",
+  "scraped_at": "2026-07-15T17:24:29.416091",
   "date": "2026-07-15",
-  "total_articles": 57,
+  "total_articles": 63,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -462,6 +462,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/government-s-poor-performance-in-budget-expenditure-and-revenue-56-69.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Government’s two-day weekend cuts off telemedicine for migrant workers",
+      "summary": "Bir Hospital’s hotline now operates only during office hours on weekdays, so workers in over 46 countries no longer have access to timely medical advice on weekends and after hours.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/07/15/government-s-two-day-weekend-cuts-off-telemedicine-for-migrant-workers",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/drsanjaydharelconsultingandprescribingmedicinetomigrantworkers0615720260447541000x0-1784128942.jpg&w=300&height=200"
+    },
+    {
+      "title": "मिटरब्याज पीडितलाई गृहमन्त्रीको आश्वासन-समस्या समाधान गर्छौं",
+      "summary": "उद्योग अनुगमन र खोला निरीक्षणमा व्यस्त भएर घण्टौँ ढिलाइ गरे पनि गृहमन्त्री सुधन गुरुङले बुधबार साँझ निजगढमा कुरेर बसेका मिटरब्याज पीडितहरूसँग भेटवार्ता गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/home-minister-assures-meter-badge-victims-we-will-solve-the-problem-71-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784133342_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "सम्पत्ति आयोगसम्बन्धी विवादमा सर्वोच्चले माग्यो ‘एमिकस क्युरी’, बारले कार्की र भट्टराईलाई तोक्यो",
+      "summary": "नवलपरासी (बर्दघाट सुस्तापूर्व) नवलपुरको कावासोती नगरपालिकास्थित नमूना मध्यवर्ती सामुदायिक वनभित्र सञ्चालनमा रहेको ‘जटायु रेष्टुरेन्ट’ अहिले गिद्ध संरक्षणको सफल नमूनासँगै पर्या–पर्यटन र अध्ययन–अनुसन्धान केन्द्रका रूपमा विकास हुँदै गएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jatayu-restaurant-a-successful-model-of-vulture-conservation-74-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784131691_vulture-480x320.jpg"
+    },
+    {
+      "title": "१६६ विधेयक ल्याउने सरकारको लक्ष्य",
+      "summary": "निवेदनमा गम्भीर संवैधानिक तथा कानुनी प्रश्न उठेको ठहर गर्दै सर्वोच्च अदालतले विज्ञहरूको स्वतन्त्र राय मागेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/supreme-court-seeks-amicus-curiae-in-property-commission-dispute-bar-appoints-karki-and-bhattarai-41-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781680926_Supreme court-480x320.jpg"
+    },
+    {
+      "title": "सरकार आर्थिक सुधारमा प्रयत्नशील छः अर्थमन्त्री",
+      "summary": "सरकारले आगामी आर्थिक वर्ष २०८३/८४ मा सङ्घीय संसद्मा १६६ वटा विधेयक पेस गर्ने लक्ष्यसहित वार्षिक विधायन कार्यतालिका सार्वजनिक गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-s-goal-to-bring-166-bills-11-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775377879_Sovita_Gautam-480x320.jpg"
+    },
+    {
+      "title": "एमालेसँगको सत्ता सहकार्य तोड्दै कांग्रेस",
+      "summary": "उद्योग अनुगमन र खोला निरीक्षणमा व्यस्त भएर घण्टौँ ढिलाइ गरे पनि गृहमन्त्री सुधन गुरुङले बुधबार साँझ निजगढमा कुरेर बसेका मिटरब्याज पीडितहरूसँग भेटवार्ता गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/home-minister-assures-meter-badge-victims-we-will-solve-the-problem-71-19.html?click_from=just_in",
       "image_url": ""
     }
   ]
