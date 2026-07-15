@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-07-15T03:16:17.651065",
+  "scraped_at": "2026-07-15T06:22:05.384143",
   "date": "2026-07-15",
-  "total_articles": 33,
+  "total_articles": 42,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -270,6 +270,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/end-of-low-bidding-in-public-procurement-br-68-28.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ताजा बस्तीका नागरीकमा खुशी",
+      "summary": "ताजा बस्तीका नागरीकमा खुशी",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13324",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/beli-brize--pul_-1784085905.jpg"
+    },
+    {
+      "title": "े सहमतिसँगै गणेश नेपाली प्रकरण समाधानतर्फ",
+      "summary": "े सहमतिसँगै गणेश नेपाली प्रकरण समाधानतर्फ",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13316",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/ganesh-1783913151.jpg"
+    },
+    {
+      "title": "Government pushes ten percent scholarship rule across universities",
+      "summary": "Prime Minister Balendra Shah directs newly appointed vice-chancellors to enforce free scholarships for disadvantaged and meritorious students while curbing political activities on campuses.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/15/government-pushes-ten-percent-scholarship-rule-across-universities",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/tukirtipur27122023021607watermarked15720260306241000x0-1784092829.jpg&w=300&height=200"
+    },
+    {
+      "title": "Rayamajhi gets four years in prison, Khand two in fake Bhutanese refugee scam",
+      "summary": "The district court determines sentences for 16 convicts, saying the organised fraud tarnished Nepal’s international image and constituted offences against the state.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/15/rayamajhi-gets-four-years-in-prison-khand-two-in-fake-bhutanese-refugee-scam",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1784077152.png&w=300&height=200"
+    },
+    {
+      "title": "कर्णाली मन्त्रिपरिषद् बैठकः विभिन्न निर्देशनालय सहित केन्द्र खारेज",
+      "summary": "कर्णाली प्रदेश सरकारले निर्देशनालयको नाम हेरफेर, खारेजी तथा तालिम केन्द्रहरू खारेज गरी कर्णाली प्रदेश प्रशिक्षण प्रतिष्ठानबाट कार्यसम्पादन गर्ने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/karnali-council-of-ministers-meeting-center-along-with-various-directorates-abolished-br-97-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773409086_karnali-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा नेता झाको प्रश्न- स्तरहीन र गलत प्रयोग गर्न जेनजी सहादत भएको हो ?",
+      "summary": "कथाकार हरि ढकालको ‘महाप्रश्न’ कथासंग्रह लाेकार्पण गरिएकाे छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/storyteller-hari-dhakal-s-mahaprashn-story-collection-launched-br-81-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784095643_tu 98gg-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभा र राष्ट्रियसभाको बैठकमा विभिन्नप्रतिवेदन पेस हुने",
+      "summary": "खोटाङ कारागारमा कैद सजाय भोगिरहेका एक कैदीको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/an-inmate-dies-in-khotang-prison-13-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784094895_khotang karagar-480x320.jpg"
+    },
+    {
+      "title": "कर्णाली सरकारबाट बाहिरियो कांग्रेस : मन्त्रीहरूद्वारा सामूहिक राजीनामा",
+      "summary": "पूर्व–पश्चिम सडकखण्डमा १०९.०९६ किलोग्राम गाँजासहित दुई जनालाई पक्राउ गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/two-arrested-with-109-kg-of-marijuana-from-makawanpur-42-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784093690_gaza-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधि सभाको बैठक : राष्ट्रिय मानव अधिकार आयोगको वार्षिक प्रतिवेदन पेश गरिँदै",
+      "summary": "कर्णाली प्रदेश सरकारले निर्देशनालयको नाम हेरफेर, खारेजी तथा तालिम केन्द्रहरू खारेज गरी कर्णाली प्रदेश प्रशिक्षण प्रतिष्ठानबाट कार्यसम्पादन गर्ने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/karnali-council-of-ministers-meeting-center-along-with-various-directorates-abolished-br-97-20.html?click_from=just_in",
       "image_url": ""
     }
   ]
