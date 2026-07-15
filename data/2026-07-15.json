@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-07-15T10:09:12.518079",
+  "scraped_at": "2026-07-15T13:58:42.786508",
   "date": "2026-07-15",
-  "total_articles": 49,
+  "total_articles": 56,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -398,6 +398,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/engineer-dilliraj-who-took-a-bribe-of-rs-6-lakh-is-under-the-control-of-the-authority-32-83.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Sudurpaschim Chief Minister Shah sacks four UML ministers",
+      "summary": "Move follows escalating budget dispute between ruling coalition partners, with province heading towards a possible new political alignment.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/15/sudurpaschim-chief-minister-shah-sacks-four-uml-ministers",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/umlmantriharu15720261040091000x0-1784111232.png&w=300&height=200"
+    },
+    {
+      "title": "Congress weighs ending power-sharing with UML in all provinces",
+      "summary": "NC leadership weighs new political arrangements after growing differences with UML over Gen Z protests and provincial governments.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/15/congress-weighs-ending-power-sharing-with-uml-in-all-provinces",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1784116065.jpg&w=600&height=400"
+    },
+    {
+      "title": "बजेट विवादले संकटमा सुदूरपश्चिम सरकार",
+      "summary": "चालु आर्थिक वर्ष सकिन दुई दिन मात्र बाँकी रहँदा सरकारले लक्ष्य राखेको राजस्व सङ्कलन र पुँजीगत खर्च दुवैमा कमजोर प्रदर्शन गरेको छ। नयाँ सरकार गठन भएको १०० दिन पुग्दै गर्दा पनि अर्थतन्त्रका यी प्रमुख सूचकहरूमा अपेक्षित सुधार आउन सकेको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/government-s-poor-performance-in-budget-expenditure-and-revenue-56-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784123301_singa-480x320.jpg"
+    },
+    {
+      "title": "विजनेस अभावमा संघीय संसद्का दुवै सदन दुई साताका लागि स्थगित",
+      "summary": "एमालेले प्रदेश सरकारलाई दिएको समर्थन फिर्ता लिएको घोषणा गरेसँगै प्रदेश सरकार अल्पमतमा परेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/far-western-government-in-crisis-due-to-budget-dispute-43-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784123055_Kamal_Shah-480x320.jpg"
+    },
+    {
+      "title": "संसद बैठक स्थगित, अर्को बैठक साउन १४ गते बस्ने",
+      "summary": "निर्णय कुनै हतारमा नभई अघिल्लो सरकारले गठन गरेको उच्चस्तरीय आर्थिक सुधार सुझाव आयोगको सिफारिसका आधारमा गरिएको स्पष्ट पारे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/we-are-engaged-in-economic-reform-and-the-abolition-of-dri-is-a-step-in-this-direction-finance-minister-52-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783426229_swarnim wagle-480x320.jpg"
+    },
+    {
+      "title": "सरकारले १०१ अन्तर्राष्ट्रिय पदक विजेतालाई साढे १० करोड बढी पुरस्कार दिने",
+      "summary": "सरकारले विधेयक तथा अन्य कार्यसूची (बिजनेस) उपलब्ध गराउन नसकेपछि संघीय संसद्का दुवै सदनका बैठक दुई साताका लागि स्थगित भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/both-houses-of-the-federal-parliament-adjourned-for-two-weeks-due-to-lack-of-business-51-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784122003_samsad (2)-480x320.jpg"
+    },
+    {
+      "title": "आन्दोलित गोलभेँडा किसानसँग कृषिमन्त्रीले भनिन्- विचौलिया रोक्न कृषि विधेयक ल्याउँदैछौं",
+      "summary": "चालु आर्थिक वर्ष सकिन दुई दिन मात्र बाँकी रहँदा सरकारले लक्ष्य राखेको राजस्व सङ्कलन र पुँजीगत खर्च दुवैमा कमजोर प्रदर्शन गरेको छ। नयाँ सरकार गठन भएको १०० दिन पुग्दै गर्दा पनि अर्थतन्त्रका यी प्रमुख सूचकहरूमा अपेक्षित सुधार आउन सकेको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/government-s-poor-performance-in-budget-expenditure-and-revenue-56-69.html?click_from=just_in",
       "image_url": ""
     }
   ]
