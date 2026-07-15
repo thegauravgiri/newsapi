@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-15T06:22:05.384143",
+  "scraped_at": "2026-07-15T10:09:12.518079",
   "date": "2026-07-15",
-  "total_articles": 42,
+  "total_articles": 49,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -342,6 +342,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/karnali-council-of-ministers-meeting-center-along-with-various-directorates-abolished-br-97-20.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Government outsourcing plan sparks protests by contract workers",
+      "summary": "Contractual staff fear losing their jobs after a task force proposes replacing contract support staff with a public company or outsourced service providers.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/15/government-outsourcing-plan-sparks-protests-by-contract-workers",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/protest-1784100057.jpg&w=300&height=200"
+    },
+    {
+      "title": "Babai river erosion puts five Gulariya villages at risk",
+      "summary": "Locals warn of possible inundation as halted flood-control works leave communities exposed during the monsoon.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/15/babai-river-erosion-puts-five-gulariya-villages-at-risk",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Babairiver-1784105787.jpg&w=600&height=400"
+    },
+    {
+      "title": "नेकपा संयोजक प्रचण्ड श्रीलंका प्रस्थान",
+      "summary": "इलामको चुलाचुली गाउँपालिकामा कार्यरत इन्जिनियर डिल्लीराज खड्कालाई अख्तियार दुरुपयोग अनुसन्धान आयोगको टोलीले नियन्त्रमा लिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/engineer-dilliraj-who-took-a-bribe-of-rs-6-lakh-is-under-the-control-of-the-authority-32-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784110024_aktiyar-480x320.jpg"
+    },
+    {
+      "title": "पर्यटन विस्तारमा निजी क्षेत्रसँग सहकार्य बढाइने : प्रधानमन्त्री शाह",
+      "summary": "ताप्लेजुङका उत्तरी हिमाली बस्ती घुन्सा, फले, ग्याब्ला, सेकाथुम र सोक्लिमामा ट्राभल डेन्टल क्याम्प सम्पन्न भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/travel-dental-camp-completed-in-taplejung-s-mountainous-settlement-79-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784109300_Sibir-480x320.jpg"
+    },
+    {
+      "title": "सुकुम्बासी समस्या, महँगी नियन्त्रणलगायतका विषयमा सरकारको ध्यानाकर्षण",
+      "summary": "संयुक्त राष्ट्रसंघीय मुख्यालय न्यूयोर्कमा सम्पन्न पाँचौं प्रहरी प्रमुखहरूको सम्मेलनमा नेपालको तर्फबाट नेतृत्व गर्दै प्रहरी महानिरीक्षक दान बहादुर कार्की बुधबार स्वदेश फर्किएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/inspector-general-of-police-karki-returns-home-after-attending-uncops-conference-24-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784107399_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "सरकार ‘कलाकार’ बन्यो : सांसद गंगादेवी श्रेष्ठ",
+      "summary": "आइपीएको आयोजनामा श्रीलंकाको कोलम्बोमा हुने “क्षेत्रीय स्थिरता र आर्थिक लचिलोपनसम्बन्धी एसियाली संवाद” मा सहभागी हुन उनी बुधबार श्रीलंका प्रस्थान गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ncp-coordinator-prachanda-departs-for-sri-lanka-23-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784107120_Prachanda -480x320.jpg"
+    },
+    {
+      "title": "सुदूरपश्चिम प्रदेश : मुख्यमन्त्रीले गरे एमालेका मन्त्रीहरू बर्खास्त",
+      "summary": "इलामको चुलाचुली गाउँपालिकामा कार्यरत इन्जिनियर डिल्लीराज खड्कालाई अख्तियार दुरुपयोग अनुसन्धान आयोगको टोलीले नियन्त्रमा लिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/engineer-dilliraj-who-took-a-bribe-of-rs-6-lakh-is-under-the-control-of-the-authority-32-83.html?click_from=just_in",
       "image_url": ""
     }
   ]
