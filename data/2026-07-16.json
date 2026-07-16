@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-16T06:25:45.050999",
+  "scraped_at": "2026-07-16T10:17:43.295024",
   "date": "2026-07-16",
-  "total_articles": 39,
+  "total_articles": 45,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -319,6 +319,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-challenge-of-plastic-waste-management-in-bukipatan-br-73-17.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784182630_bupa 68-480x320.jpg"
+    },
+    {
+      "title": "Talks with predatory lending victims end without agreement",
+      "summary": "Negotiations in Bara ended in a deadlock after both sides remained firm on their positions over a proposed written agreement.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/province-no-2/2026/07/16/talks-with-predatory-lending-victims-end-without-agreement",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/sudangurung-1784183444.jpg&w=300&height=200"
+    },
+    {
+      "title": "मन्त्रिपरिषद् बैठक सिंहदरबारमा सुरु",
+      "summary": "मिटरब्याजविरुद्ध किसान–मजदुर आन्दोलन नेपाल केन्द्रीय समितिले सरकारसँग औपचारिक वार्ता गर्न ६ सदस्यीय वार्ता टोली गठन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/home-minister-in-bara-for-three-days-to-hold-talks-with-meter-badge-victims-no-agreement-reached-yet-39-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/photos/1783851150_98-480x320-wm.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री बालेन र राप्रपा अध्यक्ष लिङ्देनबीच सिंहदरबारमा भेट",
+      "summary": "विशेष अदालतले नेपाल टेलिकमका पूर्वप्रबन्ध निर्देशक सुनील पौडेल र व्यवसायी दीपक आनन्दलाई घुस मुद्दामा दोषी ठहर गर्दै जनही आठ वर्ष कैद सजाय सुनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/former-managing-director-of-nepal-telecom-sunil-poudel-sentenced-to-8-years-in-prison-62-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784196411_sunil-480x320.jpg"
+    },
+    {
+      "title": "अमेरिकी बजारमा नेपाली उत्पादनको पहुँच सुनिश्चित गर्न आग्रह",
+      "summary": "सर्वोच्च अदालतको अन्तरिम आदेशपछि सम्पत्ति छानबिन आयोगले सम्पत्ति विवरण संकलन तथा छानबिनसम्बन्धी आफ्ना सम्पूर्ण काम-कारबाही हालका लागि स्थगित गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/all-work-of-the-assets-investigation-commission-suspended-after-supreme-court-order-92-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777943798_sampati chhanbin -480x320.jpg"
+    },
+    {
+      "title": "बागमतीमा एमालेले आफ्ना ६ मन्त्री फिर्ता बोलाउने",
+      "summary": "बैठक सिंहदरबारस्थित प्रधानमन्त्री तथा मन्त्रिपरिषद् कार्यालयमा बसिरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/cabinet-meeting-begins-at-singha-durbar-97-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784195812_6F8A9776.jpg-480x320.jpg"
+    },
+    {
+      "title": "महिला उद्यमशीलताको विकासका लागि सहयोग गर्न सरकार प्रतिबद्ध छ : प्रधानमन्त्री",
+      "summary": "मिटरब्याजविरुद्ध किसान–मजदुर आन्दोलन नेपाल केन्द्रीय समितिले सरकारसँग औपचारिक वार्ता गर्न ६ सदस्यीय वार्ता टोली गठन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/home-minister-in-bara-for-three-days-to-hold-talks-with-meter-badge-victims-no-agreement-reached-yet-39-24.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
