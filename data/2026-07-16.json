@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-16T14:10:41.775450",
+  "scraped_at": "2026-07-16T17:25:44.499985",
   "date": "2026-07-16",
-  "total_articles": 53,
+  "total_articles": 56,
   "sources": [
-    "KathmanduPost",
     "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -431,6 +431,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/from-friday-5-percent-vat-will-be-levied-on-electricity-consumption-exceeding-50-units-66-64.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Central Zoo to reopen on Friday as environmental samples test negative for bird flu",
+      "summary": "The zoo has been closed since June 19 following an outbreak of the deadly virus among vultures, owls, swans and other rare birds, as well as a jungle cat and civets housed at the facility.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/16/central-zoo-to-reopen-on-friday-as-environmental-samples-test-negative-for-bird-flu",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/CentralZoo-1784210840.jpg&w=300&height=200"
+    },
+    {
+      "title": "सुदूरपश्चिम प्रदेश: सरकार अल्पमतमा, बजेट अलपत्र",
+      "summary": "चितवन राष्ट्रिय निकुञ्जमा लामो समयदेखि त्रास फैलाउँदै आएको जङ्गली भाले हात्ती ‘ध्रुवे’ लाई १० दिनको अथक प्रयासपछि नियन्त्रणमा लिई अत्याधुनिक स्याटेलाइट रेडियो कलर जडान गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/how-long-will-the-terror-of-dhruve-last-11-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784219269_1784162698_dhrube-1200x560-480x320.jpg"
+    },
+    {
+      "title": "ओलीको निर्देशनपछि बागमतीमा एमाले मन्त्रीहरूको तत्काल सरकार नछाड्ने",
+      "summary": "पोखरा महानगरपालिका–९ पृथ्वीचोकस्थित प्रश्तावित बसपार्क क्षेत्रभित्रका व्यापारिक संरचना हटाएपछि महानगरले सुकुमवासीको व्यवस्थापन प्रक्रियालाई अघि बढाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/management-process-for-squatters-in-pokhara-bus-park-moves-forward-52-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784218406_images-480x320.jpg"
     }
   ]
 }
