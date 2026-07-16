@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-16T10:17:43.295024",
+  "scraped_at": "2026-07-16T14:10:41.775450",
   "date": "2026-07-16",
-  "total_articles": 46,
+  "total_articles": 54,
   "sources": [
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -374,6 +374,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/home-minister-in-bara-for-three-days-to-hold-talks-with-meter-badge-victims-no-agreement-reached-yet-39-24.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Predatory lending victims set three conditions for agreement",
+      "summary": "Protesters demand the annulment of fraudulent loan documents, official recognition of the crime and a written commitment to enact a stronger law.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/16/predatory-lending-victims-set-three-conditions-for-agreement",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/meterbyaj15720261155151000x0-1784197678.jpg&w=300&height=200"
+    },
+    {
+      "title": "1,115 Nepali caregivers clear Israel selection process for long-term care jobs",
+      "summary": "Israel had opened applications for 2,300 caregiver positions, but only 1,115 candidates met all eligibility criteria after the selection process.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/16/1-115-nepali-caregivers-clear-israel-selection-process-for-long-term-care-jobs",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1784208629.jpg&w=300&height=200"
+    },
+    {
+      "title": "Technical glitch disrupts online land services",
+      "summary": "A fault in the Department of Land Management and Archives’ public access system has delayed land transactions and other services for two days.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/16/technical-glitch-disrupts-online-land-services",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/bibhag16720261113341000x0-1784196046.jpg&w=600&height=400"
+    },
+    {
+      "title": "कुटपिट प्रकरणमा कांग्रेस सांसद शाहविरुद्ध पक्राउ पुर्जी जारी, शाहले भने: चुनावी हारको पीडाबाट प्रेरित षड्यन्त्र",
+      "summary": "सरकारको निर्णयअनुसार पहिलो ५० युनिटसम्मको विद्युत् महसुलमा भने भ्याट लाग्ने छैन। त्यसभन्दा माथिको खपतमा लाग्ने विद्युत् महसुलमा मात्रै ५ प्रतिशत भ्याट जोडिनेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/from-friday-5-percent-vat-will-be-levied-on-electricity-consumption-exceeding-50-units-66-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1750811814_Bijuli-480x320.jpg"
+    },
+    {
+      "title": "सार्वजनिक सेवा प्रसारण संस्थाको सञ्चालक समितिमा दुई सदस्य मनोनित",
+      "summary": "कृष्णनगर उद्योग वाणिज्य संघका अध्यक्ष सीताराम शर्मा (रितेश)माथि भएको आक्रमण घटनामा शाहको संलग्नता रहेको उजुरी परेपछि प्रहरीले मुद्दा दर्ता गर्दै अनुसन्धान सुरु गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/arrest-warrant-issued-against-congress-mp-shah-in-assault-case-shah-says-conspiracy-inspired-by-pain-of-election-defeat-61-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784210360_abhishek saha-480x320.jpg"
+    },
+    {
+      "title": "थुनामुक्त भए एमाले नेता लक्ष्‍मी महतो कोइरी",
+      "summary": "धदिङको बेनीघाट रोराङ गाउँपालिका-१० वासिङस्थित पृथ्वी राजमार्गमा सुख्खा पहिरो खस्दा सडक दुवैतर्फ पूर्ण रूपमा अवरुद्ध भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/dry-landslide-in-dhading-prithvi-highway-blocked-in-both-directions-70-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784210161_prithivi-480x320.jpg"
+    },
+    {
+      "title": "हृदयघात भएपछि एमाले नेतृ अष्टलक्ष्मीको पाटन अस्पतालमा उपचार हुँदै",
+      "summary": "लामो समयदेखि छपाइ हुन बाँकी रहेका सवारी चालक अनुमतिपत्र (स्मार्ट लाइसेन्स) को छपाइको काम सम्पन्न भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/all-suspended-smart-licenses-have-been-printed-new-ones-will-be-issued-within-24-hours-91-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1746956205_license_-480x320.jpg"
+    },
+    {
+      "title": "उपराष्ट्रपति यादव स्वदेश फिर्ता",
+      "summary": "सरकारको निर्णयअनुसार पहिलो ५० युनिटसम्मको विद्युत् महसुलमा भने भ्याट लाग्ने छैन। त्यसभन्दा माथिको खपतमा लाग्ने विद्युत् महसुलमा मात्रै ५ प्रतिशत भ्याट जोडिनेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/from-friday-5-percent-vat-will-be-levied-on-electricity-consumption-exceeding-50-units-66-64.html?click_from=just_in",
       "image_url": ""
     }
   ]
