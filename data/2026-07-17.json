@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-07-17T13:54:26.705742",
+  "scraped_at": "2026-07-17T17:18:03.873978",
   "date": "2026-07-17",
-  "total_articles": 56,
+  "total_articles": 63,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -455,6 +455,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/raskot-road-blacktop-has-been-incomplete-for-five-years-13-65.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Loan-sharking victims call off protest after nine-point deal with government",
+      "summary": "The government agrees to classify predatory lending as an economic crime, draft a special law within three months and establish dedicated tribunals to hear loan-sharking cases.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/17/loan-sharking-victims-call-off-protest-after-nine-point-deal-with-government",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/74392501416945003317614414638441763257989930n17720260200221000x0-1784302295.jpg&w=300&height=200"
+    },
+    {
+      "title": "Government halts new contract hiring, keeps existing workers on payroll",
+      "summary": "Existing contract employees will be pooled and redeployed across government agencies while a task force reviews long-term employment terms, benefits and legal protections.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/17/government-halts-new-contract-hiring-keeps-existing-workers-on-payroll",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb4-1784276119.jpg&w=300&height=200"
+    },
+    {
+      "title": "PMO sets up panel to probe passport rollout",
+      "summary": "Technical glitches have cut passport production by two-thirds and delayed services, prompting the government to form an expert panel.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/17/pmo-sets-up-panel-to-probe-passport-rollout",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb6-1784302900.jpg&w=300&height=200"
+    },
+    {
+      "title": "Under the guise of oversight, lawmakers face backlash over high-handed conduct",
+      "summary": "Chasing social media attention, lawmakers are crossing jurisdictional lines by confronting officials, seeking confidential files and issuing arbitrary ultimatums.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/17/under-the-guise-of-oversight-lawmakers-face-backlash-over-high-handed-conduct",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/jugdishkharel17720261200011000x01-1784299369.jpg&w=600&height=400"
+    },
+    {
+      "title": "आर्थिक वर्ष ०८३/८४ ‘कानून सुधार तथा कानून निर्माण वर्ष’ घोषणा (कार्ययोजनासहित)",
+      "summary": "प्रमोसनका लागि सार्वजनिक गरिएको गीत ‘ताराबाजी लैलै’ विवादमा परेपछि युट्युबबाट हटाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/durgesh-and-priyanka-apologize-and-remove-the-song-masterni-from-youtube-98-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784305009_Durgesh-480x320.jpg"
+    },
+    {
+      "title": "नेपाल टेलिभिजनको स्याटेलाइट खरिदमा साढे २० करोडभन्दा बढी अनियमितता, अध्ययन समितिले गर्‍यो कारबाही सिफारिस",
+      "summary": "निर्माण सम्पन्न भएको करिब एक वर्षपछि नागढुंगा सुरुङमार्ग आगामी साउन ११ गतेदेखि परीक्षणका रूपमा सञ्चालनमा आउने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nagdhunga-tunnel-in-trial-operation-from-july-21-60-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780146297_nagdhunga canel-480x320.jpg"
+    },
+    {
+      "title": "पाँच मन्त्री हटाइँदै: बालेनका लागि अवसर कि चुनौती ?",
+      "summary": "स्लोभानियाका रेफ्री स्लाभ्को भिन्चिचले अमेरिकाको न्युयोर्क सहरमा तय स्पेन र अर्जेन्टिनाबिच आइतबार हुने फिफा विश्वकपको फाइनलमा खेलाउने भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/world-cup-final-to-be-refereed-by-slovenian-referee-73-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784302743_Refree-480x320.jpg"
     }
   ]
 }
