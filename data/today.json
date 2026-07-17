@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-17T10:05:54.933597",
+  "scraped_at": "2026-07-17T13:54:26.705742",
   "date": "2026-07-17",
-  "total_articles": 52,
+  "total_articles": 57,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -422,6 +422,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/when-the-movie-was-released-only-a-few-people-raised-money-what-was-the-commercial-success-like-from-paran-to-mohar-84-13.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "मानव–वन्यजन्तु द्वन्द्व समाधान राजनीतिक दलको प्राथमिकतामा पर्नुपर्छ : गगन थापा",
+      "summary": "ठेक्का सम्झौता भएको पाँच वर्ष बितिसक्दा पनि निर्माण सम्पन्न नभई सडक अलपत्र अवस्थामा छाडिएको छ। दुई पटक शिलान्यास भएको सडक निर्माण कम्पनीले अधुरै अवस्थामा छाडेको स्थानीयको गुनासो छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/raskot-road-blacktop-has-been-incomplete-for-five-years-13-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784295957_Raskot Sadak-480x320.jpg"
+    },
+    {
+      "title": "दुर्गा प्रसाईँको अर्को विवादास्पद अभिव्यक्ति: दशैंपछि नेपालमा विदेशी सेना उत्रिने दाबी",
+      "summary": "थापाले यस विषयमा व्यापक छलफल गरी सुझावसहितको दस्तावेज तयार पारिने जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/resolving-human-wildlife-conflict-should-be-a-priority-for-political-parties-gagan-thapa-52-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782042464_Gagan Thapa-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्र बैंकमा राजनीतिक अभिष्ट साँध्नुहुँदैन : अर्थमन्त्री डा वाग्ले",
+      "summary": "गीतमा महिला शिक्षकलाई अपमानजनक ढंगले चित्रण गरिएको भन्दै नेपाल शिक्षक महासंघसहित विभिन्न शिक्षक संघ–संगठनले गीत तत्काल हटाउन र चलचित्रमा प्रयोग नगर्न माग गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/priyanka-s-masterni-in-controversy-teachers-unions-demand-removal-of-song-39-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784295481_Mastarni Priyanka (1)-480x320.jpg"
+    },
+    {
+      "title": "सम्पत्ति शुद्धीकरण मुद्दामा विष्णु पौडेल साधारण तारेखमा रिहा",
+      "summary": "कतार भिसा सेन्टरअगाडि सडकखण्डमा भारतीय नम्बर प्लेटको कारसहित पाँच सवारीसाधन एकआपसमा ठोक्किँदा १० जना घाइते भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/10-injured-as-five-vehicles-collide-in-kathmandu-br-56-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784294916_New Project (5)-480x320.jpg"
+    },
+    {
+      "title": "सांसद र नगर प्रमुखमाथिको ज्यान मार्ने उद्योगसम्बन्धी मुद्दा फिर्ता लिन माग गर्दै ज्ञापन पत्र, कृष्णनगर र बहादुरगञ्ज बजार बन्द",
+      "summary": "ठेक्का सम्झौता भएको पाँच वर्ष बितिसक्दा पनि निर्माण सम्पन्न नभई सडक अलपत्र अवस्थामा छाडिएको छ। दुई पटक शिलान्यास भएको सडक निर्माण कम्पनीले अधुरै अवस्थामा छाडेको स्थानीयको गुनासो छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/raskot-road-blacktop-has-been-incomplete-for-five-years-13-65.html?click_from=just_in",
       "image_url": ""
     }
   ]
