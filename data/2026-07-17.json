@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-17T03:26:03.990703",
+  "scraped_at": "2026-07-17T06:23:00.294622",
   "date": "2026-07-17",
-  "total_articles": 33,
+  "total_articles": 42,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -270,6 +270,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/government-imposes-new-taxes-an-attempt-to-increase-revenue-or-an-additional-burden-on-consumers-82-94.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ेस नेता अभिषेक गिरीको अपराध साम्राज्य !",
+      "summary": "ेस नेता अभिषेक गिरीको अपराध साम्राज्य !",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13336",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/abhishake-giri-__-1784259222.jpg"
+    },
+    {
+      "title": "चार्लीबाट खुलेको रहस्य, नक्कली नोट छाप्ने गिरोह पक्राउ",
+      "summary": "चार्लीबाट खुलेको रहस्य, नक्कली नोट छाप्ने गिरोह पक्राउ",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13333",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Nakkali-Note--chhapne-Pakrau-1784174009.jpg"
+    },
+    {
+      "title": "Nepal’s esports teams take on the world as billion-dollar industry surges",
+      "summary": "DRS Gaming and Horaa Esports fly Nepal’s flag at the Esports World Cup as players chase historic success abroad while warning that a lack of domestic tournaments and government support threatens the industry at home.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/17/nepal-s-esports-teams-take-on-the-world-as-billion-dollar-industry-surges",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/hooraesports117720260244171000x0-1784261551.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal’s development spending short of even half of annual allocation",
+      "summary": "Development spending reaches only 46.79 percent of the annual budget’s allocation, with authorities citing political instability, elections and supply disruptions for delays in project implementation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/17/nepal-s-development-spending-short-of-even-half-of-annual-allocation",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/capital-1784249976.jpg&w=300&height=200"
+    },
+    {
+      "title": "मिटरब्याज पीडित र सरकारी टोलीबीच सम्झौता हुने",
+      "summary": "२५ जना मानिसको ज्यान लिएको ध्रर्वे हात्तीलाई नियन्त्रणमा लिएर दाह्रा काटेपछि उसको गतिविधिमा निगरानी सुरु गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/dhruv-s-elephant-s-activity-being-recorded-every-10-minutes-42-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784162698_dhrube-480x320.jpg"
+    },
+    {
+      "title": "प्रदेश अस्पतालमा विशेषज्ञ सेवा विस्तार",
+      "summary": "आज सुन प्रतितोला तीन हजार एक सय रुपैयाँले घटेको नेपाल सुनचाँदी व्यवसायी महासंघले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-falls-by-3100-silver-also-becomes-cheaper-br-14-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770010964_Gold-480x320.jpg"
+    },
+    {
+      "title": "जुत्ता उत्पादक सङ्घका पदाधिकारी तथा प्रतिनिधिसँग विशेष छलफल गर्दै प्रधानमन्त्री शाह",
+      "summary": "सरकारले आर्थिक वर्ष २०८२/८३ को असार २४ गतेसम्म पाँच लाख ६१ हजार ४९३ दशमलव ८५ मेट्रिकटन रासायनिक मल आपूर्ति गरेको जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/supply-of-chemical-fertilizers-is-561-000-metric-tons-62-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784266390_rasayanik mal-480x320.jpg"
+    },
+    {
+      "title": "बागमती प्रदेश: राजीनामाबाट रोकिए मन्त्री",
+      "summary": "सिमरामा सरकारी टोली र पीडित प्रतिनिधिबीच भएको मौखिक सहमतिलाई लिखित सम्झौताको रूप दिँदै औपचारिकता प्रदान गर्नेतयारी भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/agreement-reached-between-meter-badge-victims-and-government-team-br-30-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784265416_04 mete-480x320.jpg"
+    },
+    {
+      "title": "कर्णाली प्रदेश: मुख्यमन्त्रीविरुद्ध अविश्वास प्रस्ताव",
+      "summary": "२५ जना मानिसको ज्यान लिएको ध्रर्वे हात्तीलाई नियन्त्रणमा लिएर दाह्रा काटेपछि उसको गतिविधिमा निगरानी सुरु गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/dhruv-s-elephant-s-activity-being-recorded-every-10-minutes-42-95.html?click_from=just_in",
       "image_url": ""
     }
   ]
