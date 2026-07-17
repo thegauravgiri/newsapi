@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-17T06:23:00.294622",
+  "scraped_at": "2026-07-17T10:05:54.933597",
   "date": "2026-07-17",
-  "total_articles": 42,
+  "total_articles": 51,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -342,6 +342,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/dhruv-s-elephant-s-activity-being-recorded-every-10-minutes-42-95.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "र्थ बैंकद्वारा ‘सिद्धार्थ गोल्ड लोन’ सुविधा सञ्चालनमा",
+      "summary": "र्थ बैंकद्वारा ‘सिद्धार्थ गोल्ड लोन’ सुविधा सञ्चालनमा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13344",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/sidartha-1784280158.jpeg"
+    },
+    {
+      "title": "नेपाली समुदायद्वारा स्वर्गीय फादर अमिरप्रति श्रद्धाञ्जली",
+      "summary": "नेपाली समुदायद्वारा स्वर्गीय फादर अमिरप्रति श्रद्धाञ्जली",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13343",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/amir-3-1784279718.JPG"
+    },
+    {
+      "title": "्याज पीडितलाई मनाउन सुधनको कसरत, बल्ल माने पीडित",
+      "summary": "्याज पीडितलाई मनाउन सुधनको कसरत, बल्ल माने पीडित",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13338",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/meterbyaj--pidit-1784260171.jpg"
+    },
+    {
+      "title": "ANFA says it will bear all of Aashish Rai’s treatment costs despite funding delay",
+      "summary": "Football governing body attributes delay in financial support to FIFA suspension and vows to resume payments once administrative hurdles are cleared.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/football/2026/07/17/anfa-says-it-will-bear-all-of-aashish-rai-s-treatment-costs-despite-funding-delay",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1784272255.jpg&w=300&height=200"
+    },
+    {
+      "title": "अदालतलाई पारदर्शी र जनउत्तरदायी बनाउँछौँ: न्यायाधीश खड्का",
+      "summary": "वर्षभर ३० भन्दा बढी नेपाली चलचित्र प्रदर्शनमा आए पनि अधिकांशले लगानीसमेत उठाउन संघर्ष गर्नुपर्‍यो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/when-the-movie-was-released-only-a-few-people-raised-money-what-was-the-commercial-success-like-from-paran-to-mohar-84-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784276315_2083-480x320.jpg"
+    },
+    {
+      "title": "स्वदेशमा उत्पादित जुत्ता चप्पलको निर्यातमा सरकारले सहजीकरण गर्छ : प्रधानमन्त्री",
+      "summary": "बेलायती राजनीतिमा आफ्नै दलका नेतामाथि सांसदहरूले दबाब सिर्जना गर्ने परम्पराकै निरन्तरतामा स्टारमरको बहिर्गमनपछि उनी नेतृत्वमा पुगेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/burnham-becomes-uk-prime-minister-today-35-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784281077_burnham-480x320.jpg"
+    },
+    {
+      "title": "नेपालमा योजनाबद्ध रुपमा दुष्प्रचार हुँदैछ: केपी ओली",
+      "summary": "लेसियास्थित वायुमास ओभल स्टेडियममा नेपाललाई सुपर ओभरमा पराजित गर्दै युएईले उपाधि यात्रा तय गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/acc-women-s-u-19-premier-cup-uae-defeats-nepal-in-super-over-to-reach-final-84-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784280819_Nepal Cricket 1-480x320.jpg"
+    },
+    {
+      "title": "कार्यालय अगाडि गाडी पार्किङबारे ओली : सरकारबाट निर्देशित भएर कारबाही भएन",
+      "summary": "नेपाल स्टक एक्सचेञ्ज (नेप्से) परिसूचक ७९.७४ अंकले उकालो लाग्दै २६७७.५४ बिन्दुमा पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/greenery-in-the-stock-market-in-the-last-trading-of-the-week-nepse-rises-by-nearly-80-points-11-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770804327_nepse-480x320.jpg"
+    },
+    {
+      "title": "दरबार हत्याकाण्ड युवराज दीपेन्द्रले गराएका होइनन्: केपी ओली",
+      "summary": "वर्षभर ३० भन्दा बढी नेपाली चलचित्र प्रदर्शनमा आए पनि अधिकांशले लगानीसमेत उठाउन संघर्ष गर्नुपर्‍यो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/when-the-movie-was-released-only-a-few-people-raised-money-what-was-the-commercial-success-like-from-paran-to-mohar-84-13.html?click_from=just_in",
       "image_url": ""
     }
   ]
