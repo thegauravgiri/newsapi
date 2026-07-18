@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-07-18T09:40:17.530142",
+  "scraped_at": "2026-07-18T13:38:11.956800",
   "date": "2026-07-18",
-  "total_articles": 45,
+  "total_articles": 47,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -367,6 +367,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/nearly-70-percent-of-paddy-planting-completed-across-the-country-36-34.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774269567_Ropain-480x320.jpg"
+    },
+    {
+      "title": "देश फेरि द्वन्द्वमा जाने खतरा बढ्यो: कुलमान",
+      "summary": "शिक्षा तथा खेलकुदमन्त्री सस्मित पोखरेललेयहाँस्थित रामपुर कृषि क्याम्पस र कृषि तथा वन विज्ञान विश्वविद्यालयको अनुगमनसँगै दुई संस्थाबीचको १५ वर्षदेखिको जग्गा विवाद समाधानको प्रयास प्रारम्भ गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/minister-pokharel-in-efforts-to-resolve-fifteen-year-old-land-dispute-36-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784381273_Untitled-3-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसमा विभाजनको संकेत : देउवा समूहले राष्ट्रिय भेला बोलाउँदै",
+      "summary": "ट्रम्पले यसलाई ‘जानाजानी गरिएको लापरवाही’ भन्दै यसले अमेरिकालाई वार्षिक अर्बौं डलर नोक्सान पुर्‍याइरहेको दाबी गरेका छन्। उनले चेतावनी दिँदै भनेका छन्, ‘यस प्रदूषणको आर्थिक लागत क्यानाडाली आयातमा लगाइने भन्सार शुल्कमा थपिनेछ।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/trump-threatens-new-tariffs-on-canada-for-polluting-us-15-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784380197_Trump Blame Carney  (1)-480x320.jpg"
     }
   ]
 }
