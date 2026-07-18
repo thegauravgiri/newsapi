@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-18T03:15:08.095158",
+  "scraped_at": "2026-07-18T06:11:04.403628",
   "date": "2026-07-18",
-  "total_articles": 34,
+  "total_articles": 41,
   "sources": [
-    "KathmanduPost",
+    "News24",
     "NagarikNews",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -278,6 +278,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/a-game-that-is-unpleasant-to-play-and-watch-br-42-64.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "लाइफको ऐतिहासिक कीर्तिमान, १३ अर्बभन्दा बढी प्रथम बीमा आर्जन",
+      "summary": "लाइफको ऐतिहासिक कीर्तिमान, १३ अर्बभन्दा बढी प्रथम बीमा आर्जन",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13345",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/13-arba-1784280531.jpeg"
+    },
+    {
+      "title": "BOOK REVIEW: A ridiculous book to make sense of a horrible world",
+      "summary": "The legacy parties’ criticism of the RSP is hollow given their own record of unstable provincial governments, delayed laws and centralisation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/07/18/a-ridiculous-book-to-make-sense-of-a-horrible-world",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Untitled1-1784342374.jpg&w=400&height=267"
+    },
+    {
+      "title": "डा. पाण्डे लोकतान्त्रिक आन्दोलनका प्रखर व्यक्ति थिए : बाबुराम भट्टराई",
+      "summary": "उनले डा पाण्डेको निधनसँगै देशले एक निष्ठावान् बौद्धिक व्यक्तित्व, लोकतान्त्रिक मूल्य–मान्यताका दृढ पक्षधर तथा निष्कलङ्क नागरिक पहरेदार गुमाएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/dr-pandey-was-a-strong-figure-in-the-democratic-movement-dr-bhattarai-br-12-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784354601_dr  02-480x320.jpg"
+    },
+    {
+      "title": "विशेषको फैसलाले आक्रोशित ज्वालाको प्रश्न : रवि लामिछाने १४ महिना जेल बस्नुपर्ने तर विष्णु पौडेल रिहा हुने ?",
+      "summary": "४ करोड बिगो मागदाबी गरिएका रबि लामिछानेलेबिगो बराबरकै धरौटी तिरेर पनि १४ महिना जेल बस्नुपर्ने, अनि",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/jwala-sangraula-news-40-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1737868670_jwala sangraula-480x320.jpg"
+    },
+    {
+      "title": "पाण्डेको निधनले राष्ट्रले एक प्रखर बौद्धिक व्यक्तित्व गुमायो : सभापति थापा",
+      "summary": "बलिउड अभिनेता आमिर खानलाई लरेन्स बिश्नोई ग्याङको नामबाट ज्यान मार्ने धम्की दिइएको दाबी गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/aamir-khan-allegedly-threatened-by-lawrence-bishnoi-gang-86-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784353895_23-480x320.jpg"
+    },
+    {
+      "title": "विष्णु पौडेल छुटेपछि रास्वपा सांसदले भने : न्यायालय पुनर्संरचनाबिना सुशासन सम्भव छैन",
+      "summary": "अमेरिका र इरानले शनिबार पनि होर्मुजको जलमार्गमाथिको नियन्त्रणलाई लिएर भइरहेको युद्धलाई तीव्र पारेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/the-conflict-between-america-and-iran-continues-physical-infrastructure-and-military-bases-are-targeted-72-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784353169_Iran-USA-480x320.jpg"
+    },
+    {
+      "title": "नागरिक अगुवा डा. पाण्डेको निधनले अत्यन्त मर्माहत बनेको छु : दाहाल",
+      "summary": "उनले डा पाण्डेको निधनसँगै देशले एक निष्ठावान् बौद्धिक व्यक्तित्व, लोकतान्त्रिक मूल्य–मान्यताका दृढ पक्षधर तथा निष्कलङ्क नागरिक पहरेदार गुमाएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/dr-pandey-was-a-strong-figure-in-the-democratic-movement-dr-bhattarai-br-12-87.html?click_from=just_in",
       "image_url": ""
     }
   ]
