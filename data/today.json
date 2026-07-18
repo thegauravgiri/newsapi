@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-18T06:11:04.403628",
+  "scraped_at": "2026-07-18T09:40:17.530142",
   "date": "2026-07-18",
-  "total_articles": 41,
+  "total_articles": 45,
   "sources": [
     "News24",
     "NagarikNews",
@@ -335,6 +335,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/dr-pandey-was-a-strong-figure-in-the-democratic-movement-dr-bhattarai-br-12-87.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "A locked library and the questions it leaves behind",
+      "summary": "The closure of Kathmandu Valley Public Library has become a window into Nepal’s relationship with books, knowledge and public life.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/18/a-locked-library-and-the-questions-it-leaves-behind",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/publiclibraryatbhrikutimandap202605244457-1784338748.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepse posts strongest weekly gain in months as turnover jumps",
+      "summary": "Benchmark index rises nearly 3 percent, adding Rs140 billion to market value as trading activity rebounds and all sectoral indices advance.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/18/nepse-posts-strongest-weekly-gain-in-months-as-turnover-jumps",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Nepsebarchart-1784356210.jpg&w=300&height=200"
+    },
+    {
+      "title": "A run through Nepal’s first road tunnel",
+      "summary": "The Nagdhunga-Sisnekhola tunnel opens to the public for the first time ahead of its long-awaited launch, with formal inauguration set for July 27.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/visual-stories/2026/07/18/a-run-through-nepal-s-first-road-tunnel",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/7493777021337035195271329139490785260966136n-1784361043.jpg&w=600&height=400"
+    },
+    {
+      "title": "मन्त्री लम्सालद्वारा कर्णालीका सडक अनुगमन",
+      "summary": "साउन १ गतेसम्म नेपालभर कुल धान खेती हुने क्षेत्रफलको ६९.७७ प्रतिशत भागमा धान रोपाइँ सम्पन्न भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nearly-70-percent-of-paddy-planting-completed-across-the-country-36-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774269567_Ropain-480x320.jpg"
     }
   ]
 }
