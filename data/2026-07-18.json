@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-18T13:38:11.956800",
+  "scraped_at": "2026-07-18T17:04:24.046602",
   "date": "2026-07-18",
-  "total_articles": 46,
+  "total_articles": 48,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -375,6 +375,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/trump-threatens-new-tariffs-on-canada-for-polluting-us-15-41.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784380197_Trump Blame Carney  (1)-480x320.jpg"
+    },
+    {
+      "title": "Devendra Raj Panday, champion of democracy and good governance",
+      "summary": "A former minister, economist and leading civil society figure, Panday helped shape Nepal’s democratic discourse long after the fall of the Panchayat regime.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/18/devendra-raj-panday-champion-of-democracy-and-good-governance",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/devendrarajpandey18720260256491000x0copy-1784389796.jpg&w=300&height=200"
+    },
+    {
+      "title": "Households using over 50 electricity units to pay five percent VAT, others face 13 percent",
+      "summary": "Inland Revenue Department issues directives to implement new fiscal measures, including electricity VAT, health and education levies, and revised tax rules from new fiscal year.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/18/households-using-over-50-electricity-units-to-pay-five-percent-vat-others-face-13-percent",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1784376735.jpg&w=300&height=200"
     }
   ]
 }
