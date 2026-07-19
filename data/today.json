@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-19T03:35:46.286325",
+  "scraped_at": "2026-07-19T06:37:16.412008",
   "date": "2026-07-19",
-  "total_articles": 34,
+  "total_articles": 39,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -278,6 +278,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/26-injured-in-three-vehicle-collision-in-jalbire-mugling-narayangadh-road-reopened-64-22.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "रास्वपा सांसदको प्रश्न : विष्णु पौडेलविरुद्ध पर्याप्त प्रमाण थिएन भने अनुसन्धानलाई अभियोजनसम्म किन पुर्‍याइयो?",
+      "summary": "बितेका २४ घण्टामा सबैभन्दा बढी वर्षा दाङको अमरपुरमा भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/the-highest-rainfall-is-recorded-in-amarpur-dang-77-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784442762_dgu 63-480x320.jpg"
+    },
+    {
+      "title": "सत्ता समीकरणको राजनीति जनताभन्दा माथि राखियो : रक्षा बम",
+      "summary": "मकवानपुरको थाहा नगरपालिका–११ टिस्टुङमा शनिबार सञ्चालित स्वास्थ्य शिविरबाट४७७ लाभान्वित भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/health-camp-in-tistung-477-people-benefited-br-95-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784442025_ddu 69-480x320.jpg"
+    },
+    {
+      "title": "सत्तामुखी राजनीतिले देशलाई अँध्यारोमा पुर्‍यायो : सभापति थापा",
+      "summary": "चितवनको इच्छाकामना गाउँपालिका–६ जलबिरे नजिक मुग्लिङ–नारायणगढ सडकखण्डमा आइतबार बिहान दुई यात्रुवाहक बस र एउटा ट्रक एकापसमा ठोक्किँदा ३३ जना यात्रु घाइते भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/33-passengers-injured-in-collision-between-two-buses-and-a-truck-br-15-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784431829_busssss-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस विचार र बलिदानले बनेको हो : सभापति थापा",
+      "summary": "सरहरूले भनेबमोजिम ताली नपिटेबापत गाली खाने उनै थिए, रित्तो हात घर आएकोमा पनि गाली उनैले खाए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/clap-br-98-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784441286_sfg sfg 98-480x320.jpg"
+    },
+    {
+      "title": "नेपाली सेना खारेज गर्नुपर्छ भन्ने सिके राउतको अभिव्यक्तिप्रति खेद प्रकट गर्दछु : ज्वाला संग्रौला",
+      "summary": "बितेका २४ घण्टामा सबैभन्दा बढी वर्षा दाङको अमरपुरमा भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/the-highest-rainfall-is-recorded-in-amarpur-dang-77-42.html?click_from=just_in",
       "image_url": ""
     }
   ]
