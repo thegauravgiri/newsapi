@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-07-19T13:40:31.143420",
+  "scraped_at": "2026-07-19T17:06:18.207754",
   "date": "2026-07-19",
-  "total_articles": 55,
+  "total_articles": 60,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -447,6 +447,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/all-cases-older-than-two-years-in-kapilvastu-have-been-resolved-62-percent-of-cases-resolved-in-a-year-80-73.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "The state resorted to physical violence to silence us",
+      "summary": "Majid Ansari details the events surrounding his violent arrest, the systemic failures within the security apparatus, and his refusal to be silenced by state-sponsored intimidation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/interviews/2026/07/19/they-could-not-defeat-our-legal-arguments-in-the-courtroom-so-they-resorted-to-physical-violence",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/interviews/Untitleddesign32-1784462275.png&w=300&height=200"
+    },
+    {
+      "title": "Judiciary left reeling from Gen Z protest impact as case clearance almost halved",
+      "summary": "The Supreme Court records lowest performance, settling only 29.46 percent of its cases in 2025-26.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/19/judiciary-left-reeling-from-gen-z-protest-impact-as-case-clearance-almost-halved",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb54-1784477285.jpg&w=300&height=200"
+    },
+    {
+      "title": "Who will save libraries?",
+      "summary": "Emergency airlifts are saving the lives of teenage mothers and newborns in remote districts, where difficult terrain and limited health facilities often turn childbirth into a life-threatening ordeal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/editorial/2026/07/19/who-will-save-libraries",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb54-1784477285.jpg&w=400&height=267"
+    },
+    {
+      "title": "ज्ञानेन्द्रलाई खगेन्द्रको काउन्टर- भारत गएर आधा सिए, जापान गएर आधा पिए !",
+      "summary": "प्राकृकित रुपले सुन्दर छ भक्तपुरको सूर्यविनायक नगरपालिका क्षेत्र । वडा नं १ देखि १० सम्मकै क्षेत्र हरियालीयुक्त पहाडी क्षेत्रका रुपमा रहेका कारण यो क्षेत्र सुन्दर मात्रै होइन, शान्त पनि छ । तर यो नगरपालिका क्षेत्रलाई पनि काठमाडौंका उपत्यकाका अरु नगरपालिका क्षेत्रहरुलाई जस्तै दुःख दिदैं आएको छ फोहोरमैला व्यवस्थापनले ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/when-is-the-beautiful-suryavinayak-18-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784478653_surya-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस विवाद: केन्द्रीय समिति पुनर्गठन हुनुपर्ने अडानमा इतर पक्ष, पुनर्गठित समितिले महाधिवेशनको मिति तोक्नु पर्ने",
+      "summary": "स्पेनको बल नियन्त्रण गर्ने शैली नै फाइनलको निर्णायक पक्ष बन्ने उनको विश्वास छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/ronaldo-predicts-spain-will-easily-beat-argentina-98-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784476816_Ronaldo-480x320.jpg"
     }
   ]
 }
