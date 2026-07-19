@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-07-19T06:37:16.412008",
+  "scraped_at": "2026-07-19T09:57:59.857856",
   "date": "2026-07-19",
-  "total_articles": 39,
+  "total_articles": 47,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -318,6 +318,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/the-highest-rainfall-is-recorded-in-amarpur-dang-77-42.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Government’s digital services buckle under repeated system failures",
+      "summary": "Citizens seeking routine services are left waiting for hours or returning for days as server outages expose the fragility of the Digital Nepal initiative.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/19/government-s-digital-services-buckle-under-repeated-system-failures",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/digital-1784448506.jpg&w=300&height=200"
+    },
+    {
+      "title": "Having built a hybrid engine, Nepali engineers prepare for 4.1-metre rocket’s vertical test flight",
+      "summary": "After 55 engine tests, a Nepali startup is preparing to fly a homegrown hybrid rocket. Its struggle to secure approval reveals a country building space technology faster than the rules needed to govern it.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/19/having-built-a-hybrid-engine-nepali-engineers-prepare-for-4-1-metre-rocket-s-vertical-test-flight",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Rocket-1784425274.jpg&w=300&height=200"
+    },
+    {
+      "title": "Fiction: A revolting ghost",
+      "summary": "Nepali citizens possess no legal space to challenge the fines or charges imposed by security forces.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/07/19/fiction-park-a-revolting-ghost",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/jeepsafari-1784445014.jpg&w=400&height=267"
+    },
+    {
+      "title": "एमाले कसैको सहारामा उभिने ‘लहरो’ होइन, आफैंमा बलियो ‘वृक्ष’ हो: ओली",
+      "summary": "नेकपा (एमाले) का अध्यक्ष केपी शर्मा ओलीले आफ्नो पार्टी अरू कसैको सहारामा मात्र उभिने ‘लहरो’ नभएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-is-not-a-wave-that-relies-on-anyone-s-support-but-a-strong-tree-in-itself-oli-br-23-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784453981_kp_oli-480x320.jpg"
+    },
+    {
+      "title": "सरकारले स्वार्थअनुसार संविधान र कानुन बदल्न खोज्दैछ: शंकर पोखरेल",
+      "summary": "इजरायलका प्रधानमन्त्री बेन्जामिन नेतान्याहूले अर्जेन्टिना र स्पेनबिच हुने विश्वकप फाइनलमा अर्जेन्टिनालाई समर्थन गर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/netanyahu-supports-argentina-in-world-cup-final-87-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783737944_I support Argentina-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसमा युवा सहभागिता अनिवार्य गराउने नीतिसहित पार्टीले काम गर्दैछ : गगन थापा",
+      "summary": "प्राविधिक अवरोधका कारण करिब डेढ घण्टा बन्द भएका सामाजिक सञ्जाल फेसबुक र इन्स्टाग्राम आइतबार दिउँसो ३: २० बजेपछि पुनः सुचारु भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/facebook-now-runs-on-desktop-browsers-76-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784454150_laptop-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्र बैङ्क ऐन संशोधन विधेककमाथि छलफल",
+      "summary": "स्पेनका प्रशिक्षकले आफूले पहिलो पटक युवा अवस्थामा खेलिरहेका मेस्सीलाई देखेको स्मरण गरे ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/what-is-spain-s-strategy-to-win-the-world-cup-11-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784453673_Day--480x320.jpg"
+    },
+    {
+      "title": "श्रीलंका भ्रमण सफलतापूर्वक सम्पन्न गरी संयोजक दाहाल स्वदेश फिर्ता",
+      "summary": "नेकपा (एमाले) का अध्यक्ष केपी शर्मा ओलीले आफ्नो पार्टी अरू कसैको सहारामा मात्र उभिने ‘लहरो’ नभएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-is-not-a-wave-that-relies-on-anyone-s-support-but-a-strong-tree-in-itself-oli-br-23-37.html?click_from=just_in",
       "image_url": ""
     }
   ]
