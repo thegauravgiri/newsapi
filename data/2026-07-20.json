@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-20T11:08:20.902797",
+  "scraped_at": "2026-07-20T14:24:28.173315",
   "date": "2026-07-20",
-  "total_articles": 46,
+  "total_articles": 51,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -374,6 +374,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/one-person-dies-during-world-cup-celebrations-in-spain-25-50.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "संसदमा प्रधानमन्त्रीसँग प्रश्नोत्तर कहिले ?",
+      "summary": "मन्त्रीहरूले संसद्मा नियमित प्रश्नोत्तरमा सहभागी हुन थाले पनि प्रधानमन्त्री बालेन्द्र शाहले भने हालसम्म संसद्मा औपचारिक प्रश्नोत्तर सामना गरेका छैनन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/when-is-the-q-a-with-the-prime-minister-in-parliament-80-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784556996_PM-480x320.jpg"
+    },
+    {
+      "title": "कानुन सुधार वर्ष सफल बनाउन मन्त्रालयगत छलफल सुरु, १६६ विधेयक अघि बढाइने",
+      "summary": "प्रत्येक बालबालिकालाई सडकको जोखिमपूर्ण जीवनबाट मुक्त गरी सुरक्षित वातावरण, शिक्षा, संरक्षण र सम्मानपूर्ण भविष्य सुनिश्चित गर्नु",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/government-in-campaign-to-make-nepal-free-of-street-children-daily-rescues-and-patrols-continue-br-60-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784556431_Balbalika-480x320.jpg"
+    },
+    {
+      "title": "एमाले ‘पर्ख र हेर’को नीतिमा",
+      "summary": "रौतहटको दुर्गा भगवती गाउँपालिका-३ मा सामाजिक सुरक्षा भत्ता वितरणमा व्यापक भ्रष्टाचार गरेको अभियोगमा अख्तियार दुरुपयोग अनुसन्धान आयोगले वडा अध्यक्ष र तत्कालीन निमित्त कार्यकारी अधिकृतसहित ४२ जना विरुद्ध विशेष अदालतमा मुद्दा दायर गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/corruption-case-against-42-people-including-ward-chair-for-distributing-allowances-by-creating-fake-beneficiaries-84-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776248299_aaktiyar-480x320.jpg"
+    },
+    {
+      "title": "प्रस्तावित प्रमुख निर्वाचन आयुक्त कार्कीविरुद्ध मात्र उजुरी, सुनुवाइ समितिको बैठक मंगलबार बस्दै",
+      "summary": "घटनास्थलको स्थलगत अनुगमन, नागरिकको सुरक्षा सुनिश्चितता, आवश्यक उद्धार तथा राहत कार्यलाई प्रभावकारी रूपमा सञ्चालन गर्न र क्षतिको यथार्थ विवरण सङ्कलन गर्न सम्बन्धित निकायलाई आग्रह",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/initiatives-for-relief-and-rehabilitation-in-landslide-affected-areas-of-nuwakot-13-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780486368_bikram timilsina-480x320.jpg"
+    },
+    {
+      "title": "‘ग्रिन रन’ आयोजना गर्दै कांग्रेस",
+      "summary": "मन्त्रीहरूले संसद्मा नियमित प्रश्नोत्तरमा सहभागी हुन थाले पनि प्रधानमन्त्री बालेन्द्र शाहले भने हालसम्म संसद्मा औपचारिक प्रश्नोत्तर सामना गरेका छैनन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/when-is-the-q-a-with-the-prime-minister-in-parliament-80-35.html?click_from=just_in",
       "image_url": ""
     }
   ]
