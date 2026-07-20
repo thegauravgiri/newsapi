@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-20T06:54:55.622757",
+  "scraped_at": "2026-07-20T11:08:20.902797",
   "date": "2026-07-20",
-  "total_articles": 38,
+  "total_articles": 46,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -311,6 +311,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/11-468-cases-disposed-of-in-patan-high-court-br-13-52.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768229243_patan-480x320.jpg"
+    },
+    {
+      "title": "Cervical cancer screening in Kathmandu finds 90 women positive for HPV",
+      "summary": "While the HPV vaccine included in the routine immunisation list targets types 16 and 18, recent screening shows infections with multiple HPV types, including those not covered by the vaccine.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/07/20/cervical-cancer-screening-in-kathmandu-finds-90-women-positive-for-hpv",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/hpv20720260827011000x0-1784534633.png&w=300&height=200"
+    },
+    {
+      "title": "Real estate revenue hits three-year high as buyers rush before tax hike",
+      "summary": "Revenue climbed to Rs60.74 billion in 2025-26 as buyers rushed to complete deals before higher capital gains tax rates and renewed land subdivision restrictions took effect.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/20/real-estate-transaction-revenue-hits-three-year-high-as-buyers-rush-before-tax-hike",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1784523159.jpg&w=600&height=400"
+    },
+    {
+      "title": "The record Nepal noticed not",
+      "summary": "Revenue climbed to Rs60.74 billion in 2025-26 as buyers rushed to complete deals before higher capital gains tax rates and renewed land subdivision restrictions took effect.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/07/20/the-record-nepal-noticed-not",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1784542608.jpg&w=400&height=267"
+    },
+    {
+      "title": "शनिबार र आइतबारको बिदाले सेवा प्रवाहमा पारेको प्रभाव खोज्न कार्यदल गठन",
+      "summary": "स्पेनले विश्वकप जितेपछि उत्सव मनाउने क्रममा एक १३ वर्षीय बालकको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/one-person-dies-during-world-cup-celebrations-in-spain-25-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784544954_New Project-480x320.jpg"
+    },
+    {
+      "title": "‘सरकारले आयोगलाई कमजोर बनायो’",
+      "summary": "भारतको राजधानी नयाँ दिल्लीमा युवाको नेतृत्वमा चलेको ‘कक्रोच जनता पार्टी’ (सीजेपी) आन्दोलनका हजारौँ समर्थकले सोमबार संसद् भवनतर्फ मार्च गर्ने प्रयास गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/cockroach-movement-intensifies-in-india-thousands-of-youth-attempt-to-march-to-parliament-br-85-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784544619_cjp-480x320.jpg"
+    },
+    {
+      "title": "ताप्लेजुङका दुई पालिकाका नयाँ नीति : सिरिजङ्गामा कडाइ, फक्ताङलुङमा भाषा संरक्षणमा जोड",
+      "summary": "भारतको नयाँ दिल्लीमा कक्रोज जनता पार्टी (सिजेपी) को ‘चलो संसद’ मार्च संसद भवननजिक पुगेपछि सुरक्षा व्यवस्था कडा पारिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/pm-modi-leaves-after-kakroj-janata-party-leaders-enter-parliament-house-85-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784544557_Modi-480x320.jpg"
+    },
+    {
+      "title": "एमालेले ३५ वर्षमा ८ वर्ष ५ महिना ११ दिनमात्र सरकारको नेतृत्व गर्‍यो:निरज आचार्य",
+      "summary": "चलचित्र विकास बोर्ड बक्स अफिस आइतबारसम्म विवरण सावर्जनिक भएकोछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/the-business-of-the-movie-roll-no-1-has-crossed-one-crore-how-much-is-bhagdaud-71-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784544185_monday-480x320.jpg"
+    },
+    {
+      "title": "बालेन्द्र सरकारले आतंक मच्चाएको कांग्रेस नेताहरूको आरोप",
+      "summary": "स्पेनले विश्वकप जितेपछि उत्सव मनाउने क्रममा एक १३ वर्षीय बालकको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/one-person-dies-during-world-cup-celebrations-in-spain-25-50.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
