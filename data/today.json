@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-20T14:24:28.173315",
+  "scraped_at": "2026-07-20T18:10:48.033191",
   "date": "2026-07-20",
-  "total_articles": 52,
+  "total_articles": 56,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -423,6 +423,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/when-is-the-q-a-with-the-prime-minister-in-parliament-80-35.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Paddy season is slipping away, but two Nepali farmer brothers are stuck in India jail",
+      "summary": "Arrested after buying fertiliser across the border, they are still awaiting bail as Nepal's chronic shortages push farmers to take risks.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/20/paddy-season-is-slipping-away-but-two-nepali-farmer-brothers-are-stuck-in-india-jail",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1784561993.jpg&w=300&height=200"
+    },
+    {
+      "title": "Chief Minister Shah weighs confidence vote as Sudurpashchim sinks deeper into budget crisis",
+      "summary": "Reduced to a minority after the UML withdrew support, the chief minister is banking on talks in Kathmandu as the province remains trapped in a fiscal vacuum.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/20/shah-weighs-confidence-vote-as-sudurpashchim-sinks-deeper-into-budget-crisis",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/shah31720250812111000x0-1784547292.jpg&w=600&height=400"
+    },
+    {
+      "title": "मन्त्रालय घटाएपछि कर्मचारी व्यवस्थापन अन्तिम चरणमा",
+      "summary": "वैदेशिक रोजगारीका लागि बेलायत (युके) पठाइदिने प्रलोभन देखाएर १७ लाख रुपैयाँ ठगी गरेको आरोपमा एक महिला पक्राउ परेकी छिन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/pooja-arrested-from-her-family-home-for-allegedly-defrauding-her-of-rs-1-7-million-64-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784565103_Puja-480x320.jpg"
+    },
+    {
+      "title": "सांसदले स्वकीय सचिव राख्न पाउने व्यवस्था राजपत्रमा प्रकाशित",
+      "summary": "पछिल्लो तीन घण्टामा देशभरमै सबैभन्दा बढी वर्षा बैतडीको गोकुलेश्वरमा मापन गरिएको छ। जल तथा मौसम विज्ञान विभागका अनुसार गोकुलेश्वरमा ३७.२ मिलिमिटर वर्षा भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/gokuleshwor-baitadi-receives-the-highest-rainfall-60-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784564389_rain-480x320.jpg"
     }
   ]
 }
