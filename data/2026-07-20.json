@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-20T03:50:00.248390",
+  "scraped_at": "2026-07-20T06:54:55.622757",
   "date": "2026-07-20",
-  "total_articles": 33,
+  "total_articles": 38,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -271,6 +271,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/world-cup-winner-spain-gets-51-million-prize-how-much-do-the-other-47-teams-get-75-27.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "रिय इन्जिनियर दिवस घोषणा गर्न इन्जिनियर्स एसोसियसनको माग",
+      "summary": "रिय इन्जिनियर दिवस घोषणा गर्न इन्जिनियर्स एसोसियसनको माग",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13359",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/engenneeer-1784529420.jpg"
+    },
+    {
+      "title": "आन्दोलन प्रतिवेदन कार्यान्वयनमा अन्तर्राष्ट्रिय दबाब",
+      "summary": "आन्दोलन प्रतिवेदन कार्यान्वयनमा अन्तर्राष्ट्रिय दबाब",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13357",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/pratibedan-_-1784517883.jpg"
+    },
+    {
+      "title": "Panel finds no basis to prosecute security chiefs over September killings, home minister refuses report, PM yet to receive it",
+      "summary": "Karki committee found that missing forensic evidence and the inability to identify who fired the fatal shots left no basis for criminal charges against senior security officials.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/20/panel-finds-no-basis-to-prosecute-security-chiefs-over-september-killings-home-minister-refuses-report-pm-yet-to-receive-it",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/viberimage202509080950266051757305369-1784508898.jpg&w=300&height=200"
+    },
+    {
+      "title": "Judiciary left reeling from Gen Z protest impact as case clearance almost halved",
+      "summary": "The Supreme Court records lowest performance, settling only 29.46 percent of its cases in 2025-26.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/19/judiciary-left-reeling-from-gen-z-protest-impact-as-case-clearance-almost-halved",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb54-1784477285.jpg&w=300&height=200"
+    },
+    {
+      "title": "प्रधानमन्त्री शाहले पुँजी बजार र बिमा क्षेत्रका सरोकारवालासँग भेट गर्ने",
+      "summary": "उच्च अदालत पाटनले गत आर्थिक वर्ष (२०८२/०८३) मा ११ हजार ४६८ मुद्दा फछ्र्योट गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/11-468-cases-disposed-of-in-patan-high-court-br-13-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768229243_patan-480x320.jpg"
     }
   ]
 }
