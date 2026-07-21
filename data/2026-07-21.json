@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-21T14:09:57.786193",
+  "scraped_at": "2026-07-21T17:36:50.395988",
   "date": "2026-07-21",
-  "total_articles": 54,
+  "total_articles": 61,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -439,6 +439,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/complaints-related-to-foreign-employment-can-now-be-filed-online-minister-yadav-launches-the-system-64-85.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "PM Shah announces withdrawal of proposed equity fee on education and health services",
+      "summary": "The head of the government says the levy would have increased costs for the public, while reaffirming plans to expand access to education and healthcare for disadvantaged groups.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/21/prime-minister-shah-announces-withdrawal-of-proposed-three-percent-equity-fee-on-education-and-health-services",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/balen16720261116291000x0-1784628574.jpg&w=300&height=200"
+    },
+    {
+      "title": "25 years on, Shuklaphanta displaced still await resettlement",
+      "summary": "Hundreds of families uprooted by park’s expansion decades ago remain in limbo, living under plastic shelters as another monsoon arrives.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/21/25-years-on-shuklaphanta-displaced-still-await-resettlement",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/img2026042011304623420260849571000x0-1784646764.jpg&w=300&height=200"
+    },
+    {
+      "title": "Ambassadorial selection in final stretch",
+      "summary": "Officials sifted through over 4,400 applications and have shortlisted a few hundred for the final stage of selection.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/21/ambassadorial-selection-in-final-stretch-17-mission-remain-headless",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1784637257.jpg&w=600&height=400"
+    },
+    {
+      "title": "Why people are ordering fake food and fashion deliveries on free ‘dopamine apps’",
+      "summary": "Officials sifted through over 4,400 applications and have shortlisted a few hundred for the final stage of selection.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/07/21/why-people-are-ordering-fake-food-and-fashion-deliveries-on-free-dopamine-apps",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1784637257.jpg&w=400&height=267"
+    },
+    {
+      "title": "२५ महिना लामो ‘कोल्ड वार’ तोड्दै फेरि एकै ठाउँमा ओली-प्रचण्ड",
+      "summary": "जोरपाटी बस्दै आएका तामाङले पूर्वराजालाई भेट्न पाँच पटक प्रयास गरे पनि भेट्न नपाएको प्रहरीसमक्ष बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/another-self-immolation-attempt-in-kathmandu-sadness-over-not-being-able-to-meet-the-former-king-and-sell-vegetables-31-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767337292_Nagariknews-480x320.jpg"
+    },
+    {
+      "title": "एमालेसँग सहकार्यको प्रक्रिया औपचारिक रूपमा अघि बढ्यो, कांग्रेससँग पनि कुरा हुँदैछ : दाहाल",
+      "summary": "केन्द्रमा उदय भएको नयाँ शक्ति रास्वपाका कारण रक्षात्मक बनेका दुई कम्युनिस्ट दलहरू नेकपा एमाले र नेकपा २५ महिनापछि पुनः प्रदेश सरकारमार्फत सत्ता सहयात्रामा फर्कने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-and-prachanda-reunite-breaking-the-25-month-long-cold-war-53-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784650186_oli_prachanda-480x320.jpg"
+    },
+    {
+      "title": "महेश भन्छन्: ओली-प्रचण्ड वार्तापछि सहकार्यको प्रक्रिया अघि बढ्यो",
+      "summary": "लगातारको वर्षा र पहिरोका कारण देशभरका मुख्य राजमार्गहरू अवरुद्ध हुँदा आवतजावत ठप्प भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/monsoon-havoc-11-roads-across-the-country-blocked-full-details-27-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784649497_bato-480x320.jpg"
     }
   ]
 }
