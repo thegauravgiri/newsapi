@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-21T10:30:38.457029",
+  "scraped_at": "2026-07-21T14:09:57.786193",
   "date": "2026-07-21",
-  "total_articles": 48,
+  "total_articles": 54,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -390,6 +390,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jarabutta-art-museum-is-a-tourist-favorite-58-30.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Government pushes for release of farmer brothers held in India",
+      "summary": "After spending 20 days behind bars for bringing fertiliser bought across the border, two brothers from Sarlahi are expected to be freed on bail on Tuesday following diplomatic intervention.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/21/two-nepali-farmers-likely-to-be-released-from-indian-jail-on-tuesday",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/ArrestoftwoNepalibrothers-1784618138.jpg&w=300&height=200"
+    },
+    {
+      "title": "जनकपुरमा मिर्गौला रोग उपचार केन्द्र स्थापना गर्न अध्ययन समितिको सिफारिस",
+      "summary": "वैदेशिक रोजगारका क्रममा हुने ठगी नियन्त्रण गरी श्रमिकलाई सहज र प्रभावकारी सेवा उपलब्ध गराउन सरकार प्रतिबद्ध रहेको मन्त्री यादवले बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/complaints-related-to-foreign-employment-can-now-be-filed-online-minister-yadav-launches-the-system-64-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784642765_Mantri Yadav-480x320.jpg"
+    },
+    {
+      "title": "रामशरण महत अदालत उपस्थित हुनैपर्ने, मुद्दा मुलतबीमा राख्न विशेष अदालतद्वारा अस्वीकार",
+      "summary": "तनहुँको व्यास नगरपालिका-७ कलेस्ती पुलमा भएको बस दुर्घटनामा घाइते हुनेहरूको संख्या १७ पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/tanahun-bus-accident-number-of-injured-reaches-17-br-44-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784642095_tana_bhs-480x320.jpg"
+    },
+    {
+      "title": "म चाँडै स्वदेश फर्कने छु : शेरबहादुर देउवा",
+      "summary": "समितिले प्राविधिक, पूर्वाधार, जनशक्ति, आर्थिक तथा सामाजिक पक्षको अध्ययनपछि संघ र प्रदेश सरकारको सहकार्यमा मधेश स्वास्थ्य विज्ञान प्रतिष्ठान, जनकपुरबाट केन्द्र सञ्चालन गर्न उपयुक्त हुने निष्कर्ष निकालेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/study-committee-recommends-establishing-kidney-disease-treatment-center-in-janakpur-92-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784642541_Janakpur News-480x320.jpg"
+    },
+    {
+      "title": "हङकङबाट देउवाको सन्देश : सरकार प्रतिशोधको राजनीति गरिरहेको छ, आतंकित बनाइरहेको छ",
+      "summary": "भेटका क्रममा यादवले आफ्नो मुद्दासँग सम्बन्धित न्यायिक प्रक्रिया, स्वास्थ्य अवस्था, जीविकोपार्जन तथा आफूले उठाउँदै आएका मागबारे मन्त्री बादीलाई जानकारी गराएकी थिइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/minister-sita-badi-meets-with-binu-yadav-who-is-on-a-sit-in-and-promises-to-take-initiative-to-address-her-demands-20-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784642094_Binu Yadav-480x320.jpg"
+    },
+    {
+      "title": "समता शुल्क कानुनी रूपमा तत्काल खारेज गर्न कुलमान घिसिङको आग्रह",
+      "summary": "वैदेशिक रोजगारका क्रममा हुने ठगी नियन्त्रण गरी श्रमिकलाई सहज र प्रभावकारी सेवा उपलब्ध गराउन सरकार प्रतिबद्ध रहेको मन्त्री यादवले बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/complaints-related-to-foreign-employment-can-now-be-filed-online-minister-yadav-launches-the-system-64-85.html?click_from=just_in",
       "image_url": ""
     }
   ]
