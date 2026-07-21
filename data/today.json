@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-21T06:35:28.665259",
+  "scraped_at": "2026-07-21T10:30:38.457029",
   "date": "2026-07-21",
-  "total_articles": 43,
+  "total_articles": 49,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -351,6 +351,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/genji-activists-unhappy-after-government-imposes-tax-on-basic-services-br-24-50.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784613820_05 BOm-480x320.jpg"
+    },
+    {
+      "title": "Diplomatic push to release farmer brothers from Indian prison",
+      "summary": "After spending 20 days behind bars for bringing fertiliser bought across the border, two brothers from Sarlahi are expected to be freed on bail on Tuesday following diplomatic intervention.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/21/two-nepali-farmers-likely-to-be-released-from-indian-jail-on-tuesday",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/ArrestoftwoNepalibrothers-1784618138.jpg&w=300&height=200"
+    },
+    {
+      "title": "देवेन्द्रराज पाण्डेको निधनमा राष्ट्रपतिको समवेदना- मुलुकले निर्भीक लोकतन्त्रवादी गुमायो",
+      "summary": "खोला तथा बगरमा खेर जाने रुखका जरा र जराबुट्टालाई कलात्मक रूप दिई लामिछानेले करिब ३० वर्षदेखि सङ्कलन तथा सृजना गर्दै आएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jarabutta-art-museum-is-a-tourist-favorite-58-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784629298_jara-480x320.jpg"
+    },
+    {
+      "title": "शिक्षामन्त्रीसँग अमेरिकी कार्यवाहक राजदूतको शिष्टाचार भेटवार्ता",
+      "summary": "कारोबार हुने साताको दोस्रो दिन मंगलबार सेयर बजार परिसूचक नेप्से सामान्य अंकले बढ्दै लगातार पाँचौँ कारोबार दिनको वृद्धि यात्रालाई निरन्तरता दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nepse-s-upward-journey-continues-trading-volume-increases-to-over-6-5-billion-54-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770804327_nepse-480x320.jpg"
+    },
+    {
+      "title": "टेक्सटाइल काउन्सिल गठन अघि बढाउन प्रधानमन्त्रीको निर्देशन, रुग्ण पोसाक उद्योग सञ्चालनमा जोड",
+      "summary": "सुस्त सुरुवात गरेको नेपालले आफ्नो ३ विकेट सस्तैमा गुमाएको छ। १६ ओभरको समाप्तिमा नेपालले ३ विकेट गुमाएर ४० रनमात्र बनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/world-cup-league-2-nepal-s-poor-batting-against-namibia-86-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784628949_Nepal-480x320.jpg"
+    },
+    {
+      "title": "आफ्ना सांसदलाई रास्वपाको पाँचबुँदे निर्देशन, भ्रमणलाई रणनीतिक अभियानका रूपमा सञ्चालन गर्न आग्रह",
+      "summary": "युवा, श्रम तथा रोजगार मन्त्रालयले वैदेशिक रोजगारीमा ठगीएका श्रमिकहरुको समस्या समाधान गर्न अनलाइन उजुरी प्रणाली सञ्चालनमा ल्याएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/now-you-can-file-complaints-about-foreign-employment-fraud-online-65-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784629158_2-480x320.jpg"
+    },
+    {
+      "title": "नेपालको विकास यात्रामा रुसको महत्वपूर्ण योगदान छ : वर्षमान पुन",
+      "summary": "खोला तथा बगरमा खेर जाने रुखका जरा र जराबुट्टालाई कलात्मक रूप दिई लामिछानेले करिब ३० वर्षदेखि सङ्कलन तथा सृजना गर्दै आएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jarabutta-art-museum-is-a-tourist-favorite-58-30.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
