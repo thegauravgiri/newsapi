@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-21T03:29:36.236031",
+  "scraped_at": "2026-07-21T06:35:28.665259",
   "date": "2026-07-21",
-  "total_articles": 33,
+  "total_articles": 42,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -271,6 +271,78 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/cockroaches-are-heard-in-delhi-26-47.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Paddy season is slipping away, but two Nepali farmer brothers are stuck in India jail",
+      "summary": "Arrested after buying fertiliser across the border, they are still awaiting bail as Nepal's chronic shortages push farmers to take risks.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/20/paddy-season-is-slipping-away-but-two-nepali-farmer-brothers-are-stuck-in-india-jail",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1784561993.jpg&w=300&height=200"
+    },
+    {
+      "title": "Seven reasons why this massive students’ protest in Delhi is different and has rattled the Modi regime",
+      "summary": "These protests signify a profound shift in how the youth have shattered a manufactured climate of fear and collectively reclaimed their democratic voice.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/07/21/seven-reasons-why-this-massive-students-protest-in-delhi-is-different-and-has-rattled-the-modi-regime",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/C7ODMGILNFIPDKHCLUNX6JDPQ4-1784614515.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepali pickles find their way to global markets",
+      "summary": "Exports cross Rs211 million as homegrown brands reach markets from Italy to Australia, while entrepreneurs transform traditional recipes into commercial ventures.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/21/nepali-pickles-find-their-way-to-global-markets",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/pickles-1784607275.jpg&w=300&height=200"
+    },
+    {
+      "title": "Healthy and educated, yet alone",
+      "summary": "Replacing lost files and ruined buildings won’t fix Nepal’s judiciary. Only structural reform will.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/07/20/nepal-s-loneliest-generation",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/main-1784613717.jpg&w=400&height=267"
+    },
+    {
+      "title": "Nepal’s fastest man had to do it without Nepal",
+      "summary": "The government’s utter disregard for issues of social justice, inclusion and equality is likely to cost a great deal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/07/20/the-record-nepal-noticed-not",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/SN7NQJ5YJJJZHCJ3Z3TNXOKJOU-1784610666.jpg&w=400&height=267"
+    },
+    {
+      "title": "सरकारले आधारभूत सेवामा कर लगाएपछि जेनजी अभियन्ता असन्तुष्टि",
+      "summary": "लगातारको वर्षापछि आएको बाढी र पहिरोका कारण देशभर सात प्रमुख राजमार्ग पूर्ण रूपमा तथा १२ राजमार्ग आंशिक रूपमा प्रभावित भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/landslides-completely-close-seven-major-highways-12-highways-one-way-br-81-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1759743467_Pahiro-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री शाहले नेपाल तयारी पोशाक उद्योग संघका पदाधिकारीसँग छलफल गर्दै",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाहले पुँजी बजारसँग सम्बन्धित सरोकारवालासँग प्रत्यक्ष संवाद गरेपछि सोमबार नेपाल स्टक एक्सचेन्ज (नेप्से) मा देखिएको सुधारलाई लगानीकर्ताले सकारात्मक संकेतका रूपमा लिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/prime-minister-s-message-brings-green-to-the-stock-market-93-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784120521_balen-480x320.jpg"
+    },
+    {
+      "title": "काठमाडौं महानगरको नयाँ आर्थिक ऐन : असोज मसान्तभित्र व्यवसाय दर्ता गरे अघिल्ला वर्षको व्यवसाय कर मिनाहा हुने",
+      "summary": "एक वर्ष अघि नै निर्माण पूरा भइसकेको तर विभिन्न कारणले सञ्चालन हुन नसकेको नागढुंगा सुरुङमार्ग साउन दोस्रो सातादेखि क्रमिक रूपमा सञ्चालन गर्ने तयारी गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nagdhunga-tunnel-to-be-operational-from-next-week-55-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784613582_nadhunga surung-480x320.jpg"
+    },
+    {
+      "title": "बिदा पुनरवलोकन : सेवामा सुधार होला ?",
+      "summary": "उनीहरूले सामाजिक सञ्जालमार्फत सरकारको कर नीतिमाथि प्रश्न उठाउँदै नागरिकको आधारभूत अधिकारसँग जोडिएका क्षेत्रमा कर लगाउने निर्णय पुनर्विचार गर्न आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/genji-activists-unhappy-after-government-imposes-tax-on-basic-services-br-24-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784613820_05 BOm-480x320.jpg"
     }
   ]
 }
