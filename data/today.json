@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-22T10:31:14.469547",
+  "scraped_at": "2026-07-22T14:13:17.367873",
   "date": "2026-07-22",
-  "total_articles": 47,
+  "total_articles": 54,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -382,6 +382,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/the-23rd-edition-of-the-nsjf-pulsar-sports-awards-will-be-held-on-bhadra-18-32-24.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Displaced squatters to be moved from Banepa holding centre to Ichangu Narayan",
+      "summary": "Around 15 families will be relocated on Wednesday as the government moves to shut down the temporary shelter, where food supplies were halted earlier this month.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/22/displaced-squatters-to-be-moved-from-banepa-holding-centre-to-ichangu-narayan",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1784709425.jpg&w=300&height=200"
+    },
+    {
+      "title": "Refunds uncertain after government rolls back equity tax on education and health services",
+      "summary": "The government’s withdrawal of the three percent parity tax awaits Cabinet approval, leaving uncertainty over refunds for taxes collected since July 17.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/22/refunds-uncertain-after-government-rolls-back-equity-tax-on-education-and-health-services",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/pmofc066a075209620260705231000x0-1784716401.jpg&w=300&height=200"
+    },
+    {
+      "title": "यताउता नसोचेर चारतारे झण्डा र रुख चिन्हमा गोलबद्ध हुनुस्: प्रदेश सभापति पुन",
+      "summary": "झन्डै तीन दशकअघि शुरु भएको यस एनआईसी एशिया बैंक लिमिटेडले साउन ५ गते सप्ताहव्यापी रुपमा विभिन्न कार्यक्रमहरु आयोजना गर्दै २९औं वार्षिकोत्सव मनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Corporate/nic-asia-bank-enters-29th-year-hosts-various-programs-throughout-the-week-59-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784729196_NIC Bank-480x320.jpg"
+    },
+    {
+      "title": "विभाजनको दिशामा कांग्रेस : इतर पक्षद्वारा राष्ट्रिय भेला आह्वान",
+      "summary": "नेपाली कांग्रेस लुम्बिनी प्रदेशका सभापति अमरसिंह पुनले चारतारे झण्डा र रुखमा कांग्रेसका समग्र कार्यकर्ताको भविष्य जोडिएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/don-t-think-about-it-but-unite-around-the-four-star-flag-and-the-tree-symbol-provincial-president-pun-br-47-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784728597_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस संस्थापनइतर पक्षद्वारा साउन २९ गते राष्ट्रिय भेला आह्वान",
+      "summary": "जिल्ला प्रशासन कार्यालय चितवनले बिहानदेखि साँझसम्म राष्ट्रिय परिचयपत्रसम्बन्धी सेवा उपलब्ध गराउने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/national-id-card-services-available-from-morning-to-evening-42-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1754631989_cdo office chitwan-480x320.jpg"
+    },
+    {
+      "title": "पत्रकारिता क्षेत्र सुदृढ बनाउन बलियो कानुन आवश्यक : सञ्चारमन्त्री तिमिल्सिना",
+      "summary": "सडक डिभिजन कार्यालय हेटौंडाले वीरगञ्ज महानगरपालिकाको मुख्य सडकखण्ड विस्तार अभियान मङ्गलबारदेखि पुनः सुरु गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/main-road-expansion-campaign-resumes-in-birgunj-51-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783313274_dozer-480x320.jpg"
+    },
+    {
+      "title": "पूर्णबहादुर भन्छन्: कांग्रेस संवाद र सहमतिबाट मात्रै बलियो बन्छ",
+      "summary": "झन्डै तीन दशकअघि शुरु भएको यस एनआईसी एशिया बैंक लिमिटेडले साउन ५ गते सप्ताहव्यापी रुपमा विभिन्न कार्यक्रमहरु आयोजना गर्दै २९औं वार्षिकोत्सव मनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Corporate/nic-asia-bank-enters-29th-year-hosts-various-programs-throughout-the-week-59-16.html?click_from=just_in",
       "image_url": ""
     }
   ]
