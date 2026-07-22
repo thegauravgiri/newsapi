@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-22T06:36:20.698237",
+  "scraped_at": "2026-07-22T10:31:14.469547",
   "date": "2026-07-22",
-  "total_articles": 42,
+  "total_articles": 47,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -342,6 +342,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/kirtipur-incident-police-conclude-that-the-car-was-set-on-fire-and-that-he-committed-suicide-br-75-86.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "हामी अझै लक्ष्मणरेखाभित्रै छौं, तर बाध्य पारिए पाइला रोकिन्न: वीरबहादुर बलायर",
+      "summary": "नेपाली खेलकुदको प्रतिष्ठित एनएसजेएफ पल्सर स्पोर्ट्स अवार्डको २३औं संस्करण आगामी भदौ १८ गते काठमाडौंमा हुने भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/the-23rd-edition-of-the-nsjf-pulsar-sports-awards-will-be-held-on-bhadra-18-32-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784715705_Sport-480x320.jpg"
+    },
+    {
+      "title": "जुट्न नसके राष्ट्रिय भेला गर्ने जितजंग बस्नेतको चेतावनी",
+      "summary": "आज नेप्से परिसूचक घटेर बन्द भएको छ। पछिल्ला ६ कारोबार दिनदेखि बढिरहेको नेप्सेमा यस दिन भने करेक्सन भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nepse-index-rises-by-156-3-points-in-a-week-58-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770804328_nepse-share-nawayug-480x320.jpg"
+    },
+    {
+      "title": "हस्तकलाको संरक्षण गर्न सरकार प्रतिबद्ध छ : प्रधानमन्त्री शाह",
+      "summary": "एकताको कुरा मात्रै गर्ने तर त्यसअनुसार व्यवहारमा कुनै ठोस सहमति नगर्ने प्रवृत्तिप्रति असन्तुष्टि व्यक्त गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-are-still-within-the-lakshman-rekha-but-we-will-not-stop-if-forced-bir-bahadur-balayar-33-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784713362_Balayar-480x320.jpg"
+    },
+    {
+      "title": "मन्त्री बादीसँग सांसद रमेश प्रसाईंले भने: अपाङ्गता भएका व्यक्तिको अधिकार सुनिश्चित होस्",
+      "summary": "दाइजो प्रथाविरुद्धको राष्ट्रिय जनचेतनामूलक अभियान मधेश प्रदेशबाट प्रारम्भ गरी चरणबद्ध रूपमा देशभर विस्तार गर्ने विषयमा विस्तृत विचारविमर्श भएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/government-s-next-preparation-national-campaign-to-end-dowry-system-begins-in-madhesh-br-41-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784713117_Mantri Badi_RubY Khatun-480x320.jpg"
+    },
+    {
+      "title": "बीपी स्मृति दिवसमा कांग्रेस संस्थापनइतर समूहको छुट्टै समारोह, ‘संवाद, सहमति र एकता’मा जोड",
+      "summary": "नेपाली खेलकुदको प्रतिष्ठित एनएसजेएफ पल्सर स्पोर्ट्स अवार्डको २३औं संस्करण आगामी भदौ १८ गते काठमाडौंमा हुने भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/the-23rd-edition-of-the-nsjf-pulsar-sports-awards-will-be-held-on-bhadra-18-32-24.html?click_from=just_in",
       "image_url": ""
     }
   ]
