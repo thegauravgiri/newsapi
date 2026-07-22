@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-22T14:13:17.367873",
+  "scraped_at": "2026-07-22T17:26:18.083896",
   "date": "2026-07-22",
-  "total_articles": 54,
+  "total_articles": 60,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -439,6 +439,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Corporate/nic-asia-bank-enters-29th-year-hosts-various-programs-throughout-the-week-59-16.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Skyrocketing fuel costs drive sharp decline in Nepali air travel",
+      "summary": "A 12 percent drop in domestic passenger traffic has put significant financial strain on airlines following an industry-wide fare hike.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/22/skyrocketing-fuel-costs-drive-sharp-decline-in-nepali-air-travel",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/airport051020250520421000x022720260241421000x0-1784736027.jpg&w=300&height=200"
+    },
+    {
+      "title": "Chinese envoy voices concerns over upcoming Tibetan studies seminar in Kathmandu",
+      "summary": "Beijing fears the event could be used by Dalai Lama supporters, but organisers say it is purely an academic gathering.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/22/chinese-envoy-voices-concerns-over-upcoming-tibetan-studies-seminar-in-kathmandu",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/P020230108497499657934-1784729802.jpg&w=300&height=200"
+    },
+    {
+      "title": "Supreme Court opens direct grievance channel for complaints against courts",
+      "summary": "The judicial governance centre has received 186 complaints since June, with more than half already resolved.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/22/supreme-court-opens-direct-grievance-channel-for-complaints-against-courts",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/nyayiksusashankendrasupremecourt20260721505922720261125541000x0-1784726841.jpg&w=300&height=200"
+    },
+    {
+      "title": "राजनीतिको अन्तिम लक्ष्य नै समाजसेवा होः गगन",
+      "summary": "भारतको राजधानी नयाँ दिल्लीस्थित जन्तर-मन्तरमा बुधबार राति ‘ककरोच जनता पार्टी’ (सीजेपी) का समर्थक विद्यार्थी र प्रहरीबिच पुनः उग्र झडप भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/clashes-erupt-between-police-and-students-in-delhi-stone-pelting-followed-by-tear-gas-41-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784737832_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "नेपालमा संवैधानिक राजसंस्था आवश्यक छ: शंकर भण्डारी",
+      "summary": "मध्यपूर्वमा बढ्दो तनावका कारण विश्वव्यापी तेल आपूर्तिमा अवरोध आउन सक्ने चिन्ता बढेपछि बुधबार ब्रेन्ट क्रुडको मूल्य प्रतिब्यारेल ९५ अमेरिकी डलरभन्दा माथि पुगेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/oil-market-affected-by-hormuz-tensions-12-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776506800_hormuz-480x320.jpg"
+    },
+    {
+      "title": "स्काउटको प्रमुख आयुक्तमा बालेन निकट सन्तोष थापा नियुक्त",
+      "summary": "नेपाली कांग्रेसका सभापति गगनकुमार थापाले राजनीति र धर्मको अन्तिम लक्ष्य समाजसेवा भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-ultimate-goal-of-politics-is-social-service-gagan-57-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781439873_gagan_-480x320.jpg"
     }
   ]
 }
