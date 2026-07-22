@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-22T03:28:17.875043",
+  "scraped_at": "2026-07-22T06:36:20.698237",
   "date": "2026-07-22",
-  "total_articles": 34,
+  "total_articles": 42,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -278,6 +278,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/birtamod-municipality-reiterates-request-to-remove-structure-br-75-79.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Under soaring pressure, India’s education minister promises reforms and debate",
+      "summary": "Modi government faces mounting youth anger over exam leaks as opposition seeks parliamentary debate and accountability.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/07/22/under-soaring-pressure-india-s-education-minister-promises-reforms-and-debate",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/I77OPCYMVZPJBLSJNGLHO7F53A1-1784699540.jpg&w=300&height=200"
+    },
+    {
+      "title": "From viral videos to Halchowk: 11-year-old Sajani Tamang to begin elite journey with APF FC",
+      "summary": "APF FC secures the future of the 11-year-old viral sensation, committing to her education and training as she embarks on an elite footballing journey.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/07/22/from-viral-videos-to-halchowk-11-year-old-sajani-tamang-to-begin-elite-journey-with-apf-fc",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/74922330510569383101881574492605321739183911n-1784682434.jpg&w=600&height=400"
+    },
+    {
+      "title": "How Gunjan Dixit uses AI to shape her theatre work",
+      "summary": "While these apps and websites might be fun and free, your fake choices can still be incredibly valuable for marketers.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/07/22/everyday-ai-gunjan-dixit",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/movie-1784682875.jpg&w=400&height=267"
+    },
+    {
+      "title": "बजेट कार्यान्वयनमा कडाइ गर्न अर्थ मन्त्रालयले जारी गर्यो ४७ बुँदे मार्गदर्शन",
+      "summary": "मंगलबार कीर्तिपुरमा कारभित्र जलेको अवस्थामा मृत फेला परेका सुरेशचन्द्र श्रेष्ठले आत्मदाह गरेको प्रहरीले प्रारम्भिक अनुसन्धानबाट निष्कर्ष निकालेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/kirtipur-incident-police-conclude-that-the-car-was-set-on-fire-and-that-he-committed-suicide-br-75-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784701692_car fire 06-480x320.jpg"
+    },
+    {
+      "title": "बागमती सरकारबाट एमालेका मन्त्रीहरूको सामूहिक राजीनामा",
+      "summary": "सुदूरपश्चिम प्रदेश सरकारले आर्थिक वर्ष २०८२/८३ मा विनियोजित बजेटको करिब ६२.२६ प्रतिशतमात्र खर्च गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/capital-expenditure-of-most-ministries-in-the-far-west-province-is-weak-84-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779764350_sudurpaschim-480x320.jpg"
+    },
+    {
+      "title": "आज मन्त्रिपरिषद् बैठक बस्ने",
+      "summary": "नेपालभर पछिल्लो २४ घण्टामा भएको सवारी दुर्घटनामा परी ६ जनाको मृत्यु भएको छ भने १३२ जना घाइते भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/6-people-died-in-road-accidents-in-the-last-24-hours-br-89-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784615247_Accident-480x320.jpg"
+    },
+    {
+      "title": "माइतीघर क्षेत्रको डुबानको कारण खोज्न कार्यवाहक प्रमुखको निर्देशन",
+      "summary": "कलाकारहरूले ‘करोडौँ मुटुहरूको एउटै ढुकढुकी नेपाल’बाट सुरु गरी ‘यो मनको के भर हुन्छ’मा पुगेर आफ्नो प्रस्तुति टुङ्ग्याए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/remembering-the-immortal-singer-of-soft-music-arun-thapa-br-45-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784701391_thapa 98-480x320.jpg"
+    },
+    {
+      "title": "गाडीमा ब्रेक नहुनेले सरकार चलाउने भन्दै कांग्रेस सभापतिले गरे कटाक्ष",
+      "summary": "मंगलबार कीर्तिपुरमा कारभित्र जलेको अवस्थामा मृत फेला परेका सुरेशचन्द्र श्रेष्ठले आत्मदाह गरेको प्रहरीले प्रारम्भिक अनुसन्धानबाट निष्कर्ष निकालेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/kirtipur-incident-police-conclude-that-the-car-was-set-on-fire-and-that-he-committed-suicide-br-75-86.html?click_from=just_in",
       "image_url": ""
     }
   ]
