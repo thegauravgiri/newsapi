@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-23T06:35:33.334038",
+  "scraped_at": "2026-07-23T10:30:49.892897",
   "date": "2026-07-23",
-  "total_articles": 40,
+  "total_articles": 50,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -326,6 +326,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/us-house-of-representatives-passes-1-15-trillion-defense-bill-86-27.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Lamichhane eyes meeting with Xi during Beijing visit",
+      "summary": "RSP chief’s China trip, scheduled for late August, comes after his India visit where he met Prime Minister Narendra Modi and other senior BJP leaders.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/23/lamichhane-eyes-meeting-with-xi-during-beijing-visit",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb4-1784800481.jpg&w=300&height=200"
+    },
+    {
+      "title": "Bird flu hits 162 poultry farms; Rs507 million paid in compensation",
+      "summary": "The government has compensated 104 affected farmers after culling more than 835,000 birds, while officials say fresh claims could require another Rs100 million.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/23/bird-flu-hits-162-poultry-farms-rs507-million-paid-in-compensation",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/kukhura11106420261203031000x0122720260705121000x0-1784785199.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal protests as Saudi Arabia imposes skill test on migrant workers",
+      "summary": "New visa requirement adds thousands of rupees to migration costs as Nepal says the programme was introduced without bilateral agreement.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/23/nepal-protests-as-saudi-arabia-imposes-skill-test-on-migrant-workers",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/thumb2-1784772346.jpg&w=300&height=200"
+    },
+    {
+      "title": "Floods put Dolakha settlements at risk, wash away Pushpalal Highway section",
+      "summary": "Riverbank erosion has threatened dozens of homes in Gaurishankar Rural Municipality, while flooding in the Tamakoshi river has cut a key road link to the Tarai.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/23/floods-put-dolakha-settlements-at-risk-wash-away-pushpalal-highway-section",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/100041971023720260409071000x0-1784797114.jpg&w=600&height=400"
+    },
+    {
+      "title": "Nepal’s diplomacy of vibes finally meets reality",
+      "summary": "Riverbank erosion has threatened dozens of homes in Gaurishankar Rural Municipality, while flooding in the Tamakoshi river has cut a key road link to the Tarai.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/07/23/nepal-s-diplomacy-of-vibes-finally-meets-reality",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb4-1784800481.jpg&w=400&height=267"
+    },
+    {
+      "title": "ताप्लेजुङमा एक वर्षमै थपिए ३ हजार ५७७ नयाँ मतदाता",
+      "summary": "मदन भण्डारी लोकमार्ग ६२ मिटर चौडा बनाइने चर्चा पछि घरजग्गा कारोबार प्रभावित बनेको अवस्थामा त्रियुगा नगरपालिकाले नगरवासीलाई राहत दिने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/triyuga-nagar-decides-to-maintain-30-meter-limit-to-consider-madan-bhandari-highway-as-subsidiary-road-67-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784801409_Triyuga-480x320.jpg"
+    },
+    {
+      "title": "पूर्वप्रधानमन्त्री झलनाथ खनाल चीन प्रस्थान",
+      "summary": "ताप्लेजुङमा मतदाता नामावलीमा नाम दर्ता गराउनेको संख्या ९६ हजार २३८ पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/3-577-new-voters-added-in-taplejung-in-one-year-95-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766473906_nirwachan taplejung-480x320.jpg"
+    },
+    {
+      "title": "तीन महिनामै ४४ वातावरणीय प्रक्रिया सम्पन्न, १६ ईआईए र ११ क्षेत्र निर्धारण प्रतिवेदन स्वीकृत",
+      "summary": "आइसीसी पुरुष क्रिकेट विश्वकप लिग-२ अन्तर्गत नेदरल्यान्ड्सविरुद्धको खेलमा नेपालका कप्तान रोहित पौडेल पनि सस्तैमा पेभेलियन फर्किएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/captain-rohit-was-dismissed-for-3-runs-off-12-balls-82-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784633486_rohit-480x320.jpg"
+    },
+    {
+      "title": "गणतन्त्रका उपलब्धिको रक्षा गर्न प्रगतिशील शक्ति एकजुट हुनुपर्छ : दाहाल",
+      "summary": "चिकित्सा शिक्षा र स्वास्थ्य क्षेत्र सुधारको माग राख्दै वरिष्ठ चिकित्सक डा. गोविन्द केसी कैलालीको धनगढीस्थित कृष्ण मन्दिरमा अनसन बसेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/dr-govinda-kc-s-24th-satyagraha-begins-in-dhangadhi-85-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784801329_नयख-480x320.jpg"
+    },
+    {
+      "title": "नियुक्ति र बढुवामा अब राजनीतिक दबाब चल्दैन : शिक्षामन्त्री पोखरेल",
+      "summary": "मदन भण्डारी लोकमार्ग ६२ मिटर चौडा बनाइने चर्चा पछि घरजग्गा कारोबार प्रभावित बनेको अवस्थामा त्रियुगा नगरपालिकाले नगरवासीलाई राहत दिने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/triyuga-nagar-decides-to-maintain-30-meter-limit-to-consider-madan-bhandari-highway-as-subsidiary-road-67-81.html?click_from=just_in",
       "image_url": ""
     }
   ]
