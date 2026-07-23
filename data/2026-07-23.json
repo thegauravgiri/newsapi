@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-07-23T03:33:27.469911",
+  "scraped_at": "2026-07-23T06:35:33.334038",
   "date": "2026-07-23",
-  "total_articles": 33,
+  "total_articles": 39,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -270,6 +270,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/health/ministry-urges-suggestions-on-draft-amendments-to-three-important-health-related-acts-within-seven-days-75-63.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "कल्याणकारी भवन ठेक्का प्रकरण :  निर्माण व्यवसायीमाथि चरम अन्याय र अर्बौँको लगानी जोखिममा !",
+      "summary": "कल्याणकारी भवन ठेक्का प्रकरण :  निर्माण व्यवसायीमाथि चरम अन्याय र अर्बौँको लगानी जोखिममा !",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13375",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/4-1784775644.jpg"
+    },
+    {
+      "title": "सार्वजनिक बिदाका दिन राष्ट्रिय परिचयपत्रसम्बन्धी सेवा निरन्तर",
+      "summary": "अमेरिकी तल्लो सदन हाउस अफ रिप्रेजेन्टेटिभ्सले पेन्टागनका लागि करिब ११ खर्ब ५० अर्ब अमेरिकी डलर विनियोजन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/us-house-of-representatives-passes-1-15-trillion-defense-bill-86-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784785138_New Project-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री शाहले नेपाल अर्ग्यानिक संघका पदाधिकारी तथा व्यवसायीहरूसँग छलफल गर्दै",
+      "summary": "नेपाल विद्युत् प्राधिकरणले विद्युत् खरिद–बिक्री सम्झौता (पिपिए) भएका तर विभिन्न कारणले समयमै व्यावसायिक उत्पादन सुरु गर्न नसकेका २१८ जलविद्युत् आयोजनाको व्यावसायिक उत्पादन सुरु गर्नुपर्ने अन्तिम मिति (आरसिओडी) थप्ने प्रक्रिया अघि बढाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/process-to-add-rcod-to-218-hydropower-projects-begins-28-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784784826_bidhut pradhikaran-480x320.jpg"
+    },
+    {
+      "title": "कमरेड पुष्पलाल सङ्घर्ष, समर्पण र धैर्यताका अद्वितीय पर्याय हुनुहुन्थ्यो : महासचिव पोखरेल",
+      "summary": "स्थानीय बजारमा आज सुनचाँदीको मूल्य सामान्य वृद्धि भएको छ। हिजो बुधबारको तुलनामा सुन तोलामा रु ३०० र चाँदी रु २५ ले बढेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-and-silver-prices-rise-moderately-br-84-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781067774_1749361032_gold-1200x560-480x320.jpg"
+    },
+    {
+      "title": "जुम्लाबाट कांग्रेस नेतृत्वलाई चेतावनी : सचिनूस्, नत्र हार निश्चित",
+      "summary": "प्रहरीले अवैध कारोवारमा संलग्न भएका आरोपमा नेपालगञ्जस्थित बसपार्क क्षेत्रबाट एक जनालाई पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/arrested-with-four-lakh-indian-rupees-br-44-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782487226_1767683851_Pakrau-1200x560-480x320.jpg"
+    },
+    {
+      "title": "अप्ठेरोमा कांग्रेस",
+      "summary": "अमेरिकी तल्लो सदन हाउस अफ रिप्रेजेन्टेटिभ्सले पेन्टागनका लागि करिब ११ खर्ब ५० अर्ब अमेरिकी डलर विनियोजन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/us-house-of-representatives-passes-1-15-trillion-defense-bill-86-27.html?click_from=just_in",
       "image_url": ""
     }
   ]
