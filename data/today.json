@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-23T14:22:37.205018",
+  "scraped_at": "2026-07-23T17:38:52.052386",
   "date": "2026-07-23",
-  "total_articles": 58,
+  "total_articles": 64,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -470,6 +470,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/why-the-uml-ncp-reunion-98-69.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Government buses keep displaced children in school—but at what cost?",
+      "summary": "Children from Kathmandu’s holding centres endure hours in traffic to reach their schools, sparking debate over whether to prioritise school continuity or proximity.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/23/government-buses-keep-displaced-children-in-school-but-at-what-cost",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/schoolbus-1784820769.jpg&w=300&height=200"
+    },
+    {
+      "title": "मेयर हुँदा निहारिकामाथि ‘अत्याचार’ भनेका बालेन, प्रधानमन्त्री छँदा तिनै निहारिका पक्राउ",
+      "summary": "पक्राउ परेकाहरूका साथबाट लागुऔषध खैरो हिरोइन २४३ ग्राम र दुई वटा मोटरसाइकल तथा ७ थान मोबाइल बरामद भएको प्रहरीले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/six-people-including-an-indian-arrested-for-firing-82-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767337292_Nagariknews-480x320.jpg"
+    },
+    {
+      "title": "'बालेन सरकारले सीमा नाघ्यो'",
+      "summary": "विद्युत् नियमन आयोगका नवनियुक्त पदाधिकारीले पद तथा गोपनियताको सपथ लिएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/newly-appointed-officials-of-the-electricity-regulatory-commission-take-oath-18-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784823887_WhatsApp Image 2026-07-23 at 22_04_16-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको आधिकारिक विवाद : देउवा पक्षद्वारा सर्वोच्चमा पुनरावलोकन निवेदन दर्ता",
+      "summary": "गत वैशाखदेखि असार मसान्तसम्म देशभरबाट विभिन्न मुद्दाका सात हजार २५१ फरार प्रतिवादी पक्राउ परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/seven-thousand-absconding-defendants-arrested-in-three-months-51-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784470130_pakrau-480x320.jpg"
+    },
+    {
+      "title": "कन्सल्टेन्सी सञ्चालकसँग शिक्षामन्त्रीले भने: निजी क्षेत्रसँग सहकार्य गरेर शिक्षा क्षेत्रमा सुधार गर्छौँ",
+      "summary": "खराब ब्याटिङलाई निरन्तरता दिएपछि नेपालले आइसिसी विश्वकप लिग–२ को त्रिकोणात्मक शृंखलामा घरेलु टोली नेदरल्यान्ड्ससँग हार बेहोरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nepal-s-top-four-weakened-after-second-consecutive-series-loss-58-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784823699_Team_Nepal-480x320.jpg"
+    },
+    {
+      "title": "मन्त्री बादीद्वारा दिवा शिशु केन्द्रको अनुगमन",
+      "summary": "पक्राउ परेकाहरूका साथबाट लागुऔषध खैरो हिरोइन २४३ ग्राम र दुई वटा मोटरसाइकल तथा ७ थान मोबाइल बरामद भएको प्रहरीले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/six-people-including-an-indian-arrested-for-firing-82-48.html?click_from=just_in",
       "image_url": ""
     }
   ]
