@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-23T10:30:49.892897",
+  "scraped_at": "2026-07-23T14:22:37.205018",
   "date": "2026-07-23",
-  "total_articles": 50,
+  "total_articles": 58,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -406,6 +406,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/triyuga-nagar-decides-to-maintain-30-meter-limit-to-consider-madan-bhandari-highway-as-subsidiary-road-67-81.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal’s FDI commitments shrink as political turmoil dents investor confidence",
+      "summary": "Foreign investment pledges declined to Rs58 billion in the last fiscal year amid political instability, although actual FDI inflows more than doubled, highlighting the widening gap between commitments and realised investment.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/23/nepal-s-fdi-commitments-shrink-as-political-turmoil-dents-investor-confidence",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/thumb9-1784815249.jpg&w=300&height=200"
+    },
+    {
+      "title": "Congress leadership dispute returns to Supreme Court",
+      "summary": "Deuba faction seeks review of the apex court’s ruling that upheld the Election Commission’s recognition of the Gagan Thapa-led leadership, reopening the party’s legitimacy battle ahead of the general convention.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/23/congress-leadership-dispute-returns-to-supreme-court",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb7-1784809073.jpg&w=300&height=200"
+    },
+    {
+      "title": "Cockroach democracy: Unarmed and dangerous",
+      "summary": "Riverbank erosion has threatened dozens of homes in Gaurishankar Rural Municipality, while flooding in the Tamakoshi river has cut a key road link to the Tarai.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/07/23/cockroach-democracy-unarmed-and-dangerous",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/CAVA-1784816173.jpg&w=400&height=267"
+    },
+    {
+      "title": "एमाले-नेकपा पुनर्मिलन किन ?",
+      "summary": "अहिले प्रदेशमा कुनै पनि दलको एकल बहुमत छैन। त्यसैले दुई वा दुईभन्दा बढी दल मिलेर मात्रै सरकार बनाउन सक्ने अवस्था छ",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/why-the-uml-ncp-reunion-98-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784815304_CPN1-480x320.jpg"
+    },
+    {
+      "title": "शिक्षामन्त्री र दक्षिण कोरियाका राजदूतबीच शिक्षा सहकार्य विस्तारबारे छलफल",
+      "summary": "बिहीबार न्यायाधीश अर्जुनप्रसाद कोइराला र कविप्रसाद न्यौपानेको संयुक्त इजलासले उक्त आदेश जारी गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/shankar-group-chairman-shankarlal-agarwal-remanded-in-custody-for-trial-29-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775236451_Shankar-480x320.jpg"
+    },
+    {
+      "title": "बालेन-स्वर्णिम सवाल-जवाफ: पात्रभन्दा परिणाम चाहिने प्रधानमन्त्रीको भनाइ, राजनीतिक दबाबमा नियुक्ति नगर्ने अर्थमन्त्रीको प्रतिबद्धता",
+      "summary": "प्रादेशिक तथा संघीय अस्पतालहरूमा बर्न सेवा विस्तार गर्ने नेपाल सरकारको नीतिलाई आत्मसाथ गर्दै यो सेवा सुरु गरिएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/koshi-province-s-first-state-of-the-art-burn-unit-in-operation-56-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784815787_BRT News-480x320.jpg"
+    },
+    {
+      "title": "प्रधानन्यायाधीश शर्मा भारत प्रस्थान",
+      "summary": "यस्तै, लागुऔषधका ३४१ वटा, आत्महत्याका घटना ४७४ वटा, चोरीका घटना ८८ वटा, सवारी ज्यानमुद्दाका ९८ वटा र अन्य प्रकृतिका अपराधमा ३७० वटा घटना भएका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/1-876-cases-registered-in-a-year-highest-number-of-crime-incidents-in-bharatpur-47-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784598432_Judge -480x320.jpg"
+    },
+    {
+      "title": "सभापति थापाको निर्देशन : कांग्रेसले दुःखमा साथ दिन्छ भन्ने सन्देशका साथ काममा लाग्नुस्",
+      "summary": "अहिले प्रदेशमा कुनै पनि दलको एकल बहुमत छैन। त्यसैले दुई वा दुईभन्दा बढी दल मिलेर मात्रै सरकार बनाउन सक्ने अवस्था छ",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/why-the-uml-ncp-reunion-98-69.html?click_from=just_in",
       "image_url": ""
     }
   ]
