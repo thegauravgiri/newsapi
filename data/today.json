@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-07-24T10:25:34.384358",
+  "scraped_at": "2026-07-24T14:01:25.489423",
   "date": "2026-07-24",
-  "total_articles": 47,
+  "total_articles": 54,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -382,6 +382,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/government-will-continue-high-level-visits-as-needed-ministry-of-foreign-affairs-br-87-37.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Three Supreme Court justices pressured to resign or face impeachment, rights groups claim",
+      "summary": "Amnesty International, Human Rights Watch and ICJ warn that changes to judicial appointment rules and alleged pressure on judges could undermine judicial independence.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/24/global-rights-groups-raise-concerns-over-nepal-s-judiciary",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1784890171.jpg&w=300&height=200"
+    },
+    {
+      "title": "Built for adventure, held back by regulations",
+      "summary": "From Everest bungee to water parks and ziplines, entrepreneurs say overlapping laws, unclear policies and lengthy approval processes are slowing investment in Nepal’s growing adventure tourism sector.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/24/built-for-adventure-held-back-by-regulations",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/EverestBungeePhotoEB1-1784877172.jpg&w=300&height=200"
+    },
+    {
+      "title": "नुवाकोटको विद्युत् सेवामा देखिएका समस्या समाधान गर्न सञ्चारमन्त्रीको निर्देशन",
+      "summary": "लागु औषधसहित एक जनालाई प्रहरीले पक्राउ गरेको छ । बढैयाताल गाउँपालिका–२ फुटाहा स्थितबाट लागु औषध ब्राउन सुगरसहित प्रहरीले शुक्रबार एक जनालाई पक्राउ गरेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/one-arrested-with-drugs-in-bardiya-49-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784470130_pakrau-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस र नेकपा कर्णालीमा नयाँ सरकार गठन गर्ने गृहकार्यमा",
+      "summary": "अदालतको फैसलापछि उत्साहित रामरोशन यसपटक मुख्य महन्त बन्ने तयारीमा छन्। आवश्यक समन्वय र पहलमार्फत महन्त रामतपेश्वरलाई हटाएर गद्दीमा पुग्ने रणनीतिमा रहेको स्रोतको दाबी छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/tug-of-war-over-janaki-temple-throne-mahant-adamant-successor-active-62-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784900188_Janakpur Mahantha-480x320.jpg"
+    },
+    {
+      "title": "राहदानी प्रणालीमा देखिएका प्राविधिक समस्या समाधान भइरहेको छ : परराष्ट्र मन्त्रालय",
+      "summary": "जिल्ला प्रहरी परिसर काठमाडौंले परिसर र मातहत दर्ता भएकामध्ये ६१ प्रतिशत बढी मुद्दाको ‘डिजिटल अभिलेख’ तयार गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/kathmandu-police-s-61-percent-of-cases-have-digital-records-37-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774702913_ktm police-480x320.jpg"
+    },
+    {
+      "title": "सरकारिवरुद्ध धेराबन्दी गर्न वामपन्थी तथा लोकतान्त्रिक शक्तिलाई प्रचण्डको आह्वान",
+      "summary": "आन्तरिक राजस्व कार्यालय विराटनगरले आर्थिक वर्ष २०८२/८३ मा कूल रु १० अर्ब ३० करोड ५३ लाख ३६ हजार राजस्व सङ्कलन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/10-billion-revenue-collected-from-internal-revenue-office-biratnagar-br-89-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1763862427_1737964438_paisa rajaswo-1200x560-480x320.jpg"
+    },
+    {
+      "title": "अन्तर्राष्ट्रिय मानवअधिकार संस्थाहरूको दाबी : सर्वोच्चका न्यायाधीशलाई महाभियोगको धम्की",
+      "summary": "लागु औषधसहित एक जनालाई प्रहरीले पक्राउ गरेको छ । बढैयाताल गाउँपालिका–२ फुटाहा स्थितबाट लागु औषध ब्राउन सुगरसहित प्रहरीले शुक्रबार एक जनालाई पक्राउ गरेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/one-arrested-with-drugs-in-bardiya-49-60.html?click_from=just_in",
       "image_url": ""
     }
   ]
