@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-24T14:01:25.489423",
+  "scraped_at": "2026-07-24T17:44:21.639711",
   "date": "2026-07-24",
-  "total_articles": 54,
+  "total_articles": 59,
   "sources": [
-    "KathmanduPost",
     "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -439,6 +439,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/one-arrested-with-drugs-in-bardiya-49-60.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "One in five pregnancy airlift involves teenagers, exposes early marriage",
+      "summary": "Despite Nepal’s legal ban on marriage before the age of 20, many girls continue to marry underage and become pregnant during their teenage years.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/24/one-in-five-pregnancy-airlift-involves-teenageers-exposes-early-marriage",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/PHOTO20260413174620-1784904764.jpg&w=300&height=200"
+    },
+    {
+      "title": "Minister leads rescue of children in non-profit shelter",
+      "summary": "Viral video of Minister Sita Badi nursing a rescued infant draws attention to conditions at the Nepal Children’s Organisation shelter.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/24/bal-mandir-rescue-puts-child-care-failures-under-scrutiny",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/750493338173162718118534137811217172519610n24720260130291000x0-1784898471.jpg&w=300&height=200"
+    },
+    {
+      "title": "From SLR rifles to DSLR cameras",
+      "summary": "After 26 years in the Nepali Army, former colonel Sudeep KC now uses the precision he honed as a soldier to track and photograph Nepal’s rare birds, mammals and landscapes.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/24/from-slr-rifles-to-dslr-cameras",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/sudeepkcphoto524720261004181000x0-1784903240.jpg&w=300&height=200"
+    },
+    {
+      "title": "भदौ २३–२४ को घटनाको वैज्ञानिक समीक्षा नगरे वर्तमान चुनौती सामना गर्न सकिँदैन : प्रचण्ड",
+      "summary": "विद्यमान कानुनी व्यवस्थाले पर्याप्त आधार दिन्छ वा नयाँ कानुन आवश्यक पर्छ भन्ने विषयमा सरकारले सकारात्मक रूपमा अध्ययन गरिरहेको बताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/private-sector-participation-is-necessary-to-expand-clean-green-and-reliable-energy-to-regional-markets-25-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784910013_Biraj-480x320.jpg"
+    },
+    {
+      "title": "जनताको पीडा बुझ्न सीमा क्षेत्रमा पुगेँ : गृहमन्त्री गुरुङ",
+      "summary": "नेपालमा अपाङ्गता भएका व्यक्तिहरूको वित्तीय समावेशीकरण अझै पनि कमजोर रहेको र कानुनी तथा नीतिगत व्यवस्था भएपनि प्रभावकारी कार्यान्वयन हुन नसकेको एक अध्ययनले देखाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/financial-access-for-people-with-disabilities-is-still-poor-in-nepal-87-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784909032_news-480x320.jpg"
     }
   ]
 }
