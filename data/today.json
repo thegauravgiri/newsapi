@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-24T03:29:14.884910",
+  "scraped_at": "2026-07-24T06:33:34.474817",
   "date": "2026-07-24",
-  "total_articles": 34,
+  "total_articles": 41,
   "sources": [
     "NagarikNews",
     "News24",
@@ -279,6 +279,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/inter-miami-under-investigation-after-casemiro-signing-88-94.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "ाखामा चिया खेती, गाउँमै रोजगारी",
+      "summary": "ाखामा चिया खेती, गाउँमै रोजगारी",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13381",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Gaunmai-Rojgari---1784865698.jpg"
+    },
+    {
+      "title": "सिमेन्टद्वारा जयन्ती मेमोरियल ट्रस्टलाई CPR तालिमका लागि म्यानिकिन हस्तान्तरण",
+      "summary": "सिमेन्टद्वारा जयन्ती मेमोरियल ट्रस्टलाई CPR तालिमका लागि म्यानिकिन हस्तान्तरण",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13379",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/maruti3-1784781756.jpg"
+    },
+    {
+      "title": "Government extends terms of six ambassadors",
+      "summary": "As appointments remain stalled, Cabinet retains career envoys to prevent more diplomatic missions from falling vacant.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/24/government-extends-terms-of-six-ambassadors",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1784864390.jpg&w=300&height=200"
+    },
+    {
+      "title": "Government buses keep displaced children in school—but at what cost?",
+      "summary": "Children from Kathmandu’s holding centres endure hours in traffic to reach their schools, sparking debate over whether to prioritise school continuity or proximity.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/23/government-buses-keep-displaced-children-in-school-but-at-what-cost",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/schoolbus-1784820769.jpg&w=600&height=400"
+    },
+    {
+      "title": "स्वकीय सचिव नियुक्तिमा रास्वपाको नयाँ निर्देशन, पार्टीको अन्तिम स्वीकृति अनिवार्य",
+      "summary": "नेपाल आयल निगम सुर्खेतले वीरेन्द्रनगरमा एलपी ग्यासको अभाव नभएको स्पष्ट गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/there-is-no-gas-shortage-in-surkhet-oil-corporation-br-66-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1696129887_gas_cilinder-1200x560-wm-1200x560-480x320.jpg"
+    },
+    {
+      "title": "ट्राफिक नियम उल्लङ्घन गरेका सांसद बब्लुले भने : अब यही जोश देश र जनताको हितमा समर्पित गर्छु",
+      "summary": "यसअघि केन्द्रीय मन्त्री जेपी नड्डाको निवासमा भएको पहिलो चरणको वार्ता निष्कर्षमा पुग्न सकेको थिएन। त्यसयता सरकार र सीजेपीबिचको सम्बन्ध तिक्त बन्दै गएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/high-level-talks-underway-between-government-and-cjp-after-sonam-ends-hunger-strike-10-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784874075_BJP CJP-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री शाहले आज निर्यातजन्य व्यवसायसँग छलफल गर्दै",
+      "summary": "बागमती प्रदेश सरकारले बागमती प्रदेशका १३ वटै जिल्लाको उद्योग प्रशासन सेवा डिजिटल प्रणाली (अनलाइन सेवा) मा सञ्चालन गर्ने तयारी गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/industrial-administration-in-all-13-districts-of-bagmati-in-digital-system-br-33-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779766990_bagmati sarkar-480x320.jpg"
     }
   ]
 }
