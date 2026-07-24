@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-24T06:33:34.474817",
+  "scraped_at": "2026-07-24T10:25:34.384358",
   "date": "2026-07-24",
-  "total_articles": 40,
+  "total_articles": 46,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -327,6 +327,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/industrial-administration-in-all-13-districts-of-bagmati-in-digital-system-br-33-17.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779766990_bagmati sarkar-480x320.jpg"
+    },
+    {
+      "title": "In Sudurpaschim, tourists are coming. Infrastructure isn’t",
+      "summary": "Viral mountain destinations are attracting thousands of visitors, but neglected infrastructure threatens the region’s tourism ambitions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sudurpaschim-province/2026/07/24/in-sudurpaschim-tourists-are-coming-infrastructure-isn-t",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/1626369dac4543888cdaa0e508bcb67c-1784852363.jpg&w=300&height=200"
+    },
+    {
+      "title": "सरकारले आवश्यकताअनुसार उच्चस्तरीय भ्रमणलाई निरन्तरता दिन्छ : परराष्ट्र मन्त्रालय",
+      "summary": "सरकारले सबै मित्रराष्ट्रहरूसँगको सम्बन्धलाई प्रगाढ तुल्याउँदै आवश्यकताअनुसार उच्चस्तरीय भ्रमणलाई पनि निरन्तरता दिने जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-will-continue-high-level-visits-as-needed-ministry-of-foreign-affairs-br-87-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775215811_foreign ministry-480x320.jpg"
+    },
+    {
+      "title": "शैक्षिक परामर्श व्यवसायमाथि धरौटीको व्यवस्था कायमै रहन्छ : शिक्षामन्त्री पोखरेल",
+      "summary": "बाग्मती नदी किनारबाट हटाइएका अव्यवस्थित बसोबास भएका क्षेत्रलाई खुला सार्वजनिक क्षेत्रका रूपमा विकास गरिने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/open-park-to-be-constructed-in-cleared-settlement-areas-along-the-bagmati-river-39-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777102472_sukumbasi-480x320.jpg"
+    },
+    {
+      "title": "बडीमालिकामा तत्काल टेलिफोन र इन्टरनेट सुविधा पुर्‍याउनसञ्चारमन्त्रीको निर्देशन",
+      "summary": "चालु आर्थिक वर्ष २०८३/८४ को बजेट प्रभावकारी रूपमा कार्यान्वयन गर्ने उद्देश्यले अर्थ मन्त्रालयले सम्बन्धित मन्त्रालयसँग छलफललाई तीव्र बनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/industry-minister-tells-finance-minister-wagle-we-are-implementing-eight-budget-reform-programs-82-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784886604_Wagle_Gauri-480x320.jpg"
+    },
+    {
+      "title": "फेरि पनि जनताले विकल्प खोज्न थाले: सभापति राई",
+      "summary": "मन्त्री पोखरेलले शैक्षिक परामर्श व्यवसायीका लागि निर्धारण गरिएको रु २५ लाख धरौटीको व्यवस्थाबाट सरकार पछि नहट्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/deposit-system-for-educational-consultancy-business-to-remain-in-place-education-minister-pokharel-br-47-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1781769741_sasmit-480x320.jpg"
+    },
+    {
+      "title": "वर्तमानलाई न्याय गर्न इतिहासका असल पक्षको अनुसरण गर्न सक्नुपर्छ: राष्ट्रपति",
+      "summary": "सरकारले सबै मित्रराष्ट्रहरूसँगको सम्बन्धलाई प्रगाढ तुल्याउँदै आवश्यकताअनुसार उच्चस्तरीय भ्रमणलाई पनि निरन्तरता दिने जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-will-continue-high-level-visits-as-needed-ministry-of-foreign-affairs-br-87-37.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
