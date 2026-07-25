@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-25T06:24:35.025726",
+  "scraped_at": "2026-07-25T09:55:58.532125",
   "date": "2026-07-25",
-  "total_articles": 39,
+  "total_articles": 49,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -318,6 +318,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/three-year-old-boy-dies-after-landslide-hits-house-in-mugu-br-79-62.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ीमा स्थानीय उत्पादन प्रवर्द्धनका लागि ‘कोशेली घर’ उद्घाटन",
+      "summary": "ीमा स्थानीय उत्पादन प्रवर्द्धनका लागि ‘कोशेली घर’ उद्घाटन",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13391",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/tamang-1784966709.jpg"
+    },
+    {
+      "title": "अनसन शुरु, समर्थनसँगै विरोध पनि बढ्दै",
+      "summary": "अनसन शुरु, समर्थनसँगै विरोध पनि बढ्दै",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13388",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/dr-kc-1784953199.jpg"
+    },
+    {
+      "title": "Self-styled journalists test the limits of press freedom",
+      "summary": "A growing trend of filming and confronting civil servants on camera for social media clicks is blurring the line between journalism and intimidation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/25/self-styled-journalists-test-the-limits-of-press-freedom",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/boomattack23720261058061000x0-1784943874.png&w=300&height=200"
+    },
+    {
+      "title": "Nepse gains 57 points, adds Rs 100 billion in market value",
+      "summary": "Benchmark index closes at 2,734.60 points as key sectors rally, while turnover slips marginally after a debenture-driven rise last week.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/25/nepse-gains-57-points-adds-rs-100-billion-in-market-value",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Nepsebarchart-1784961348.jpg&w=300&height=200"
+    },
+    {
+      "title": "Arghakhanchi hires 26 ‘monkey watchers’ to protect maize fields",
+      "summary": "Selected watchers will guard maize fields for two months as farmers struggle with increasing monkey raids.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/25/arghakhanchi-hires-26-monkey-watchers-to-protect-maize-fields",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/dhankutamabadaraatankacopy22520260302191000x0-1784966871.jpg&w=600&height=400"
+    },
+    {
+      "title": "शिक्षामन्त्रीको राजीनामापछि दिल्लीमा क्रकरोच पार्टीको विजय उत्सव, जन्तरमन्तरमा खुसीयाली",
+      "summary": "नीट प्रश्नपत्र लिक प्रकरणमा जोडिएका भारतका शिक्षा मन्त्री धर्मेन्द्र प्रधानले पदबाट राजीनामा दिएपछि भारतीय राजधानी दिल्लीमा क्रकरोच जनता पार्टीले विजय उत्सव मनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/cockroach-party-celebrates-victory-in-delhi-after-education-minister-s-resignation-joy-at-jantar-mantar-79-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784972323_india-480x320.jpg"
+    },
+    {
+      "title": "कम्युनिस्ट आन्दोलन लडे पनि धुलो टकटक्याएर नयाँ ऊर्जाका साथ अगाडि बढ्नुपर्छ: माधव नेपाल",
+      "summary": "नीट प्रश्नपत्र लिक प्रकरणलाई लिएर भारतका शिक्षा मन्त्री धर्मेन्द्र प्रधानले पदबाट राजीनामा दिएपछि क्रकोच जनता पार्टीले क्रकोचहरुको जित भएको घोषणा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/after-the-resignation-of-the-minister-of-education-the-krakoch-party-said-the-world-is-changing-we-need-someone-to-change-it-45-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784971608_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "नेपालमै इन्जिनियर बनाउने र यहीँ अवसर दिने सरकारको योजना",
+      "summary": "स्थानीय तहसँगको समन्वयमा सञ्चालन गरिएको अभियान, नियमित सरसफाइ र जनचेतनामूलक कार्यक्रमका कारण सङ्क्रमण नियन्त्रणमा सकारात्मक परिणाम देखिएकोछ",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/number-of-dengue-infections-decreasing-in-jhapa-17-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771746201_Dendu 65-480x320.jpg"
+    },
+    {
+      "title": "दाहालले भने- पुनः देशको नेतृत्व लिने अवस्था सिर्जना गर्नुपर्‍यो",
+      "summary": "निट प्रश्नपत्र लिक प्रकरणमा दोषी ठहर गर्दै राजीनामाको मागसहित निरन्तर आन्दोलन भएपछि भारतका शिक्षा मन्त्री धर्मेन्द्र प्रधानले पदबाट राजीनामा दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/indian-education-minister-dharmendra-pradhan-resigns-br-33-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784971066_5-480x320.jpg"
+    },
+    {
+      "title": "मधेसका १० पालिकामा एकीकृत कृषि कार्यक्रम गरिने",
+      "summary": "नीट प्रश्नपत्र लिक प्रकरणमा जोडिएका भारतका शिक्षा मन्त्री धर्मेन्द्र प्रधानले पदबाट राजीनामा दिएपछि भारतीय राजधानी दिल्लीमा क्रकरोच जनता पार्टीले विजय उत्सव मनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/cockroach-party-celebrates-victory-in-delhi-after-education-minister-s-resignation-joy-at-jantar-mantar-79-70.html?click_from=just_in",
       "image_url": ""
     }
   ]
