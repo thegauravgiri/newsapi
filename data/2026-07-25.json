@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-25T03:27:16.852616",
+  "scraped_at": "2026-07-25T06:24:35.025726",
   "date": "2026-07-25",
-  "total_articles": 33,
+  "total_articles": 39,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -270,6 +270,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/this-is-the-wholesale-price-of-agricultural-produce-for-today-98-21.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ऋण, १४ लाख तिर्दापनि जग्गा बैंकको कब्जामा !",
+      "summary": "ऋण, १४ लाख तिर्दापनि जग्गा बैंकको कब्जामा !",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13384",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/sahakari-pida-1784866459.jpg"
+    },
+    {
+      "title": "महेश बस्नेत भन्छन् : न्यायाधीशमाथि राजीनामाको दबाबमा अन्तर्राष्ट्रिय संस्थाले चिन्ता गरे",
+      "summary": "मुगु जिल्लाको मुगम कार्मारोङ गाउँपालिका ५ पुलु बजारमा घरमाथि ढुंगा सहितको पहिरो खस्दा तीन वर्षीय बालकको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/three-year-old-boy-dies-after-landslide-hits-house-in-mugu-br-79-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784960366_09 childa-480x320.jpg"
+    },
+    {
+      "title": "नेपालगन्जमा तोडफोड गरिएका शालिक अनावरण",
+      "summary": "नेकपा (एमाले) का सचिव महेश बस्नेतले सर्वोच्च अदालतका वरिष्ठ न्यायाधीशहरूमाथि राजीनामा दिन दबाब दिइएको विषयमा अन्तर्राष्ट्रिय मानवअधिकार संस्थाहरूले गम्भीर चिन्ता व्यक्त गरेको बताएका छन्",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mahesh-basnet-says-international-organizations-concerned-about-pressure-on-judges-to-resign-br-71-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772690325_Mahesh-480x320.jpg"
+    },
+    {
+      "title": "डा गोविन्द केसी अनशन जारी",
+      "summary": "गीतमा निर्मातासमेत रहेका संगीतकार अर्जुन पोखरेलको शब्द तथा संगीत रहेको छ भने अञ्जु पन्त, प्रशान्त सिवाकोटी र रबि ओडको स्वर रहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/the-first-song-of-the-movie-behuli-has-been-released-57-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784959461_beguli-480x320.jpg"
+    },
+    {
+      "title": "सांसद पौडेलमाथि भएको मसी प्रहारको रास्वपाद्वारा भर्त्सना",
+      "summary": "ककरोच जनता पार्टी (सीजेपी) का संस्थापक अभिजीत दिप्केले शनिबार आफूलाई टाइफाइड भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/cjp-founder-diagnosed-with-typhoid-what-will-happen-to-the-movement-demanding-the-resignation-of-the-education-minister-55-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784958981_CJP VS Pradhan-480x320.jpg"
+    },
+    {
+      "title": "सांसद पौडेलमाथि भएको आक्रमणप्रति रास्वपाको आपत्ति, कडा कारबाहीको माग",
+      "summary": "मुगु जिल्लाको मुगम कार्मारोङ गाउँपालिका ५ पुलु बजारमा घरमाथि ढुंगा सहितको पहिरो खस्दा तीन वर्षीय बालकको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/three-year-old-boy-dies-after-landslide-hits-house-in-mugu-br-79-62.html?click_from=just_in",
       "image_url": ""
     }
   ]
