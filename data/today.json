@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-07-25T13:51:25.526431",
+  "scraped_at": "2026-07-25T17:08:16.647080",
   "date": "2026-07-25",
-  "total_articles": 57,
+  "total_articles": 62,
   "sources": [
-    "KathmanduPost",
     "News24",
+    "KathmanduPost",
     "NagarikNews"
   ],
   "articles": [
@@ -463,6 +463,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/gandaki-province-s-marijuana-bill-withdrawn-by-provincial-chief-br-77-58.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Ancient Arabic, Persian script coins recovered in Kapilvastu",
+      "summary": "A total of 2,315 coins were found near a pond inside a water pot called karuwa.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/25/ancient-arabic-persian-script-coins-recovered-in-kapilvastu",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/SikkaFelaPhoto2-1784993100.jpg&w=300&height=200"
+    },
+    {
+      "title": "Viral fame, invisible costs for children",
+      "summary": "A rainy-day video of three Rolpa schoolgirls has sparked online attention, but rights advocates warn of privacy breaches, exploitation and long-term harm.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/25/viral-fame-invisible-costs-for-children",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/viralbabiescopy25720260358101000x0-1784996423.jpg&w=300&height=200"
+    },
+    {
+      "title": "बागमतीमा सत्ता समीकरण फेरियो : एमाले बाहिरिएपछि बानियाँ सरकार अल्पमतमा, नयाँ गठबन्धनको कसरत",
+      "summary": "नयाँ नेपाली चलचित्र ‘एक्का मेसी बादशाह’ को औपचारिक निर्माण घोषणा गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/the-empress-s-comeback-from-ekka-messi-badshah-55-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784995096_Samragyi-480x320.jpg"
+    },
+    {
+      "title": "हामी सरकारको विरोध गरिरहन्छौंः बिजुक्छे",
+      "summary": "तेक्वान्दो खेलाडी वैभवी सापकोटाले हाइनान कप अन्तरराष्ट्रिय आमन्त्रण तेक्वान्दो प्रतियोगितामा नेपाललाई स्वर्णसहित दुई पदक दिलाएकी छिन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/taekwondo-player-vaibhav-wins-two-medals-including-a-gold-in-china-97-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784994851_Bai-480x320.jpg"
+    },
+    {
+      "title": "जनतासँग मन्त्रीका प्रतिवद्धता: बफादारितादेखि बजेट व्यवस्थापनसम्म",
+      "summary": "दूधको अभाव भएपछि यहाँको चितवन मिल्क उद्योग तीन महिनादेखि बन्द छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/chitwan-milk-closed-for-three-months-due-to-lack-of-milk-28-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781176178_milk 28-480x320.jpg"
     }
   ]
 }
