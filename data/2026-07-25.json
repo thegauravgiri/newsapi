@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-25T09:55:58.532125",
+  "scraped_at": "2026-07-25T13:51:25.526431",
   "date": "2026-07-25",
-  "total_articles": 49,
+  "total_articles": 56,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -398,6 +398,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/cockroach-party-celebrates-victory-in-delhi-after-education-minister-s-resignation-joy-at-jantar-mantar-79-70.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Karnali Chief Minister Kandel resigns",
+      "summary": "Kandel stepped down as the CPN-UML and NCP hold intense alliance talks.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/karnali-province/2026/07/25/karnali-chief-minister-kandel-resigns",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/yamlalkandel25720260127341000x0-1784980999.jpg&w=300&height=200"
+    },
+    {
+      "title": "Two communist parties seal three-point deal to share provincial government leadership",
+      "summary": "As per the agreement, the CPN-UML will head provincial governments in Koshi, Bagmati and Lumbini, while the Nepali Communist Party will lead Karnali and Sudurpashchim provinces.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/07/25/two-communist-parties-seal-three-point-deal-to-share-provincial-government-leadership",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/7542973541358185962361256292585592788904448n25720260213271000x0-1784982792.jpg&w=300&height=200"
+    },
+    {
+      "title": "गण्डकी प्रदेशको गाँजा विधेयक प्रदेश प्रमुखद्वारा फिर्ता",
+      "summary": "गण्डकी प्रदेशको गाँजा विधेयक फिर्ता भएको छ। गण्डकी प्रदेश प्रमुख डिल्लीराज भट्टले शनिबार सो विधेयक पुनर्विचार गर्न भन्दै प्रदेश सभामा फिर्ता पठाएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/gandaki-province-s-marijuana-bill-withdrawn-by-provincial-chief-br-77-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783601223_gaja-480x320.jpg"
+    },
+    {
+      "title": "नक्सालस्थित बाल मन्दिरमा पुनः संरचना सुरु, दसैंअघि सम्पन्न गर्ने लक्ष्य",
+      "summary": "उपचारका क्रममा अलग-अलग समयमा दुई जना बिरामीको मृत्यु भएपछि वीरगन्जस्थित नारायणी अस्पतालमा शनिबार दिनभर तोडफोड र प्रदर्शन भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/narayani-hospital-vandalized-after-two-patients-die-in-one-day-82-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784986526_ty-480x320.jpg"
+    },
+    {
+      "title": "एमाले–नेकपाबीच पाँच प्रदेशमा संयुक्त सरकार बनाउने सहमति, दुई प्रदेशमा थप परामर्श हुने",
+      "summary": "नेपालमा पहिलो पटक अन्तर्राष्ट्रिय मान्यता प्राप्त सडेस्को मेक अप र ब्युटीको डिप्लोमा परीक्षा आयोजना भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/nepal-holds-first-international-sadesko-exam-a-historic-leap-in-world-class-beauty-education-60-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784986516_Beauty-480x320.jpg"
+    },
+    {
+      "title": "सरकारले सुकुमबासीलाई होल्डिङ सेन्टर हुँदै पुर्ख्यौली थलोतिर लखेट्न खोज्दैछ: नेता ज्ञवाली",
+      "summary": "नीट प्रश्नपत्र लिक प्रकरणलाई लिएर दिल्लीको जन्तरमन्तरमा जारी क्रकरोच जनता पार्टीको आन्दोलन शनिबार औपचारिक रूपमा अन्त्य भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/the-cockroach-party-s-agitation-ends-after-all-three-demands-are-met-58-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784985547_cjp-480x320.jpg"
+    },
+    {
+      "title": "गण्डकीको गाँजा विधेयक प्रदेश प्रमुखद्वारा फिर्ता",
+      "summary": "गण्डकी प्रदेशको गाँजा विधेयक फिर्ता भएको छ। गण्डकी प्रदेश प्रमुख डिल्लीराज भट्टले शनिबार सो विधेयक पुनर्विचार गर्न भन्दै प्रदेश सभामा फिर्ता पठाएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/gandaki-province-s-marijuana-bill-withdrawn-by-provincial-chief-br-77-58.html?click_from=just_in",
       "image_url": ""
     }
   ]
