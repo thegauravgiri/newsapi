@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-26T13:44:16.446548",
+  "scraped_at": "2026-07-26T17:09:26.821244",
   "date": "2026-07-26",
-  "total_articles": 42,
+  "total_articles": 48,
   "sources": [
     "KathmanduPost",
     "NagarikNews"
@@ -342,6 +342,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/nepal-nyaya-wins-lawyers-futsal-cup-title-defeats-bhaktapur-bar-a-in-tiebreaker-46-60.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Gangalal Hospital raises free treatment cover from Rs250,000 to Rs600,000 per child",
+      "summary": "Hospital chief says the previous funding limit forced many poor families to take their children home without treatment, so they revised the ceiling.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/07/26/gangalal-hospital-raises-free-treatment-cover-from-rs250-000-to-rs600-000-per-child",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1785073411.jpg&w=300&height=200"
+    },
+    {
+      "title": "TU question paper leaked on WhatsApp within five minutes of exam commencement",
+      "summary": "Police say two suspects have been arrested after the MBS question paper surfaced in a WhatsApp group minutes into the examination.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/26/tu-question-paper-leaked-on-whatsapp-within-five-minutes-of-exam-commencement",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/tu26720261036511000x0-1785061456.png&w=300&height=200"
+    },
+    {
+      "title": "'हामी सत्तामुखी भयौँ, जनतामुखी हुन सकेनौँ'",
+      "summary": "अमेरिका, मेक्सिको र क्यानडामा सम्पन्न २०२६ फिफा विश्वकपमा फ्रान्सका कप्तान केलियन एमबाप्पेले फेरि एकपटक आफ्नो उत्कृष्ट प्रदर्शनमार्फत विश्वभरका खेलप्रेमीहरूको ध्यान खिचेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/2026-world-cup-another-world-record-for-mbappe-haaland-in-the-top-five-br-49-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785083878_Goal-480x320.jpg"
+    },
+    {
+      "title": "ओलीलाई योगेशको प्रश्न : पटकपटक एकै गल्ती, जवाफदेहिता खोई ?",
+      "summary": "त्रिभुवन विश्वविद्यालय व्यवस्थापन सङ्कायतर्फ एमबिएस प्रथम सेमेस्टरको ‘अर्गनाइजेशनल विहेवियर’ विषयको प्रश्नपत्र सार्वजनिक गर्ने व्यक्ति पक्राउ परेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/man-who-leaked-mbs-question-paper-arrested-in-bhaktapur-57-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784470130_pakrau-480x320.jpg"
+    },
+    {
+      "title": "केन्द्रको एमाले-नेकपा सहमति गण्डकीमा प्रभावहीन: सरकार फेर्न सकस!",
+      "summary": "नेपालका १४ खेलाडीले चीनको हाइनान प्रान्तमा हुने हाइनान बिच तेक्वान्दो एलिट टुनामेन्टमा विभिन्न विधामा प्रतिस्पर्धा गर्ने भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/14-nepali-players-to-play-in-hainan-taekwondo-elite-in-china-57-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785082240_China-480x320.jpg"
+    },
+    {
+      "title": "वर्तमान चुनौती सामना गर्न पार्टी एकता अपरिहार्य छ : सभापति थापा",
+      "summary": "मिडल ब्लकरद्वय चिरञ्जीवी खड्का र सनोज चौधरी नेपाल भबिलबल लिग (एनभिएल) को अक्सनमा सबैभन्दा बढी रुचाइएका खेलाडी बनेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/chiranjeevi-and-sanoj-are-the-most-popular-middle-blocker-duo-in-the-nvl-auction-14-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785081292_Oxn (1)-480x320.jpg"
     }
   ]
 }
