@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-26T10:07:43.655108",
+  "scraped_at": "2026-07-26T13:44:16.446548",
   "date": "2026-07-26",
-  "total_articles": 35,
+  "total_articles": 42,
   "sources": [
     "KathmanduPost",
     "NagarikNews"
@@ -285,6 +285,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/janakpur-becomes-brighter-after-installation-of-high-mast-and-sensor-lights-br-88-36.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Australia tightens student visa rules, rejects 64 percent of Nepali applications",
+      "summary": "Stricter screening measures and higher non-refundable visa fees have led to a sharp decline in applications from Nepal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/07/26/australia-tightens-student-visa-rules-rejects-64-percent-of-nepali-applications",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/sydney26720260212261000x0-1785071499.jpg&w=300&height=200"
+    },
+    {
+      "title": "Budget-friendly places for Nepali students in Ohio",
+      "summary": "The one-kilometre stretch will be widened into an eight-lane road with service lanes, with construction expected to begin before Dashain if the tender process stays on track.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/07/26/budget-friendly-places-for-nepali-students-in-ohio",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/FictionParkcopy-1785027866.jpg&w=400&height=267"
+    },
+    {
+      "title": "कांग्रेसको नीति प्रतिष्ठानमा जिम्मेवारी बाँडफाँड",
+      "summary": "भक्तपुर बार एसोसिएसनको आयोजनामा सम्पन्न प्रतियोगिताको फाइनलमा भक्तपुर बार ‘ए’लाई पेनाल्टी सुटआउटमा पराजित गर्दै नेपाल न्यायले उपाधि जितेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nepal-nyaya-wins-lawyers-futsal-cup-title-defeats-bhaktapur-bar-a-in-tiebreaker-46-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785072600_Futsal Final-480x320.jpg"
+    },
+    {
+      "title": "एमाले रूपान्तरणका लागि नेतृत्वको सम्मानजनक बिदाइ गर्न आव्हान",
+      "summary": "बैठकले उपसमितिहरूको कामलाई व्यवस्थित, समन्वयात्मक र प्रभावकारी बनाउने उद्देश्यले जिम्मेवारी निर्धारण गर्ने निर्णय गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/distribution-of-responsibilities-in-the-congress-policy-establishment-60-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785072488_Congress-480x320.jpg"
+    },
+    {
+      "title": "ठाकुर गैरे भन्छन्: एमबीबीएस प्रश्नपत्र चुहावट प्रकरणमा शिक्षामन्त्रीले राजीनामा दिनुपर्छ",
+      "summary": "ब्राजिलका राष्ट्रपति लुइज इनासियो लुला दा सिल्भाले सिनेटर फ्लाभियो बोल्सोनारो विरुद्ध पुन: चुनावमा उम्मेदवारी दिनेछन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/brazil-s-shock-to-trump-two-us-officials-denied-visas-66-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785071766_Trump vs Lula -480x320.jpg"
+    },
+    {
+      "title": "महेश बस्नेत भन्छन् : भारतमा प्रश्नपत्र बाहिरिँदा मन्त्री आउट, नेपालमा चाहिँ छानबिन समिति मात्रै?",
+      "summary": "नेकपा एमालेका युवा नेताहरूले पार्टीको रूपान्तरणका लागि नेतृत्वको सम्मानजनक बिदाइ हुनुपर्ने आव्हान गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-calls-for-respectful-farewell-to-leadership-for-transformation-br-80-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785071513_New Project (8)-480x320.jpg"
+    },
+    {
+      "title": "शहीद दशरथचन्द स्वास्थ्य विज्ञान विश्वविद्यालयको नियुक्तिमा विवाद",
+      "summary": "भक्तपुर बार एसोसिएसनको आयोजनामा सम्पन्न प्रतियोगिताको फाइनलमा भक्तपुर बार ‘ए’लाई पेनाल्टी सुटआउटमा पराजित गर्दै नेपाल न्यायले उपाधि जितेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nepal-nyaya-wins-lawyers-futsal-cup-title-defeats-bhaktapur-bar-a-in-tiebreaker-46-60.html?click_from=just_in",
       "image_url": ""
     }
   ]
