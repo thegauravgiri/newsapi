@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-26T06:42:40.183754",
+  "scraped_at": "2026-07-26T10:07:43.655108",
   "date": "2026-07-26",
-  "total_articles": 28,
+  "total_articles": 35,
   "sources": [
     "KathmanduPost",
     "NagarikNews"
@@ -230,6 +230,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/participation-in-the-provincial-government-is-a-compulsion-narayan-kaji-shrestha-br-78-35.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776169682_NarayanKaji-480x320.jpg"
+    },
+    {
+      "title": "Two UML leaders in race for Bagmati chief minister",
+      "summary": "Jagannath Thapaliya and Kiran Thapa are competing for the chief minister’s post as the party works to stitch together a majority in the hung assembly.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/07/26/two-uml-leaders-in-race-for-bagmati-chief-minister",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/UMLleaderts-1785049476.jpg&w=300&height=200"
+    },
+    {
+      "title": "Ring Road’s Chappal Karkhana-Dhobikhola section set for widening",
+      "summary": "The one-kilometre stretch will be widened into an eight-lane road with service lanes, with construction expected to begin before Dashain if the tender process stays on track.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/valley/2026/07/26/ring-road-s-chappal-karkhana-dhobikhola-section-set-for-widening",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/ringroad-1785047241.jpg&w=300&height=200"
+    },
+    {
+      "title": "प्रदेश सरकार गठनमा एमाले–नेकपा बाहेकका दल पनि सक्रिय, कांग्रेसले सबैसँग छलफल गर्ने",
+      "summary": "केही समयअघिसम्म साँझ पर्नासाथ अँध्यारो र सुनसान देखिने जनकपुरधाम उपमहानगर क्षेत्रका सडक अहिले झिलीमिली उज्यालो भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/janakpur-becomes-brighter-after-installation-of-high-mast-and-sensor-lights-br-88-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785060077_highmast light-480x320.jpg"
+    },
+    {
+      "title": "नेपालमाथि विदेशीको गिद्धे नजर छ: नविना लामा",
+      "summary": "विशेषगरी बागमती, मधेस र गण्डकी प्रदेशमा एमाले–नेकपा गठबन्धनले मात्रै स्पष्ट बहुमत जुटाउन नसक्ने अवस्था रहेकाले अन्य दलहरूसमेत नयाँ सत्ता समीकरण निर्माणका लागि सक्रिय देखिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/parties-other-than-uml-ncp-are-also-active-in-forming-the-provincial-government-congress-is-in-discussions-with-all-parties-92-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785059612_pradesh rajniti-480x320.jpg"
+    },
+    {
+      "title": "केन्द्रको हस्तक्षेपले प्रदेश सरकार अस्थिर बन्यो : मन्त्री भीम पराजुली",
+      "summary": "दुई वर्षपछि अभिनेत्री साम्राज्ञी राज्यलक्ष्मी चलचित्र उद्योगमा फर्केकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/nepali-cinema-has-become-better-than-before-empress-rajya-lakshmi-shah-23-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785059028_1-480x320.jpg"
+    },
+    {
+      "title": "भोटेकोसीमा गाडी खसेपछि उद्धारमा खटेकालाई हौसला दिन गृहमन्त्री घटनास्थलमा",
+      "summary": "केही वर्षअघिसम्म वर्षायाममा पुग्नै कठिन मानिने यो झरना अहिले जिल्लाकै प्रमुख पर्यटकीय गन्तव्यका रूपमा परिचित हुँदै गएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/purandhara-waterfall-beauty-nestled-in-the-lap-of-the-forest-growing-tourist-attraction-br-91-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785058964_purandhara jharana-480x320.jpg"
+    },
+    {
+      "title": "गगन थापाको भारत भ्रमण स्थगित",
+      "summary": "केही समयअघिसम्म साँझ पर्नासाथ अँध्यारो र सुनसान देखिने जनकपुरधाम उपमहानगर क्षेत्रका सडक अहिले झिलीमिली उज्यालो भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/janakpur-becomes-brighter-after-installation-of-high-mast-and-sensor-lights-br-88-36.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
