@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-26T03:40:14.085977",
+  "scraped_at": "2026-07-26T06:42:40.183754",
   "date": "2026-07-26",
-  "total_articles": 22,
+  "total_articles": 28,
   "sources": [
     "KathmanduPost",
     "NagarikNews"
@@ -182,6 +182,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/angle-gh-79-98.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Bureaucracy gripped by fear and uncertainty as trust deficit deepens",
+      "summary": "Civil servants describe a climate of fear, political interference and deep uncertainty as the Shah government pushes sweeping administrative reforms.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/26/bureaucracy-gripped-by-fear-and-uncertainty-as-trust-deficit-deepens",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/staffexitsingadurbarafterwork202607235072-1785035485.jpg&w=300&height=200"
+    },
+    {
+      "title": "How Nepal’s batting collapse has derailed its League 2 campaign",
+      "summary": "The team that produced historic ODI performances in 2023 is now struggling for competitive totals, with familiar weaknesses resurfacing in League 2.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/cricket/2026/07/26/how-nepal-s-batting-collapse-has-derailed-its-league-2-campaign",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/75355702015137715607792193873142615590703795n-1785038006.jpg&w=300&height=200"
+    },
+    {
+      "title": "प्रदेश सरकारमा सहभागी हुनु बाध्यता हो : नारायणकाजी श्रेष्ठ",
+      "summary": "दक्षिण कोरियाका प्रतिभाशाली मिडफिल्डर ली काङ–इन फ्रेन्च क्लब पेरिस सेन्ट–जर्मेन (पीएसजी) छाड्दै स्पेनिस क्लब एट्लेटिको म्याड्रिडमा आबद्ध भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/south-korean-star-lee-kang-in-joins-atletico-madrid-from-psg-48-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785047758_New Project (2)-480x320.jpg"
+    },
+    {
+      "title": "मुख्यमन्त्री नबन्दै मेन्याङ्वोलाई बधाईको ओइरो, मेन्याङ्वोको प्रतिक्रिया : ‘ग्रीन सिग्नल’ आइसक्यो",
+      "summary": "मकवानपुरको हेटौंडा उपमहानगरपालिका–११ थानाभर्‍याङस्थित यातायात व्यवस्था कार्यालय नजिक एक पुरुष मृत अवस्थामा फेला परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/a-man-was-found-dead-in-hetauda-47-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1742293886_nagarika-480x320.jpg"
+    },
+    {
+      "title": "गोकुलको व्यंग्य : कसैले पाउँदैन भन्यौ पिए लियौ, सुरक्षा थ्रेटको 'नाटक' मञ्चन थाल्या छौ, पिएसओ पनि लिइहाल",
+      "summary": "प्रतिबन्धित लागूऔषध नियन्त्रणका लागि प्रहरीले मधेस प्रदेशमा विशेष अभियान चलाएपछि लागूऔषध सेवनकर्ता र कारोबारीहरु धमाधम पक्राउ पर्न थालेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/2-811-drug-traffickers-arrested-from-madhesh-in-three-years-br-87-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784121813_pakrau-480x320.jpg"
+    },
+    {
+      "title": "अर्थमन्त्री वाग्लेलाई ज्ञानेन्द्र शाहीले भने : तपाईंको नीतिका कारण आज सेयर बजार ध्वस्त भयो",
+      "summary": "नेपाली कम्युनिष्ट पार्टीका नेता नारायणकाजी श्रेष्ठले प्रदेश सरकार गठनसम्बन्धी नेकपा एमाले सँग भएको सहमतिबारे आफ्नो पार्टीको प्राथमिकता सरकार बनाउने वा ढाल्ने नभई प्रदेशसभा जोगाउने र जनहितमा काम गर्ने रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/participation-in-the-provincial-government-is-a-compulsion-narayan-kaji-shrestha-br-78-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776169682_NarayanKaji-480x320.jpg"
     }
   ]
 }
