@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-27T11:32:20.632549",
+  "scraped_at": "2026-07-27T14:52:35.386260",
   "date": "2026-07-27",
-  "total_articles": 47,
+  "total_articles": 56,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -382,6 +382,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/there-is-no-shortage-of-cooking-gas-in-the-market-10-22.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepali farmers jailed in India over fertiliser purchase await bail hearing Friday",
+      "summary": "Suresh Singh and Nagendra Singh of Sarlahi are in Bihar police custody for 27 days.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/27/nepali-farmers-jailed-in-india-over-fertiliser-purchase-await-bail-hearing-friday",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1785163146.jpg&w=300&height=200"
+    },
+    {
+      "title": "Hospital services disrupted as doctors protest assault at Narayani Hospital",
+      "summary": "Medical services remain affected in Birgunj as health workers demand legal action against those involved in the attack and stronger security measures for healthcare workers.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/27/hospital-services-disrupted-as-doctors-protest-assault-at-narayani-hospital",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/127720261144091000x0-1785151976.jpg&w=300&height=200"
+    },
+    {
+      "title": "Shinta Mani Mustang ranked world’s top luxury hotel by Robb Report",
+      "summary": "Mustang property tops Robb Report’s 2026 list of the 50 Greatest Luxury Hotels on Earth, marking a major milestone for Nepal’s luxury tourism sector.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/27/shinta-mani-mustang-ranked-world-s-top-luxury-hotel-by-robb-report",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/1-1785138555.jpg&w=300&height=200"
+    },
+    {
+      "title": "Cockroach movement brought down a minister. Real reform will be much harder",
+      "summary": "The surge in public participation has not yet been matched by a more mature market, wider instrument options, or stronger institutional foundations.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/07/27/india-s-cockroach-movement-brought-down-a-minister-bringing-real-reform-will-be-much-harder",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1785163146.jpg&w=400&height=267"
+    },
+    {
+      "title": "प्रधानमन्त्री बालेनका सल्लाहकार भन्छन्: सुनसरीको तनाव चाँडै साम्य हुन्छ",
+      "summary": "असिम साहले सुनसरीमा उत्पन्न भएको तनाव छिट्टै साम्य हुने विश्वास व्यक्त गर्दै नेपालको धार्मिक सहिष्णुता बलियो रहेकाले कुनै पनि अतिवादी प्रयास सफल नहुने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-balen-s-advisor-says-tensions-in-sunsari-will-ease-soon-98-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778047167_asim-480x320.jpg"
+    },
+    {
+      "title": "सुनसरी घटनामा गृहमन्त्रीले राजीनामा दिनुपर्छ, बालेनले माफी माग्नुपर्छ : एमाले सचिव बस्नेत",
+      "summary": "साथै, सामान्य विवादलाई साम्प्रदायिक र धार्मिक रूप दिएर निर्दोष युवामाथि गोली चलाउन आदेश दिने गृहमन्त्रीदेखि यस घटनामा संलग्न सबैमाथि निष्पक्ष छानबिन हुनुपर्ने उनको भनाइ छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/home-minister-should-resign-and-balen-should-apologize-for-sunsari-incident-uml-secretary-basnet-81-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785163246_Balen, Mahesh and Sudhan-480x320.jpg"
+    },
+    {
+      "title": "देवानगञ्ज घटनामा निष्पक्ष छानबिनको माग गर्दै संयमता अपनाउन गगन थापाको अपिल",
+      "summary": "एक जनाको ज्यानजानेगरी भएको देवानगन्ज घटनाको विरोधमा विराटनगरमा पनि प्रदर्शन भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/dewanganj-incident-protests-in-biratnagar-as-well-46-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785162764_Brt-480x320.jpg"
+    },
+    {
+      "title": "शिक्षा क्षेत्रमा गुणस्तरीय शिक्षण सिकाइ आवश्यक छ : मन्त्री पोखरेल",
+      "summary": "काठमाडौंमा आयोजित प्रमाणपत्र वितरण समारोहमा तीन महिनाको प्रशिक्षण पूरा गरेका १० जना महिलालाई प्रमाणपत्र प्रदान गरिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/10-women-receive-certificates-and-business-travel-opportunities-from-indrive-s-driving-women-nepal-program-79-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785162339_Indrive-480x320.jpg"
+    },
+    {
+      "title": "सुनसरीका प्रमुख जिल्ला अधिकारी र सुरक्षा प्रमुखलाई फिर्ता बोलाइयो",
+      "summary": "असिम साहले सुनसरीमा उत्पन्न भएको तनाव छिट्टै साम्य हुने विश्वास व्यक्त गर्दै नेपालको धार्मिक सहिष्णुता बलियो रहेकाले कुनै पनि अतिवादी प्रयास सफल नहुने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-balen-s-advisor-says-tensions-in-sunsari-will-ease-soon-98-96.html?click_from=just_in",
       "image_url": ""
     }
   ]
