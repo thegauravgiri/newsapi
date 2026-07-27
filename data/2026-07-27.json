@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-27T14:52:35.386260",
+  "scraped_at": "2026-07-27T17:48:36.490661",
   "date": "2026-07-27",
-  "total_articles": 55,
+  "total_articles": 59,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -447,6 +447,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-balen-s-advisor-says-tensions-in-sunsari-will-ease-soon-98-96.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Oli-Dahal provincial pact triggers backlash from within",
+      "summary": "Senior leaders of the UML and NCP have questioned the political logic behind reviving cooperation and objected to the way the deal was reached.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/07/27/oli-dahal-provincial-pact-triggers-backlash-from-within",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/olianddahalnewphotos2662026010126-1785163259.jpg&w=300&height=200"
+    },
+    {
+      "title": "सुनसरी घटनामा संयम अपनाउन मुख्यमन्त्री कार्कीको आग्रह, अफवाहको पछि नलाग्न अपिल",
+      "summary": "ललितपुरको महाँकाल गाउँपालिकामा एसओएस बालग्रामका कर्मचारी सवार स्कार्पियो दुर्घटना हुँदा चालकको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/driver-dies-five-injured-in-jeep-accident-in-lalitpur-33-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785169835_Jeep-480x320.jpg"
+    },
+    {
+      "title": "डा केसीले तोडे अनसन",
+      "summary": "हिक्मतकुमार कार्कीले सुनसरीमा दुई समुदायबीच भएको हिंसात्मक घटनापछि सबैलाई संयमित रहन, अपुष्ट सूचना र अफवाहको पछि नलाग्न आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/chief-minister-karki-urges-restraint-in-sunsari-incident-appeals-not-to-follow-rumors-70-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777885993_Hikmat_Karki-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको केन्द्रीय समिति बुधबारलाई",
+      "summary": "चिकित्सा शिक्षा र स्वास्थ्य क्षेत्र सुधारका माग राख्दै पाँच दिनदेखि अनशनरत डा. गोविन्द केसी र सरकारबीच सातबुँदे सहमति भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/what-was-the-agreement-with-dr-kc-68-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785168427_KC-480x320.jpg"
     }
   ]
 }
