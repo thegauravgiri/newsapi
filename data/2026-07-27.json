@@ -1,10 +1,11 @@
 {
-  "scraped_at": "2026-07-27T03:50:11.085119",
+  "scraped_at": "2026-07-27T07:39:55.606980",
   "date": "2026-07-27",
-  "total_articles": 21,
+  "total_articles": 41,
   "sources": [
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -173,6 +174,166 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/nagdhunga-tunnel-test-run-br-62-18.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "आइएमई बैंकमा नागरिक एपबाटै खाता खोल्न सकिने",
+      "summary": "आइएमई बैंकमा नागरिक एपबाटै खाता खोल्न सकिने",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13392",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/gbime-1784968078.jpg"
+    },
+    {
+      "title": "ीमा स्थानीय उत्पादन प्रवर्द्धनका लागि ‘कोशेली घर’ उद्घाटन",
+      "summary": "ीमा स्थानीय उत्पादन प्रवर्द्धनका लागि ‘कोशेली घर’ उद्घाटन",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13391",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/tamang-1784966709.jpg"
+    },
+    {
+      "title": "अनसन शुरु, समर्थनसँगै विरोध पनि बढ्दै",
+      "summary": "अनसन शुरु, समर्थनसँगै विरोध पनि बढ्दै",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13388",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/dr-kc-1784953199.jpg"
+    },
+    {
+      "title": "ऋण, १४ लाख तिर्दापनि जग्गा बैंकको कब्जामा !",
+      "summary": "ऋण, १४ लाख तिर्दापनि जग्गा बैंकको कब्जामा !",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13384",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/sahakari-pida-1784866459.jpg"
+    },
+    {
+      "title": "ाखामा चिया खेती, गाउँमै रोजगारी",
+      "summary": "ाखामा चिया खेती, गाउँमै रोजगारी",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13381",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Gaunmai-Rojgari---1784865698.jpg"
+    },
+    {
+      "title": "सिमेन्टद्वारा जयन्ती मेमोरियल ट्रस्टलाई CPR तालिमका लागि म्यानिकिन हस्तान्तरण",
+      "summary": "सिमेन्टद्वारा जयन्ती मेमोरियल ट्रस्टलाई CPR तालिमका लागि म्यानिकिन हस्तान्तरण",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13379",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/maruti3-1784781756.jpg"
+    },
+    {
+      "title": "कल्याणकारी भवन ठेक्का प्रकरण :  निर्माण व्यवसायीमाथि चरम अन्याय र अर्बौँको लगानी जोखिममा !",
+      "summary": "कल्याणकारी भवन ठेक्का प्रकरण :  निर्माण व्यवसायीमाथि चरम अन्याय र अर्बौँको लगानी जोखिममा !",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13375",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/4-1784775644.jpg"
+    },
+    {
+      "title": "अब सरकारको नाममा आउने, सर्वोच्चको बोल्ड फैसलापछि वालेन्द्रको परीक्षा शुरु",
+      "summary": "अब सरकारको नाममा आउने, सर्वोच्चको बोल्ड फैसलापछि वालेन्द्रको परीक्षा शुरु",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13367",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Ncell--1784690172.jpg"
+    },
+    {
+      "title": "ाबाट २४ घण्टामै नेपालमा ढुवानी, व्यवसायी उत्साहित",
+      "summary": "ाबाट २४ घण्टामै नेपालमा ढुवानी, व्यवसायी उत्साहित",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13365",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Kargo-Rail-Sewa-1784689200.jpg"
+    },
+    {
+      "title": "मोटरसाइकल्स नेपालद्वारा  ‘Soirée Francaise’ आयोजना: फ्रान्सेली संस्कृति र जीवनशैलीको अनुभव",
+      "summary": "मोटरसाइकल्स नेपालद्वारा  ‘Soirée Francaise’ आयोजना: फ्रान्सेली संस्कृति र जीवनशैलीको अनुभव",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13360",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/final-1784530439.jpeg"
+    },
+    {
+      "title": "रिय इन्जिनियर दिवस घोषणा गर्न इन्जिनियर्स एसोसियसनको माग",
+      "summary": "रिय इन्जिनियर दिवस घोषणा गर्न इन्जिनियर्स एसोसियसनको माग",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13359",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/engenneeer-1784529420.jpg"
+    },
+    {
+      "title": "आन्दोलन प्रतिवेदन कार्यान्वयनमा अन्तर्राष्ट्रिय दबाब",
+      "summary": "आन्दोलन प्रतिवेदन कार्यान्वयनमा अन्तर्राष्ट्रिय दबाब",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13357",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/pratibedan-_-1784517883.jpg"
+    },
+    {
+      "title": "8 million Demat accounts later, Nepal’s stock market is still missing the tools of a modern market",
+      "summary": "The surge in public participation has not yet been matched by a more mature market, wider instrument options, or stronger institutional foundations.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/27/8-million-demat-accounts-later-nepal-s-stock-market-is-still-missing-the-tools-of-a-modern-market",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb5-1785113024.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal’s first road tunnel inaugurated after over six years of construction",
+      "summary": "The Nagdhunga-Sisnekhola Tunnel, built with Japanese assistance, opens with access initially limited to emergency vehicles as authorities introduce toll and safety rules.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/visual-stories/2026/07/27/nepal-s-first-road-tunnel-inaugurated-after-over-six-years-of-construction",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/75497991728190667017943267021153347444156879n-1785133218.jpg&w=300&height=200"
+    },
+    {
+      "title": "Life along Nepal’s dangerous cable crossing",
+      "summary": "Newly-elected IPPAN President Mohan Kumar Dangi emphasises the necessity of power trading rights for private developers, the causes behind the PPA backlog and the strategic roadmaps required to transform Nepal’s energy sector.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/07/27/life-along-nepal-s-dangerous-cable-crossing",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/75497991728190667017943267021153347444156879n-1785133218.jpg&w=400&height=267"
+    },
+    {
+      "title": "सुनसरी घटना : छानबिनका लागि समिति गठन, केन्द्रीय सुरक्षा समितिको बैठक बस्दै",
+      "summary": "कर्मचारी संख्या, शाखा विस्तार, वितरण संजाल, दैनिक डेलिभरी क्षमता, राजस्वमा योगदान तथा पूर्वाधार विकास जस्ता सबै क्षेत्रमा उल्लेखनीय प्रगतिभएको कम्पनीले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/aggressive-expansion-of-the-solution-54-growth-in-turnover-in-one-year-creation-of-over-1-500-jobs-and-branch-network-across-the-country-68-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785136967_PR News-480x320.jpg"
+    },
+    {
+      "title": "मन्त्री लम्सालले भने : सुरुङमार्ग शिलान्यासको अभिलेख पुनर्स्थापना गर्छौं",
+      "summary": "खेल नेपाली समयअनुसार अपराह्न पौने तीन बजे नेदरल्यान्ड्समा सुरु हुनेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/world-cup-league-2-nepal-playing-against-namibia-13-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785136489_nepal cricket-480x320.jpg"
+    },
+    {
+      "title": "कानुन संशोधन गर्नुपर्छ : मन्त्री गौतम",
+      "summary": "गत आर्थिक वर्षमा सुर्खेतमा जबर्जस्ती करणीका ९१ वटा घटनाका मुद्दा दर्ता भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/91-rape-cases-in-surkhet-in-one-year-br-51-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785136625_Mudda  96-480x320.jpg"
+    },
+    {
+      "title": "ज्ञानेन्द्र शाही भन्छन् : हिजो राजाको इतिहास मेटायौ, आज अरूले तिम्रो मेटाइदिए",
+      "summary": "प्रदर्शनको १० औं दिनसम्म आइपुग्दा ‘गौंथली’ ले करोडौंको व्यापार गर्दै यस वर्षकै सर्वाधिक सफल चलचित्रको दौडमा आफूलाई बलियो रूपमा उभ्याएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/aggressive-business-of-gauthali-earning-rs-74-2-crore-in-10-days-br-19-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785136212_gauthali-480x320.jpg"
+    },
+    {
+      "title": "प्रधानन्यायाधीश शर्मा स्वदेश फिर्ता",
+      "summary": "कर्मचारी संख्या, शाखा विस्तार, वितरण संजाल, दैनिक डेलिभरी क्षमता, राजस्वमा योगदान तथा पूर्वाधार विकास जस्ता सबै क्षेत्रमा उल्लेखनीय प्रगतिभएको कम्पनीले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/aggressive-expansion-of-the-solution-54-growth-in-turnover-in-one-year-creation-of-over-1-500-jobs-and-branch-network-across-the-country-68-65.html?click_from=just_in",
       "image_url": ""
     }
   ]
