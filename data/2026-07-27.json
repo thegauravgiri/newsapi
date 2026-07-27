@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-27T07:39:55.606980",
+  "scraped_at": "2026-07-27T11:32:20.632549",
   "date": "2026-07-27",
-  "total_articles": 41,
+  "total_articles": 46,
   "sources": [
     "KathmanduPost",
     "News24",
@@ -334,6 +334,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/aggressive-expansion-of-the-solution-54-growth-in-turnover-in-one-year-creation-of-over-1-500-jobs-and-branch-network-across-the-country-68-65.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "देवानगन्ज घटनामा कांग्रेसको माग : शान्तिसुरक्षा कायम गर्न सरकार असफल, गृहमन्त्रीले जवाफ दिनुपर्छ",
+      "summary": "उद्योग, वाणिज्य तथा आपूर्ति मन्त्री गौरीकुमारी यादवले बजारमा खाना पकाउने एलपीजी ग्याँसको कुनै अभाव नरहेको स्पष्ट पारेकी छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/there-is-no-shortage-of-cooking-gas-in-the-market-10-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784078589_Gas-480x320.jpg"
+    },
+    {
+      "title": "सांसदलाई निजी स्वकीय सचिव दिने निर्णयविरुद्ध सर्वोच्चको ‘कारण देखाऊ’ आदेश",
+      "summary": "चर्चित बेलायती हास्य कलाकार, टिभी होस्ट तथा प्रकृतिप्रेमी बिल ओडीको ८५ वर्षको उमेरमा निधन भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/famous-comedian-odie-passes-away-at-the-age-of-85-29-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785151609_Odi-480x320.jpg"
+    },
+    {
+      "title": "देवानगञ्ज घटना: शान्ति, सद्भाव र निष्पक्ष छानबिन गर्न माग",
+      "summary": "कपिलवस्तुमा घरेलु हिंसाका विषयमा पर्ने उजुरी मध्ये ९० प्रतिशत बढी मिलापत्रमा गर्ने गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/1-939-domestic-violence-complaints-1-810-reconciliations-in-kapilvastu-in-five-years-br-13-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785151552_kapilbastu police-480x320.jpg"
+    },
+    {
+      "title": "सांसद गणेश पौडेलमाथि कालोमसी प्रहार: दोषी पक्राउ गर्न रास्वपाको २४ घण्टे अल्टिमेटम",
+      "summary": "उनले मृतकप्रति श्रद्धाञ्जली अर्पण गर्दै शोकाकुल परिवारप्रति समवेदना तथा घाइतेहरूको शीघ्र स्वास्थ्यलाभको कामना गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-demands-on-dewanganj-incident-government-failed-to-maintain-peace-and-security-home-minister-must-answer-34-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783326271_bhismaraj aangdabe-480x320.jpg"
+    },
+    {
+      "title": "चिकित्सकमाथिको हिंसामा शून्य सहनशीलता, स्वास्थ्यकर्मीलाई सेवा सुचारु गर्न मन्त्रालयको आग्रह",
+      "summary": "उद्योग, वाणिज्य तथा आपूर्ति मन्त्री गौरीकुमारी यादवले बजारमा खाना पकाउने एलपीजी ग्याँसको कुनै अभाव नरहेको स्पष्ट पारेकी छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/there-is-no-shortage-of-cooking-gas-in-the-market-10-22.html?click_from=just_in",
       "image_url": ""
     }
   ]
