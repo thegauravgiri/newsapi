@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-07-28T17:41:03.901531",
+  "scraped_at": "2026-07-28T21:15:05.984144",
   "date": "2026-07-28",
-  "total_articles": 60,
+  "total_articles": 61,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -487,6 +487,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/daily-wholesale-prices-of-12-federal-agricultural-markets-now-available-on-mobile-ampis-nepal-app-launched-28-27.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785255340_Geeta-480x320.jpg"
+    },
+    {
+      "title": "सुनसरी घटनापछि मध्यरातमा प्रधानमन्त्री शाह : उत्तेजित हुने वा गराउने कुनै पनि काममा सरिक नभइदिनुहोला",
+      "summary": "उनले मनबाटै तुष, रिस, डर र आक्रोश हटाउन अनुरोध गरेका छन्। उत्तेजित हुने वा गराउने कुनै पनि काममा सरिक नहुन उनको अपिल छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-shah-at-midnight-after-the-sunsari-incident-please-do-not-engage-in-any-activity-that-may-provoke-or-cause-unrest-26-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779790082_balen-480x320.jpg"
     }
   ]
 }
