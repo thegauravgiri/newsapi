@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-28T10:41:41.206364",
+  "scraped_at": "2026-07-28T14:26:51.159789",
   "date": "2026-07-28",
-  "total_articles": 49,
+  "total_articles": 55,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -398,6 +398,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-officialdom-dispute-khadka-files-review-petition-in-supreme-court-81-46.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepali worker buried in Iraq without family’s knowledge",
+      "summary": "Nearly a year after Bimal BK died in Baghdad, his family learned that his body had already been buried despite repeated assurances it would be repatriated to Nepal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/28/nepali-worker-buried-in-iraq-without-family-s-knowledge",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/BimalBK-1785230239.jpg&w=300&height=200"
+    },
+    {
+      "title": "सुनसरी घटना : विराटनगर पुगेर स्वास्थ्यमन्त्री मेहताले भेटिन् घाइते",
+      "summary": "धौलीगङ्गा जलविद्युत् परियोजनाको बाँध खोलिने भएकाले महाकाली तटीय क्षेत्रका नागरिकलाई सतर्कता अपनाउन आग्रह गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/caution-urged-in-mahakali-coastal-areas-as-india-opens-dam-81-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752281342_Mahakali-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रप्रति पौडेलद्वारा श्रेष्ठको निधनप्रति दुःख व्यक्त",
+      "summary": "कर्णाली प्रदेशको शिक्षा योजना समावेशी, गुणस्तरीय र पहुँचयोग्य बनाउन सरोकारवालाहरूले जोड दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/emphasis-on-making-education-plans-in-karnali-inclusive-and-quality-br-56-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785247668_New Project (6)-480x320.jpg"
+    },
+    {
+      "title": "कर्णालीको मुख्यमन्त्रीमा मंगलबहादुर शाही नियुक्त",
+      "summary": "उनले उपचारमा कुनै प्रकारको कमी हुन नदिन अस्पताल प्रशासनसँग छलफल गरिन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sunsari-incident-health-minister-mehta-reaches-biratnagar-to-meet-the-injured-br-79-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785247114_New Project (5)-480x320.jpg"
+    },
+    {
+      "title": "मितव्ययी र धाँधलीरहित निर्वाचनका लागि ठोस कार्ययोजना बनाउन निर्देशन",
+      "summary": "उनीहरूले राजधानी तेहरानबाट लगभग चार सय किलोमिटर दक्षिणमा पर्ने मध्य शहर इस्फहानमा रहेको एक प्रहरी चौकीमा आगजनी गर्नुका साथै सार्वजनिक सम्पत्तिमा क्षति पुर्‍याएका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/two-more-people-sentenced-to-death-in-iran-for-killing-police-during-protests-52-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752372797_Iran-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री शाहलाई भारत भ्रमणको निम्तो",
+      "summary": "धौलीगङ्गा जलविद्युत् परियोजनाको बाँध खोलिने भएकाले महाकाली तटीय क्षेत्रका नागरिकलाई सतर्कता अपनाउन आग्रह गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/caution-urged-in-mahakali-coastal-areas-as-india-opens-dam-81-35.html?click_from=just_in",
       "image_url": ""
     }
   ]
