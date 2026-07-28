@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-28T03:20:53.481152",
+  "scraped_at": "2026-07-28T06:33:24.682331",
   "date": "2026-07-28",
-  "total_articles": 33,
+  "total_articles": 39,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -271,6 +271,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/this-is-the-wholesale-price-of-agricultural-produce-for-today-18-83.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "निर्माणमा सि जिनपिङको अवधारणाबारे नेपालमा चर्चा",
+      "summary": "निर्माणमा सि जिनपिङको अवधारणाबारे नेपालमा चर्चा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13394",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/si-1785137871.jpg"
+    },
+    {
+      "title": "What led international human rights organisations to claim executive intimidation of the Supreme Court?",
+      "summary": "Organisations say their statement was based on credible, high-level sources despite lacking a written complaint.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/28/rights-groups-stand-by-impeachment-allegations-government-pushes-back",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/supremecourtunderconstructionnewbuilding202605124321copy-1785204469.jpg&w=300&height=200"
+    },
+    {
+      "title": "सुनसरी घटनाप्रति बाबुराम भट्टराईको चिन्ता",
+      "summary": "वीरगन्जस्थित नारायणी अस्पतालमा चिकित्सकमाथि भएको आक्रमण र अस्पतालमा भएको तोडफोडको विरोधमा अस्पतालका चिकित्सकहरूले सामूहिक राजीनामा दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/mass-resignation-of-doctors-at-narayani-hospital-br-44-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785050162_10 narayani-480x320.jpg"
+    },
+    {
+      "title": "कानुन आयोगलाई सरकारी विधेयक तर्जुमाको मुख्य निकाय बनाउने तयारी, ऐन संशोधनमा सार्वजनिक सुझाव माग",
+      "summary": "उच्च माग, अर्गानिक पहिचान र ऐतिहासिक विरासत हुँदाहुँदै पनि जुम्ली स्याउ अझै राष्ट्रिय वा अन्तर्राष्ट्रिय स्तरको बलियो ब्रान्ड बन्न सकेको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/why-couldn-t-the-twin-apples-become-a-brand-br-51-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785218099_jumla apple-480x320.jpg"
+    },
+    {
+      "title": "देशलाई अस्थिरताको भूमरीमा फसाइराख्ने छुट छैन : पूर्वप्रधानमन्त्री भट्टराई",
+      "summary": "सर्लाहीको बागमती नगरपालिकामा श्रीमतीको हत्या प्रयास गरेको आरोपमा एक युवक पक्राउ परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/husband-arrested-for-attempted-murder-of-wife-br-34-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784470130_pakrau-480x320.jpg"
+    },
+    {
+      "title": "स्वाभिमान माधव नेपालबाट सिक्नुहोला, राजा ज्ञानेन्द्रबाट होइन : रवीन्द्र मिश्र",
+      "summary": "नेपालगन्ज–दिल्ली उडानको मुद्दालाई नागरिक स्तरबाट लामो समयदेखि उठ्दै आएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nepalgunj-delhi-flight-issue-in-the-shadows-26-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785217706_nepalgunj airport-480x320.jpg"
     }
   ]
 }
