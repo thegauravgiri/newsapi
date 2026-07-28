@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-28T06:33:24.682331",
+  "scraped_at": "2026-07-28T10:41:41.206364",
   "date": "2026-07-28",
-  "total_articles": 39,
+  "total_articles": 48,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -319,6 +319,78 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/nepalgunj-delhi-flight-issue-in-the-shadows-26-20.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785217706_nepalgunj airport-480x320.jpg"
+    },
+    {
+      "title": "Man, teenage daughter killed as irrigation canal collapses in Lamjung",
+      "summary": "Two family members die, and two others are injured after a canal embankment gives way, burying the granary where they had been living in Madhya Nepal Municipality.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/28/man-teenage-daughter-killed-as-irrigation-canal-collapses-in-lamjung",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/kulobhatkiyiyodhansarpuriyolamjung228720260536201000x0-1785223833.jpg&w=300&height=200"
+    },
+    {
+      "title": "Curfew lifted in Sunsari’s Dewanganj as tensions ease",
+      "summary": "Authorities lift the curfew but retain limits on gatherings in Dewanganj and Harinagar after Sunday’s communal clash left one dead and nine injured in security force firing.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/28/curfew-lifted-in-sunsari-s-dewanganj-as-tensions-ease",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/img1235new27720260426281000x0128720260256471000x0-1785217689.jpg&w=300&height=200"
+    },
+    {
+      "title": "Health Ministry urges hospitals to keep services running amid doctors’ protest",
+      "summary": "The directive comes as the Nepal Medical Association suspends non-emergency services nationwide over the Narayani Hospital attack, while the ministry says authorities are taking steps to bring those involved to justice.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/28/health-ministry-urges-hospitals-to-keep-services-running-amid-doctors-protest",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/healthministry04420261148271000x0-1785215194.jpg&w=300&height=200"
+    },
+    {
+      "title": "Doctors halt non-emergency services nationwide over Birgunj attack",
+      "summary": "The Nepal Medical Association announces a nationwide protest and Tuesday shutdown of non-emergency services after the Narayani Hospital attack, while Birgunj doctors submit mass resignations.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/28/doctors-halt-non-emergency-services-nationwide-over-birgunj-attack",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/nepalchikitsaksangh28720260509171000x0-1785213107.jpg&w=600&height=400"
+    },
+    {
+      "title": "कांग्रेस आधिकारिकता विवाद: सर्वोच्चमा खड्काले दर्ता गराए पुनरावलोकन निवेदन",
+      "summary": "यसअघि पनि सोही विषयमा पूर्वसभापति शेरबहादुर देउवाको पक्षबाट पुनरावलोकन निवेदन दर्ता भइसकेको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-officialdom-dispute-khadka-files-review-petition-in-supreme-court-81-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776614431_gagan purna-480x320.jpg"
+    },
+    {
+      "title": "पोखरा महानगरका मेयर आचार्यको सांसद् पौडेललाई भने, स्थानीय सरकार सञ्चालन ऐन राम्रोसँग अध्ययन गर्नुस्",
+      "summary": "सामाजिक सञ्जालमार्फत मेयर आचार्यले सांसद् पौडेललाई ‘स्थानीय सरकार सञ्चालन ऐन’ राम्रोसँग अध्ययन गर्न सुझाव दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/pokhara-metropolitan-city-mayor-acharya-tells-mp-poudel-to-study-the-local-government-operation-act-thoroughly-27-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785234956_DHAN 120-480x320.jpg"
+    },
+    {
+      "title": "चिकित्सकको माग सम्बोधन गरी स्वास्थ्य सेवा सुचारु गर्न सभापतिथापाको आग्रह",
+      "summary": "बचत फिर्ताको माग गर्दै लघुवित्त पिडीतले बालुवाटार नजिक पुगेर प्रदर्शन गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/photo-feature/microfinance-victims-protest-in-baluwatar-photos-br-60-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/photos/1785233253_laghubitta-480x320-wm.jpg"
+    },
+    {
+      "title": "प्रस्तावित निर्वाचन आयुक्तको सुनुवाइ सुरु",
+      "summary": "प्रदर्शनका क्रममा तोडफोड र आगजनीका घटना भएपछि प्रशासनले सुरक्षा अवस्थालाई मध्यनजर गर्दै कडा सुरक्षा व्यवस्था अपनाएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nepse-index-fell-by-modest-points-br-29-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785153996_sunsari nepal police-480x320.jpg"
+    },
+    {
+      "title": "देवानगञ्ज घटनामा निष्पक्ष छानबिन र सर्वपक्षीय संवाद गर्दै राप्रपा",
+      "summary": "यसअघि पनि सोही विषयमा पूर्वसभापति शेरबहादुर देउवाको पक्षबाट पुनरावलोकन निवेदन दर्ता भइसकेको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-officialdom-dispute-khadka-files-review-petition-in-supreme-court-81-46.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
