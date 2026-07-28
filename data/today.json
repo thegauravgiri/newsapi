@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-28T14:26:51.159789",
+  "scraped_at": "2026-07-28T17:41:03.901531",
   "date": "2026-07-28",
-  "total_articles": 55,
+  "total_articles": 61,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -447,6 +447,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/caution-urged-in-mahakali-coastal-areas-as-india-opens-dam-81-35.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Gopal Man Shrestha, key signatory to historic 12-point peace accord, dies at 83",
+      "summary": "The veteran Nepali Congress leader, who steered the party during Sher Bahadur Deuba’s imprisonment and played a crucial role in bringing the Maoists into mainstream politics, dies after battling cancer.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/28/gopal-man-shrestha-key-signatory-to-historic-12-point-peace-accord-dies-at-83",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/gopalmanji28720260424391000x0-1785252740.jpg&w=300&height=200"
+    },
+    {
+      "title": "New Delhi formally says it has invited Nepal’s prime minister to India",
+      "summary": "Spokesperson for India’s Ministry of External Affairs says he has no information about Nepal’s emissary’s visit to India.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/28/new-delhi-formally-says-it-has-invited-nepal-s-prime-minister-to-india",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/randhirjaiswal-1785250833.jpg&w=300&height=200"
+    },
+    {
+      "title": "सुनसरी घटना: रास्वपा सभापतिद्वारा सर्वदलीय बैठक आह्वान, संसदमा प्रतिनिधित्व नगर्ने तीन दललाई पनि निम्तो",
+      "summary": "वीरगञ्जको नारायणी अस्पतालमा चिकित्सक तथा स्वास्थ्यकर्मीमाथि भएको आक्रमणको घटनालाई लिएर नेपाल चिकित्सक संघले आन्दोलनका कार्यक्रम घोषणा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/doctors-association-announces-new-programs-from-hospital-closure-to-sit-in-tomorrow-89-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785258446_Narayani-480x320.jpg"
+    },
+    {
+      "title": "लगानीमैत्री वातावरणका लागि ४२ वटा कानुन खारेज र संशोधन हुँदैछन् : अर्थमन्त्री वाग्ले",
+      "summary": "सुनसरीको देवानगन्ज गाउँपालिका वडा नं. ३ कप्तानगञ्जमा मंगलबार साँझ फेरि दुवै पक्ष झडपमा उत्रदा १५ भन्दा बढी घरमा आगजनी तथा तोडफोड गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/arson-and-vandalism-at-more-than-15-houses-in-kaptanganj-65-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785239780_Dewanjung Case-480x320.jpg"
+    },
+    {
+      "title": "सुनसरी घटनाबारे प्रधानमन्त्री कार्यालयको गम्भीर ध्यानाकर्षण : शान्ति र सद्भाव कायम राख्न अपिल",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले सुनसरीको देवानगञ्ज घटनालगायत समसामयिक विषयमा छलफल गर्न बुधबार बिहान सर्वदलीय बैठक आह्वान गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sunsari-incident-rsp-president-calls-all-party-meeting-invites-three-parties-not-represented-in-parliament-80-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778422592_rabi-480x320.jpg"
+    },
+    {
+      "title": "सुनसरी घटनापछि स्वास्थ्यमन्त्री मेहता विराटनगरमा, अस्पताल पुगेर घाइतेसँग भेटघाट",
+      "summary": "उक्त एप २०८३ साउन ८ गतेदेखि एन्ड्रोइड प्रणाली भएका मोबाइल फोनमा प्रयोग गर्न सकिनेछ। विभागको वेबसाइटमा राखिएको द्रुत प्रतिक्रिया संकेत (क्यूआर कोड) स्क्यान गरेर पनि एप डाउनलोड तथा प्रयोग गर्न सकिने व्यवस्था गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/daily-wholesale-prices-of-12-federal-agricultural-markets-now-available-on-mobile-ampis-nepal-app-launched-28-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785255340_Geeta-480x320.jpg"
     }
   ]
 }
