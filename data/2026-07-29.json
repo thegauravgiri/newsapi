@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-29T03:23:04.279246",
+  "scraped_at": "2026-07-29T06:38:43.668508",
   "date": "2026-07-29",
-  "total_articles": 33,
+  "total_articles": 41,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -270,6 +270,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/the-all-party-meeting-called-by-rashtriya-swayamsevak-sangh-rss-president-lamichhane-regarding-the-sunsari-incident-is-ongoing-who-attended-81-63.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Patients denied treatment as doctors across Nepal shut outpatient care over assaults on medics",
+      "summary": "The Nepal Medical Association says aggression against doctors has increased, with more than 90 cases of physical and verbal abuse registered over the past 10 months.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/07/29/patients-denied-treatment-as-doctors-across-nepal-shut-outpatient-care-over-assaults-on-medics",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/health/OPD-1785284640.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal’s tiger population rises to 429, latest census shows",
+      "summary": "Tiger numbers increased in most protected areas, with Chitwan recording 145 big cats, while Bardiya saw a decline from 125 to 112.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/29/nepal-s-tiger-population-rises-to-429-latest-census-shows",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1785303880.jpg&w=300&height=200"
+    },
+    {
+      "title": "Government to cut around 1,800 civil service posts in bureaucracy overhaul",
+      "summary": "Restructuring will eliminate ten secretary-level positions and reduce dozens of senior administrative posts as the Shah administration pushes ahead with governance reforms.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/29/government-to-cut-around-1-800-civil-service-posts-in-bureaucracy-overhaul",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1785297958.jpg&w=300&height=200"
+    },
+    {
+      "title": "कप्तानगञ्ज घटना : नेपाली कांग्रेसको सनातन हिन्दुराष्ट्र अभियानद्वारा छानबिनको माग",
+      "summary": "भारतमा निर्वासनमा रहँदै आएकी उनले आफूलाई बङ्गलादेश फर्किन जनताले निरन्तर आग्रह गरिरहेको बताइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/sheikh-hasina-returns-to-bangladesh-after-exit-81-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785306705_hasina-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीको बचाउ गर्दै अर्थमन्त्रीले भने : सुनसरी घटना समाधान गर्न विशेष पहल गरिरहनुभएको छ",
+      "summary": "उनले नागरिकको ज्यान जाने र गोली चलाउनुपर्ने अवस्था कसरी सिर्जना भयो भन्दै गम्भीर प्रश्न उठाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/kaptanganj-incident-nepali-congress-s-sanatan-hindu-rashtra-abhiyan-demands-investigation-37-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785306512_Shankar-480x320.jpg"
+    },
+    {
+      "title": "धार्मिक असहिष्णुता फैलिन नदिन सबै एकजुट हुनुपर्छ : सुमना श्रेष्ठ",
+      "summary": "२०८२ को गणनाअनुसार कुल बाघको सङ्ख्या मुलुकभर ४२९ पुगेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-number-of-tigers-in-nepal-has-reached-429-83-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768527908_Tiger-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री र गृहमन्त्रीले आफ्नो काम गरिरहनुभएको छ : सभापति लामिछाने",
+      "summary": "अर्थमन्त्री डा. स्वर्णिम वाग्लेले सुनसरी घटना समाधानका लागि प्रधानमन्त्रीले विशेष पहल जारी राखेका बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/defending-the-prime-minister-the-finance-minister-said-he-is-taking-special-initiatives-to-resolve-the-sunsari-incident-42-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785305178_wagle-480x320.jpg"
+    },
+    {
+      "title": "सबै राजनीतिक दलको तर्फबाट संयुक्त अपिल आउछ : रवि लामिछाने",
+      "summary": "भारतमा निर्वासनमा रहँदै आएकी उनले आफूलाई बङ्गलादेश फर्किन जनताले निरन्तर आग्रह गरिरहेको बताइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/sheikh-hasina-returns-to-bangladesh-after-exit-81-46.html?click_from=just_in",
       "image_url": ""
     }
   ]
