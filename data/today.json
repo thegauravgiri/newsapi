@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-29T10:45:38.192431",
+  "scraped_at": "2026-07-29T14:25:08.030249",
   "date": "2026-07-29",
-  "total_articles": 48,
+  "total_articles": 57,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -390,6 +390,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/narayani-hospital-incident-parsa-sp-sudip-pathak-removed-from-duty-51-63.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Cabinet clears bill raising domestic airline liability to $100,000",
+      "summary": "Draft law proposes higher compensation for deaths and injuries, mandatory insurance, clearer rules on delays, baggage and cargo, aligning Nepal’s domestic aviation regime more closely with global standards.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/29/cabinet-clears-bill-raising-domestic-airline-liability-to-100-000",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/TIAManojPhoto1-1785327452.jpg&w=300&height=200"
+    },
+    {
+      "title": "Koshi announces relief for Dewanganj violence victims",
+      "summary": "Families of those killed will receive Rs200,000 each, while those injured and affected by arson will get Rs50,000 under an eight-point plan to restore peace.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/29/koshi-announces-relief-for-dewanganj-violence-victims",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/c1495dac6da54f2cbe1486db7796d03629720261234561000x0-1785329244.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal once had a vibrant civil society. Now it is faded and fragmented",
+      "summary": "From a force for democratic change to a diminished role, civil society is struggling to find its place in a transformed political landscape.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/29/nepal-once-had-a-vibrant-civil-society-how-it-faded-and-fragmented",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Sketch_CivilSociety.png&w=300&height=200"
+    },
+    {
+      "title": "Road upgrade debris disrupts traffic on Rapti Highway",
+      "summary": "Rocks and soil left on the road during hill-cutting works have narrowed the highway and increased safety risks during the monsoon.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/29/road-upgrade-debris-disrupts-traffic-on-rapti-highway",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/jokhomuthaudaisagurosadakmaambulencejadai29720261032131000x0-1785327152.jpg&w=600&height=400"
+    },
+    {
+      "title": "कांग्रेस एकताका लागि जनप्रतिनिधिको दबाब: साउन १६ को राष्ट्रिय भेला २७ मा सर्‍यो",
+      "summary": "यो नयाँ सैन्य द्वन्द्वले विश्वव्यापी ऊर्जा आपूर्तिमा गम्भीर असर पारेको छ। व्यापारका लागि अति संवेदनशील मानिने होर्मुज जलमार्ग र रेड सी क्षेत्रमा देखिएको तनावका कारण तेलको मूल्यमा भारी बृद्धि भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/trump-warns-iran-of-hard-hitting-they-ll-be-beaten-badly-21-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785334948_Trump-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको वरिष्ठ नेतामा वालेन्द्र शाहको निरन्तरता",
+      "summary": "मंगलबार राति तारहरूकाे गुजुल्टाेमा आगलागी भएपछि विहानैदेखि मन्त्री श्रेष्ठ थापाथली पुगेर व्यवस्थापनमा जुटेका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/after-energy-minister-shrestha-entered-the-field-the-unorganized-wires-in-the-thapathali-area-were-removed-within-a-day-16-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785334590_Thapathali News-480x320.jpg"
+    },
+    {
+      "title": "मुख्यमन्त्रीबाट बाहिरिँदै गर्दा यामलाल कँडेलको घोषणा: राज्यको सुविधा लिन्न",
+      "summary": "‘पार्टी एकताका लागि संयुक्त राष्ट्रिय दबाब अभियान’ ले पार्टीभित्रको एकतालाई समयको अपरिहार्य आवश्यकता भएको भन्दै दबाब अभियानलाई निरन्तरता दिने घोषणा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/pressure-from-people-s-representatives-for-congress-unity-national-gathering-on-july-16-postponed-to-july-27-13-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785334337_Congress-480x320.jpg"
+    },
+    {
+      "title": "सुनसरीको परिस्थिति तत्काल नियन्त्रणमा लिन प्रधानमन्त्रीको निर्देशन",
+      "summary": "कम्पनीका अनुसार नयाँ संस्करणले लामो रेन्ज, शक्तिशाली प्रदर्शन र थप स्मार्ट फिचर्समार्फत विद्युतीय सवारी प्रयोगकर्तालाई नयाँ अनुभव दिने लक्ष्य राखेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/new-tata-punch-ev-in-the-nepali-market-with-a-large-battery-and-premium-features-98-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785334062_Punch Ev-480x320.jpg"
+    },
+    {
+      "title": "बुधबारको मन्त्रिपरिषद्ले सुनसरी घटना सम्बोधन गरेन, यी हुन् पाँच निर्णय",
+      "summary": "यो नयाँ सैन्य द्वन्द्वले विश्वव्यापी ऊर्जा आपूर्तिमा गम्भीर असर पारेको छ। व्यापारका लागि अति संवेदनशील मानिने होर्मुज जलमार्ग र रेड सी क्षेत्रमा देखिएको तनावका कारण तेलको मूल्यमा भारी बृद्धि भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/trump-warns-iran-of-hard-hitting-they-ll-be-beaten-badly-21-56.html?click_from=just_in",
       "image_url": ""
     }
   ]
