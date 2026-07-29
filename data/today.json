@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-07-29T06:38:43.668508",
+  "scraped_at": "2026-07-29T10:45:38.192431",
   "date": "2026-07-29",
-  "total_articles": 42,
+  "total_articles": 48,
   "sources": [
-    "KathmanduPost",
     "News24",
+    "KathmanduPost",
     "NagarikNews"
   ],
   "articles": [
@@ -342,6 +342,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/sheikh-hasina-returns-to-bangladesh-after-exit-81-46.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "इभ नेपालद्वारा ‘इनड्राइभ ड्राइभिङ नारी नेपाल’ प्रमाणपत्र प्रदान",
+      "summary": "इभ नेपालद्वारा ‘इनड्राइभ ड्राइभिङ नारी नेपाल’ प्रमाणपत्र प्रदान",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13398",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/end1-1785217016.jpeg"
+    },
+    {
+      "title": "प्रस्तावित निर्वाचन आयुक्तको कार्ययोजना : निर्वाचनमा भाग नलिने दललाई खारेजीको प्रस्ताव",
+      "summary": "जिल्ला प्रहरी कार्यालय पर्साका प्रमुख प्रहरी उपरीक्षक (एसपी) सुदीप पाठकलाई जिम्मेवारीबाट हटाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/narayani-hospital-incident-parsa-sp-sudip-pathak-removed-from-duty-51-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785321377_Sudip-480x320.jpg"
+    },
+    {
+      "title": "संसदीय कार्य प्रभावकारी बनाउन सभामुख अर्याल सक्रिय, प्रधानमन्त्री शाहसहित शीर्ष नेतासँग छलफल",
+      "summary": "कार्कीले निर्वाचनमा भाग नलिने राजनीतिक दलको दर्ता खारेजी सम्बन्धमा कानुनी व्यवस्था गर्न सकिने कार्ययोजना पेस गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/proposed-election-commissioner-s-action-plan-proposal-to-dismiss-parties-that-do-not-participate-in-elections-br-71-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785318343_manbahadur karki-480x320.jpg"
+    },
+    {
+      "title": "भागबन्डा नमिल्दा मुख्यमन्त्रीको मन्त्रीविहीन शपथ",
+      "summary": "भेटका क्रममा प्रतिनिधि सभाको बैठकलाई थप व्यवस्थित, प्रभावकारी र उपलब्धिमूलक बनाउने विषयमा धारणा आदानप्रदान भएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/speaker-aryal-active-in-making-parliamentary-work-effective-holds-discussions-with-top-leaders-including-prime-minister-shah-31-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785320103_DP Aryal Chalfal-480x320.jpg"
+    },
+    {
+      "title": "देवानगञ्ज घटनाका मृतक परिवारलाई २ लाख राहत दिने",
+      "summary": "पोखरा प्रज्ञा प्रतिष्ठानको कुलपतिमा साहित्यकार सरस्वती ‘प्रतीक्षा’ नियुक्त भएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/saraswati-pratiksha-appointed-as-the-chancellor-of-pokhara-academy-br-48-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785319842_pratiksha-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन आयोगलाई सफल पार्न सरकार र राजनीतिक दलको सहयोग जरुरी : प्रस्तावित आयुक्त कार्की",
+      "summary": "जिल्ला प्रहरी कार्यालय पर्साका प्रमुख प्रहरी उपरीक्षक (एसपी) सुदीप पाठकलाई जिम्मेवारीबाट हटाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/narayani-hospital-incident-parsa-sp-sudip-pathak-removed-from-duty-51-63.html?click_from=just_in",
       "image_url": ""
     }
   ]
