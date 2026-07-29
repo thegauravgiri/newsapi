@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-29T14:25:08.030249",
+  "scraped_at": "2026-07-29T17:22:02.679754",
   "date": "2026-07-29",
-  "total_articles": 57,
+  "total_articles": 60,
   "sources": [
-    "News24",
+    "KathmanduPost",
     "NagarikNews",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -463,6 +463,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/trump-warns-iran-of-hard-hitting-they-ll-be-beaten-badly-21-56.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Doctors end protest after shutting down health services across Nepal for two days",
+      "summary": "Hundreds of thousands of ailing people suffered due to a nationwide strike of doctors protesting against physical assaults on them. Emergency wards were overwhelmed.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/07/29/doctors-end-protest-after-shutting-down-health-services-across-nepal-for-two-days",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/birami2228720260752181000x0-1785340991.jpg&w=300&height=200"
+    },
+    {
+      "title": "Inside Nepal’s security response after Sunsari violence",
+      "summary": "As officials debated escalation risks, the government reshuffled security leadership while questions emerged over coordination, intelligence assessment and crisis management.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/29/inside-nepal-s-security-response-after-sunsari-violence",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Probecommittee-1785329026.jpg&w=300&height=200"
+    },
+    {
+      "title": "प्रधानमन्त्री शाह रास्वपाको वरिष्ठ नेतामा मनोनीत, ‘पार्टी सचिवालय’ गठन",
+      "summary": "मम्स इन्टरनेसनल नेपालले ११औँ दक्षिण एसियाली खेलकुद (साग) का स्वर्ण पदक विजेता सुनिल लामा र उदयीमान कराते खेलाडी याङ्तेन लामालाई सम्मान गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/karate-gold-medalist-sunil-and-rising-athlete-yangten-honored-42-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785341713_756219149_1677570056803217_7046160466862253488_n-480x320.jpg"
     }
   ]
 }
