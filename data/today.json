@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-30T06:33:48.730624",
+  "scraped_at": "2026-07-30T10:31:19.505480",
   "date": "2026-07-30",
-  "total_articles": 44,
+  "total_articles": 53,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -358,6 +358,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/three-child-laborers-rescued-from-butwal-restaurant-over-rs-613-000-in-compensation-provided-19-19.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "भन्छन्– बृहस्पति अन्ध रहेको भ्रमले दर्शनार्थी घटे",
+      "summary": "भन्छन्– बृहस्पति अन्ध रहेको भ्रमले दर्शनार्थी घटे",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13409",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Brihaspati-Andha-Bhram-1785383377.jpg"
+    },
+    {
+      "title": "Lawmakers seek answers over Sunsari violence",
+      "summary": "They call for accountability, restraint and a credible investigation as ruling and opposition parties debate the government's response to the Dewanganj violence.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/30/lawmakers-seek-answers-over-sunsari-violence",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/palriament1785284976-1785403176.jpg&w=300&height=200"
+    },
+    {
+      "title": "Viral misinformation triggers fear after Dewanganj unrest",
+      "summary": "An old video from last year’s Gen Z protests was falsely linked to current demonstrations, creating confusion among residents.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/30/viral-misinformation-triggers-fear-after-dewanganj-unrest",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/misleadingimage30720260721291000x0-1785393308.jpg&w=300&height=200"
+    },
+    {
+      "title": "Family blames delayed response for deadly Sunsari violence",
+      "summary": "Relatives and eyewitnesses say authorities failed to contain tensions before a local dispute escalated into fatal clashes.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/30/family-blames-delayed-response-for-deadly-sunsari-violence",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/dewangunj229720260640351000x0-1785386697.jpg&w=600&height=400"
+    },
+    {
+      "title": "धर्म र समुदायका नाममा समाज विभाजन गर्ने प्रयास स्वीकार्य छैन :अहबर अन्सारी",
+      "summary": "बिहीबार प्रतिनिधिसभाको बैठकमा बोल्दै उनले नेपाल ऐतिहासिक रूपमा धार्मिक सहिष्णुता, सामाजिक सद्भाव र विविधताको सम्मान गर्ने देश भएकाले धार्मिक वा जातीय द्वेष फैलाउने गतिविधिप्रति राज्य गम्भीर बन्नुपर्ने बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/attempts-to-divide-society-in-the-name-of-religion-and-community-are-unacceptable-mp-ansari-br-89-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785406637_14 ans-480x320.jpg"
+    },
+    {
+      "title": "सिरहाको गोलबजारमा कर्फ्यूकै बीच गोली चल्यो : गणेश यादवको मृत्यु, सेना परिचालनपछि अवस्था तनावग्रस्त",
+      "summary": "सिरहाको गोलबजारमा कर्फ्यू आदेश जारी रहेका बेला भएको झडपका क्रममा गोली लागेर एक जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/gunfire-erupts-in-siraha-s-golbazaar-amid-curfew-ganesh-yadav-dies-situation-tense-after-army-deployment-67-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785406245_Army-480x320.jpg"
+    },
+    {
+      "title": "नेपालमा चर्किएको द्वन्द्वको समाधान बेलैमा खोजौँ",
+      "summary": "सुनसरीको देवानगञ्ज–३ कप्तानगञ्जमा भएको हिंसात्मक घटनाले सुरु गरेको तनाव अब केवल एउटा जिल्लाको सुरक्षा चुनौतीमा सीमित देखिएको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/let-s-find-a-solution-to-the-conflict-raging-in-nepal-as-soon-as-possible-85-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785406003_Dwanda-480x320.jpg"
+    },
+    {
+      "title": "काम गर्ने संस्कृतिमा परिवर्तन आवश्यक छ : सञ्चारमन्त्री तिमिल्सिना",
+      "summary": "मधेस प्रदेश सरकारले प्रदेशभर बढ्दो सुरक्षा संवेदनशीलतालाई मध्यनजर गर्दै सबै जिल्लामा सरकारी सवारी साधनको प्रयोगमा कडाइ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/stricter-restrictions-on-the-operation-of-government-vehicles-in-all-districts-of-madhesh-province-71-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785344100_Sunsari-480x320.jpg"
+    },
+    {
+      "title": "सुरक्षा निकाय तथा सरोकारवालाबीच समन्वयलाई थप प्रभावकारी बनाउने परिषद्को निर्णय",
+      "summary": "बिहीबार प्रतिनिधिसभाको बैठकमा बोल्दै उनले नेपाल ऐतिहासिक रूपमा धार्मिक सहिष्णुता, सामाजिक सद्भाव र विविधताको सम्मान गर्ने देश भएकाले धार्मिक वा जातीय द्वेष फैलाउने गतिविधिप्रति राज्य गम्भीर बन्नुपर्ने बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/attempts-to-divide-society-in-the-name-of-religion-and-community-are-unacceptable-mp-ansari-br-89-22.html?click_from=just_in",
       "image_url": ""
     }
   ]
