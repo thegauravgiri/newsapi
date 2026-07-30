@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-30T02:56:18.666641",
+  "scraped_at": "2026-07-30T06:33:48.730624",
   "date": "2026-07-30",
-  "total_articles": 33,
+  "total_articles": 43,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -270,6 +270,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/dear-madhesh-people-i-request-you-not-to-follow-those-who-disturb-the-peace-and-harmony-of-the-society-amresh-singh-65-56.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "वर गाउँपालिकामा भूमि प्रशासनसम्बन्धी सेवा शुरु",
+      "summary": "वर गाउँपालिकामा भूमि प्रशासनसम्बन्धी सेवा शुरु",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13408",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Bhumi-Prashashan-Sewa-Suru-1785383224.jpg"
+    },
+    {
+      "title": "ै पालादेखि शुरु भएको वर्षावास, किन शुरु भयो यस्तो परम्परा ?",
+      "summary": "ै पालादेखि शुरु भएको वर्षावास, किन शुरु भयो यस्तो परम्परा ?",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13407",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Barsa-Bas-1785382914.jpg"
+    },
+    {
+      "title": "व्यवस्थापन अब डिजिटल : घरधनी र भाडावालाको झन्झट अन्त्य गर्न ‘भाडासेवा’ बजारमा",
+      "summary": "व्यवस्थापन अब डिजिटल : घरधनी र भाडावालाको झन्झट अन्त्य गर्न ‘भाडासेवा’ बजारमा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13404",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/WhatsApp-Image-2026-07-29-at-1.53.19-PM-1785314483.jpeg"
+    },
+    {
+      "title": "The next generation of artists at Gallery Mcube",
+      "summary": "Repeated use of lethal force in crowd control reflects gaps in training, equipment and accountability.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/07/30/the-next-generation-of-artists-at-gallery-mcube",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/dewangunj229720260640351000x0-1785386697.jpg&w=400&height=267"
+    },
+    {
+      "title": "Movie review: The price of artistic immortality",
+      "summary": "Restrictions remain across 10 local units as authorities continue talks over martyr status, compensation and legal action against those responsible for the violence.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/movie-review/2026/07/29/movie-review-the-price-of-artistic-immortality",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/yangoophoto-1785378025.jpg&w=400&height=267"
+    },
+    {
+      "title": "कप्तानगञ्जमा भएको हत्या प्रकरणबारे प्रधानमन्त्रीले सदनलाई स्पष्ट पार्नुपर्छ : सांसद शर्मा",
+      "summary": "रुपन्देहीको बुटवल उप-महानगरपालिका वडा नम्बर ६ मा सञ्चालित दुई वटा रेस्टुरेन्टबाट तीन जना बाल श्रमिकको उद्धार गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/three-child-laborers-rescued-from-butwal-restaurant-over-rs-613-000-in-compensation-provided-19-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1783487055__baby_children--480x320.jpg"
+    },
+    {
+      "title": "पद्या अर्यालको प्रश्न : देश संकटमा हुँदा प्रधानमन्त्री कहाँ हुनुहुन्छ ?",
+      "summary": "नेपाल कम्युनिष्ट पार्टीका सांसद गोपाल शर्माले सुनसरीको कप्तानगञ्जमा भएको हत्या प्रकरणबारे संसद्‍मा प्रधानमन्त्री स्वयं उपस्थित भएर प्रष्ट पार्नुपर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mp-sharma-demands-that-the-prime-minister-answer-in-parliament-regarding-the-sunsari-incident-61-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785392661_gopal sharma-480x320.jpg"
+    },
+    {
+      "title": "सार्क पुनः सक्रिय होला?",
+      "summary": "नेकपा एमालेकी सांसद पद्या अर्यालले देश संकटका बेला प्रधानमन्त्रीको भूमिका प्रभावकारी हुन नसकेको भन्दै सरकारको ध्यानाकर्षण गराएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/padya-aryal-s-question-where-is-the-prime-minister-when-the-country-is-in-crisis-br-92-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785392003_pad 13-480x320.jpg"
+    },
+    {
+      "title": "हिजो आक्रोश पोख्ने प्रधानमन्त्री र आँसु बगाउने गृहमन्त्री आज मौन छन् : बासना थापा",
+      "summary": "सार्कको अन्तिम शिखर सम्मेलन सन् २०१४ मा काठमाडौंमा भएको थियो। त्यसयता भारत–पाकिस्तान तनावका कारण यो क्षेत्रीय संगठन प्रभावहीन बन्दै गएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/will-saarc-be-reactivated-93-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785392011_gtr gtr 98-480x320.jpg"
+    },
+    {
+      "title": "लघुवित्त पीडितसँग वार्ता गर्न अर्थमन्त्रीद्वारा समिति गठन",
+      "summary": "रुपन्देहीको बुटवल उप-महानगरपालिका वडा नम्बर ६ मा सञ्चालित दुई वटा रेस्टुरेन्टबाट तीन जना बाल श्रमिकको उद्धार गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/three-child-laborers-rescued-from-butwal-restaurant-over-rs-613-000-in-compensation-provided-19-19.html?click_from=just_in",
       "image_url": ""
     }
   ]
