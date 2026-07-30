@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-30T10:31:19.505480",
+  "scraped_at": "2026-07-30T14:22:35.257184",
   "date": "2026-07-30",
-  "total_articles": 53,
+  "total_articles": 62,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -430,6 +430,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/attempts-to-divide-society-in-the-name-of-religion-and-community-are-unacceptable-mp-ansari-br-89-22.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal’s health worker shortage is driving doctor-patient conflict",
+      "summary": "Decades of government failure to expand the health workforce have left doctors overworked, patients underserved, and assaults on health workers on the rise.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/07/30/nepal-s-health-worker-shortage-is-driving-doctor-patient-conflict",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Untitled1-1785418031.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal-India boundary talks in Lucknow on August 12-14",
+      "summary": "The meeting of the Survey Officials’ Committee is scheduled to approve plans and budgets for constructing and repairing boundary pillars among others.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/30/nepal-india-boundary-talks-in-lucknow-on-august-12-14",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1785419577.jpg&w=300&height=200"
+    },
+    {
+      "title": "University Grants Commission yet to issue equivalence certificates after taking over role from TU",
+      "summary": "More than 1,000 students have applied for equivalency certificates since the service began, but none have received permanent certificates.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/30/university-grants-commission-yet-to-issue-equivalence-certificates-after-taking-over-role-from-tu",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/UGC-1785416465.jpg&w=300&height=200"
+    },
+    {
+      "title": "Saudi Arabia halts visas for Nepali workers needing skill certificates after Nepal seals testing centre",
+      "summary": "Processing has stopped for five job categories after Nepal sealed a private firm conducting Saudi-mandated skill tests.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/30/saudi-arabia-halts-visas-for-nepali-workers-needing-skill-certificates-after-nepal-seals-testing-centre",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1785416741.jpg&w=600&height=400"
+    },
+    {
+      "title": "उज्यालो पार्टीले भन्यो: सुनसरी–सिरहा घटनाको निष्पक्ष छानबिन गर्न उच्चस्तरीय न्यायिक आयोग बनाऔँ",
+      "summary": "उनले अबदेखि विशुद्ध समाजसेवामा समर्पित र कुनै राजनीतिक दलको सदस्यता नलिएका व्यक्तिका लागि सदस्यता खुला गरिने बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/party-members-banned-from-red-cross-19-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785420635_RedCross-480x320.jpg"
+    },
+    {
+      "title": "बागमतीमा मुख्यमन्त्री बानियाँलाई समर्थन जुटाउन कांग्रेसले लिखित तथा मौखिक समन्वय गर्ने",
+      "summary": "सिरहाको गोलबजारमा भएको घटनाको छानबिन गर्न मधेस प्रदेश प्रहरी कार्यालयले तीन सदस्यीय समिति गठन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/committee-formed-under-the-leadership-of-sp-rijal-to-investigate-golbazar-shooting-incident-70-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785420521_Golbazar-480x320.jpg"
+    },
+    {
+      "title": "देवानगञ्ज घटनापछि गृहमन्त्री गुरुङ विराटनगरमा, घाइते र पीडित परिवारसँग भेट्ने",
+      "summary": "दुईपटक ठेक्का सम्झौता, सातपटक म्याद थप र लागत वृद्धि हुँदासमेत आयोजनाको भौतिक प्रगति करिब ६२ प्रतिशत मात्रै पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/10-years-to-build-a-3-5-km-road-23-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785420453_Road-480x320.jpg"
+    },
+    {
+      "title": "सामाजिक सद्भाव कायम राख्‍न सक्रिय भूमिका खेल्न रास्वपा सांसदलाई लामिछानेको निर्देशन",
+      "summary": "श्रीमतीको उपचारमा कपिलवस्तु अस्पतालका डाक्टरले लापरबाही गरेका कारण यस्तो समस्या आएको र अनाहकमा श्रीमतीले ज्यान गुमाउनु परेको उनका श्रीमानको आरोप लगाए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/relatives-protest-at-kapilvastu-hospital-alleging-that-a-woman-died-in-childbirth-due-to-doctor-s-negligence-74-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/photos/1785419318_Kapilbastu News-480x320-wm.jpg"
+    },
+    {
+      "title": "मधेस प्रदेश प्रमुख कर्णको भावुक अपिल: अफवाह होइन, सद्भाव र शान्तिको बाटो रोजौं",
+      "summary": "उनले अबदेखि विशुद्ध समाजसेवामा समर्पित र कुनै राजनीतिक दलको सदस्यता नलिएका व्यक्तिका लागि सदस्यता खुला गरिने बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/party-members-banned-from-red-cross-19-57.html?click_from=just_in",
       "image_url": ""
     }
   ]
