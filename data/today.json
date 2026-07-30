@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-30T17:42:11.355904",
+  "scraped_at": "2026-07-30T21:17:38.043973",
   "date": "2026-07-30",
-  "total_articles": 71,
+  "total_articles": 73,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -575,6 +575,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/dhawal-shamsher-s-concern-after-sunsari-incident-demand-from-the-government-to-maintain-peace-and-security-41-72.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Come together, right now",
+      "summary": "The meeting of the Survey Officials’ Committee is scheduled to approve plans and budgets for constructing and repairing boundary pillars among others.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/editorial/2026/07/30/the-entire-nation-needs-to-step-up-to-restore-harmony-in-tarai",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/CrowdofservicerecipientsatthePassportDepartment07-1785425882.jpg&w=400&height=267"
+    },
+    {
+      "title": "अहिले एकआपसमा लड्दा कसैले जित्दैन : सभापति लामिछाने",
+      "summary": "सभापति लामिछानेले सबै राजनीतिक दल र नेताहरूले आफूलाई विश्वास गर्ने तथा आफ्ना कुरा सुन्ने नागरिकसम्म शान्ति, सदभाव र संयमताको सन्देश पुर्‍याउनुपर्ने बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/no-one-wins-if-we-fight-each-other-now-chairman-lamichhane-56-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785432372_Rabi-480x320.jpg"
     }
   ]
 }
