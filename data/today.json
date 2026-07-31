@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-31T06:50:28.117523",
+  "scraped_at": "2026-07-31T10:46:55.475560",
   "date": "2026-07-31",
-  "total_articles": 43,
+  "total_articles": 50,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -350,6 +350,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bagmati-province-road-accidents-most-in-chitwan-fewest-in-ramechhap-br-21-43.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Living with leopards in the Himalayas",
+      "summary": "Conflicts with people are growing as expanded forest land and climate change push the creatures into human settlements. There are solutions to try.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/climate-environment/2026/07/31/living-with-leopards-in-the-himalayas",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/imgi1snowliyopardmanojphoto2221020250825531000x01761195837-1785491097.jpg&w=300&height=200"
+    },
+    {
+      "title": "From brown sugar to pills, Karnali faces a changing addiction problem",
+      "summary": "Sedatives, painkillers and other prescription medicines are being misused as intoxicants, exposing a new challenge for law enforcement and health workers.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/31/from-brown-sugar-to-pills-karnali-faces-a-changing-addiction-problem",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/untitleddesign31720261131131000x0-1785493038.png&w=600&height=400"
+    },
+    {
+      "title": "सुकुमवासी बस्ती हटाउँदा प्रभावित बालबालिकाको शिक्षा प्राप्तिमा कुनै कमी हुन नदिने शिक्षामन्त्रीको प्रतिबद्धता",
+      "summary": "काठमाडौं उपत्यकामा सुकुमवासी बस्ती हटाउँदा प्रभावित भएका बालबालिकाको शिक्षा प्राप्तिमा कुनै कमी हुन नदिने प्रतिबद्धता",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/education-minister-commits-to-not-allowing-any-reduction-in-the-educational-attainment-of-children-affected-by-the-removal-of-squatter-settlements-42-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785494368_New Project-480x320.jpg"
+    },
+    {
+      "title": "सीमा क्षेत्रमा निगरानीदेखि मदिरा पसल बन्द गराउन सांसदहरुको सुझाव",
+      "summary": "आज पनि जब म गाउँ सम्झन्छु, मलाई कुनै मन्दिर वा मस्जिदभन्दा पहिले एउटै धाराको पानी, एउटै आँगनको हाँसो र एउटै परिवारझैँ बाँडिएको जीवन सम्झना आउँछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/blog/my-village-where-hindus-and-muslims-smile-together-31-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785494454_Sadbhav-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय सभा अध्यक्षको अपिल: शान्ति र सामाजिक सद्भाव कायम गरौं",
+      "summary": "सीमा क्षेत्रमा निगरानी कडा गर्नुपर्ने, आवश्यकताअनुसार निषेधाज्ञा जारी गर्नुपर्ने, सुरक्षा जनशक्ति परिचालन बढाउनुपर्ने र मदिरा पसल समयमै बन्द गराउनुपर्ने उनको सुझाव थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mps-suggest-closing-liquor-shops-in-border-areas-starting-with-surveillance-63-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785494055_New Project (16)-480x320.jpg"
+    },
+    {
+      "title": "‘धर्मका नाममा समाजमा हिंसा, घृणा वा विभाजन फैलाउन दिनु हुँदैन’",
+      "summary": "अध्यक्ष दाहालले सुनसरीको देवानगञ्ज गाउँपालिकालगायत क्षेत्रमा भएको हिंसात्मक घटनामा मानवीय क्षति हुनु, सर्वसाधारण र सुरक्षाकर्मी घाइते हुनु तथा सामाजिक तनाव सिर्जना हुनु दुःखद भएको बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/national-assembly-speaker-s-appeal-let-s-maintain-peace-and-social-harmony-11-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775435952_Narayan-480x320.jpg"
+    },
+    {
+      "title": "सामाजिक सद्भाव कायम गर्न सांसदहरूको अपिल",
+      "summary": "काठमाडौं उपत्यकामा सुकुमवासी बस्ती हटाउँदा प्रभावित भएका बालबालिकाको शिक्षा प्राप्तिमा कुनै कमी हुन नदिने प्रतिबद्धता",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/education-minister-commits-to-not-allowing-any-reduction-in-the-educational-attainment-of-children-affected-by-the-removal-of-squatter-settlements-42-42.html?click_from=just_in",
       "image_url": ""
     }
   ]
