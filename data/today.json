@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-31T03:38:19.704237",
+  "scraped_at": "2026-07-31T06:50:28.117523",
   "date": "2026-07-31",
-  "total_articles": 34,
+  "total_articles": 43,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -278,6 +278,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/japan-earthquake-25-cats-rescued-from-damaged-building-49-29.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ाजमार्ग ठप्प ! सडक बन्द हुँदा बिरामीदेखि ढुवानीसम्म संकट",
+      "summary": "ाजमार्ग ठप्प ! सडक बन्द हुँदा बिरामीदेखि ढुवानीसम्म संकट",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13415",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/sadak-aabarudha-1785467549.jpg"
+    },
+    {
+      "title": "Four bodies recovered after avalanche hits Broad Peak, Nirmal Purja among climbers missing",
+      "summary": "Search and rescue teams are continuing efforts on Pakistan’s 8,047-metre mountain after an avalanche struck an international expedition team.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/31/four-bodies-recovered-after-avalanche-hits-broad-peak-nirmal-purja-among-climbers-missing",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/715BroadPeak-1785473145.jpg&w=300&height=200"
+    },
+    {
+      "title": "Extreme heat threatens Nepal’s economy as warming accelerates",
+      "summary": "A new World Bank report warns Nepal is warming faster than most South Asian countries, with heatwaves increasingly hurting workers, straining infrastructure and putting economic growth at risk.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/30/extreme-heat-threatens-nepal-s-economy-as-warming-accelerates",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/cycle-1785421445.jpg&w=600&height=400"
+    },
+    {
+      "title": "The parliament that cannot question its prime minister",
+      "summary": "A new World Bank report warns Nepal is warming faster than most South Asian countries, with heatwaves increasingly hurting workers, straining infrastructure and putting economic growth at risk.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/07/31/the-parliament-that-cannot-question-its-prime-minister",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Your%20paragraph%20text.png&w=400&height=267"
+    },
+    {
+      "title": "धार्मिक सद्भाव, सामाजिक एकता र राष्ट्रिय सहिष्णुता कायम गरौँ : शशांक कोइराला",
+      "summary": "बागमती प्रदेशका १० जिल्लामा एक हजार ९२४ सडक दुर्घटना भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bagmati-province-road-accidents-most-in-chitwan-fewest-in-ramechhap-br-21-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784615247_Accident-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री शाहले सुरु गरे मधेशबाट प्रतिनिधित्व गर्ने विभिन्न राजनीतिक दलका नेतासँग छलफल",
+      "summary": "कुवेतको उत्तरी क्षेत्रमा भएको ड्रोन आक्रमणमा परी एक जना नेपालीको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/diaspora/a-nepali-man-died-in-a-drone-attack-in-kuwait-98-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785479933_New Project (12)-480x320.jpg"
+    },
+    {
+      "title": "एमाले त्यागेर आजपामा लागेका देवाही गोनाहीका नगरप्रमुख र वडाध्यक्ष पदमुक्त",
+      "summary": "धनुषा सबैला नगरपालिका–१२ स्थित मन्दिर परिसरमा मृत अवस्थामा फेला परेको बन्ठु राउत कडेरी पुजारी नभएको पुष्टि भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/body-found-in-dhanusha-temple-premises-is-not-that-of-a-priest-police-63-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1758507394_1628652568_nepal police final2-1200x560-wm (1)-1200x560-480x320.jpg"
+    },
+    {
+      "title": "उद्योग विभागका अधिकांश सेवा ‘अनलाइन’, सेवाग्राहीले कार्यालय धाउन नपर्ने",
+      "summary": "झापाको बुद्धशान्ति गाउँपालिका–६ स्थित सिँचाइका लागि बनाइएको नहरमा डुबेर १० वर्षीय बालकको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/10-year-old-boy-dies-after-drowning-in-canal-br-29-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752159522_gandak nahar-480x320.jpg"
+    },
+    {
+      "title": "लुम्बिनीको मुख्यमन्त्रीमा आचार्यले निरन्तरता पाउने, मन्त्रीहरूको टुंगो लगाउन छलफल सुरु",
+      "summary": "बागमती प्रदेशका १० जिल्लामा एक हजार ९२४ सडक दुर्घटना भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bagmati-province-road-accidents-most-in-chitwan-fewest-in-ramechhap-br-21-43.html?click_from=just_in",
       "image_url": ""
     }
   ]
