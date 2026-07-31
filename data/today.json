@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-31T14:25:01.991504",
+  "scraped_at": "2026-07-31T17:46:19.007569",
   "date": "2026-07-31",
-  "total_articles": 57,
+  "total_articles": 60,
   "sources": [
     "NagarikNews",
     "News24",
@@ -463,6 +463,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/rohit-said-after-coming-to-nepal-the-bowling-was-good-we-didn-t-do-well-in-batting-and-fielding-12-77.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "India’s sugar export ban fuels smuggling ahead of peak festival season",
+      "summary": "Armed Police Force seized 10 tonnes of smuggled sugar in a month, more than double the quantity confiscated a month earlier.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/07/31/india-s-sugar-export-ban-fuels-smuggling-ahead-of-peak-festival-season",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1785506179.jpg&w=300&height=200"
+    },
+    {
+      "title": "संवाद र समन्वयले तराई–मधेसमा तनाव मत्थर हुँदै",
+      "summary": "नवनियुक्त प्रमुख निर्वाचन आयुक्त मानवबहादुर कार्की तथा आयुक्तद्वय गुरुप्रसाद वाग्ले र डा राजीव सुब्बाले आज निर्वाचन आयोगमा पदबहाली गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/newly-appointed-chief-election-commissioner-and-commissioners-assume-office-48-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785515278_Election-480x320.jpg"
+    },
+    {
+      "title": "तराई-मधेशको समस्याबारे प्रधानमन्त्री शाह : प्रदेशको अधिकार र संघीयता मजबुत बनाउन सरकार प्रतिबद्ध",
+      "summary": "नेपालका शेखर थापाले ११औं एसियाली आइटिएफ तेक्वान्दो च्याम्पियनसिपमा प्रतिस्पर्धा गर्ने भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/praveen-and-shekhar-at-the-asian-itf-taekwondo-championship-47-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785514855_Game-480x320.jpg"
     }
   ]
 }
