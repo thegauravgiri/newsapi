@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-31T10:46:55.475560",
+  "scraped_at": "2026-07-31T14:25:01.991504",
   "date": "2026-07-31",
-  "total_articles": 50,
+  "total_articles": 57,
   "sources": [
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -406,6 +406,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/education-minister-commits-to-not-allowing-any-reduction-in-the-educational-attainment-of-children-affected-by-the-removal-of-squatter-settlements-42-42.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Broad Peak Avalanche: What we know so far about Nirmal “Nimsdai” Purja and the missing climbers in Pakistan",
+      "summary": "An international climbing team was hit by an avalanche on the 8,047-metre peak on Thursday. Here is what we know about the missing climbers, rescue efforts and the challenges facing search teams.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/31/broad-peak-avalanche-what-we-know-so-far-about-nirmal-nimsdai-purja-and-the-missing-climbers-in-pakistan",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Your%20paragraph%20text.png&w=300&height=200"
+    },
+    {
+      "title": "Curfew reimposed in Birgunj as tensions persist",
+      "summary": "Authorities have banned assemblies of more than five people, rallies, demonstrations and other public gatherings within designated areas until Saturday morning.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/31/curfew-reimposed-in-birgunj-as-tensions-persist",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/birgunjnaka126720260215041000x0-1785500167.jpg&w=300&height=200"
+    },
+    {
+      "title": "देशको समृद्धिमा एनआरएन विज्ञको भूमिका महत्वपूर्ण : राष्ट्रपति पौडेल",
+      "summary": "कप्तान पौडेलले अब ओमानमा हुने अन्तिम शृङ्खलामा राम्रो प्रदर्शन गर्दै एकदिवसीय अन्तर्राष्ट्रिय (ओडीआई) मान्यता जोगाउनु नै टोलीको प्रमुख लक्ष्य रहेको बताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/rohit-said-after-coming-to-nepal-the-bowling-was-good-we-didn-t-do-well-in-batting-and-fielding-12-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785507329_Rohit-480x320.jpg"
+    },
+    {
+      "title": "तराई-मधेश घटनाबारे उच्चस्तरीय छानबिन आयोग गठन गर्न नेकपाको माग",
+      "summary": "इलाका प्रहरी कार्यालय सिजुवा र सशस्त्र प्रहरी बल नेपाल सीमा सुरक्षा गुल्म चुनीबारीको संयुक्त टोलीले एक हजार ३३ केजी गाँजा बरामद गरेको मोरङ प्रहरी प्रमुख एसपी कवित कटवालले जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/over-one-metric-ton-of-marijuana-hidden-in-rice-husks-seized-19-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785505890_Ganja-480x320.jpg"
+    },
+    {
+      "title": "गण्डकीमा प्रदेश प्रमुखबाट फिर्ता गाँजा विधेयक हुबहु पारित",
+      "summary": "नेपाली पर्वतारोही निर्मल पुर्जा (निम्स दाइ) को अवस्थाबारे हालसम्म कुनै आधिकारिक जानकारी प्राप्त भएको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/broad-peak-avalanche-condition-of-6-people-including-climber-burja-still-unknown-search-operation-postponed-until-tomorrow-morning-93-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785482300_Nirmal Purja (1)-480x320.jpg"
+    },
+    {
+      "title": "संसदीय समितिलाई समयबद्ध र परिणाममुखी बनाउन सभामुख अर्यालको निर्देशन",
+      "summary": "सरकार र पीडित पक्षबिच शुक्रबार बिहान सात बुँदे सहमति भएपछि मृतक ओमप्रकाश मेहता र जयप्रकाश मेहताको शव विराटनगरको कोशी अस्पतालमा पोस्टमार्टम गरी आफन्तलाई जिम्मा लगाइएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/dewanganj-incident-relatives-of-deceased-recover-body-after-6-days-cremation-to-be-held-today-95-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785504952_Death Body-480x320.jpg"
+    },
+    {
+      "title": "अर्थ मन्त्रालयमा लघुवित्तपीडितसँग वार्ता",
+      "summary": "कप्तान पौडेलले अब ओमानमा हुने अन्तिम शृङ्खलामा राम्रो प्रदर्शन गर्दै एकदिवसीय अन्तर्राष्ट्रिय (ओडीआई) मान्यता जोगाउनु नै टोलीको प्रमुख लक्ष्य रहेको बताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/rohit-said-after-coming-to-nepal-the-bowling-was-good-we-didn-t-do-well-in-batting-and-fielding-12-77.html?click_from=just_in",
       "image_url": ""
     }
   ]
