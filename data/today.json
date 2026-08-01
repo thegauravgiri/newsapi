@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-01T10:05:49.362902",
+  "scraped_at": "2026-08-01T13:43:45.885254",
   "date": "2026-08-01",
-  "total_articles": 46,
+  "total_articles": 54,
   "sources": [
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -374,6 +374,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/broad-peak-avalanche-eight-bodies-found-search-underway-for-two-including-nirmal-purja-67-72.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Why Nepal’s communal tensions keep returning",
+      "summary": "Nepal’s latest communal violence did not emerge overnight. A familiar mix of provocation, online misinformation, political neglect, and heavy-handed policing has turned isolated disputes into recurring flashpoints across the Madhesh.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/opinion/2026/08/01/why-nepal-s-communal-tensions-keep-returning",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/SubinRajkarnikar1-1785578361.jpg&w=300&height=200"
+    },
+    {
+      "title": "Dissident Congress faction forms organising committee for national gathering",
+      "summary": "Shashank Koirala will coordinate the 521-member committee as the faction prepares for an August 14 gathering, with leaders warning that failure to reach a unity deal could lead to the launch of a new political party.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/08/01/dissident-congress-faction-forms-organising-committee-for-national-gathering",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/shashankhakoirala06720261058511000x0-1785577977.jpg&w=300&height=200"
+    },
+    {
+      "title": "Broad Peak Avalanche: What we know so far about Nirmal “Nimsdai” Purja and the missing climbers in Pakistan",
+      "summary": "An international climbing team was hit by an avalanche on the 8,047-metre peak on Thursday. Here is what we know about the missing climbers, rescue efforts and the challenges facing search teams.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/31/broad-peak-avalanche-what-we-know-so-far-about-nirmal-nimsdai-purja-and-the-missing-climbers-in-pakistan",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Your%20paragraph%20text.png&w=300&height=200"
+    },
+    {
+      "title": "सहकारी ठगीका मुद्दा हेर्न समर्पित इजलास गठन गर्न अनुरोध",
+      "summary": "भूमि व्यवस्था, सहकारी, संघीय मामिला तथा सामान्य प्रशासन मन्त्रालयले सहकारी ठगीसम्बन्धी मुद्दाको छिटो र छरितो ढंगले न्याय निरूपण गर्नका लागि सहकारी कसुर हेर्ने ‘समर्पित इजलास’ गठन गर्न भन्दै सर्वोच्च अदालतका प्रधानन्यायाधीशलाई प्रतिवेदन पेस गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/request-to-form-a-dedicated-bench-to-look-into-cooperative-fraud-cases-87-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785591265_Pratibha-480x320.jpg"
+    },
+    {
+      "title": "सामाजिक सद्भाव र धार्मिक सहिष्णुता कायम राख्न सुदूरपश्चिम प्रदेश सरकारको अपिल",
+      "summary": "वन्यजन्तुको आक्रमणबाट हुने क्षतिभन्दा पनि त्यसपछि राहत पाउनुपर्ने जटिल प्रक्रिया, प्रमाण जुटाउने झन्झट र प्रशासनिक सास्ती उनीहरूका लागि अझ ठूलो समस्या बनेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/human-wildlife-conflict-much-suffering-little-evidence-95-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785581087_Tiger Men-480x320.jpg"
+    },
+    {
+      "title": "सहमति नजुटेपछि वार्ताकै बीच खाजा खान निस्किए गृहमन्त्री",
+      "summary": "निधन हुनुअघि उनी संसारका सबै १४ वटा ८ हजार मिटरभन्दा अग्ला हिमालहरू पूरै दुई पटक र त्यो पनि कृत्रिम अक्सिजनबिना सफलतापूर्वक चढ्ने इतिहासकै पहिलो व्यक्ति बन्ने यात्रामा थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-world-mourns-the-death-of-record-breaking-mountaineer-nimsdai-bear-grylls-and-reinhold-messner-shocked-76-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785589007_Purja Death Bear-480x320.jpg"
+    },
+    {
+      "title": "‘ तिम्रो विरासतले पुस्तौंसम्म आरोहीहरूलाई प्रेरित गरिरहनेछ ’ : गगन थापा",
+      "summary": "सामाजिक सञ्जालमा अफवाह, घृणायुक्त अभिव्यक्ति वा भ्रामक सामग्री पोस्ट वा साझा गरेर समाजमा वैमनस्य फैलाउने कार्य नगर्न पनि अनुरोध गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/far-western-province-government-appeals-to-maintain-social-harmony-and-religious-tolerance-br-26-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785588224_sudurpaschim--480x320.jpg"
+    },
+    {
+      "title": "पर्वतारोही निर्मल पुर्जाको योगदानले पुस्ताौंसम्म प्रेरणा दिइरहने सभापति थापाको विश्वास",
+      "summary": "भूमि व्यवस्था, सहकारी, संघीय मामिला तथा सामान्य प्रशासन मन्त्रालयले सहकारी ठगीसम्बन्धी मुद्दाको छिटो र छरितो ढंगले न्याय निरूपण गर्नका लागि सहकारी कसुर हेर्ने ‘समर्पित इजलास’ गठन गर्न भन्दै सर्वोच्च अदालतका प्रधानन्यायाधीशलाई प्रतिवेदन पेस गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/request-to-form-a-dedicated-bench-to-look-into-cooperative-fraud-cases-87-80.html?click_from=just_in",
       "image_url": ""
     }
   ]
