@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-08-01T03:37:54.479821",
+  "scraped_at": "2026-08-01T06:35:58.785956",
   "date": "2026-08-01",
-  "total_articles": 34,
+  "total_articles": 38,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -279,6 +279,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/madhesh-returning-to-normal-life-in-siraha-janakpur-and-birgunj-is-returning-to-normal-after-a-7-point-agreement-between-the-home-minister-and-the-victims-38-96.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "सहकारी ठगीका मुद्दा छिटो टुंग्याउन मन्त्री रावलले प्रधानन्यायाधीशलाई बुझाइन् प्रतिवेदन",
+      "summary": "प्रतिकूल मौसमका कारण शुक्रबार साँझ स्थगित भएको खोजी तथा उद्धार कार्य मौसममा सुधार आएसँगै आज बिहानैबाट पुनः सुचारु भएको अधिकारीहरूले जानकारी दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/broad-peak-avalanche-search-and-rescue-operation-resumes-for-6-including-nirmal-purja-22-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785565668_nims-480x320.jpg"
+    },
+    {
+      "title": "धार्मिक तथा साम्प्रदायिक सद्भाव कायम गर्न योगदान पुर्‍याउने सबैप्रति धन्यवाद : शंकर पोखरेल",
+      "summary": "२०८३ साउन ६ गते ‘चक्रप्रसाद बाँस्तोला:बौद्धिकता र विद्रोह’ वार्तालाप पुस्तक प्रथम राष्ट्रपति डा. रामवरण यादवको प्रमुख आतिथ्यमा विमोचन भयो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/the-nation-has-yet-to-be-formed-13-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785565662_hiu hiu 98-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाले अन्तर्राष्ट्रिय युवा दिवस मनाउने",
+      "summary": "पछिल्लो २४ घण्टामा देशका विभिन्न स्थानमा भएका सवारी दुर्घटनामा तीन जनाको मृत्यु भएको छ भने ६२ जना घाइते भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/3-killed-in-road-accident-br-71-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784615247_Accident-480x320.jpg"
+    },
+    {
+      "title": "'भदौ २४ को टीओबी प्रायोजित आमहिंसाका अतिवादी जरा नष्ट नगरेसम्म देश अराजक अस्थिरबाट तङरिनै सक्दैन'",
+      "summary": "कार्यदलले बुझाएको प्रतिवेदनको सिफारिस अनुसार मन्त्रालयले समर्पित इजलास गठन गरिदिन सर्वोच्च अदालतमा अनुरोध गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/minister-rawal-submits-report-to-chief-justice-to-expedite-resolution-of-cooperative-fraud-cases-46-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785564318_pratibha-480x320.jpg"
     }
   ]
 }
