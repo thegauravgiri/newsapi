@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-08-01T13:43:45.885254",
+  "scraped_at": "2026-08-01T17:07:58.708909",
   "date": "2026-08-01",
-  "total_articles": 54,
+  "total_articles": 61,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -439,6 +439,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/request-to-form-a-dedicated-bench-to-look-into-cooperative-fraud-cases-87-80.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Nirmal Purja, who redrew the limits of human endurance and reshaped Nepali mountaineering, dies in Broad Peak avalanche",
+      "summary": "The former British special forces soldier climbed all 14 of the world’s 8,000-metre peaks in six months, becoming one of the most celebrated — and polarising — figures in modern mountaineering.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/07/31/nirmal-purja-who-redrew-the-limits-of-human-endurance-and-reshaped-nepali-mountaineering-xxx-in-broad-peak-avalanche",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1785503010.jpg&w=300&height=200"
+    },
+    {
+      "title": "US makes visa bond scheme permanent for Nepalis, others",
+      "summary": "Maximum bond raised to $20,000 for certain B1/B2 applicants",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/01/us-makes-visa-bond-scheme-permanent-for-nepalis-others",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/thumb-1785595354.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal’s SAFF Championship hopes hinge on FIFA lifting ANFA suspension",
+      "summary": "Drawn in Group A with hosts Bangladesh, Sri Lanka and Bhutan, Nepal face exclusion if the ban remains beyond September 13.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/08/01/nepal-s-saff-championship-hopes-hinge-on-fifa-lifting-anfa-suspension",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/75938417410262077201680186162153753748878970n-1785593663.jpg&w=600&height=400"
+    },
+    {
+      "title": "गृहमन्त्री गुरुङ र संयुक्त हिन्दु मोर्चाबिच १३ बुँदे सम्झौता (पत्रसहित)",
+      "summary": "हिन्दु राष्ट्र कायम गर्न तीन महिनाभित्र सर्वदलीय बैठकमार्फत प्रक्रिया अगाडि बढाउने सम्झौता भएको छ। आन्दोलनरत संयुक्त हिन्दु मोर्चाले आजैदेखि आन्दोलन स्थगित गर्ने सम्झौता गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/13-point-agreement-between-home-minister-gurung-and-united-hindu-front-with-letter-67-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785602129_Sudan-480x320.jpg"
+    },
+    {
+      "title": "स्थानीय तहमा कानुन निर्माण कमजोर, प्रशासकीय अधिकृत सरुवाले समस्या",
+      "summary": "दीपमाला ढकालले मिस नेपाल २०२६ को उपाधि जितेकी छन्।२३ जना प्रतिस्पर्धीलाई पछि पार्दै ढकालले मिस नेपाल २०२६ को ताज पहिरिएकी हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/deepmala-dhakal-wins-miss-nepal-2026-crown-32-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785600193_mISS-NEPAL-480x320.jpg"
+    },
+    {
+      "title": "सरकार–हिन्दुवादी पक्षको वार्ता जारी: १५ बुँदे मागसहित गृहमन्त्री गुरुङलाई दवाव",
+      "summary": "राष्ट्रिय सभा अन्तर्गतको विधायन व्यवस्थापन समितिले नेपालमा ऐन कार्यान्वयनको मापन, यसको महत्त्व, अभ्यास, चुनौती र आगामी बाटोबारे अभिमुखीकरण कार्यक्रम सम्बन्धी छलफल गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/lawmaking-at-local-level-weak-transfer-of-administrative-officers-a-problem-56-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785599057_rastriyasabha-480x320.jpg"
+    },
+    {
+      "title": "सुनसरी–सिरहापछि मधेसमा शान्ति पहल",
+      "summary": "पर्साका प्रमुख जिल्ला अधिकारी (सिडिओ) भोला दाहालका अनुसार साउन १४ गते बिहीबार साँझ ५ः०० देखि बिहान ६ः०० बजेसम्म लागू हुँदै आएको निषेधाज्ञा आजदेखि हटाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/prohibitory-order-lifted-in-birgunj-life-returning-to-normal-72-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785598618_Birjung-480x320.jpg"
     }
   ]
 }
