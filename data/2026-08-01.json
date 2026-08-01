@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-08-01T06:35:58.785956",
+  "scraped_at": "2026-08-01T10:05:49.362902",
   "date": "2026-08-01",
-  "total_articles": 37,
+  "total_articles": 45,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -303,6 +303,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/minister-rawal-submits-report-to-chief-justice-to-expedite-resolution-of-cooperative-fraud-cases-46-57.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785564318_pratibha-480x320.jpg"
+    },
+    {
+      "title": "Nepse drops 1.79 percent on cautious trading",
+      "summary": "Market loses Rs80 billion in capitalisation as investors hold back amid uncertainty.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/08/01/nepse-drops-1-79-percent-on-cautious-trading",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Nepsebarchart-1785565992.jpg&w=300&height=200"
+    },
+    {
+      "title": "Source code theft emerges as a growing threat to Nepal’s software industry",
+      "summary": "Companies say former employees and insiders are walking away with proprietary code and turning it into rival products. Legal remedies remain slow, limited, and companies often suffer heavy losses before cases are resolved.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/science-technology/2026/08/01/source-code-theft-emerges-as-a-growing-threat-to-nepal-s-software-industry",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Sourcecode-1785548168.jpg&w=300&height=200"
+    },
+    {
+      "title": "Curfews lifted in parts of Madhesh as tensions ease",
+      "summary": "Janakpur and Lahan restrictions removed after security review, while limits on gatherings remain in sensitive areas.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/01/curfews-lifted-in-parts-of-madhesh-as-tensions-ease",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/janakpurshantirally01820260655351000x0-1785568430.jpg&w=600&height=400"
+    },
+    {
+      "title": "डा शशांकले भने: शेखर दाइ कार्यव्यस्तताले नआउनुभएको हो, उहाँको समर्थन छ",
+      "summary": "ब्रोड पिक बेस क्याम्पबाट बाहिर आएका रिपोर्टहरूले हिमपहिरोमा परेका सबै पर्वतारोहीको मृत्यु भएको हुन सक्ने आशंका व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/broad-peak-avalanche-eight-bodies-found-search-underway-for-two-including-nirmal-purja-67-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785578185_Nirmal Purja-480x320.jpg"
+    },
+    {
+      "title": "गृहमन्त्री गुरुङ जनकपुरमा",
+      "summary": "शशांकले भने, \"शेखर दाइसँग मैले पटक–पटक अनुरोध गरेँ। उहाँले व्यस्तताका कारण आउन नसक्ने बताउनुभयो। 'मेरो सहमति त छँदै छ, समाचारमार्फत पनि मेरो समर्थन रहेको जानकारी दिनुहोस्। आउन नसकेकोमा क्षमा चाहन्छु,' भनेर उहाँले भन्नुभएको छ।\"",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/dr-shashank-said-shekhar-dai-did-not-come-due-to-work-commitments-he-has-support-80-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785577889_Shekhar_Shashanka-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस संस्थापन इतर पक्षको राष्ट्रिय भेला : ५ सय ५१ सदस्यीय आयोजक समिति",
+      "summary": "सेवाग्राहीको बढ्दो चापलाई व्यवस्थापन गर्न राहदानी विभागले दुई ‘सिफ्ट’ का साथै बिदाका दिन पनि सेवा सञ्चालन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/passport-service-to-operate-even-on-holidays-to-manage-pressure-br-56-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779276191_passport-480x320.jpg"
+    },
+    {
+      "title": "करुणा र सहानुभूति भएन भने असल नेता बन्न सकिँदैन : गगन थापा",
+      "summary": "जिल्लाका विभिन्न स्थानीय तहमा कोदो खेती गर्दै आएका १० जना किसानलाई जिल्ला कृषि विकास कार्यालय सिन्धुलीले सम्मान गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/10-farmers-honored-for-promoting-millet-cultivation-br-80-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785576218_kodo 16-480x320.jpg"
+    },
+    {
+      "title": "जिम्मेवारी लिने संस्कार छैन, नेपाल ‘बहुसंकट’ को अवस्थामा छ : राजनीतिक विश्लेषक खनाल",
+      "summary": "ब्रोड पिक बेस क्याम्पबाट बाहिर आएका रिपोर्टहरूले हिमपहिरोमा परेका सबै पर्वतारोहीको मृत्यु भएको हुन सक्ने आशंका व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/broad-peak-avalanche-eight-bodies-found-search-underway-for-two-including-nirmal-purja-67-72.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
