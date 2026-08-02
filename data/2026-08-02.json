@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-02T06:39:24.947300",
+  "scraped_at": "2026-08-02T10:04:07.638028",
   "date": "2026-08-02",
-  "total_articles": 40,
+  "total_articles": 48,
   "sources": [
-    "KathmanduPost",
     "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -327,6 +327,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/saff-champion-match-schedule-released-36-41.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785650297_saff-480x320.jpg"
+    },
+    {
+      "title": "कायमम गर्न सुरक्षा निकायको आफ्नै योजना",
+      "summary": "कायमम गर्न सुरक्षा निकायको आफ्नै योजना",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13430",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/suraksha-1785643205.jpg"
+    },
+    {
+      "title": "Past incidents show political, social engagements quell communal strife in Nepal’s plains",
+      "summary": "Starting with Dewanganj violence, the cost of delayed coordination was measured not only in lives lost but also in growing mistrust between communities and the widening of unrest beyond the violent incident.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/02/past-incidents-show-political-social-engagements-quell-communal-strife-in-nepal-s-plains",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1785656910.jpg&w=300&height=200"
+    },
+    {
+      "title": "Rescue teams yet to reach Broad Peak bodies spotted by drone",
+      "summary": "Search operations continue for climbers caught in Thursday’s avalanche as rescuers navigate a high-risk area on Pakistan’s 8,051-metre peak.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/08/02/rescue-teams-yet-to-reach-broad-peak-bodies-spotted-by-drone",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/DronepicturesofbodiescaughtinBroadPeakavalanche-1785651222.jpg&w=300&height=200"
+    },
+    {
+      "title": "पार्टी निर्माणदेखि किसान आन्दोलनसम्म तुलसीलालले खेलेको भूमिकाको चर्चा",
+      "summary": "पाकिस्तानको हिमालमा भएको पुर्जाको निधनलाई अकल्पनीय रहेको बताउँदै उनले उक्त घटनालाई कहिल्यै हुन नपर्ने घटनाका रुपमा उल्लेख गरेकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/sharing-a-picture-with-nirmal-purja-sonam-kapoor-wrote-dear-nims-brother-heartfelt-condolences-34-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785664798_Nims Dai_Sonam Kapoor-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको केन्द्रीय कार्यसमिति बैठक साउन २४ गते",
+      "summary": "पूर्वराष्ट्रपति भण्डारीले तुलसीलाल अमात्यले आफ्नो सम्पूर्ण जीवन विचार, सिद्धान्त र जनताको सेवामा समर्पित गरेको बताइन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/discussion-on-the-role-played-by-tulsi-lal-from-party-formation-to-the-farmer-s-movement-66-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1779107117_Bidhya-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसमा ‘एकता अभियान’ सुरु, शीर्ष नेतृत्वलाई मतभेद अन्त्य गर्न युवा नेताहरूको दबाब",
+      "summary": "अन्नपूर्ण क्षेत्रको पदयात्रामा कुनैबेला यूरोपियन र अमेरिकी पाहुनाको बाहुल्यता रहन्थ्यो। लामो समय लगाएर अमेरिकी र यूरोपियन पदयात्रीले पदयात्रा पुरा गर्दथे। पर्याप्त समय लिएर पदयात्रामा जाने ती पर्यटकको संख्या पछिल्लो समय कमजोर हुँदै गएको छ। पदमार्गमा मोटरबाटो बिस्तार भएसँगै यूरोपियन र अमेरिकी पाहुनाको आकार खस्केको व्यावसायीले बताउँदै आएका छन्। यूरोपियन र अमेरिकी पाहुनाको आकार कमजोर हुँदै गर्दा अन्नपूर्ण क्षेत्रले पछिल्लो समय भारतीय र बंगलादेशी पाहुनालाई भने आकर्षण गर्न सकेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/annapurna-region-trekking-indians-and-bangladeshis-new-guests-65-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1785155198_ABC 7-480x320.jpg"
+    },
+    {
+      "title": "इतिहास र विचार माथि आक्रमण गर्नु लोकतन्त्र विपरित हो : माधव नेपाल",
+      "summary": "एसीपीले निम्स दाइको शव ब्रड पिकको करिब ५,७०० मिटर उचाइमा फेला परेको जनाएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nirmal-purja-s-body-found-in-broad-peak-19-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785664267_nirmal purja nimsdai-480x320.jpg"
+    },
+    {
+      "title": "एमाले विवादले कोशीमा सरकार परिवर्तनको सकस",
+      "summary": "पाकिस्तानको हिमालमा भएको पुर्जाको निधनलाई अकल्पनीय रहेको बताउँदै उनले उक्त घटनालाई कहिल्यै हुन नपर्ने घटनाका रुपमा उल्लेख गरेकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/sharing-a-picture-with-nirmal-purja-sonam-kapoor-wrote-dear-nims-brother-heartfelt-condolences-34-51.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
