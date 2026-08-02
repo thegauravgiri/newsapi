@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-08-02T13:43:47.733236",
+  "scraped_at": "2026-08-02T17:08:29.879570",
   "date": "2026-08-02",
-  "total_articles": 56,
+  "total_articles": 60,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -455,6 +455,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/30-mechanics-including-22-from-gandaki-are-leaving-for-china-to-participate-in-the-shanghai-auto-expo-11-98.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Ignored safety rules drive up deadly accidents in Phewa Lake",
+      "summary": "The craze for stand-up paddleboards has brought thrill to Pokhara’s iconic lake, but weak oversight and poor compliance are putting lives at risk.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/gandaki-province/2026/08/02/ignored-safety-rules-drive-up-deadly-accidents-in-phewa-lake",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/fewa1-1785685779.jpg&w=300&height=200"
+    },
+    {
+      "title": "Paddy transplantation races ahead as monsoon rains revive",
+      "summary": "Transplantation rate has reached 92.57 percent of Nepal’s paddy fields, up from 83.93 percent a year ago. But yields will still depend on rainfall in the coming weeks.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/08/02/paddy-transplantation-races-ahead-as-monsoon-rains-revive",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/chitwanmaRopainMaMachine2-1785670701.jpg&w=300&height=200"
+    },
+    {
+      "title": "गृहमन्त्री सुधन गुरुङले सुनसरी र मधेसमा बिताएका चार दिन",
+      "summary": "प्रशासनले आन्दोलनरत पक्षले आफ्ना सबै आन्दोलनका कार्यक्रम फिर्ता लिएको, जिल्लाको सुरक्षा अवस्था सामान्य बन्दै गएको तथा जनजीवन क्रमशः सामान्यीकरणतर्फउन्मुख भएको जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/prohibition-lifted-in-dhanusha-life-returning-to-normal-16-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785686970_Dhanusha-480x320.jpg"
+    },
+    {
+      "title": "पोखरालाई अन्तर्राष्ट्रिय पर्यटन गन्तव्य बनाउने सरकारको योजना",
+      "summary": "विभागका प्रमुख सन्देश वाग्लेका अनुसार भरतपुर महानगरपालिकाका बासिन्दा श्रम स्वीकृति लिएर गएकाहरुको विदेशमा निधनपछि निःशुल्क शव नेपाल ल्याइएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bodies-of-13-people-who-lost-their-lives-abroad-in-a-year-brought-back-to-nepal-93-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767236945_1756729847_death-1200x560-480x320.jpg"
     }
   ]
 }
