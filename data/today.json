@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-02T03:37:55.218449",
+  "scraped_at": "2026-08-02T06:39:24.947300",
   "date": "2026-08-02",
-  "total_articles": 34,
+  "total_articles": 41,
   "sources": [
     "KathmanduPost",
     "News24",
@@ -279,6 +279,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/kulman-doubts-that-balendra-s-government-will-last-for-five-years-says-ujjaya-nepal-party-will-lead-the-country-after-the-elections-57-39.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "पुर्जासहित सबै आरोहीको निधन, कस्ता थिए कीर्तिमानी ?",
+      "summary": "पुर्जासहित सबै आरोहीको निधन, कस्ता थिए कीर्तिमानी ?",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13429",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Nirmal-purja-1785642938.jpg"
+    },
+    {
+      "title": "लाई झन कडा ! २० हजार डलरको तगारो",
+      "summary": "लाई झन कडा ! २० हजार डलरको तगारो",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13427",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/US-1785642431.jpg"
+    },
+    {
+      "title": "ा रोजगारीमा सिण्डिकेटविरूद्द लोकतान्त्रिक एसोसियसन",
+      "summary": "ा रोजगारीमा सिण्डिकेटविरूद्द लोकतान्त्रिक एसोसियसन",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13425",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/la-la-1785553732.jpg"
+    },
+    {
+      "title": "Home Minister Gurung stays in Tarai as tensions ease",
+      "summary": "The home minister’s direct intervention marks a shift from curfews and security deployments to negotiations with victims’ families and local groups.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/08/02/home-minister-gurung-stays-in-tarai-as-tensions-ease",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/copy-1785634777.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepali political solidarity visible in times of crisis",
+      "summary": "From the 12-point understanding to the recent communal tensions, Nepal’s political parties have repeatedly put aside deep political differences to confront national crises together.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/08/02/nepali-political-solidarity-visible-in-times-of-crisis",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/LamichhaneOfficialRSS13b31copy-1785634521.jpg&w=600&height=400"
+    },
+    {
+      "title": "अहिले संविधानमा संशोधन गर्ने उचित समय होइन : महासचिव पोखरेल",
+      "summary": "युद्ध अन्त्य गर्ने सम्भावित सम्झौतामा हमासले सहमति जनाएको दाबी गरे पनि गाजामा इजरायली आक्रमण जारी रहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/israeli-overnight-attack-on-gaza-kills-eight-54-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771220810_1751164893_gaja-1200x560-480x320.jpg"
+    },
+    {
+      "title": "'निम्स दाई'सहित ६ पर्वतारोहीप्रति एमालेको श्रद्धाञ्जली : समग्र राष्ट्रले अमूल्य राष्ट्रिय धरोहर गुमायो",
+      "summary": "आगामी नोभेम्बरमा बङ्गलादेशमा हुने साफ च्याम्पियनको खेल तालिका सार्वजनिक भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/saff-champion-match-schedule-released-36-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785650297_saff-480x320.jpg"
     }
   ]
 }
