@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-02T10:04:07.638028",
+  "scraped_at": "2026-08-02T13:43:47.733236",
   "date": "2026-08-02",
-  "total_articles": 49,
+  "total_articles": 56,
   "sources": [
-    "News24",
+    "KathmanduPost",
     "NagarikNews",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -398,6 +398,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/sharing-a-picture-with-nirmal-purja-sonam-kapoor-wrote-dear-nims-brother-heartfelt-condolences-34-51.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal stands out in South Asia for reducing teen pregnancy",
+      "summary": "New study says Nepal reduced adolescent pregnancy and childbirth by 35 percent over the past two decades and outpaced many low- and lower middle income countries, including India.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/08/02/nepal-stands-out-in-south-asia-for-reducing-teen-pregnancy",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/thumb-1785676661.jpg&w=300&height=200"
+    },
+    {
+      "title": "Did the home minister agree to discuss restoring a Hindu state?",
+      "summary": "A rumoured agreement with Hindu groups in Dhanusha sparked controversy, but officials say the government only received their demands and no such deal was reached.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/02/did-the-home-minister-agree-to-discuss-restoring-a-hindu-state",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/sudhangurung16720260405351000x0-1785660193.jpg&w=300&height=200"
+    },
+    {
+      "title": "डिजिटल अर्थतन्त्रमा निजी क्षेत्रसँग सहकार्य गर्न सरकारलाई गगन थापाको आग्रह",
+      "summary": "८० देशका प्रतिनिधि सहभागी हुने उक्त एक्स्पोमा १ हजार ७ सय ८५ वटा अटो कम्पनी सहभागी हुने दाबी गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/30-mechanics-including-22-from-gandaki-are-leaving-for-china-to-participate-in-the-shanghai-auto-expo-11-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785677737_Bidai PIC-480x320.jpg"
+    },
+    {
+      "title": "धार्मिक समूहसँग सरकारको वार्ता नाटक भन्दै वार्ताकारको परिचय खुलाउन एमाले सचिव बस्नेतको सुझाव",
+      "summary": "आइतबार इन्डोनेसियाली समुद्रमा डुङ्गामा आगो लाग्दा दर्जनौँ व्यक्तिको हताहत कम्तीमा पाँच जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/five-dead-41-missing-in-boat-fire-in-indonesia-83-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785677218_New Project (4)-480x320.jpg"
+    },
+    {
+      "title": "पार्टीका कार्यकर्ता हिन्दूवादी अभियन्ता हुनसक्छन् : मनिष झा",
+      "summary": "नेपालको नाम खेल तालिकामा नदेखेपछि राष्ट्रिय फुटबल टोलीका कप्तान किरण चेम्जोङले दुःख व्यक्त गर्दै नेपालको नाम नदेख्दा मन खिन्न भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/players-concerned-after-nepal-not-included-in-saff-championship-draw-urge-immediate-resolution-of-dispute-90-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785677190_Nepali Football (2)-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय एकता र सामाजिक सद्भाव जोगाऔँ : पूर्वराष्ट्रपति भण्डारी",
+      "summary": "मन्त्रालयले जारी गरेको विज्ञप्तिमा अन्य आरोहीलाई नेपाली भनिए पनि निर्मल पुर्जाको हकमा भने ‘नेपाली’ शब्द प्रयोग गरिएको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-ministry-of-foreign-affairs-called-nirmal-purja-a-famous-climber-not-a-nepali-74-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785677035_Purja FM-480x320.jpg"
+    },
+    {
+      "title": "धार्मिक पहिचानको नाममा समाजलाई विभाजित गर्न खोजियो : दुर्गा प्रसाईँ",
+      "summary": "८० देशका प्रतिनिधि सहभागी हुने उक्त एक्स्पोमा १ हजार ७ सय ८५ वटा अटो कम्पनी सहभागी हुने दाबी गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/30-mechanics-including-22-from-gandaki-are-leaving-for-china-to-participate-in-the-shanghai-auto-expo-11-98.html?click_from=just_in",
       "image_url": ""
     }
   ]
