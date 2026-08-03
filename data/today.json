@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-08-03T14:56:28.682797",
+  "scraped_at": "2026-08-03T17:58:15.071137",
   "date": "2026-08-03",
-  "total_articles": 60,
+  "total_articles": 65,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -487,6 +487,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/raiding-homes-and-workplaces-of-entrepreneurs-is-not-a-good-idea-former-finance-minister-khanal-93-72.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Nepal raises dismantling of Susta earthen barrier with New Delhi",
+      "summary": "Nepal’s Delhi embassy says villagers built the temporary embankment as a last resort against flooding.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/03/nepal-raises-dismantling-of-susta-earthen-barrier-with-new-delhi",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1785772130.jpg&w=300&height=200"
+    },
+    {
+      "title": "एकले अर्कालाई सत्रुको व्यवहार गर्दा बामपन्थी मतदाता टाढिएक: शंकर पोखरेल",
+      "summary": "जुम्ली स्याउको पहिचान आफ्नै प्रकारको छ। यहाँको स्याउ निकै स्वादिलो मानिन्छ। २०६४ मा औपचारिक रूपमा अर्ग्यानिक जिल्लाका रूपमा घोषणा भएपछि अझ स्याउको महत्त्व बढेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/five-point-decision-to-stop-raw-apples-28-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785775763_Jumla-480x320.jpg"
+    },
+    {
+      "title": "प्रचण्ड भन्छन्: सरकार विपन्न नागरिकविरुद्ध गयो, बाम एकता आवश्यक भयो",
+      "summary": "सशस्त्र प्रहरी बलले काठमाडौं महानगरपालिका-१ नागपोखरीबाट लागुऔषधसहित चार जनालाई नियन्त्रणमा लिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/four-arrested-from-nagpokhari-44-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784470130_pakrau-480x320.jpg"
+    },
+    {
+      "title": "गण्डकीमा औषधिजन्य र औद्योगिक प्रयोजनका गाँजाखेतीले पायो कानुनी मान्यता",
+      "summary": "पूर्वाधार विकासमन्त्री सुनिल लम्सालले सार्वजनिक यातायातको गुणस्तर सुधार, सडक सुरक्षामा अभिवृद्धि, वातावरणमैत्री प्रविधिको प्रयोग तथा डिजिटल प्रणालीको विस्तारलाई नीतिले जोड दिएको जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/national-transport-policy-implemented-after-25-years-97-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785773979_Yatayat-480x320.jpg"
+    },
+    {
+      "title": "कप्तानगञ्ज घटनामा न्यायिक छानबिन समिति गठन गर्न कांग्रेसको माग",
+      "summary": "बालक आहान खोल्मेस्थित मावलीघरमा बस्दै आएका थिए। आहानको घर दाङ भए पनि उनका बुबा वैदेशिक रोजगारीमा रहेकाले उनी आमासँग मावलीघरमा थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/a-child-was-swept-away-by-a-flood-while-returning-home-from-school-61-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767337292_Nagariknews-480x320.jpg"
     }
   ]
 }
