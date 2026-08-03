@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-03T03:40:00.688248",
+  "scraped_at": "2026-08-03T07:35:48.197623",
   "date": "2026-08-03",
-  "total_articles": 34,
+  "total_articles": 43,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -278,6 +278,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/comment-by-rashtrapati-bhavan-general-secretary-pokharel-making-your-own-cadres-into-protesters-negotiating-with-them-and-blaming-others-42-50.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "होइन सद्भावमा अग्रसरता, सामाजिक–राजनीतिक अगुवा सार्वजनिक आह्वानमा सक्रिय",
+      "summary": "होइन सद्भावमा अग्रसरता, सामाजिक–राजनीतिक अगुवा सार्वजनिक आह्वानमा सक्रिय",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13438",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Madhesh-Sadbh-1785729567.jpg"
+    },
+    {
+      "title": "द्र अधिकारीको तेस्रो उपन्यास ‘तेजस्’ सार्वजनिक",
+      "summary": "द्र अधिकारीको तेस्रो उपन्यास ‘तेजस्’ सार्वजनिक",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13431",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/tejas-1785662970.jpg"
+    },
+    {
+      "title": "Tensions flare in Susta after Indian personnel dismantle flood barrier",
+      "summary": "Residents say Indian security personnel crossed into Nepali territory and tore down a makeshift embankment built to protect the border settlement from flooding.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/03/tensions-flare-in-susta-after-indian-personnel-dismantle-flood-barrier",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/10003315421785723807-1785730328.jpg&w=300&height=200"
+    },
+    {
+      "title": "Surging food prices pile pressure on consumers as festivals approach",
+      "summary": "Rice, vegetables, eggs and edible oil have become costlier in recent weeks, while an artificial cooking gas shortage has added to household burdens ahead of the festive season.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/08/03/surging-food-prices-pile-pressure-on-consumers-as-festivals-approach",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/76154169516644694548534619091605113339645604n-1785718663.jpg&w=600&height=400"
+    },
+    {
+      "title": "पार्टी जागरण अभियान सबै पालिकामा सुरु गर्न महासचिव पोखरेलको निर्देशन",
+      "summary": "सबै हलका अधिकांश शो हाउसफूल हुँदा एउटा हलमा टिकट नपाएका दर्शक अर्को हलमा गएर पनि सिनेमा हेर्न नपाएको वितकर करण श्रेष्ठ बताउँछन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/gauthali-viewers-are-forced-to-watch-foreign-movies-due-to-lack-of-tickets-73-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785741300_New Project (2)-480x320.jpg"
+    },
+    {
+      "title": "कर्णालीमा भागबन्डा मिलेन",
+      "summary": "नेकपा (एमाले)का महासचिव शंकर पोखरेलले मिसन पार्टी जागरण पार्टी निर्माणको महत्वपूर्ण अभियान भएकाले सबै पालिकामा सुरु गर्न निर्देशन दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/general-secretary-pokharel-directs-to-launch-party-awareness-campaign-in-all-municipalities-46-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785741484_emale news-480x320.jpg"
+    },
+    {
+      "title": "सुस्ता घटनामा प्रधानमन्त्री बालेन्द्र शाहको ध्यान जाओस् : कमल थापा",
+      "summary": "सिरहाको गोलबजारमा गणेश यादवको मृत्यु भएपछि बिहीबारदेखि मधेस प्रदेश तनावग्रस्त बनेको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/increasing-activity-in-madhesh-89-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772203007_madesh-480x320.jpg"
+    },
+    {
+      "title": "पहिला विश्वासको मत अनि सरकार विस्तार",
+      "summary": "सिन्धुलीको फिक्कल गाउँपालिका–२, नवलपुर नजिक मध्यपहाडी राजमार्गमा बससँग ठोक्किएपछि एउटा कार सुनकोशी नदीमा खसेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/car-falls-into-sunkoshi-after-colliding-with-bus-39-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752939658_1727580205_sunkoshi-1200x560-480x320.jpg"
+    },
+    {
+      "title": "दुर्गा प्रसाईंलाई पक्राउ गर्नु निन्दनीय, सरकारले तत्काल रिहा गरोस : धवलशम्सेर राणा",
+      "summary": "सबै हलका अधिकांश शो हाउसफूल हुँदा एउटा हलमा टिकट नपाएका दर्शक अर्को हलमा गएर पनि सिनेमा हेर्न नपाएको वितकर करण श्रेष्ठ बताउँछन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/gauthali-viewers-are-forced-to-watch-foreign-movies-due-to-lack-of-tickets-73-74.html?click_from=just_in",
       "image_url": ""
     }
   ]
