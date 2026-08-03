@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-03T07:35:48.197623",
+  "scraped_at": "2026-08-03T11:35:03.723438",
   "date": "2026-08-03",
-  "total_articles": 42,
+  "total_articles": 50,
   "sources": [
     "KathmanduPost",
     "News24",
@@ -342,6 +342,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/gauthali-viewers-are-forced-to-watch-foreign-movies-due-to-lack-of-tickets-73-74.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "इन्टरनेसनल डिष्ट्रिक्ट ३२५ एफको प्रथम क्याबिनेट मिटिङ तथा इन्स्टलेसन कार्यक्रम सम्पन्न",
+      "summary": "इन्टरनेसनल डिष्ट्रिक्ट ३२५ एफको प्रथम क्याबिनेट मिटिङ तथा इन्स्टलेसन कार्यक्रम सम्पन्न",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13439",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/dis-3-1785738848.png"
+    },
+    {
+      "title": "Power sharing deal fails to break deadlock in Koshi, Bagmati and Sudurpaschim",
+      "summary": "More than a week after the UML and the NCP agreed to restructure provincial governments, only Karnali has installed a new chief minister.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/08/03/power-sharing-deal-fails-to-break-deadlock-in-koshi-bagmati-and-sudurpaschim",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1785743929.jpg&w=300&height=200"
+    },
+    {
+      "title": "Australia tightens student visa rules, rejects 64 percent of Nepali applications",
+      "summary": "The message from Tehran is that unless Washington accepts a new status quo that gives Iran a greater role in Hormuz, the conflict could spread beyond the Gulf.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/07/26/australia-tightens-student-visa-rules-rejects-64-percent-of-nepali-applications",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/prakashmudanda03820260752541000x0-1785737715.jpg&w=400&height=267"
+    },
+    {
+      "title": "१० प्रतिशत निःशुल्क शय्या सेवामा मन्त्रालयको कडाइ, सबै अस्पतालका विवरण सार्वजनिक",
+      "summary": "महासंघको साउन १६ र १७ गते बसेको परिषद् बैठकले माग सम्बोधन नभए भदौ महिनादेखि आन्दोलन सुरु गर्ने निर्णय गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/teachers-warn-the-rsp-government-protest-in-bhadra-if-the-agreements-made-by-the-oli-government-are-not-implemented-80-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785756716_Teacher Andolan-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रियसभामा मधेसी आयोगको वार्षिक प्रतिवेदन पेस",
+      "summary": "चालक तथा सर्वसाधारणले अनुशासित भएर ट्राफिक नियमको पूर्ण पालना गरे दुर्घटनालाई अझ प्रभावकारी रूपमा नियन्त्रण गर्न सकिने उनको भनाइ छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-purpose-of-traffic-is-to-reduce-accidents-not-to-collect-fines-41-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776229445_traffic-480x320.jpg"
+    },
+    {
+      "title": "परराष्ट्रमन्त्री खनाल र मङ्गोलियाका पूर्वप्रधानमन्त्रीबीच भेटवार्ता",
+      "summary": "मन्त्रालयले तयार पारेको ‘सांस्कृतिक तथा राष्ट्रिय महत्वको क्षेत्रमा चलचित्र निर्माणका लागि प्रोत्साहन अनुदान कार्यक्रम सम्बन्धी कार्यविधि, २०८३’ को मस्यौदामाथि चलचित्रकर्मी तथा सरोकारवालासँग छलफल गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/35-million-rupees-to-be-given-as-grant-for-films-of-cultural-and-national-importance-17-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785755832_Nepali Flim-480x320.jpg"
+    },
+    {
+      "title": "साना तथा मझौला उद्योगलाई जोगाउन पुनरुत्थान गर्न आवश्यक : पूर्वअर्थमन्त्री खनाल",
+      "summary": "काठमाडौंको टेकुमा रहेको बायोग्यास प्लान्ट पुनः सञ्चालनमा ल्याउन काठमाडौं महानगरपालिका र वैकल्पिक उर्जा प्रवर्द्धन केन्द्रबीच सम्झौता भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/biogas-plant-to-be-put-back-into-operation-br-79-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785755827_biogas-480x320.jpg"
+    },
+    {
+      "title": "आपसी सद्भाव कायम गर्न सांसदहरुको जोड",
+      "summary": "महासंघको साउन १६ र १७ गते बसेको परिषद् बैठकले माग सम्बोधन नभए भदौ महिनादेखि आन्दोलन सुरु गर्ने निर्णय गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/teachers-warn-the-rsp-government-protest-in-bhadra-if-the-agreements-made-by-the-oli-government-are-not-implemented-80-32.html?click_from=just_in",
       "image_url": ""
     }
   ]
