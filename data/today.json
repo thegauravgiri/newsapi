@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-08-03T11:35:03.723438",
+  "scraped_at": "2026-08-03T14:56:28.682797",
   "date": "2026-08-03",
-  "total_articles": 51,
+  "total_articles": 60,
   "sources": [
-    "KathmanduPost",
     "News24",
+    "KathmanduPost",
     "NagarikNews"
   ],
   "articles": [
@@ -414,6 +414,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/education/teachers-warn-the-rsp-government-protest-in-bhadra-if-the-agreements-made-by-the-oli-government-are-not-implemented-80-32.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Gandaki pushes marijuana law through despite federal law concerns",
+      "summary": "The law aims to regulate medicinal and industrial cannabis cultivation while boosting farm incomes and investment.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/gandaki-province/2026/08/03/gandaki-pushes-marijuana-law-through-despite-federal-law-concerns",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/ganjabidheyak03820260144531000x0-1785765676.jpg&w=300&height=200"
+    },
+    {
+      "title": "Inside Kaptanganj: How a religious flag dispute and a loudspeaker turned a border village deadly",
+      "summary": "A month-old incident that engulfed a village that had never seen Hindu-Muslim conflict before shows what happens when religious tensions in plain sight and official warnings go unheeded.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/province-no-1/2026/08/03/inside-kaptanganj-how-a-religious-flag-dispute-and-a-loudspeaker-turned-a-border-village-deadly",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/kaptananjmain-1785745194.jpg&w=300&height=200"
+    },
+    {
+      "title": "Rise in king cobra sightings alarms Chitwan buffer zone communities",
+      "summary": "Five king cobras and 17 cobras were rescued after they entered homes last fiscal year.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/03/rise-in-king-cobra-sightings-alarms-chitwan-buffer-zone-communities",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/RajGoman-1785764095.jpg&w=300&height=200"
+    },
+    {
+      "title": "US resumes humanitarian funding through global agencies after dismantling USAID",
+      "summary": "Thirteen months after dissolving USAID, the Trump administration channels nearly $2 billion to multilateral organisations while attaching tighter conditions to overseas assistance.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/08/03/us-resumes-humanitarian-funding-through-global-agencies-after-dismantling-usaid",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/usa03820260240221000x0-1785766472.jpg&w=600&height=400"
+    },
+    {
+      "title": "तपाईंले भनेको स्थिरता कहिले भन्ने प्रश्नले चिढिएका प्रचण्डको जवाफ: मरेपछि",
+      "summary": "पूर्वअर्थमन्त्री रामेश्वर खनालले उद्योगी व्यवसायीको घर र कार्यस्थलमा छापा मार्ने काम सही नभएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/raiding-homes-and-workplaces-of-entrepreneurs-is-not-a-good-idea-former-finance-minister-khanal-93-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769251464_Rameshwor_Khanal-480x320.jpg"
+    },
+    {
+      "title": "सुनसरी घटनामा न्यायिक समिति गठन गर्न कांग्रेसको माग",
+      "summary": "यस वर्ष ‘दीगो जीवनको स्वस्थ सुरुवात, प्रभावकारी स्तनपानका लागि हामी सबैको साथ’ भन्ने नाराका साथ विश्व स्तनपान सप्ताह मनाइँदै छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/exclusive-breastfeeding-has-multiple-health-benefits-for-both-the-baby-and-the-mother-81-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785549113_stu 98-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस उपसभापति विश्वप्रकाश शर्मा पाँचदिने चीन भ्रमणमा",
+      "summary": "लगातारको वर्षापछि पहिरो र हिलोका कारण तीन दिनदेखि अवरुद्ध रहेको खोटाङको साकेला गाउँपालिका–१ हरेलोडाँडा–साप्सु खोला सडकखण्ड दुई दिनको सामूहिक श्रमदानपछि पुनः सञ्चालनमा आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/sakela-road-blocked-by-shramdan-reopened-in-two-days-75-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785767279_sadak sakela-480x320.jpg"
+    },
+    {
+      "title": "दुर्गा प्रसाईंलाई थुनामा नराख्न भक्तपुर अदालतको आदेश",
+      "summary": "गृह मन्त्रालयका सचिव राजकुमार श्रेष्ठले साइबर सुरक्षा प्रणालीलाई प्रभावकारी बनाउनुका साथै डिजिटल साक्षरतासमेत बढाउनुपर्ने धारणा राखेका थिए। बैठकमा साइबर ब्युरोको प्रतिवेदनसमेत पेस गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/everyone-s-cooperation-is-needed-to-control-digital-violence-31-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785766867_Sita-480x320.jpg"
+    },
+    {
+      "title": "कोशी प्रदेश : एमाले बैठक विना निष्कर्ष टुंगियो",
+      "summary": "पूर्वअर्थमन्त्री रामेश्वर खनालले उद्योगी व्यवसायीको घर र कार्यस्थलमा छापा मार्ने काम सही नभएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/raiding-homes-and-workplaces-of-entrepreneurs-is-not-a-good-idea-former-finance-minister-khanal-93-72.html?click_from=just_in",
       "image_url": ""
     }
   ]
