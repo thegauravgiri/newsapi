@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-04T06:34:20.452778",
+  "scraped_at": "2026-08-04T10:45:53.802209",
   "date": "2026-08-04",
-  "total_articles": 42,
+  "total_articles": 50,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -343,6 +343,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/delhi-chief-minister-to-visit-pashupatinath-16-16.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755663691_rekha-480x320.jpg"
+    },
+    {
+      "title": "उपत्यका समन्वय समितिद्वारा सत्यनारायण बहादुर श्रेष्ठको योगदानबारे चर्चा",
+      "summary": "उपत्यका समन्वय समितिद्वारा सत्यनारायण बहादुर श्रेष्ठको योगदानबारे चर्चा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13440",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/fonij-1785745334.jpg"
+    },
+    {
+      "title": "PM Shah and army chief hold talks amid security concerns",
+      "summary": "Sigdel briefs Shah on Tarai tensions as a separate dispute over an army-protected site during Gokarneshwar road expansion draws attention.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/04/pm-shah-and-army-chief-hold-talks-amid-security-concerns",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/balenandsenapati04820260938131000x0-1785833728.jpg&w=300&height=200"
+    },
+    {
+      "title": "Tarai districts return to normalcy after deadly Sunsari violence",
+      "summary": "Agreements with victims’ families and dialogue efforts help calm unrest across Koshi and Madhes provinces.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/04/tarai-districts-return-to-normalcy-after-deadly-sunsari-violence",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/lahan04820260945211000x0-1785832593.jpg&w=300&height=200"
+    },
+    {
+      "title": "३० दिनभित्र एलपी ग्यास सिलिन्डरको म्यापिङ गर्न आयल निगमलाई अन्सारीको निर्देशन",
+      "summary": "नेप्सेका अनुसार आज एभरेष्ट कलर लिमिटेड, खानीखोला हाइड्रोपावर कम्पनी, जोशी हाइड्रोपावर कम्पनीका लगानीकर्ताले कमाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nepse-index-drops-by-double-digits-64-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770804328_nepse-share-nawayug-480x320.jpg"
+    },
+    {
+      "title": "'ग्यासको समस्या समाधान गर्न अधिकत्तम प्रयास गरिरहेका छौँ'",
+      "summary": "पश्चिम चितवनका बस्तीमा छिरेको चितुवालाई नियन्त्रणमा लिन दुई स्थानमा खोर राखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/cages-set-up-in-two-places-to-contain-leopards-that-have-entered-settlements-55-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1744602581_Chituwa-480x320.jpg"
+    },
+    {
+      "title": "सर्पदंशविरुद्धको भ्याक्सिन एन्टिस्नेक भेनम उपलब्ध छ : मन्त्री मेहता",
+      "summary": "प्रतिनिधिसभाअन्तर्गत उद्योग तथा वाणिज्य तथा श्रम तथा उपभोक्ता हित समितिका सभापति रहबर अन्सारीले देशभर रहेका एलपी ग्यास सिलिन्डरकोम्यापिङ गर्न नेपाल आयल निगमलाई निर्देशन दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ansari-directs-oil-corporation-to-map-lp-gas-cylinders-within-30-days-91-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785839755_ansari-480x320.jpg"
+    },
+    {
+      "title": "तुलसीपुर उपमहानगरपालिकाको राजस्व सङ्कलन लक्ष्य भन्दा कम",
+      "summary": "एलपी ग्यासको अभाव देखिएकाले तत्कालै समस्या समाधान गर्न उद्योग, वाणिज्य तथा आपूर्ति मन्त्रालय र सो मातहतका निकायलाई आग्रह गरेका छन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-are-making-every-effort-to-resolve-the-gas-problem-16-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785839155_gas cylinder-480x320.jpg"
+    },
+    {
+      "title": "सरकार आर्थिक समृद्धिको लक्ष्यमा छ : परराष्ट्रमन्त्री खनाल",
+      "summary": "नेप्सेका अनुसार आज एभरेष्ट कलर लिमिटेड, खानीखोला हाइड्रोपावर कम्पनी, जोशी हाइड्रोपावर कम्पनीका लगानीकर्ताले कमाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nepse-index-drops-by-double-digits-64-93.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
