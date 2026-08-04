@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-04T14:32:18.850053",
+  "scraped_at": "2026-08-04T17:56:32.201221",
   "date": "2026-08-04",
-  "total_articles": 57,
+  "total_articles": 60,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -463,6 +463,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/bam-elected-as-president-of-karnali-construction-entrepreneurs-federation-64-62.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Lumbini avoids UNESCO danger list for third straight year",
+      "summary": "The UN agency recognises Nepal’s conservation efforts at the Buddha’s birthplace but warns that risks remain and issues 13 recommendations for stronger protection.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/04/lumbini-avoids-unesco-danger-list-for-third-straight-year",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb4-1785852870.jpg&w=300&height=200"
+    },
+    {
+      "title": "सरकारका प्रवक्ताको प्रष्टिकरण: हिन्दु धर्मसम्बन्धी कुनै ठोस सहमति भएको छैन",
+      "summary": "आमिर खान अभिनित सुपरहिट चलचित्रहरू ‘लगान’ र ‘गजनी’ मा खलनायकको दमदार भूमिका निभाएर ख्याति कमाएका वरिष्ठ अभिनेता प्रदीप रावतको ७४ वर्षको उमेरमा मंगलबार निधन भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/pradeep-famous-actor-of-lagaan-and-ghajini-passes-away-18-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785863081_Pradeep Rawat-480x320.jpg"
+    },
+    {
+      "title": "मन्त्री चौधरीसँग युरोपेली संघका नेपालका लागि राजदूत लोरेन्जोको भेट",
+      "summary": "समितिले झुटा विवरण प्रमाणित भएमा त्यस्ता विवरण सिफारिस गर्ने सिफारिसकर्तासमेत कानुनी कारबाहीको दायरामा आउने स्पष्ट गरेको छ। भूमिसम्बन्धी ऐन, २०२१ को दफा ५२ (घ) बमोजिम यस्तो कसुरमा सजायको व्यवस्था रहेको समितिले सूचनामा उल्लेख गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/government-to-take-action-against-those-who-try-to-acquire-land-by-submitting-false-details-of-landless-people-11-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784950891_Rawal-480x320.jpg"
     }
   ]
 }
