@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-04T03:24:19.829282",
+  "scraped_at": "2026-08-04T06:34:20.452778",
   "date": "2026-08-04",
-  "total_articles": 34,
+  "total_articles": 42,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -279,6 +279,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/health/103-free-air-rescue-for-pregnant-and-postpartum-women-br-33-21.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Provinces struggle to spend development budgets as billions remain idle",
+      "summary": "Weak project preparation, staff shortages and poor implementation continue to hold back capital spending.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/08/04/provinces-struggle-to-spend-development-budgets-as-billions-remain-idle",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1785816278.jpg&w=300&height=200"
+    },
+    {
+      "title": "Depositors of ‘troubled’ cooperatives to get money back but those having cash in other institutes unsure of refund",
+      "summary": "More than an estimated 500 institutions across the country have stopped returning deposits even though they have not been officially classified as ‘problematic’.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/08/04/depositors-of-troubled-cooperatives-to-get-money-back-but-those-having-cash-in-other-institutes-unsure-of-refund",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/sahakaripiditatmaitighar202607285137-1785813827.jpg&w=300&height=200"
+    },
+    {
+      "title": "How Nepal’s gym culture is growing beyond the young generation",
+      "summary": "The Shah administration has adopted a consultative approach, which it should continue to embrace.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/08/04/how-nepal-s-gym-culture-is-growing-beyond-the-young-generation",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Mainmentalhealth-1785807212.jpg&w=400&height=267"
+    },
+    {
+      "title": "Theatre review: When power dictates the verdict",
+      "summary": "Weak project preparation, staff shortages and poor implementation continue to hold back capital spending.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/08/03/theatre-review-when-power-dictates-the-verdict",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Fitness-1785806143.jpg&w=400&height=267"
+    },
+    {
+      "title": "सुदूरपश्चिमका सांसदहरूसँग छलफलमा प्रधानमन्त्री शाह",
+      "summary": "ज्योति रानाभाटले उठाएका जायज माग पूरा गर्न आग्रह गर्दै अनसनको छैठौं दिनमा अरू नर्सले पनि ऐक्यबद्धता जनाउँदै वीर अस्पतालमा प्लेकार्डसहित प्रदर्शन गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/photo-feature/today-is-light-tomorrow-is-us-photo-feature-12-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785824858_nurse-480x320.jpg"
+    },
+    {
+      "title": "दिल्लीका मुख्यमन्त्री पशुपतिनाथको दर्शनमा आउने",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाहले सुदूरपश्चिम प्रदेशका सांसदहरूसँग छलफल गरिरहेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-shah-in-discussion-with-mps-from-the-far-west-89-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779790393_pm_balen-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको नयाँ मापदण्ड : सांसदका स्वकीय नियुक्तिमा स्नातक उत्तीर्ण अनिवार्य",
+      "summary": "प्रहरीले लागूऔषध ग्राम खैरो हेरोइनजस्तो देखिने प्रदार्थसहित चार जनालाई पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/4-arrested-with-329-05-grams-of-brown-heroin-and-cash-br-33-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785823388_New Project (1)-480x320.jpg"
+    },
+    {
+      "title": "एमाले नेता रिजालको व्यंग्य : सरकारको कामकारबाही 'टकिङ टोकियो, लुकिङ लन्डन' भने जस्तै छ",
+      "summary": "भारतको राजधानीस्थित दिल्ली प्रदेश सरकारका मुख्यमन्त्री रेखा गुप्ताले आराध्यदेव भगवान् श्री पशुपतिनाथको दर्शन गर्ने इच्छा व्यक्त गरेकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/delhi-chief-minister-to-visit-pashupatinath-16-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755663691_rekha-480x320.jpg"
     }
   ]
 }
