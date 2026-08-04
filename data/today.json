@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-04T10:45:53.802209",
+  "scraped_at": "2026-08-04T14:32:18.850053",
   "date": "2026-08-04",
-  "total_articles": 50,
+  "total_articles": 57,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -406,6 +406,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/nepse-index-drops-by-double-digits-64-93.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Northern border disruptions and higher duties slow Nepal’s EV boom",
+      "summary": "Electric vehicle imports fell 24 percent last fiscal year as prolonged closures at Rasuwagadhi and Tatopani choked supplies. Dealers warn fresh disruptions could delay launches at this month’s major automobile exhibitions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/08/04/northern-border-disruptions-and-higher-duties-slow-nepal-s-ev-boom",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1785841072.jpg&w=300&height=200"
+    },
+    {
+      "title": "Hunger-strike nurse in ICU after six days without food",
+      "summary": "MBBS student Dilli Harijan has also begun a hunger strike demanding parity in internship stipends between private and government medical college students.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/08/04/nurse-jyoti-ranabhat-s-health-deteriorates-after-six-days-of-fast-unto-death-over-policy-demands",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/NursesdemonstratesolidarityinsupportofhungerstrikingnurseJyotiRanabhat01-1785851483.jpg&w=300&height=200"
+    },
+    {
+      "title": "रास्वपा महामन्त्री आचार्यको प्रष्टिकरण: मागपत्र बुझ्नु र सहमति गर्नु फरक कुरा हो",
+      "summary": "दुई दिनसम्म कर्णाली प्रदेशको राजधानी वीरेन्द्रनगरमा सञ्चालन भएको अधिवेशनमा अध्यक्ष मानव बमको सहजीकरणमा सर्वसम्मत रूपमा प्रदेश कार्यसमिति चयन भएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/bam-elected-as-president-of-karnali-construction-entrepreneurs-federation-64-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785852792_manav bam-480x320.jpg"
+    },
+    {
+      "title": "सुकुम्बासीलाई लालपुर्जा वितरण गर्न सुरु गरिसकेका छौँ : मन्त्री रावल",
+      "summary": "उनका अनुसार टोलीले गोलबजार नगरपालिकाका प्रमुख श्यामकुमार श्रेष्ठको अध्यक्षतामा सर्वदलीय बैठक आयोजना गरी विभिन्न राजनीतिक दलका प्रतिनिधिहरूसँग छलफल गरी घटनासँग सम्बन्धित विविध विषयमा जानकारी संकलन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/golbazar-shooting-high-level-team-of-the-ministry-of-home-affairs-begins-discussions-34-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782484428_1767856986_Home-1200x560-480x320.jpg"
+    },
+    {
+      "title": "राजनीतिक बिटका पत्रकारसँग सरकारका प्रवक्ताको छलफल, सूचना प्रवाह थप प्रभावकारी बनाइने",
+      "summary": "बीस वर्षदेखि मन्दिरमा एकछत्र राज गरेका रामतपेश्वरको महन्त पद खुस्किन लागेपछि उनले ‘ट्रस्ट’ को कुरा उठाएको आरोप लागेको छ । तर रामरोशन ‘ट्रस्ट’ को पक्षमा छैनन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/new-debate-on-reaching-the-position-of-mahant-of-janaki-temple-argument-that-destruction-will-begin-if-not-included-in-the-trust-16-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784900188_Janakpur Mahantha-480x320.jpg"
+    },
+    {
+      "title": "मन्त्रालयले द्विपक्षीय रणनीतिलाई बलियो बनाउने गरी काम गरिरहेको छः परराष्ट्रमन्त्री",
+      "summary": "प्रधानमन्त्री शाहबाज शरीफको सरकारले यसबारे औपचारिक घोषणा गरेको छैन भने पाकिस्तान दूरसञ्चार प्राधिकरण वा अल जजीराले पनि आधिकारिक रूपमा पुष्टि गरेका छैनन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/pakistan-imposes-undeclared-ban-on-al-jazeera-84-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785851393_Pakistan Ban Al Jazeera-480x320.jpg"
+    },
+    {
+      "title": "सेना र सांसद पाण्डे विवाद : हुकुमी शैली र चुलबुल पाण्डे प्रवृत्ति निन्दनीय, सेनालाई अपमान नगरेको पाण्डेको प्रष्टिकरण",
+      "summary": "दुई दिनसम्म कर्णाली प्रदेशको राजधानी वीरेन्द्रनगरमा सञ्चालन भएको अधिवेशनमा अध्यक्ष मानव बमको सहजीकरणमा सर्वसम्मत रूपमा प्रदेश कार्यसमिति चयन भएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/bam-elected-as-president-of-karnali-construction-entrepreneurs-federation-64-62.html?click_from=just_in",
       "image_url": ""
     }
   ]
