@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-05T03:19:34.736904",
+  "scraped_at": "2026-08-05T06:35:22.302432",
   "date": "2026-08-05",
-  "total_articles": 32,
+  "total_articles": 40,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -262,6 +262,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/indian-tourist-dies-after-drowning-in-pond-23-61.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Shashank Koirala set to spearhead split in Nepali Congress",
+      "summary": "When former acting president Khadka hesitated to lead the party towards a split, the Deuba faction appointed Koirala on Saturday to steer a 521-member committee.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/08/05/shashank-koirala-set-to-spearhead-split-in-nepali-congress",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Shashankakoirala-1785901227.jpg&w=300&height=200"
+    },
+    {
+      "title": "Four and a half months on, Shah government faces questions over governance",
+      "summary": "The administration says it is moving quickly to reform the state, but a series of controversial decisions, delayed crisis responses and accusations of bypassing institutions have fuelled criticism over its commitment to democratic norms.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/08/05/four-and-a-half-months-on-shah-government-faces-questions-over-governance",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/6F8A9878jpgcopy-1785890910.jpg&w=300&height=200"
+    },
+    {
+      "title": "New driving licence system leaves services stalled for nearly three weeks",
+      "summary": "Transport offices across Nepal struggle with the transition to a new online platform, leaving applicants unable to renew licences, sit for trials or process new applications despite government claims that the system is operational.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/05/new-driving-licence-system-leaves-services-stalled-for-nearly-three-weeks",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1785904986.jpg&w=600&height=400"
+    },
+    {
+      "title": "उद्योगमन्त्री यादवको निर्देशनमा उद्योगको गेटमै टाँसियो सम्झौता पत्र",
+      "summary": "निम्सदाइ फाउन्डेसनले पाकिस्तानको ब्रोड पिक हिमालको हिमपहिरोमा ज्यान गुमाएका पर्वतीय गाइडहरूको परिवारलाई सहयोग गर्ने उद्देश्यले विशेष राहत कोष स्थापना गरेको घोषणा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nimsdai-foundation-provides-relief-fund-to-families-of-broad-peak-accident-victims-br-25-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785730050_nimsdai-480x320.jpg"
+    },
+    {
+      "title": "मन्त्रिपरिषद् बैठक बस्दै",
+      "summary": "भारी वर्षाबिना नै जलमग्न हुने यस क्षेत्रको दीर्घकालीन समस्या समाधानका लागि ठोस कदम नचाल्दा समस्या बल्झिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/why-do-jamal-and-maitighar-get-submerged-when-it-rains-suddenly-br-61-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785910149_jamal-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय सभा : दुई समितिका बैठक बस्दै",
+      "summary": "नेपाल धितोपत्र बोर्डले प्राथमिक पुँजी बजारलाई थप पारदर्शी, विश्वसनीय र लगानीकर्तामैत्री बनाउने उद्देश्यले ‘प्राइमरी मार्केट रिफर्म फ्यासिलिटेटिङ टास्क फोर्स’ गठन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/capital-market-reform-task-force-formed-br-10-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785910366_ddu 96-480x320.jpg"
+    },
+    {
+      "title": "संसदमा नौ विधेयक दर्ता",
+      "summary": "नेपाल रेडक्रस सोसाइटी केन्द्रीय कार्यालयले देशभरका ६२ जिल्ला शाखालाई लामो समयदेखि बाँकी रहेको बक्यौता रकम २१ दिनभित्र केन्द्रीय खातामा जम्मा गर्न निर्देशन दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/red-cross-attempts-to-collect-25-year-old-arrears-issues-21-day-ultimatum-to-62-district-branches-br-90-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785909096_red cross-480x320.jpg"
+    },
+    {
+      "title": "संसद्का चार महत्वपूर्ण समिति बैठक बस्दै : चार मन्त्रीलाई छलफलमा बोलाइयो",
+      "summary": "निम्सदाइ फाउन्डेसनले पाकिस्तानको ब्रोड पिक हिमालको हिमपहिरोमा ज्यान गुमाएका पर्वतीय गाइडहरूको परिवारलाई सहयोग गर्ने उद्देश्यले विशेष राहत कोष स्थापना गरेको घोषणा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nimsdai-foundation-provides-relief-fund-to-families-of-broad-peak-accident-victims-br-25-68.html?click_from=just_in",
       "image_url": ""
     }
   ]
