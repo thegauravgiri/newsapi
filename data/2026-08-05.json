@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-05T14:24:55.761786",
+  "scraped_at": "2026-08-05T17:47:58.009539",
   "date": "2026-08-05",
-  "total_articles": 53,
+  "total_articles": 57,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -431,6 +431,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/karki-government-s-crisis-in-koshi-is-over-oli-says-decision-will-be-taken-at-the-appropriate-time-89-93.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Nepal overruled its own security agencies to cancel Tibetan studies conference under Chinese pressure, officials say",
+      "summary": "Days after the Home Minister said the seminar would proceed with security vetting, the government’s Chief Secretary personally ordered Kathmandu University to shut it down.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/05/nepal-overruled-its-own-security-agencies-to-cancel-tibetan-studies-conference-under-chinese-pressure-officials-say",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/IATS2022team1-1785941880.jpg&w=300&height=200"
+    },
+    {
+      "title": "Kathmandu Valley Public Library reopens after 114-day closure",
+      "summary": "The landmark public library at Bhrikutimandap resumes services after months of closure over a rent dispute, but questions remain over the government’s takeover and its future management.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/05/kathmandu-valley-public-library-reopens-after-114-day-closure",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/image305820261156551000x0-1785932862.png&w=300&height=200"
+    },
+    {
+      "title": "अब नेपाल समाजवादी पार्टी पुरानै नाममा फर्कने",
+      "summary": "जापानको आइची र नागोयामा आयोजना हुने २०औं एसियाली खेलकुद (एसियाड) का लागि नेपालबाट सहभागिता जनाउने खेल र खेलाडीको सङ्ख्या टुङ्गो लागेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/20th-asian-games-136-athletes-from-nepal-to-participate-in-22-sports-30-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785947154_asian-480x320.jpg"
+    },
+    {
+      "title": "सरकारलाई कांग्रेसको प्रश्न: अभिव्यक्ति स्वतन्त्रतामाथि किन आक्रमण भयो ?",
+      "summary": "नेपालमा उद्यमशीलता, नवप्रवर्तन, आत्मनिर्भर अर्थतन्त्र तथा रोजगारी सिर्जनालाई प्रवर्द्धन गर्ने उद्देश्यले ‘नेपाल स्टार्टअप समिट–२०२६’ औपचारिक रूपमा सुरु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nepal-startup-summit-2026-begins-campaign-to-inspire-youth-to-start-businesses-in-the-country-43-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785946634_WhatsApp Image 2026-08-05 at 21_43_57-480x320.jpg"
     }
   ]
 }
