@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-05T10:43:11.876221",
+  "scraped_at": "2026-08-05T14:24:55.761786",
   "date": "2026-08-05",
-  "total_articles": 46,
+  "total_articles": 53,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -374,6 +374,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/general-improvement-in-nepse-turnover-of-over-rs-4-4-billion-91-10.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Sarlahi farmers jailed in Bihar over fertiliser transport granted bail",
+      "summary": "The brothers spent more than a month in Dumra Jail after Indian authorities accused them of smuggling fertiliser they had bought for use on their farm amid shortages in Nepal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/05/two-sarlahi-farmers-jailed-in-bihar-over-fertiliser-transport-granted-bail",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/dumara05820261201041000x0-1785926288.jpg&w=300&height=200"
+    },
+    {
+      "title": "Weeks of landslides leave Tatopani border closed, trade in limbo",
+      "summary": "Three active landslides have shut Nepal’s key trade route with China, stranding hundreds of containers, halting customs operations and fuelling criticism of the government’s response.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/05/weeks-of-landslides-leave-tatopani-border-closed-trade-in-limbo",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/tatopani05820261031501000x0-1785935457.jpg&w=300&height=200"
+    },
+    {
+      "title": "कोशीमा कार्की सरकारको संकट टर्‍यो, आवश्यक समयमा निर्णय लिने ओलीको भनाई",
+      "summary": "पार्टी अध्यक्ष केपी शर्मा ओलीसँगको छलफलपछि मुख्यमन्त्री हिक्मत कार्कीलाई हालका लागि निरन्तरता दिने समझदारी बनेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/karki-government-s-crisis-in-koshi-is-over-oli-says-decision-will-be-taken-at-the-appropriate-time-89-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785844155_Oli_karki-480x320.jpg"
+    },
+    {
+      "title": "गोलबजार घटना अध्ययन टोली काठमाडौं फर्कियो",
+      "summary": "गणेश यादवको मृत्यु भएको घटनाको छानबिनका लागि गठन गरिएको उच्चस्तरीय समितिले प्रारम्भिक अनुसन्धान सम्पन्न गरी काठमाडौं फर्किएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/golbazar-incident-study-team-returns-to-kathmandu-41-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785939465_Karyadal-480x320.jpg"
+    },
+    {
+      "title": "कप्तानगञ्ज घटना: दोषीलाई कारबाही र मृतकलाई शहीद घोषणाको माग गर्दै कांग्रेसद्वारा आन्दोलनको चेतावनी",
+      "summary": "श्रम संस्कृति पार्टीका अध्यक्ष हर्क साम्पाङले जनकपुरस्थित जानकी मन्दिरअगाडि दंगा सिर्जना गर्नेहरूमाथि कारबाहीको माग गर्दै गृहमन्त्री सुधन गुरुङलाई जाहेरी पत्र पठाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/hark-sampang-sends-complaint-to-home-minister-10-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785939014_harka_sudan-480x320.jpg"
+    },
+    {
+      "title": "जेन–जी आन्दोलन अध्ययन गर्न सर्वस्वीकार्य आयोगको अभाव",
+      "summary": "कांग्रेसले बुधबार जिल्ला पार्टी कार्यालय इनरुवामा पत्रकार सम्मेलन गरि घटना भएको दस दिन वित्दा पनि दोषी कोही पक्राउ नपरेको जनाउँदै कांग्रेसले आन्दोलन चर्काउने जनाएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/kaptanganj-incident-congress-warns-of-protest-demanding-action-against-culprits-and-declaration-of-martyrs-for-the-deceased-11-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785939055_Sunsari NC-480x320.jpg"
+    },
+    {
+      "title": "राणा र प्रसाईंले ‘जय नेपाल पार्टी’ खोल्ने",
+      "summary": "पार्टी अध्यक्ष केपी शर्मा ओलीसँगको छलफलपछि मुख्यमन्त्री हिक्मत कार्कीलाई हालका लागि निरन्तरता दिने समझदारी बनेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/karki-government-s-crisis-in-koshi-is-over-oli-says-decision-will-be-taken-at-the-appropriate-time-89-93.html?click_from=just_in",
       "image_url": ""
     }
   ]
