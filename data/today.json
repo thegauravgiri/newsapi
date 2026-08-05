@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-08-05T06:35:22.302432",
+  "scraped_at": "2026-08-05T10:43:11.876221",
   "date": "2026-08-05",
-  "total_articles": 42,
+  "total_articles": 48,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -342,6 +342,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nimsdai-foundation-provides-relief-fund-to-families-of-broad-peak-accident-victims-br-25-68.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Reporter’s Diary: Driving into a divided landscape",
+      "summary": "A journey to report on deadly communal violence became an account of fear, uncertainty and the difficult decisions journalists face when every choice carries consequences.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/05/reporter-s-diary-driving-into-a-divided-landscape",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/DSC5994-1785913726.jpg&w=300&height=200"
+    },
+    {
+      "title": "नेपाल राष्ट्र बैंक विधेयकः गर्भनरको पदावधिबारे अर्थ समितिमा छलफल",
+      "summary": "धितोपत्र बजारमा सेयर कारोबार मापक नेपाल स्टक एक्सचेञ्ज (नेप्से) परिसूचक आज सामान्य अङ्कले बढेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/general-improvement-in-nepse-turnover-of-over-rs-4-4-billion-91-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780396036_19 nepsa-480x320.jpg"
+    },
+    {
+      "title": "राजेन्द्र लिङदेन भन्छन्: धार्मिक विवादको दीर्घकालीन समाधान हिन्दु राष्ट्रमा मात्रै सम्भव",
+      "summary": "छलफलकामा केन्द्रीय बैंकको गभर्नर र सञ्चालक समितिको पदावधि यथावत् पाँच वर्ष राख्ने वा घटाउने विषयमा समितिका सदस्यहरूले फरक–फरक धारणा व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepal-rastra-bank-bill-discussion-in-finance-committee-on-governor-s-term-of-office-br-91-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785926301_artha samiti-480x320.jpg"
+    },
+    {
+      "title": "ओली र लेखकलाई पक्राउ गरेकोमा प्रधानमन्त्री र गृहमन्त्रीले माफी मागून: शंकर पोखरेल",
+      "summary": "राजेन्द्रप्रसाद लिङ्देनले मुलुकमा देखिएका धार्मिक विवाद र सामाजिक तनावको दीर्घकालीन समाधानका लागि नेपाललाई पुनः हिन्दु राष्ट्र बनाउनुपर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rajendra-lingden-says-long-term-solution-to-religious-disputes-is-possible-only-in-a-hindu-nation-36-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785925860_rajendra_Lingden-480x320.jpg"
+    },
+    {
+      "title": "राप्रपा प्रदेश सरकारको सत्ता समीकरणबाट टाढै रहने",
+      "summary": "नेकपा (एमाले) का महासचिव शंकर पोखरेलले राज्यले कानुन कार्यान्वयनमा दोहोरो मापदण्ड अपनाउन नहुने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-and-home-minister-should-apologize-for-arresting-oli-and-the-writer-shankar-pokharel-87-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782212746_Shankar-480x320.jpg"
+    },
+    {
+      "title": "‘हामी सुन्छौँ’ अभियान सञ्चालन गर्दै रास्वपा",
+      "summary": "धितोपत्र बजारमा सेयर कारोबार मापक नेपाल स्टक एक्सचेञ्ज (नेप्से) परिसूचक आज सामान्य अङ्कले बढेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/general-improvement-in-nepse-turnover-of-over-rs-4-4-billion-91-10.html?click_from=just_in",
       "image_url": ""
     }
   ]
