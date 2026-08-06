@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-06T06:38:18.468914",
+  "scraped_at": "2026-08-06T10:45:56.058848",
   "date": "2026-08-06",
-  "total_articles": 40,
+  "total_articles": 49,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -326,6 +326,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/what-did-the-bjp-say-when-meta-apologized-after-removing-prime-minister-modi-s-facebook-post-67-50.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "र निकायमाथि चौतर्फि आलोचना, संयन्त्रमाथि गम्भिर प्रश्न",
+      "summary": "र निकायमाथि चौतर्फि आलोचना, संयन्त्रमाथि गम्भिर प्रश्न",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13454",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/ra_a_bi-_PKG_samir-1785985789.jpg"
+    },
+    {
+      "title": "Supreme Court allows review in Nepali Congress legitimacy dispute",
+      "summary": "Three-member bench to examine whether earlier verdict upholding Gagan Thapa-led faction requires correction.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/08/06/supreme-court-allows-review-in-nepali-congress-legitimacy-dispute",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1786011553.jpg&w=300&height=200"
+    },
+    {
+      "title": "Probe committee submits report on Ganesh Nepali self-immolation",
+      "summary": "Government-appointed panel submits findings after examining witness accounts, CCTV footage and official testimony in the case that sparked nationwide protests, paving way for a Cabinet decision.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/06/probe-committee-submits-report-on-ganesh-nepali-self-immolation",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/GaneshNepali-1786002266.jpg&w=300&height=200"
+    },
+    {
+      "title": "Susta residents resume embankment construction after last year’s halt from Indian security personnel",
+      "summary": "Villagers use sandbags and gravel to hold back the Narayani river after a permanent flood barrier stalled amid objections from the Indian side.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/06/susta-residents-resume-embankment-construction-after-last-year-s-halt-from-indian-security-personnel",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/sustabadha1206820260832091000x0-1786004491.jpg&w=300&height=200"
+    },
+    {
+      "title": "मनसुनजन्य विपद् पूर्वतयारीको प्रगति पेस गर्न निर्देशन",
+      "summary": "अध्यक्ष दाहालले मनसुनजन्य विपद् व्यवस्थापनमा सरकारको पूर्वतयारीसम्बन्धी ध्यानाकर्षण प्रस्तावमा प्राथमिकताका साथ कार्यान्वयन गर्न सरकारलाई निर्देशन दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/instructions-to-submit-progress-on-monsoon-disaster-preparedness-br-24-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778491370_narayan dahal-480x320.jpg"
+    },
+    {
+      "title": "तारेखका लागि काठमाडौं जिल्ला अदालत पुगे रवि",
+      "summary": "यस अघि भएका इबोलाप्रकोपहरूमा सोही अवधिमा भएका मृत्यु र यो वर्षको ११ साताभित्र भएको मृत्युको तुलना गर्दानिकै धेरै अन्तरमा मृत्यु भएकोले सवै भन्दा ठूलो महामारी भएको जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/congo-s-largest-ebola-outbreak-to-date-1-500-dead-in-11-weeks-91-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1784879173_ebola-480x320.jpg"
+    },
+    {
+      "title": "अमरेशको प्रहार- नेपाललाई नर्थ कोरिया बनाइँदैछ, सरकारमा राष्ट्रियता छैन",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछाने तारेखका लागि काठमाडौं जिल्ला अदालत पुगेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rabi-reaches-kathmandu-district-court-for-date-91-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786012399_rabi-480x320.jpg"
+    },
+    {
+      "title": "मनसुनजन्य विपद् पूर्वतयारीबारे सरकारको ध्यानाकर्षण",
+      "summary": "१९ औ नगरसभाले निर्णय नै गरेर गुलाफको सहरका रूपमा रोल्पा नगरपालिकालाई पहिचान हुने गरी कार्यान्वयनमा जाने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rolpa-s-identity-is-changing-liwang-to-be-made-a-rose-city-br-21-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786012315_rolpa (1)-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस आधिकारिकता विवाद: सर्वोच्चमा फेरि सुरुदेखि सुनुवाइ हुने",
+      "summary": "अध्यक्ष दाहालले मनसुनजन्य विपद् व्यवस्थापनमा सरकारको पूर्वतयारीसम्बन्धी ध्यानाकर्षण प्रस्तावमा प्राथमिकताका साथ कार्यान्वयन गर्न सरकारलाई निर्देशन दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/instructions-to-submit-progress-on-monsoon-disaster-preparedness-br-24-86.html?click_from=just_in",
       "image_url": ""
     }
   ]
