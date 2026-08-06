@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-06T10:45:56.058848",
+  "scraped_at": "2026-08-06T14:28:15.099002",
   "date": "2026-08-06",
-  "total_articles": 49,
+  "total_articles": 55,
   "sources": [
     "News24",
     "NagarikNews",
@@ -398,6 +398,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/instructions-to-submit-progress-on-monsoon-disaster-preparedness-br-24-86.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Silver imports overtake gold in Nepal for the first time",
+      "summary": "Nepal’s silver import bill surged 366 percent to Rs32.74 billion last fiscal year as buyers turned to the white metal amid soaring gold prices.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/08/06/silver-imports-overtake-gold-in-nepal-for-the-first-time",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/shutterstock2242957405-1786018068.jpg&w=300&height=200"
+    },
+    {
+      "title": "प्रधानमन्त्री शाह भन्छन् : सरकार र रास्वपालाई संविधान संशोधन चाहिएकै छैन",
+      "summary": "सिर्सियामा रहेको सुक्खा बन्दरगाहलाई बिस्तार गर्नको लागि अधिग्रहण गरिएको जग्गामा रहेको घर लगायतको भौतिक संरचनाहरूको क्षतिपूर्ति वितरणमा ढिलाइ गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/delay-in-expansion-of-birgunj-dry-port-br-79-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786023471_sarsiya-480x320.jpg"
+    },
+    {
+      "title": "घाइते जेनजीलाई रोजगारी दिने मन्त्री लम्सालको ग्यारेन्टी, भने- भोलि नै आएर निर्णय गराउनुस्",
+      "summary": "स्टार्टअप समिट नेपाल–२०२६ की अध्यक्ष शोभा ज्ञवालीले नेपालमा रहेको प्रतिभा र सिर्जनशीलतालाई स्वदेशमै उपयोग गर्ने वातावरण निर्माण गर्नु अभियानको मुख्य उद्देश्य रहेको बताइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/campaign-launched-to-make-startup-culture-nationwide-summits-to-be-organized-in-all-seven-provinces-77-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786022742_start up-480x320.jpg"
+    },
+    {
+      "title": "राजसंस्था हटेपछि नेपाललाई दशा लाग्यो: दुर्गा प्रसाईं",
+      "summary": "छलफलबाट निर्माण क्षेत्रको वास्तविक मागमा आधारित जनशक्तिलाई सीपमूलक तालिम कार्यक्रम सञ्चालन गर्ने, तालिमप्राप्त जनशक्तिलाई रोजगारीका अवसरसँग आबद्ध गर्ने तथा रोजगारी सिर्जनाका लागि दुवै मन्त्रालय र निर्माण व्यवसायी महासङ्घबिच निरन्तर संवाद, समन्वय र सहकार्य गर्ने निर्णय गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/from-the-discussion-19-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786022583_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "विश्वविद्यालय अनुदान आयोगका अध्यक्ष केसी र सचिव श्रेष्ठले लिए शपथ",
+      "summary": "जहाजको फ्ल्याप नमिलेको देखिएपछि सुरक्षा मापदण्डलाई ध्यानमा राख्दै अवतरण नगरी काठमाडौं फर्काउने निर्णय गरिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/shree-airlines-plane-returns-to-kathmandu-without-landing-in-nepalgunj-after-wing-imbalance-40-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771290863_Shree-480x320.jpg"
+    },
+    {
+      "title": "सुकुम्वासी बालबालिकाको आधारभूत अधिकार सुनिश्चित गर्न सर्वोच्चको अन्तरिम आदेश",
+      "summary": "सिर्सियामा रहेको सुक्खा बन्दरगाहलाई बिस्तार गर्नको लागि अधिग्रहण गरिएको जग्गामा रहेको घर लगायतको भौतिक संरचनाहरूको क्षतिपूर्ति वितरणमा ढिलाइ गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/delay-in-expansion-of-birgunj-dry-port-br-79-15.html?click_from=just_in",
       "image_url": ""
     }
   ]
