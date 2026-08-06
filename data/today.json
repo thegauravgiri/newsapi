@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-06T03:22:09.018715",
+  "scraped_at": "2026-08-06T06:38:18.468914",
   "date": "2026-08-06",
-  "total_articles": 34,
+  "total_articles": 40,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -278,6 +278,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/dhanusha-district-court-disposes-of-5-216-cases-59-11.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "A lifetime of contribution, a struggle for dignity in old age",
+      "summary": "From public spaces to their own homes, many senior citizens are finding respect, care, and support increasingly hard to come by.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/06/a-lifetime-of-contribution-a-struggle-for-dignity-in-old-age",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/old04820260844511000x0-1785983799.jpg&w=300&height=200"
+    },
+    {
+      "title": "नेपाल आयल निगमको निर्देशकमा नागेन्द्र साह",
+      "summary": "मेटाले भारततका प्रधानमन्त्री नरेन्द्र मोदीको फेसबुक पोस्ट हटाएकोमा माफी मागेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/what-did-the-bjp-say-when-meta-apologized-after-removing-prime-minister-modi-s-facebook-post-67-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1778118974_modi-480x320.jpg"
+    },
+    {
+      "title": "जमल डुबानको मुख्य कारण पूर्वाधारको असन्तुलन",
+      "summary": "मकवानपुरको कैलाश गाउँपालिकामा मनहरी खोला तर्ने क्रममा बगेर एक जना बेपत्ता भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-person-goes-missing-while-crossing-manahari-river-search-continues-23-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756689090_Bepatta-480x320.jpg"
+    },
+    {
+      "title": "स्थानीय निर्वाचनमा उम्मेदवार छनोट प्रकृयामा रास्वपाको नयाँ कार्यविधि",
+      "summary": "अस्ट्रेलियाका तीव्र गतिका बलर मिचेल स्टार्क टेस्ट क्रिकेटमा दुई दिग्गज बलरको कीर्तिमान तोड्ने संघारमा पुगेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/mitchell-starc-on-the-verge-of-surpassing-kapil-dev-and-dale-steyn-49-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1703037358_Mitchell-Starc-480x320.jpg"
+    },
+    {
+      "title": "कर्मचारीको नयाँ तलबमान: अब मासिक कसले कति पाउँछन् ?",
+      "summary": "मर्दी हिमाल पदयात्राबाट फर्कने क्रममा सम्पर्कविहीन भएका तीन युवाको सकुशल उद्धार गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/three-youths-missing-during-mardi-trek-rescued-safely-br-20-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785997519_mardi-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभाको विभिन्न चार समितिको बैठक बस्दै",
+      "summary": "मेटाले भारततका प्रधानमन्त्री नरेन्द्र मोदीको फेसबुक पोस्ट हटाएकोमा माफी मागेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/what-did-the-bjp-say-when-meta-apologized-after-removing-prime-minister-modi-s-facebook-post-67-50.html?click_from=just_in",
       "image_url": ""
     }
   ]
