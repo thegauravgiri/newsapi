@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-08-07T09:07:40.760755",
+  "scraped_at": "2026-08-07T13:19:12.976866",
   "date": "2026-08-07",
-  "total_articles": 55,
+  "total_articles": 62,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -446,6 +446,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/government-failed-to-understand-people-s-feelings-angdembe-br-85-55.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "How Nepal’s tax lottery works—and how a Rs250 purchase won Rs1 million",
+      "summary": "The government’s new taxpayer incentive programme is designed to encourage consumers to demand bills, promote digital payments and make businesses more transparent in reporting sales and taxes.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/08/07/how-nepal-s-tax-lottery-works-and-how-a-rs250-purchase-won-rs1-million",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/76443821925115572926176523077485534300912747n07820260621121000x0-1786096046.jpg&w=300&height=200"
+    },
+    {
+      "title": "Eight of Kalikot’s nine local units face high landslide risk",
+      "summary": "A district disaster assessment identifies most of the district as highly vulnerable, with authorities blaming fragile terrain and poorly built rural roads for worsening the threat.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/07/eight-of-kalikot-s-nine-local-units-face-high-landslide-risk",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/kalikotrpsapahirophoto207820261227481000x0-1786105272.jpg&w=300&height=200"
+    },
+    {
+      "title": "५ जी सेवा सुरु गर्न कार्ययोजना पेश गर्न सेवा प्रदायकलाई दूरसञ्चार प्राधिकरणको निर्देशन",
+      "summary": "'धनकेशर-अतम्हरी राई स्मृति पत्रकारिता पुरस्कार' पत्रकार धनबल राईलाई प्रदान गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/journalist-dhanbal-rai-honored-with-dhankeshar-atamhari-rai-memorial-journalism-award-96-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786108276_Dhanbal Rai (1)-480x320.jpg"
+    },
+    {
+      "title": "ग्यासको माग र आपूर्तिबीच सन्तुलन ल्याउने पहल भइरहेको छ : उद्योगमन्त्री",
+      "summary": "पताँला गाउँपालिका वडा–९ थिर्पुमा रहेको पताँला अस्पतालमा मेडिकल अफिसर डा.अली हैदर राईन र स्टाफ नर्स शान्ता गिरीमाथि आक्रमण भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/locals-attacked-doctors-and-nurses-who-went-to-the-hospital-to-use-the-internet-10-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786107800_attack-480x320.jpg"
+    },
+    {
+      "title": "सरकारको नियतमाथि प्रश्न छैन, तर काम गर्ने शैली सुधार्नुपर्छ : सांसद मनिष झा",
+      "summary": "मकवानपुरको हेटौँडा उपमहानगरपालिका–१५, सेल्फी रोडस्थित सामुदायिक वनमा बोरामा हालेर खाल्डोमा फालिएको अवस्थामा एक महिलाको शव भेटिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/woman-s-body-found-in-sack-in-hetauda-forest-17-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1778028063_death_Body-480x320.jpg"
+    },
+    {
+      "title": "कर्णालीमा यो वर्ष विद्युत् प्रणाली विस्तार गरिन्छ : मन्त्री श्रेष्ठ",
+      "summary": "अमेरिकाका वैज्ञानिकहरूले एआईको प्रयोग गरेर प्रकृतिमा पहिले कहिल्यै नभेटिएका नयाँ भाइरसहरू सिर्जना गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/technology/ai-creates-new-virus-for-the-first-time-47-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786106343_virus-480x320.jpg"
+    },
+    {
+      "title": "सरकारको चार महिना : मन्त्रिपरिषद्‌बाट ३८४ निर्णय, १५ हजार ७९५ गुनासो फर्छ्योट",
+      "summary": "'धनकेशर-अतम्हरी राई स्मृति पत्रकारिता पुरस्कार' पत्रकार धनबल राईलाई प्रदान गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/journalist-dhanbal-rai-honored-with-dhankeshar-atamhari-rai-memorial-journalism-award-96-67.html?click_from=just_in",
       "image_url": ""
     }
   ]
