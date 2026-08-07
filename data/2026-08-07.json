@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-07T16:59:05.049708",
+  "scraped_at": "2026-08-07T20:50:03.336734",
   "date": "2026-08-07",
-  "total_articles": 69,
+  "total_articles": 70,
   "sources": [
     "News24",
     "NagarikNews",
@@ -559,6 +559,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/candlelight-vigil-in-memory-of-climber-who-lost-his-life-on-broad-peak-53-37.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "नआत्तिनुहोस्, सही समय आउन केही समय लाग्छ: प्रधानमन्त्री",
+      "summary": "प्रधानमन्त्री बालेन शाहले सही समय आउन केही समय लाग्ने भन्दै धैर्य कायम राख्न आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/don-t-panic-it-will-take-some-time-for-the-right-time-to-arrive-prime-minister-br-89-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779790082_balen-480x320.jpg"
     }
   ]
 }
