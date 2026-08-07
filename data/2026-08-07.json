@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-07T05:45:45.633176",
+  "scraped_at": "2026-08-07T09:07:40.760755",
   "date": "2026-08-07",
-  "total_articles": 50,
+  "total_articles": 55,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -407,6 +407,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/four-arrested-with-goods-smuggled-in-through-customs-42-32.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756829108_pakrau-480x320.jpg"
+    },
+    {
+      "title": "सरकारले जनताको भावना बुझ्न सकेन : आङदेम्बे",
+      "summary": "नेता आङदेम्बेले सरकारले जनताको आवाज उठाउन नसकेको आरोप लगाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-failed-to-understand-people-s-feelings-angdembe-br-85-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786093354_bhismaraj aangdebe-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीको अभिव्यक्ति रेकर्डबाट हटाउन माग",
+      "summary": "प्रधानमन्त्रीको विवादास्पद अभिव्यक्ति संसदको रेकर्डबाट हटाउन माग गर्दै तातोपानी नाका र अरनिको राजमार्ग तत्काल सञ्चालनमा ल्याउन सरकारसँग आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/demand-to-remove-prime-minister-s-statement-from-the-record-94-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786093024_Maobadi-480x320.jpg"
+    },
+    {
+      "title": "संसदको गतिरोध छिट्टै अन्त्य गर्न सांसद राईको आग्रह",
+      "summary": "श्रमसंस्कृति पार्टीका सांसद ध्रुवराज राईले लामो समयदेखि जारी संसद्को गतिरोध अन्त्य गरी जनताका मुद्दामा केन्द्रित हुन सबै राजनीतिक दललाई आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mp-rai-urges-early-end-to-parliament-impasse-43-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786092342_Rai-480x320.jpg"
+    },
+    {
+      "title": "सरकारमा बहुमतको अहंकार देखियो : गगन थापा",
+      "summary": "नेपाली कांग्रेसका सभापति गगनकुमार थापाले सरकार अराजक शैलीमा अगाडी बढिरहेको आरोप लगाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/majority-arrogance-seen-in-government-gagan-thapa-br-52-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786092165_gagan thapa-480x320.jpg"
+    },
+    {
+      "title": "३५ वर्षसम्म काम भएन भन्न छाड्नुस, अब काम गरेर देखाउनुस् : खुश्बु ओली",
+      "summary": "नेता आङदेम्बेले सरकारले जनताको आवाज उठाउन नसकेको आरोप लगाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-failed-to-understand-people-s-feelings-angdembe-br-85-55.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
