@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-07T13:19:12.976866",
+  "scraped_at": "2026-08-07T16:59:05.049708",
   "date": "2026-08-07",
-  "total_articles": 63,
+  "total_articles": 70,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -510,6 +510,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/journalist-dhanbal-rai-honored-with-dhankeshar-atamhari-rai-memorial-journalism-award-96-67.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Balendra Shah administration rolling out website for live official updates",
+      "summary": "The integrated platform will improve transparency and help curb misinformation, say officials.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/07/balendra-shah-administration-rolling-out-website-for-live-official-updates",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/SinghaDurbar-1786113477.jpg&w=300&height=200"
+    },
+    {
+      "title": "Algorithmocracy: Of the algorithm, by the algorithm, for the algorithm",
+      "summary": "The legislation opens the door to medicinal and industrial cannabis cultivation under a rigorous licensing regime while keeping recreational use and unauthorised cultivation illegal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/08/07/algorithmocracy-of-the-algorithm-by-the-algorithm-for-the-algorithm",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/2brothercopy-1786121482.jpg&w=400&height=267"
+    },
+    {
+      "title": "सुन्दरहरैंचाको केन्द्र सार्न कोसी सरकारको स्वीकृति",
+      "summary": "पाकिस्तानको ‘ब्रोड पिक’ हिमाल आरोहणका क्रममा हिमपहिरोमा परेर ज्यान गुमाएका आरोहीको चीरशान्तिको कामना गर्दै ठमेलमा दीप प्रज्वलन गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/candlelight-vigil-in-memory-of-climber-who-lost-his-life-on-broad-peak-53-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786119207_Deep-480x320.jpg"
+    },
+    {
+      "title": "सरकारसँग अमरेशको आक्रोश : यो राज्य संयन्त्र कसरी चलेको छ?",
+      "summary": "सुहाङ नेम्बाङले नेपालको विकास र समृद्धिका लागि स्वदेश तथा विदेशमा रहेका सबै नेपाली एकजुट भएर अघि बढ्नुपर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/diaspora/suhang-who-arrived-in-qatar-said-nepalis-at-home-and-abroad-must-unite-for-prosperity-28-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786118187_Suhang-480x320.jpg"
+    },
+    {
+      "title": "मिडिया काउन्सिल विधेयकमा प्रेस स्वतन्त्रता र स्वनियमनमा जोड",
+      "summary": "बर्दियामा जबर्जस्ती करणी प्रयास र जबर्जस्ती करणीका दुई छुट्टाछुट्टै घटना सार्वजनिक भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/separate-rape-incidents-in-banke-bardiya-accused-arrested-one-absconding-84-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784470130_pakrau-480x320.jpg"
+    },
+    {
+      "title": "सदनमा आक्रमक हर्कका बालेन सरकारलाई प्रश्नै प्रश्न",
+      "summary": "सुन्दरहरैँचा नगरपालिकाको हाल वडा नम्बर १२ मा रहेको केन्द्रलाई वडा नम्बर ८, साविक मृगौलिया–९ मा सार्ने नगरसभाको सिफारिसलाई स्वीकृत गर्ने निर्णय भएको आर्थिक मामिला तथा योजनामन्त्री विदुरकुमार लिङ्थेपले जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/koshi-government-approves-relocation-of-sundar-haraincha-center-81-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1783945584_KoshiPradesh-480x320.jpg"
+    },
+    {
+      "title": "जेन-जी आन्दोलनमा बल प्रयोगबारे गगन भन्छन्: अझै स्पष्ट उत्तर भेटिएको छैन",
+      "summary": "पाकिस्तानको ‘ब्रोड पिक’ हिमाल आरोहणका क्रममा हिमपहिरोमा परेर ज्यान गुमाएका आरोहीको चीरशान्तिको कामना गर्दै ठमेलमा दीप प्रज्वलन गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/candlelight-vigil-in-memory-of-climber-who-lost-his-life-on-broad-peak-53-37.html?click_from=just_in",
       "image_url": ""
     }
   ]
