@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-08T13:03:03.325102",
+  "scraped_at": "2026-08-08T16:42:01.467071",
   "date": "2026-08-08",
-  "total_articles": 60,
+  "total_articles": 68,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -486,6 +486,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/trained-dogs-deployed-to-search-for-missing-former-mayor-70-75.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Prime Minister Shah to meet Indian, Chinese envoys on Monday, US Chargé d’Affaires next day",
+      "summary": "After completing 100 days in office, the prime minister has adopted a policy of engaging individually with key domestic and diplomatic stakeholders.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/08/prime-minister-shah-to-meet-indian-chinese-envoys-on-monday-us-charg-d-affaires-next-day",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1786200529.jpg&w=300&height=200"
+    },
+    {
+      "title": "Hetauda textile factory’s looms whir again after 24 years",
+      "summary": "A Nepal Army-led test run has revived the state-owned factory, but restarting commercial production will require major investment and modern machinery.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/08/hetauda-textile-factory-s-looms-whir-again-after-24-years",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/photokapada308820261147281000x0-1786199069.jpg&w=300&height=200"
+    },
+    {
+      "title": "NPL Season 3 to begin on October 26, final on November 21",
+      "summary": "Even as dates have been announced, the fixtures are yet to be out.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/08/08/npl-season-3-to-begin-on-october-26-final-on-november-21",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1786202351.jpg&w=300&height=200"
+    },
+    {
+      "title": "अनुसन्धान, नवप्रवर्तन र आविष्कारलाई सरकारले प्राथमिकता दिएको छ : मन्त्री पुन",
+      "summary": "विज्ञान, प्रविधि तथा नवप्रवर्तनमन्त्री महावीर पुनले नेपालको समृद्धिका लागि सरकारले अनुसन्धान, नवप्रवर्तन र आविष्कारलाई प्राथमिकतामा राखेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-has-prioritized-research-innovation-and-discovery-minister-pun-39-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771563595_Mahabir Pun 56-480x320.jpg"
+    },
+    {
+      "title": "बागमतीमा सत्ता जोगाउन कांग्रेसको कसरत",
+      "summary": "थाइल्यान्डमा आयोजित नवौँ हिरोज अन्तर्राष्ट्रिय तेक्वान्दो च्याम्पियनसिपमा नेपालका शुभम रायमाझीले कास्य पदक जितेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/shubham-rayamajhi-wins-bronze-medal-in-thailand-br-80-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786204879_Subham-480x320.jpg"
+    },
+    {
+      "title": "भावुक हुँदै रेशम चौधरीले भने: पहिचान माग्दा जेल, हतकडी र नेल पायौँ",
+      "summary": "उद्योग तथा व्यवसाय क्षेत्रको संरक्षण र पुनरुत्थानका लागि मोरङ व्यापार संघले नेपाल राष्ट्र बैंकका गभर्नर डा. विश्वनाथ पौडेललाई सुझावपत्र बुझाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/morang-trade-association-submits-suggestion-to-governor-for-revival-of-industrial-sector-69-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786203051_Gavernar-480x320.jpg"
+    },
+    {
+      "title": "संघीयता र गणतन्त्र नै प्रश्नको घेरामा परे: जनार्दन शर्मा",
+      "summary": "लगातारको वर्षाका कारण पहिरो खसेर अवरुद्ध भएको खोटाङको साकेला गाउँपालिका–३ स्थित ढाडे–मानेभञ्ज्याङ सडक जनश्रमदानबाट सुचारु गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/dhade-manebhanjyang-road-reopened-thanks-to-public-donations-br-59-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786201980_Shramdan-480x320.jpg"
+    },
+    {
+      "title": "पार्टी एकता हुन्छ भने महामन्त्री पद छाड्न तयार छु : प्रदीप पौडेल",
+      "summary": "विज्ञान, प्रविधि तथा नवप्रवर्तनमन्त्री महावीर पुनले नेपालको समृद्धिका लागि सरकारले अनुसन्धान, नवप्रवर्तन र आविष्कारलाई प्राथमिकतामा राखेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-has-prioritized-research-innovation-and-discovery-minister-pun-39-11.html?click_from=just_in",
       "image_url": ""
     }
   ]
