@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-08-08T02:05:52.032970",
+  "scraped_at": "2026-08-08T05:04:13.347691",
   "date": "2026-08-08",
-  "total_articles": 34,
+  "total_articles": 48,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -279,6 +279,118 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/more-than-61-000-cases-registered-in-nepal-in-one-year-an-average-of-167-crimes-registered-daily-62-52.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "न्ने क्षेत्रमै संकट, श्रमिक विदेश पठाउन बन्द !",
+      "summary": "न्ने क्षेत्रमै संकट, श्रमिक विदेश पठाउन बन्द !",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13468",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Manpower-1786157856.jpg"
+    },
+    {
+      "title": "दि थुनिएर ताल बन्यो, स्थानीय जाग्राम बस्न बाध्य",
+      "summary": "दि थुनिएर ताल बन्यो, स्थानीय जाग्राम बस्न बाध्य",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13467",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Basti-Jokhimma-1786157612.jpg"
+    },
+    {
+      "title": "न प्रवद्र्धनमा जोड, दोलखामा स्वास्थ्य सचेतना",
+      "summary": "न प्रवद्र्धनमा जोड, दोलखामा स्वास्थ्य सचेतना",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13464",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Saptaha-Biswa-stanpan---1786073076.jpg"
+    },
+    {
+      "title": "Concerns grow over foreign employment as Nepali agencies halt process",
+      "summary": "The suspension will disrupt Nepali youths’ migration for jobs abroad and could affect remittance inflows, a key source for Nepal’s economy.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/08/concerns-grow-over-foreign-employment-as-nepali-agencies-halt-process",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Migrantworkers-1786152714.jpg&w=300&height=200"
+    },
+    {
+      "title": "Thapathali hospital cuts neonatal deaths by over two-thirds in five years",
+      "summary": "Additional doctors and nurses, better neonatal care, and wider use of mothers’ milk helped reduce deaths from eight to 2.5 per 1,000 live births.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/08/08/thapathali-hospital-cuts-neonatal-deaths-by-over-two-thirds-in-five-years",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Thapathalihospital-1786153398.jpg&w=300&height=200"
+    },
+    {
+      "title": "Pitch overhaul in progress for NPL and U19 World Cup",
+      "summary": "While curators strip Kirtipur’s clay to give pacers a fighting chance in the NPL before tight deadlines take over, Mulpani’s grounds have the luxury of time ahead of the U19 World Cup.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/08/08/pitch-overhaul-in-progress-for-npl-and-u19-world-cup",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/Tucricketground08072026J2A7136copy-1786154149.jpg&w=300&height=200"
+    },
+    {
+      "title": "Sarlahi farmers finally home, but the fertiliser crisis remains",
+      "summary": "The arrest of Suresh Prasad Singh and Nagendra Prasad Singh while carrying fertiliser for personal use has renewed debate over Nepal’s failure to ensure timely supplies of vital farm inputs.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/07/sarlahi-farmers-finally-home-but-the-fertiliser-crisis-remains",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/2brothercopy-1786121482.jpg&w=600&height=400"
+    },
+    {
+      "title": "Exhibit review: In ‘Dialogue and Perception’, colour does all the talking",
+      "summary": "Every year Nepal experiences a climate disaster, but it fails to unlock the finance it deserves.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/08/08/exhibit-review-in-dialogue-and-perception-colour-does-all-the-talking",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/Tucricketground08072026J2A7136copy-1786154149.jpg&w=400&height=267"
+    },
+    {
+      "title": "Book review: The nurse who chose Jumla over the world",
+      "summary": "From cremation ghats and Ganga Aarti to architecture and portraiture, Lalitkala Campus artists transform a shared study trip into distinct visual narratives.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/08/08/book-review-the-nurse-who-chose-jumla-over-the-world",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Nepse-1786153786.jpg&w=400&height=267"
+    },
+    {
+      "title": "EVENTS: August 8 to August 14, 2026",
+      "summary": "At The Kalā Salon, Sagar Manandhar’s newest body of abstract paintings is a conversation where colour, texture and rhythm become languages of their own.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/08/08/events-august-8-to-august-14-2026",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Thapathalihospital-1786153398.jpg&w=400&height=267"
+    },
+    {
+      "title": "How Miss Nepal Cosmo 2026 Kashis Subba turned self-doubt into confidence",
+      "summary": "Radha Paudel’s Jumla: A Nurse’s Story is a powerful account of war, poverty and the moral question of where our skills are most needed.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/08/07/how-miss-nepal-cosmo-2026-kashis-subba-turned-self-doubt-into-confidence",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Migrantworkers-1786152714.jpg&w=400&height=267"
+    },
+    {
+      "title": "अप्ठेरो छिचोलेर मात्र प्रगति सम्भव छ : निलाम्बर आचार्य",
+      "summary": "नेपालमा सडक दुर्घटनाको अवस्था झन् गम्भीर बन्दै गएको प्रहरीको तथ्यांकले देखाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/82-road-accidents-daily-in-nepal-average-of-7-deaths-82-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1758507394_1628652568_nepal police final2-1200x560-wm (1)-1200x560-480x320.jpg"
+    },
+    {
+      "title": "केही राष्ट्रिय उद्योगमा आशालाग्दा परिणाम देखिन थालेको प्रधानमन्त्री शाहको दाबी",
+      "summary": "श्रावणलाई भगवान् शिवको प्रिय महिना मानिन्छ। ‘शिव’ शब्दको अर्थ नै कल्याण हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/shiva-devotion-fasting-and-worship-and-eternal-philosophy-of-life-br-73-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786163647_Aastha 96-480x320.jpg"
+    },
+    {
+      "title": "अत्यावश्यक क्षेत्रमा सहुलियत दिनुपर्नेमा उल्टै १३ प्रतिशत भ्याट लगाउने सरकारको कदम गलत : कुलमान",
+      "summary": "नेपाली उत्पादन तथा सेवालाई खाडी मुलुक ओमानमा विस्तार गर्ने उद्देश्यले निर्यात व्यवसायी महासंघ र ओमानस्थित गैरआवासीय नेपाली सोसल क्लबबिच समझदारी भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/diaspora/agreement-to-expand-the-market-for-nepali-products-in-oman-86-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786163474_Oman-480x320.jpg"
     }
   ]
 }
