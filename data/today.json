@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-08T05:04:13.347691",
+  "scraped_at": "2026-08-08T08:51:14.350180",
   "date": "2026-08-08",
-  "total_articles": 48,
+  "total_articles": 56,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -391,6 +391,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/diaspora/agreement-to-expand-the-market-for-nepali-products-in-oman-86-50.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786163474_Oman-480x320.jpg"
+    },
+    {
+      "title": "Nepse falls 35 points, wiping Rs70 billion off market value",
+      "summary": "The benchmark index dropped 35.45 points or 1.32 percent, last week as selling pressure pulled down 11 of Nepse’s 13 sectoral indices.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/08/08/nepse-falls-35-points-wiping-rs70-billion-off-market-value",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/CodeGeneratedImage21-1786169905.png&w=300&height=200"
+    },
+    {
+      "title": "Rabies outbreak prompts veterinary response in Panchthar",
+      "summary": "More than 40 livestock and other domestic animals have died from the disease, leading experts to inspect affected settlements and begin vaccinating animals.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/08/08/rabies-outbreak-prompts-veterinary-response-in-panchthar",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/rebijtest03820261258541000x008820260636161000x0-1786176428.jpg&w=300&height=200"
+    },
+    {
+      "title": "Six health workers attacked, hospital vandalised in Kalikot",
+      "summary": "A dispute over children playing video games at Palata Hospital turned violent, with staff attacked in the afternoon and again at night.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/08/six-health-workers-attacked-hospital-vandalised-in-kalikot",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/palatahospitalkalikotphoto08820260535381000x0-1786168929.jpg&w=600&height=400"
+    },
+    {
+      "title": "मधेश केन्द्रित ७ दलद्वारा ‘अग्रगामी मोर्चा’ घोषणा",
+      "summary": "तत्कालीन माओवादी केन्द्रका उपमहासचिव जनार्दन शर्मा र राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) छाडेका सन्तोष परियार आबद्ध प्रगतिशील लोकतान्त्रिक पार्टीसमेत मोर्चामा सहभागी भएको जनाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/seven-madhesh-centric-parties-announce-progressive-front-57-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786178780_23 000-480x320.jpg"
+    },
+    {
+      "title": "अग्रगामी मोर्चा सत्ता प्राप्तिका लागि होइन, संविधानको रक्षाका लागि हो: सीके राउत",
+      "summary": "अग्रगामी मोर्चाको उद्घाटन समारोहलाई सम्बोधन गर्दै राउतले विगतका राजनीतिक आन्दोलनमा पनि राजनीतिक मतभेदलाई केही समयका लागि थाती राखेर परिवर्तनका लागि शक्तिहरू एकजुट भएको बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/progressive-front-is-not-for-gaining-power-but-for-protecting-the-constitution-ck-raut-br-62-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786177357_ckkk-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री शाहलाई महासचिव पोखरेलले भने : एक्लो भएको चिन्ता छाड्नुहोस्, कार्यशैली बदल्नुहोस्!",
+      "summary": "फिलिपिन्सकी टेनिस खेलाडी एलेक्स एला क्यानडाको टोरोन्टोमा जारी डब्लूटीए नेसनल बैंक ओपनको अन्तिम १६ मा प्रवेश गरेकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/despite-injury-ella-reaches-last-16-of-toronto-open-91-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786176850_eala-480x320.jpg"
+    },
+    {
+      "title": "प्रज्ञा प्रतिष्ठानका नियुक्तिमा सुशासन र निष्पक्षताको झल्को देखिएन : भीम रावल",
+      "summary": "आफूविरुद्ध आफैं अभियानको छैटौ श्रृङ्खलामा कवि आर एम डङ्गेल प्रस्तुत भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/poet-r-m-dangel-in-the-sixth-series-of-the-campaign-against-himself-br-12-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786177002_hit 98-480x320.jpg"
+    },
+    {
+      "title": "'एक्लै छु' भन्ने प्रधानमन्त्री शाहलाई मनिषको जवाफ : सरकारमा कोही एक्लो छैन",
+      "summary": "तत्कालीन माओवादी केन्द्रका उपमहासचिव जनार्दन शर्मा र राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) छाडेका सन्तोष परियार आबद्ध प्रगतिशील लोकतान्त्रिक पार्टीसमेत मोर्चामा सहभागी भएको जनाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/seven-madhesh-centric-parties-announce-progressive-front-57-27.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
