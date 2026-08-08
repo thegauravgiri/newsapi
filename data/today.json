@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-08T08:51:14.350180",
+  "scraped_at": "2026-08-08T13:03:03.325102",
   "date": "2026-08-08",
-  "total_articles": 56,
+  "total_articles": 61,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -454,6 +454,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/seven-madhesh-centric-parties-announce-progressive-front-57-27.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "बेपत्ता पूर्वमेयर खोज्न तालिमप्राप्त कुकुर परिचालन",
+      "summary": "कपिलवस्तु नगरपालिकाका पूर्वमेयर किरण सिंह गोरुसिङ्गे जंगलमा सम्पर्कविहीन भएपछि उनको खोजीका लागि तालिमप्राप्त कुकुर परिचालन गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/trained-dogs-deployed-to-search-for-missing-former-mayor-70-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786192493_tt-480x320.jpg"
+    },
+    {
+      "title": "मोहन बस्नेत भन्छन्- गगनलाई चुनावमा सहयोग नगरेकै हो, जे सक्छौं गर",
+      "summary": "नेपाली कांग्रेसका नेता मोहनबहादुर बस्नेतले पार्टी सभापति गगन थापाविरुद्ध आफूले निर्वाचनमा ‘खुला घात’ गरेको बताएका छन्। उनले आफूले लुकाएर नभई सार्वजनिक रूपमै थापालाई सहयोग नगरेको दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/gagan-thapa-was-openly-attacked-not-assassinated-mohan-basnet-br-87-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762938040_mohan_basnet-480x320.jpg"
+    },
+    {
+      "title": "देश बनाउन सबैको साथ चाहिन्छ : रास्वपा महामन्त्री आचार्य",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का महामन्त्री विपिनकुमार आचार्यले देश निर्माण कुनै एक व्यक्ति वा सीमित सांसदको प्रयासबाट मात्रै सम्भव नहुने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/everyone-s-support-is-needed-to-build-the-country-rashtriya-swayamsevak-sangh-rss-general-secretary-acharya-br-78-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782455742_BIPEn-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाका महामन्त्री भन्छन्: अब गाली गरेर हुँदैन, जवाफ दिन काम गर्नुपर्छ",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का महामन्त्री विपिनकुमार आचार्यले देश निर्माण कुनै एक व्यक्ति वा सीमित समूहको प्रयासले मात्र सम्भव नहुने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rashtriya-swayamsevak-sangh-rss-general-secretary-says-now-it-s-time-to-stop-insulting-people-we-need-to-work-to-respond-38-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786191134_Bipin-480x320.jpg"
+    },
+    {
+      "title": "पाटन बारका तीन समूहबीच प्रतिस्पर्धा हुँदै",
+      "summary": "कपिलवस्तु नगरपालिकाका पूर्वमेयर किरण सिंह गोरुसिङ्गे जंगलमा सम्पर्कविहीन भएपछि उनको खोजीका लागि तालिमप्राप्त कुकुर परिचालन गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/trained-dogs-deployed-to-search-for-missing-former-mayor-70-75.html?click_from=just_in",
       "image_url": ""
     }
   ]
