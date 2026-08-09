@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-09T08:52:55.079480",
+  "scraped_at": "2026-08-09T13:05:55.103355",
   "date": "2026-08-09",
-  "total_articles": 46,
+  "total_articles": 51,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -374,6 +374,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/fear-of-typhoon-dolphin-in-china-60-percent-of-flights-canceled-in-shanghai-high-alert-adopted-37-30.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "सरकारप्रति रास्वपा सभापति लामिछानेका असन्तुष्टि: सरकारले बाटो बिराए पार्टीले ‘कान समाउँछ’",
+      "summary": "इजरायली प्रधानमन्त्री बेन्जामिन नेतान्याहूले अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पको गाजासम्बन्धी १५ बुँदे शान्ति सम्झौतालाई अस्वीकार गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/netanyahu-rejects-trump-s-15-point-gaza-deal-br-69-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786280375_trump netanehu-480x320.jpg"
+    },
+    {
+      "title": "'ऐतिहासिक आन्दोलनमा आदिवासी जनजाति समुदायको योगदान महत्वपूर्ण'",
+      "summary": "‘हामीलाई समय दिनुस्’ भन्ने राजनीतिक आग्रह त्यतिबेला मात्रै विश्वसनीय हुन्छ, जब सरकारसँग देखाउन मिल्ने प्रारम्भिक परिणाम, स्पष्ट प्राथमिकता र मापन गर्न सकिने लक्ष्य हुन्छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsp-president-lamichhane-s-dissatisfaction-with-the-government-the-party-will-cover-up-if-the-government-goes-astray-75-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786280202_Rabi_Balen final-480x320.jpg"
+    },
+    {
+      "title": "‘छिमेकी चिड्याएर बालेन सरकार देशलाई खतरमा पार्दैछ’",
+      "summary": "सुदूरपश्चिम रोयल्सले एनपीएल २०२६ का लागि इंग्ल्यान्डका अलराउन्डर सेफ अली जैबलाई आफ्नो पहिलो विदेशी खेलाडीका रूपमा अनुबन्ध गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/england-s-jab-returns-to-sudurpaschim-royals-br-82-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786278511_saif ali zaib-480x320.jpg"
+    },
+    {
+      "title": "२०४८ सालमा गिरिजाले गरेको आँटबाट सिक्न बालेनलाई गगनको सुझाव",
+      "summary": "उपराष्ट्रपति यादवले नेपालका परिवर्तनकारी ऐतिहासिक आन्दोलनमा आदिवासी जनजाति समुदायको महत्वपूर्ण योगदान र बलिदान रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-contribution-of-indigenous-communities-to-the-historic-movement-is-significant-49-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786277573_ramsahaya yadav-480x320.jpg"
+    },
+    {
+      "title": "सामान्य सुधारलाई सरकारले ‘चमत्कार’ मान्यो: सभापति थापा",
+      "summary": "इजरायली प्रधानमन्त्री बेन्जामिन नेतान्याहूले अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पको गाजासम्बन्धी १५ बुँदे शान्ति सम्झौतालाई अस्वीकार गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/netanyahu-rejects-trump-s-15-point-gaza-deal-br-69-20.html?click_from=just_in",
       "image_url": ""
     }
   ]
