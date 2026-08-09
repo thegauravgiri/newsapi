@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-08-09T13:05:55.103355",
+  "scraped_at": "2026-08-09T16:43:55.560188",
   "date": "2026-08-09",
-  "total_articles": 51,
+  "total_articles": 58,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -415,6 +415,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/netanyahu-rejects-trump-s-15-point-gaza-deal-br-69-20.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "ामा पर्यटन वर्षको बहारः ‘शून्य फोहोर’ अभियान",
+      "summary": "ामा पर्यटन वर्षको बहारः ‘शून्य फोहोर’ अभियान",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13475",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/sunya-fohor-abhiyan--1786245838.jpg"
+    },
+    {
+      "title": "Who owns basmati? Nepal enters a global battle over a prized grain",
+      "summary": "As India and Pakistan compete for geographical indication rights, Nepal is drafting its first GI law to protect products from basmati rice to Ilam tea.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/08/09/who-owns-basmati-nepal-enters-a-global-battle-over-a-prized-grain",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/basmatimain-1786245240.jpg&w=300&height=200"
+    },
+    {
+      "title": "Bardiya’s rhinos are crossing into India for water and greener pastures",
+      "summary": "Around 20 rhinos are believed to have crossed the border over the past two years.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/09/bardiya-s-rhinos-are-crossing-into-india-for-water-and-greener-pastures",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/rhaino09820261247051000x0-1786289907.jpg&w=300&height=200"
+    },
+    {
+      "title": "संविधानका उपलब्धिमाथि सरकारबाटै प्रश्न उठ्यो : आङ्देम्बे",
+      "summary": "काभ्रेपलाञ्चोकको दोलालघाटस्थित सुनकोशी नदीमा हाम फालेर चार दिनदेखि बेपत्ता दम्पतिमध्ये पत्नी तिलकुमारीको शव फेला परेको छ। उनको शव आज ओखलढुङ्गामा फेला परेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/body-of-wife-found-among-missing-couple-in-sunkoshi-38-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786292440_nadi-480x320.jpg"
+    },
+    {
+      "title": "‘१५ महाधिवेशनमा सबैको कांग्रेस बनाउनुपर्छ’",
+      "summary": "ग्यासको कालोबजारी गर्ने कार्यमा संलग्न रहेको अभियोगमा भक्तपुरको चाँगुनारायण नगरपालिका-२ दुवाकोटबाट एक जना पक्राउ परेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-arrested-for-gas-black-marketing-35-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785839155_gas cylinder-480x320.jpg"
+    },
+    {
+      "title": "‘संविधान संशोधन गरेर आदिवासी, जनजाति र सीमान्तकृतका हकहितका विषय समेटिनुपर्छ’",
+      "summary": "यही साउन २८ गतेदेखि स्वयम्भूमा लाग्ने एकमहिने मेलालाई व्यवस्थित बनाउन स्वयम्भूमा तथा त्यस आसपास क्षेत्रमा सरसफाइ गरिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/cleanliness-at-swayambhu-a-world-heritage-site-26-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786292256_syambu-480x320.jpg"
+    },
+    {
+      "title": "लुम्बिनी सरकारले सुस्तामा भूमि कटान रोकथाम गर्न सहयोग गर्ने",
+      "summary": "सिरहाको कर्जन्हामा बोलबमका श्रद्धालु भक्तजन सवार ट्याक्टर पल्टिँदा १५ जना घाइते भएका छन्। घाइतेमध्ये १३ वर्षीय एक बालकको अवस्था गम्भीर रहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/15-injured-as-tractor-carrying-bolbom-devotees-overturns-in-siraha-37-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786290784_bol-480x320.jpg"
     }
   ]
 }
