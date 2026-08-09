@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-08-09T02:17:28.740757",
+  "scraped_at": "2026-08-09T05:11:25.703627",
   "date": "2026-08-09",
-  "total_articles": 33,
+  "total_articles": 40,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -270,6 +270,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/marchwarimai-emphasizes-social-development-along-with-infrastructure-62-53.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "्टिभ वितरण नहुँदा सेवा ठप्प, मर्कामा सर्वसाधारण विरामी",
+      "summary": "्टिभ वितरण नहुँदा सेवा ठप्प, मर्कामा सर्वसाधारण विरामी",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13469",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Nagariklai-Shas-1786158110.jpg"
+    },
+    {
+      "title": "Home Minister Sudan Gurung on police firing, Gen Z justice, religious tensions and the criticism he faces",
+      "summary": "In an exclusive interview, Gurung addresses controversies surrounding him, the challenges of modern crowd control, and his vision for institutionalising the ministry.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/interviews/2026/08/08/home-minister-sudan-gurung-on-police-firing-gen-z-justice-religious-tensions-and-the-criticism-he-faces",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/sudhangurunghomeminister07copy08820260417391000x0-1786202713.jpg&w=300&height=200"
+    },
+    {
+      "title": "स्थिर सरकार र नीतिबिना उद्यमशीलताको विकास सम्भव छैन : रवि लामिछाने",
+      "summary": "जिल्लाको प्रख्यात तीर्थस्थल गोसाइँकुण्डमा हरेक वर्ष जनैपूर्णिमाका दिन लाग्ने मेलालाई लक्षित गरी तीव्र गतिमा तयारी थालिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/preparations-for-janai-purnima-fair-in-gosainkunda-72-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1748794621_gosaikunda-480x320.jpg"
+    },
+    {
+      "title": "तीनबुँदे सहमतिअनुसार कर्णालीमा मन्त्रिपरिषद् विस्तार हुँदै",
+      "summary": "चेल्सीले शनिबार इन्डोनेसियामा भएको पूर्वसिजन मैत्रीपूर्ण खेलमा एसी मिलानलाई ३–० ले पराजित गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/chelsea-s-stunning-win-in-indonesia-defeating-ac-milan-3-0-br-58-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786251540_Chelsea-480x320.jpg"
+    },
+    {
+      "title": "विश्व आदिवासी दिवसले न्यायका लागि जारी संघर्षलाई अझ अघि बढाउन प्रेरणा प्रदान गरोस् : दाहाल",
+      "summary": "सत्तारूढ दल राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले नेपालमा उद्यमशीलता र निजी क्षेत्रको विकासका लागि राजनीतिक संरक्षणभन्दा स्थिर सरकार र स्थिर नीति आवश्यक रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/entrepreneurship-development-is-not-possible-without-a-stable-government-and-policies-chairman-ravi-lamichhane-br-50-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1782210950_Rabi_Lamichhane-480x320.jpg"
+    },
+    {
+      "title": "विश्व आदिवासी दिवसको शुभकामना दिँदै सरकारलाई महासचिव पोखरेलको तीन बुँदे सुझाव",
+      "summary": "सुनसरीको देवानगञ्ज वडा नं. ३ को कप्तानगञ्जमा भएको घटनामा संलग्न भएको आरोपमा केही व्यक्तिहरू पक्राउ परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/four-people-arrested-for-alleged-involvement-in-kaptanganj-incident-68-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786251327_sunsari police-480x320.jpg"
+    },
+    {
+      "title": "आङदेम्बेको चेतावनी : संघीयता र समावेशिताका उपलब्धि समाप्त गर्ने प्रयास स्वीकार्य छैन",
+      "summary": "जिल्लाको प्रख्यात तीर्थस्थल गोसाइँकुण्डमा हरेक वर्ष जनैपूर्णिमाका दिन लाग्ने मेलालाई लक्षित गरी तीव्र गतिमा तयारी थालिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/preparations-for-janai-purnima-fair-in-gosainkunda-72-86.html?click_from=just_in",
       "image_url": ""
     }
   ]
