@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-09T05:11:25.703627",
+  "scraped_at": "2026-08-09T08:52:55.079480",
   "date": "2026-08-09",
-  "total_articles": 41,
+  "total_articles": 47,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -334,6 +334,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/preparations-for-janai-purnima-fair-in-gosainkunda-72-86.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal’s migrant labour system runs through manpower agencies. So do many of its abuses",
+      "summary": "Recruiters say flawed government policies and weak regulation are to blame, while officials accuse agencies of routinely violating foreign employment laws.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/09/nepal-s-migrant-labour-system-runs-through-manpower-agencies-so-do-many-of-its-abuses",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/TIA-1786248031.jpg&w=300&height=200"
+    },
+    {
+      "title": "आदिवासीका अधिकार कार्यान्वयन गर्न कांग्रेस प्रतिबद्ध छ : सभापति थापा",
+      "summary": "चीनमा प्रवेश गर्नुअघि ‘डल्फिन’ आँधीले जापानको दक्षिणी ओकिनावा प्रान्तमा क्षति पुर्‍याएको थियो, जसमा छ जना घाइते भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/fear-of-typhoon-dolphin-in-china-60-percent-of-flights-canceled-in-shanghai-high-alert-adopted-37-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786262419_China-480x320.jpg"
+    },
+    {
+      "title": "सिंहदरबारको नाम फेर्नुपर्ने भनेपछि श्रेष्ठको कटाक्ष : जसको मनमा हरि छैन उसको नाम हरि! गोबर राखे हुन्न ?",
+      "summary": "विश्व आदिवासी दिवसको अवसरमा शुभकामना सन्देश दिँदै सभापति थापाले संविधानले सुनिश्चित गरेका आदिवासी जनजातिका अधिकारलाई व्यवहारमै पूर्ण रूपमा कार्यान्वयन गर्नुपर्नेमा जोड दिएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-is-committed-to-implementing-the-rights-of-indigenous-people-president-thapa-br-21-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781353643_30 gagan-480x320.jpg"
+    },
+    {
+      "title": "नेपालमा सिंह नभएकाले ‘सिंहदरबार’ नाम उपयुक्त छैन : हरि ढकाल",
+      "summary": "तनहुँमा आर्थिक आत्मनिर्भरता, सामाजिक चेतना र व्यक्तिगत स्वतन्त्रताप्रतिको बुझाइ विस्तार भएसँगै सम्बन्धविच्छेदका मुद्दा पनि बढ्दै गएका पाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/divorce-cases-have-also-increased-with-financial-independence-22-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786262164_divorce-480x320.jpg"
+    },
+    {
+      "title": "जनसङ्घर्षबाट प्राप्त अधिकार सशक्त बनाउनु आजको आवश्यकता : संयोजक दाहाल",
+      "summary": "आईसीसी क्रिकेट विश्वकप लिग–२ अन्तर्गत आज स्कटल्यान्ड र संयुक्त अरब इमिरेट्स (यूएई)बीच महत्वपूर्ण खेल हुँदैछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/a-do-or-die-game-for-uae-pressure-to-win-against-scotland-49-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785720833_scotland cricket team-480x320.jpg"
+    },
+    {
+      "title": "पार्टीभित्र विवादको हल्ला ‘विकेन्डका स्न्याक्स’ : सभापति लामिछाने",
+      "summary": "चीनमा प्रवेश गर्नुअघि ‘डल्फिन’ आँधीले जापानको दक्षिणी ओकिनावा प्रान्तमा क्षति पुर्‍याएको थियो, जसमा छ जना घाइते भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/fear-of-typhoon-dolphin-in-china-60-percent-of-flights-canceled-in-shanghai-high-alert-adopted-37-30.html?click_from=just_in",
       "image_url": ""
     }
   ]
