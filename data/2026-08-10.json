@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-10T05:38:42.936253",
+  "scraped_at": "2026-08-10T09:40:29.457984",
   "date": "2026-08-10",
-  "total_articles": 40,
+  "total_articles": 49,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -326,6 +326,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-price-fell-today-50-49.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ाट डिजिटल भुक्तानी गर्दा दैनिक १ लाख र बम्परमा १० लाख जित्न सकिने",
+      "summary": "ाट डिजिटल भुक्तानी गर्दा दैनिक १ लाख र बम्परमा १० लाख जित्न सकिने",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13484",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/mnemonic-1786348754.png"
+    },
+    {
+      "title": "धारणको रकम गरिमा विकास बैंकले झ्वाम पार्दै, झ्वाम पार्ने को–को ?",
+      "summary": "धारणको रकम गरिमा विकास बैंकले झ्वाम पार्दै, झ्वाम पार्ने को–को ?",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13480",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/garima-bank-1786334574.jpg"
+    },
+    {
+      "title": "Prime Minister Shah breaks with self-imposed rule, meets Indian ambassador one-on-one",
+      "summary": "The meeting marks a shift from Shah’s earlier practice of engaging foreign envoys collectively, with separate meetings planned with Chinese and US diplomats.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/10/prime-minister-shah-breaks-with-self-imposed-rule-meets-indian-ambassador-one-on-one",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/2fca94bad7ec49fdaf799a3ae9fcd9fe-1786343861.jpg&w=300&height=200"
+    },
+    {
+      "title": "International Tibetan studies conference moved online",
+      "summary": "Kathmandu University was instructed to cancel the week-long conference amid security concerns and reported pressure from China, prompting organisers to take the event online.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/10/international-tibetan-studies-conference-moved-online",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1786338213.jpg&w=300&height=200"
+    },
+    {
+      "title": "ढल्केबरमा ट्रमा सेन्टर निर्माण प्रक्रिया अघि बढिसकेको छ : मन्त्री मेहता",
+      "summary": "मन्त्री मेहताले ढल्केबरमा क्रिटिकल केयर तथा ट्रमा सेन्टर निर्माणको प्रक्रिया अघि बढिसकेको बताइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/construction-of-dhalkebar-s-trauma-center-will-not-be-stopped-trauma-unit-to-be-immediately-operational-in-lahan-br-53-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786354139_nisha-480x320.jpg"
+    },
+    {
+      "title": "ज्ञानेन्द्र शाहीको चुनौती- मदिरा पिएको प्रमाणित भए सांसद पद त्याग्न तयार छु",
+      "summary": "राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) का सांसद ज्ञानेन्द्र शाहीले आफ्नो चरित्र हत्या गर्ने उद्देश्यले अश्लील भिडियो र मदिरा सेवनको भ्रामक प्रचार गरिएको भन्दै त्यसको सत्यता प्रमाणित भए सांसद पद त्याग्न तयार रहेको घोषणा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/gyanendra-shahi-s-challenge-i-am-ready-to-resign-as-mp-if-proven-to-have-been-drunk-85-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786353891_gya-480x320.jpg"
+    },
+    {
+      "title": "बीपीसँग बालेनको तुलना: बीपीले पनि कालो चस्मा लगाउँथे तर सोच कालो थिएन",
+      "summary": "उनले हटाउनुपर्ने ‘कालो चस्मा’ नभई मनमा बसेको विभेदकारी सोच भएको बताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/balen-compared-to-bp-bp-also-wore-dark-glasses-but-his-thinking-was-not-dark-92-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786353679_BP_Balen-480x320.jpg"
+    },
+    {
+      "title": "सांसद निष्कलले भने: मातृभाषा, पहिचान र भाषिक अधिकारका विषयमा राज्य अझै संवेदनशील हुनुपर्छ",
+      "summary": "चितवन राष्ट्रिय निकुञ्जको हात्ती प्रजनन केन्द्र र कसरामा रहेको गोही प्रजनन केन्द्रमा पर्यटकका लागि निःशुल्क प्रवेश सुविधा प्रदान गरिने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/no-fee-to-visit-elephant-and-crocodile-breeding-center-now-95-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786353616_hatti prajanan kendra elephant-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री ज्यू! सरकारी संयन्त्रको बाइपास किन ?",
+      "summary": "मन्त्री मेहताले ढल्केबरमा क्रिटिकल केयर तथा ट्रमा सेन्टर निर्माणको प्रक्रिया अघि बढिसकेको बताइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/construction-of-dhalkebar-s-trauma-center-will-not-be-stopped-trauma-unit-to-be-immediately-operational-in-lahan-br-53-79.html?click_from=just_in",
       "image_url": ""
     }
   ]
