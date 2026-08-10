@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-10T13:24:55.841148",
+  "scraped_at": "2026-08-10T17:00:13.579663",
   "date": "2026-08-10",
-  "total_articles": 56,
+  "total_articles": 64,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -454,6 +454,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/shrestha-s-complaint-to-the-government-news-of-arrests-and-criminal-cases-raise-questions-about-the-investment-environment-26-31.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepali families paid millions to send their sons to US. They ended up in jail",
+      "summary": "In Rukum East, families are still paying the price for perilous journeys to the United States, with young men stranded in detention and parents buried under crushing debt.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/10/nepali-families-paid-millions-to-send-their-sons-to-us-they-ended-up-in-jail",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/pokharavillage-1786334200.jpg&w=300&height=200"
+    },
+    {
+      "title": "Bajhang traders resume Taklakot trade after seven years",
+      "summary": "Forty-three traders have made a gruelling six-day journey across the 5,200-metre Urai Pass to sell traditional baskets, handicrafts, spices and other local products, reviving a centuries-old trade between Nepal and Tibet.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/10/bajhang-traders-resume-taklakot-trade-after-seven-years",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/taklakotbyapar110820261133161000x0-1786374533.jpg&w=300&height=200"
+    },
+    {
+      "title": "CAN hands Lamichhane ODI reins ahead of ACC Premier Cup",
+      "summary": "As CAN reinstates the leg-spinner ahead of the ACC Premier Cup in Malaysia, Nepal’s ongoing struggles in CWC League 2 frame a broader global trend of Associate leadership shifts.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/08/10/can-hands-lamichhane-odi-reins-ahead-of-acc-premier-cup",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/sandeep18520260740531000x0110820260245031000x0-1786372449.jpg&w=600&height=400"
+    },
+    {
+      "title": "आफ्नो भनाईलाई सच्याउँदै आफैँलाई बचाउँदै हरि ढकाल",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)का सहमहामन्त्री एवं सांसद हरी ढकालले सिंहदरबारबारे आफूले दिएको अभिव्यक्तिको बचाउ गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/hari-dhakal-defends-himself-by-correcting-his-statement-24-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768215752_hari_dhakal-480x320.jpg"
+    },
+    {
+      "title": "बालेन सरकारप्रति असन्तुष्ट प्रचण्ड, दिए ‘खतराको घन्टी’ बज्ने चेतावनी",
+      "summary": "नेपाली कम्युनिस्ट पार्टी (नेकपा) का संयोजक पुष्पकमल दाहाल ‘प्रचण्ड’ ले बालेन शाह नेतृत्वको सरकार अपरिपक्व र दिशाहीन बनेको आरोप लगाउँदै संविधान, गणतन्त्र र राष्ट्रिय स्वाधीनताको रक्षाका लागि राजनीतिक दलहरूबिच बृहत् सहकार्य हुनुपर्नेमा जोड दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prachanda-is-dissatisfied-with-the-balen-government-warning-that-danger-bells-will-ring-br-32-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786378395_mm-480x320.jpg"
+    },
+    {
+      "title": "पोखरा विमानस्थल भ्रष्टाचार प्रकरण: पूर्वअर्थमन्त्री ज्ञानेन्द्रबहादुर कार्की १५ लाख धरौटीमा थुनामुक्त",
+      "summary": "विशेष अदालत काठमाडौंले पूर्वअर्थमन्त्री ज्ञानेन्द्रबहादुर कार्कीलाई थुनामुक्त गर्न आदेश गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/former-minister-karki-released-on-bail-of-rs-1-5-million-98-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768229953_Gyanendra Karki1626182985-480x320.jpg"
+    },
+    {
+      "title": "सुनसरी घटना: मृतक मेहताको परिवार र सरकारबिच ७ बुँदे सहमति, सहिद घोषणा प्रक्रिया अघि बढाइने",
+      "summary": "सुनसरीको देवानगञ्ज गाउँपालिका-३ कप्तानगञ्जमा गत साउन १० गते भएको घटनामा मृत्यु भएका रवीन्द्रकुमार मेहताको परिवार र सरकारबिच सात बुँदे सहमति भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sunsari-incident-7-point-agreement-between-family-of-deceased-mehta-and-government-process-to-declare-him-a-martyr-will-be-taken-forward-br-62-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786377213_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "सरकारलाई ध्यानाकर्षण गराउँदै कांग्रेसले भन्यो: ग्यास र मलको आपूर्ति सहज बनाउ",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)का सहमहामन्त्री एवं सांसद हरी ढकालले सिंहदरबारबारे आफूले दिएको अभिव्यक्तिको बचाउ गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/hari-dhakal-defends-himself-by-correcting-his-statement-24-55.html?click_from=just_in",
       "image_url": ""
     }
   ]
