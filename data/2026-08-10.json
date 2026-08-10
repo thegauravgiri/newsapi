@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-10T02:22:55.708510",
+  "scraped_at": "2026-08-10T05:38:42.936253",
   "date": "2026-08-10",
-  "total_articles": 33,
+  "total_articles": 40,
   "sources": [
     "News24",
     "NagarikNews",
@@ -270,6 +270,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/i-stand-by-my-argument-the-lion-is-not-a-symbol-of-kindness-and-compassion-hari-dhakal-31-30.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "काठमाडौँको आयोजनामा वृक्षरोपण तथा पदयात्रा सम्पन्न",
+      "summary": "काठमाडौँको आयोजनामा वृक्षरोपण तथा पदयात्रा सम्पन्न",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13478",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/1bef1d90-ae51-4819-a58d-005a0b6a6de7-1786284670.jpg"
+    },
+    {
+      "title": "Judicial Council to bar lawyers from direct appointment as Supreme Court justices",
+      "summary": "With four apex court vacancies and 25,000 pending cases, the council is under pressure to fill the top court’s bench while rethinking its appointment practice.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/10/judicial-council-to-bar-lawyers-from-direct-appointment-as-supreme-court-justices",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1786323328.jpg&w=600&height=400"
+    },
+    {
+      "title": "लहडका भरमा उद्योग खोल्ने हो भने पुरानै असफलताको पुनरावृत्ति हुनु निश्चित छ : महासचिव पोखरेल",
+      "summary": "नेपाली बजारमा आज (सोमबार) सुनको मूल्यमा सामान्य गिरावट आएको छ। नेपाल सुनचाँदी व्यवसायी महासंघका अनुसार हिजोको तुलनामा आज सुनको भाउ घटेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-price-fell-today-50-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1781067774_1749361032_gold-1200x560-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस केन्द्रीय समिति बैठक आज पनि बस्दै",
+      "summary": "जिल्लाको चापाकोट नगरपालिका–८ रत्नपुरमा एक सय टन क्षमताको शीत भण्डार निर्माण भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/potato-farmers-in-ratnapur-excited-after-construction-of-cold-storage-13-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1760316249_1711186686_aalu-1200x560-480x320.jpg"
+    },
+    {
+      "title": "हर्कको प्रश्न : दुर्गा प्रसाईँ जी बिहान पक्राउ परी बेलुकी छुटिहाल्नुको कारण के होला ?",
+      "summary": "एकपटक कालोपत्र गरिएको घोराही–होलेरी खण्डमा यतिबेला कालोपत्र गर्ने भन्दै सडक विभागले पुनः डिपिआर गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/why-did-the-state-pay-rs-110-million-to-the-contractor-52-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1786339393_Rolpa sadak 98-480x320.jpg"
+    },
+    {
+      "title": "कपडा उद्योगलाई आवश्यक कच्चा पदार्थ उत्पादनतर्फ पनि सरकारले ध्यान दिइयोस् : कुलमान",
+      "summary": "पर्साको वीरगन्ज महानगरपालिका-१४ स्थित कृष्णा प्रणामी चोकबाट प्रहरीले ब्राउन सुगरसहित एक भारतीय नागरिकलाई पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/indian-national-arrested-with-over-16-grams-of-brown-sugar-from-birgunj-35-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756828601_pakrau-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा सांसद पाण्डेको स्टाटस : एकोहोरो माया मात्र देशको लागी...",
+      "summary": "नेपाली बजारमा आज (सोमबार) सुनको मूल्यमा सामान्य गिरावट आएको छ। नेपाल सुनचाँदी व्यवसायी महासंघका अनुसार हिजोको तुलनामा आज सुनको भाउ घटेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-price-fell-today-50-49.html?click_from=just_in",
       "image_url": ""
     }
   ]
