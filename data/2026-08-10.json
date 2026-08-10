@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-10T09:40:29.457984",
+  "scraped_at": "2026-08-10T13:24:55.841148",
   "date": "2026-08-10",
-  "total_articles": 49,
+  "total_articles": 55,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -398,6 +398,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/construction-of-dhalkebar-s-trauma-center-will-not-be-stopped-trauma-unit-to-be-immediately-operational-in-lahan-br-53-79.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Prime Minister Shah meets Chinese envoy as he drops group-only diplomatic approach",
+      "summary": "Shah and Chinese Ambassador Zhang Maoming discuss strengthening bilateral ties, expanding cooperation and boosting development partnership.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/10/prime-minister-shah-meets-chinese-envoy-as-he-drops-group-only-diplomatic-approach",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/PMOFFICE6F8A9958-1786360452.jpg&w=300&height=200"
+    },
+    {
+      "title": "यो सरकार कम्पास हराएको जहाजजस्तै हो, धेरै लामो जाँदैन: प्रचण्ड",
+      "summary": "श्रेष्ठले व्यवसायीलाई धरपकड गर्ने तथा फौजदारी मुद्दा चलाउने जस्ता गतिविधिका खबरले सुरक्षाको प्रश्न उठाएको बताए। आफूहरू पनि यसबाट प्रभावित पक्ष रहेको उल्लेख गर्दै उनले यस्ता गतिविधिले लगानीकर्तामा नकारात्मक सन्देश जाने बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/shrestha-s-complaint-to-the-government-news-of-arrests-and-criminal-cases-raise-questions-about-the-investment-environment-26-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786367626_Ncell-480x320.jpg"
+    },
+    {
+      "title": "राजनीतिक संकटको निकास खोज्न अग्रगामी शक्तिहरू एकजुट हुनुपर्नेमा खनालको जोड",
+      "summary": "उद्योगले कम तौलका सिलिण्डर बजार पठाएको पाइएपछि २ लाख ९० हजार रुपैयाँ जरिवाना तिराइएको जिल्ला प्रशासन कार्यालय मोरङले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/koshi-gas-fined-rs-3-lakh-for-sending-underweight-cylinders-to-market-80-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786367583_koshi gas cylinder-480x320.jpg"
+    },
+    {
+      "title": "नेपालको विशेष सेवा ऐनको व्यवस्था जगाउनेसम्बन्धी विधेयक पारित",
+      "summary": "सुदूरपश्चिममा मागअनुसार खाना पकाउने ग्यास सिलिण्डरको आपूर्ति भइरहेकाले अतिरिक्त भण्डारण नगर्न आग्रह गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/there-is-sufficient-gas-supply-please-do-not-add-extra-cylinders-85-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786366996_gas-480x320.jpg"
+    },
+    {
+      "title": "म पार्टी फुटाउने होइन्, बीपीले जस्तै एकताबद्ध बनाउँछु: शशांक",
+      "summary": "पोखरा नगरभित्र संचालन हुने नगरबसले अधिक धुँवा फ्याकेको र प्रदूषण बढाएको गुनासो पर्याप्त आउँछ। यतिसम्मकी बसको पछिपछि दुईपांग्रे सवारीमा यात्रा गर्नुपरेको खण्डमा बाटो नै नदेखिने र निसासिने अवस्था समेत निम्तिने गरेको गुनासो पोखरेलीले गर्ने गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/smoke-terror-from-public-transport-in-tourist-city-84-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1786366664_Vehicle Pollution-480x320.jpg"
+    },
+    {
+      "title": "गुप्तचर संस्था एउटा कुनै मन्त्रालयमा मात्रै सीमित हुँदैन: कानुनमन्त्री गौतम",
+      "summary": "श्रेष्ठले व्यवसायीलाई धरपकड गर्ने तथा फौजदारी मुद्दा चलाउने जस्ता गतिविधिका खबरले सुरक्षाको प्रश्न उठाएको बताए। आफूहरू पनि यसबाट प्रभावित पक्ष रहेको उल्लेख गर्दै उनले यस्ता गतिविधिले लगानीकर्तामा नकारात्मक सन्देश जाने बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/shrestha-s-complaint-to-the-government-news-of-arrests-and-criminal-cases-raise-questions-about-the-investment-environment-26-31.html?click_from=just_in",
       "image_url": ""
     }
   ]
