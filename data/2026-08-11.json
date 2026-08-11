@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-11T09:07:21.000451",
+  "scraped_at": "2026-08-11T13:21:28.609756",
   "date": "2026-08-11",
-  "total_articles": 44,
+  "total_articles": 53,
   "sources": [
-    "KathmanduPost",
+    "NagarikNews",
     "News24",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -358,6 +358,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/genji-s-announcement-nationwide-protest-against-the-government-on-bhadra-23-49-95.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal ratifies two key ILO instruments on forced labour and workplace inspection",
+      "summary": "By ratifying the two instruments, Nepal has taken an important step towards a future in which no one is subjected to forced labour, every worker enjoys effective protection under the law, and every workplace upholds dignity, safety and justice.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/08/11/nepal-ratifies-two-key-ilo-instruments-on-forced-labour-and-workplace-inspection",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/AmbassadorRamPrasadSubediPermanentRepresentativeofNepalinGenevadepositedtheInstrumentsofRatificationwithGilbertF-1786453032.png&w=300&height=200"
+    },
+    {
+      "title": "Police recommend recovering Rs95 billion in Smart Telecom asset auction case",
+      "summary": "The CIB has recommended prosecuting 22 people, including nine Ncell officials and two Nepal Investment Mega Bank officials, over the alleged illegal auction.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/11/police-recommend-recovering-rs95-billion-in-smart-telecom-asset-auction-case",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/cibnepalpolice1572025104422watermarked11820261049221000x0-1786442030.jpg&w=300&height=200"
+    },
+    {
+      "title": "Susta residents work through the night to hold back the Narayani river",
+      "summary": "Villagers are building makeshift embankments to protect their homes as river erosion worsens and an Indian border force blocks construction of a permanent structure.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/11/susta-residents-work-through-the-night-to-hold-back-the-narayani-river",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/sustasanghars11820260932221000x0-1786441031.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal’s Horaa Esports reaches PUBG Mobile World Cup finals in Paris",
+      "summary": "Horaa finished fourth in a fiercely contested Group B to earn a direct place in the 16-team grand finals, where it will chase Nepal’s first world title in the game.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/08/11/nepal-s-horaa-esports-reaches-pubg-mobile-world-cup-final-in-paris",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1786432954.jpg&w=600&height=400"
+    },
+    {
+      "title": "मन्त्री गौतमकाे पहल : कानुनी सहायता अब नयाँ ढाँचामा",
+      "summary": "संयुक्त टोलीले लालबन्दी नगरपालिका–१२, जियाजोरबाट प्रतिबन्धित लागूऔषध गाँजासहित उनीहरूलाई पक्राउ गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/three-people-including-a-couple-arrested-for-transporting-marijuana-in-sarlahi-br-97-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786454190_Ganza Baramat-480x320.jpg"
+    },
+    {
+      "title": "सुगौली सन्धिको सक्कल प्रतिबारे भारतीय विदेश मन्त्रालय मौन",
+      "summary": "मन्त्रालयले ज्येष्ठ नागरिकसम्बन्धी ऐन, २०६३ को दफा ९ मा सार्वजनिक सवारी साधनमा ज्येष्ठ नागरिकका लागि विशेष सुविधा सुनिश्चित गरिएको उल्लेख गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/50-percent-discount-on-public-transportation-mandatory-for-senior-citizens-32-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786453869_Public Bus-480x320.jpg"
+    },
+    {
+      "title": "सभामुख अर्यालसँग अष्ट्रेलियाका लागि नेपालका राजदूत साइमनको शिष्टाचार भेटवार्ता",
+      "summary": "भरतपुर महानगरपालिका–२८ जितपुरमा बाघको आक्रमणबाट ६५ वर्षीय मंगले बोटेको मृत्यु भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-person-dies-in-tiger-attack-in-chitwan-21-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1753783553_tiger-480x320.jpg"
+    },
+    {
+      "title": "जेनजी आन्दोलनमा १७९ निकायका अभिलेख जले",
+      "summary": "न्यु जेनेरेसन अपडेटमार्फत बीवाईडीले विभिन्न सेग्मेन्टमा ग्राहकलाई थप सुविधा उपलब्ध गराउँदै आफ्नो लोकप्रिय एट्टो सिरिजलाई थप प्रतिस्पर्धी बनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/byd-unveils-new-generation-of-atto-series-at-naima-mobility-expo-59-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786452838_BYD-480x320.jpg"
+    },
+    {
+      "title": "युवाको सहकार्यबाट राज्यको भविष्य निर्माण गर्नुपर्छ : बुर्लाकोटी",
+      "summary": "संयुक्त टोलीले लालबन्दी नगरपालिका–१२, जियाजोरबाट प्रतिबन्धित लागूऔषध गाँजासहित उनीहरूलाई पक्राउ गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/three-people-including-a-couple-arrested-for-transporting-marijuana-in-sarlahi-br-97-86.html?click_from=just_in",
       "image_url": ""
     }
   ]
