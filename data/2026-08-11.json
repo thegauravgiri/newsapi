@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-11T02:14:13.179493",
+  "scraped_at": "2026-08-11T05:14:53.366293",
   "date": "2026-08-11",
-  "total_articles": 33,
+  "total_articles": 38,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -271,6 +271,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/american-running-coach-fails-doping-test-gets-three-year-ban-56-28.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "India, China invite PM Shah to visit as he opens up diplomatic engagement",
+      "summary": "Shah acknowledged the invitations from the two neighbouring countries but made no commitment on when, or whether, he would visit either country.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/11/india-china-invite-pm-shah-to-visit-as-he-opens-up-diplomatic-engagement",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1786412804.jpg&w=300&height=200"
+    },
+    {
+      "title": "Shah government formed commissions but cares little for the outcome",
+      "summary": "A review of the administration’s investigation panels reveals a pattern of delayed reports, unfulfilled promises and unresolved questions over accountability.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/11/shah-government-formed-commissions-but-cares-little-for-the-outcome",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/third-party/shah-1786412183.jpg&w=300&height=200"
+    },
+    {
+      "title": "बजेट पेस गर्न नसकेका चार नगरपालिकामा सहसचिव नेतृत्वको टोली जाँदै",
+      "summary": "भूमि व्यवस्था, सहकारी, संघीय मामिला तथा सामान्य प्रशासन मन्त्रालयले चालु आर्थिक वर्षका लागि स्थानीय तहको सभामा बजेट पेस गर्न नसकेका मधेस प्रदेशका केही नगरपालिकामा पुनः स्थलगत सहजीकरण गर्ने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/a-team-led-by-the-joint-secretary-is-going-to-four-municipalities-that-have-failed-to-submit-budgets-92-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786423914_pratibha-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस केन्द्रीय समितिको बैठक आज पनि बस्दै",
+      "summary": "श्रावण कृष्ण चतुर्दशीका दिन मनाइने यस पर्वलाई गठामङ्गल पनि भनिन्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/ghantakarna-festival-being-celebrated-50-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786423284_1753501309_mangal 45-1200x560-480x320.jpg"
+    },
+    {
+      "title": "सुगौली सन्धिको सक्कल कहाँ छ ?",
+      "summary": "हरितालिका तीज नजिकिएसँगै कलाकार तथा सर्जकहरू नयाँ तीज गीत रेकर्डिङ तथा भिडियो निर्माणमा व्यस्त छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/bhagirath-chalawan-s-new-teej-song-ko-murkhle-lancha-ra-malai-released-90-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786422801_geet-480x320.jpg"
     }
   ]
 }
