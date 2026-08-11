@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-11T05:14:53.366293",
+  "scraped_at": "2026-08-11T09:07:21.000451",
   "date": "2026-08-11",
-  "total_articles": 38,
+  "total_articles": 44,
   "sources": [
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -311,6 +311,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/bhagirath-chalawan-s-new-teej-song-ko-murkhle-lancha-ra-malai-released-90-80.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786422801_geet-480x320.jpg"
+    },
+    {
+      "title": "LPG imports are up. Why are consumers still queuing for it?",
+      "summary": "A surge in demand after four months of half-filled cylinders has exposed deeper weaknesses in Nepal’s LPG supply chain, from storage and transport to cylinder management and distribution.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/08/11/lpg-imports-are-up-why-are-consumers-still-queuing-for-it",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/gas-1786430354.jpg&w=300&height=200"
+    },
+    {
+      "title": "अपराधीलाई ‘कोर्रा लगाउनुपर्छ’ भन्ने साम्पाङको अभिव्यक्तिमा विवाद, रेकर्डबाट हटाउन माग",
+      "summary": "कमन जेनजी नेपालले प्रधानमन्त्री बालेन्द्र शाह नेतृत्वको सरकारविरुद्ध भदौ २३ गते देशव्यापी आन्दोलन गर्ने घोषणा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/genji-s-announcement-nationwide-protest-against-the-government-on-bhadra-23-49-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786438462_common-480x320.jpg"
+    },
+    {
+      "title": "नो वन इज सेफ इन नेपाल : हर्क साम्पाङ",
+      "summary": "उनले आफू स्वयम् यातना र कोर्रा लगाउने जस्ता कार्यविरुद्ध कानुन बनाउन वर्षौंसम्म वकालत गरेको व्यक्ति भएको स्मरण गराउँदै गरिमामय सदनमा जनता वा अपराधीलाई कोर्रा लगाउने शब्द प्रयोग गर्नु अनुपयुक्त भएको बताइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/controversy-over-sampang-s-statement-that-criminals-should-be-whipped-demand-to-remove-it-from-the-record-85-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786437612_Hark vs Rana-480x320.jpg"
+    },
+    {
+      "title": "सांसद स्वारको प्रश्न : भारतको भूमि मिचेको छ भन्ने अभिव्यक्तिमा प्रधानमन्त्रीले कहिले माफि माग्ने?",
+      "summary": "सुर्खेतमा ज्येष्ठ नागरिक, सुत्केरी र अपाङ्गता भएका व्यक्तिले अब लामो लाइनमा नबसी ग्यास पाउने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/in-surkhet-you-can-get-gas-without-waiting-in-line-by-showing-your-id-card-22-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786437454_gas cylinder-480x320.jpg"
+    },
+    {
+      "title": "पार्टीको राष्ट्रिय भेला स्थगित भएको छैन : कांग्रेस",
+      "summary": "वित्तीय प्रविधि र डिजिटल भुक्तानीमा मात्र सीमित नरही कन्टेन्ट क्रिएसन, गिग इकोनोमी, एल्गोरिदमलगायत क्षेत्रमा विस्तारभइ फराकिलो हुँदै गएको विज्ञहरूले बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/the-scope-of-the-digital-economy-is-expanding-br-95-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786436838_New Project (1)-480x320.jpg"
+    },
+    {
+      "title": "मन्त्रिपरिषद् बैठक ३ बजे बस्दै",
+      "summary": "कमन जेनजी नेपालले प्रधानमन्त्री बालेन्द्र शाह नेतृत्वको सरकारविरुद्ध भदौ २३ गते देशव्यापी आन्दोलन गर्ने घोषणा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/genji-s-announcement-nationwide-protest-against-the-government-on-bhadra-23-49-95.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
