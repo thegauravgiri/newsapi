@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-08-11T13:21:28.609756",
+  "scraped_at": "2026-08-11T17:04:00.730168",
   "date": "2026-08-11",
-  "total_articles": 53,
+  "total_articles": 61,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -430,6 +430,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/three-people-including-a-couple-arrested-for-transporting-marijuana-in-sarlahi-br-97-86.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Cabinet declares four killed in Sunsari, Siraha violence as martyrs",
+      "summary": "The government exempts electric ambulances and hearses from infrastructure development fees and VAT.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/11/cabinet-declares-four-killed-in-sunsari-siraha-violence-as-martyrs",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/PMSACHEBALAYAKTMRSS266F8A9968-1786449201.jpg&w=300&height=200"
+    },
+    {
+      "title": "Deadlock over names delaying ambassadorial nominations",
+      "summary": "PM Shah and RSP chief Lamichhane yet to agree on nominees. Several envoy posts remain vacant for months.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/11/deadlock-over-names-delaying-ambassadorial-nominations",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1786462428.jpg&w=600&height=400"
+    },
+    {
+      "title": "Young citizens have changed politics. Now comes the test of delivery",
+      "summary": "PM Shah and RSP chief Lamichhane yet to agree on nominees. Several envoy posts remain vacant for months.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/08/11/young-citizens-have-changed-politics-the-next-test-is-what-renewed-politics-delivers",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/ZHF4BVAXYFKVVFEQHDWQFFINTI-1786461693.jpg&w=400&height=267"
+    },
+    {
+      "title": "नेपाल ‘प्याक्स सिलिका’ मा साझेदार भएकोबारे वर्षमानको आपत्ति, के को प्याक्स सिलिका ?",
+      "summary": "विधेयकको मस्यौदमा सरकारले रणनीतिक तथा सामरिक महत्त्वका खनिज घोषणा गर्न सकिने प्रस्ताव गरको भन्दै त्यो संविधानको धारा २७९ को व्यवस्थाविपरीत रहेको बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/varshaman-s-objection-to-nepal-being-a-partner-in-pax-silica-whose-pax-silica-is-it-49-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780138368_barsaman_pun-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीको दिल्ली यात्रा: पुराना ‘घाउ’ सुल्झाउलान् कि नयाँ आश्वासनमा भुल्लान् ?",
+      "summary": "राहदानी विभागले विद्युतीय राहदानी (ई–पासपोर्ट) उत्पादन क्षमतामा उल्लेख्य वृद्धि गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/leap-in-passport-production-5-878-e-passports-printed-in-a-single-day-br-43-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786365467_rahadani-480x320.jpg"
+    },
+    {
+      "title": "सात घण्टासम्म चलेको प्रतिनिधिसभा बैठकमा गणपूरक सङ्ख्या पुगेन",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाहको निकट भविष्यमै भारत भ्रमण हुने भएको छ। भारतीय विदेश मन्त्रालयका प्रवक्ता रणधीर जैसवालले पत्रकार सम्मेलनमा प्रधानमन्त्री बालेन्द्र शाहलाई भारत भ्रमणको औपचारिक निमन्त्रणा दिइसकिएको पुष्टि गरेका छन्। यद्यपि, भ्रमणको अन्तिम मिति भने अझै सार्वजनिक भइसकेको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/relations-between-nepal-and-india-99-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1780415004_balen_sima-480x320.jpg"
+    },
+    {
+      "title": "युवाको सहकार्यमा मात्रै देशको भविष्य निर्माण सम्भव: बुर्लाकोटी",
+      "summary": "गाँजा खरिदका लागि पैसाको विषयमा विवाद भएपछि लमजुङको राईनास नगरपालिका–६ फुलबारीमा ७५ वर्षीया वृद्धा काली सार्कीको हंसिया प्रहार गरी बीभत्स हत्या गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/a-75-year-old-woman-was-brutally-murdered-in-lamjung-after-she-could-not-afford-to-buy-marijuana-32-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786463133_1786268773_6-1200x560-480x320.jpg"
+    },
+    {
+      "title": "अब बन्ने शिक्षा ऐन र पाठ्यक्रममा अपाङ्गताका मुद्दा समेटिन्छन्: शिक्षामन्त्री",
+      "summary": "विधेयकको मस्यौदमा सरकारले रणनीतिक तथा सामरिक महत्त्वका खनिज घोषणा गर्न सकिने प्रस्ताव गरको भन्दै त्यो संविधानको धारा २७९ को व्यवस्थाविपरीत रहेको बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/varshaman-s-objection-to-nepal-being-a-partner-in-pax-silica-whose-pax-silica-is-it-49-82.html?click_from=just_in",
       "image_url": ""
     }
   ]
