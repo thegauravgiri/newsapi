@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-12T02:31:04.591923",
+  "scraped_at": "2026-08-12T05:41:41.742778",
   "date": "2026-08-12",
-  "total_articles": 33,
+  "total_articles": 42,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -271,6 +271,78 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/powerful-earthquake-in-colombia-death-toll-exceeds-250-rescue-operations-continue-63-40.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "र्णका आतंक र अन्त्यको कथा गथाँमुगः पर्व",
+      "summary": "र्णका आतंक र अन्त्यको कथा गथाँमुगः पर्व",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13493",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/gathamangal_____-1786504368.jpg"
+    },
+    {
+      "title": "ा गंगा, भानु र प्रकाश, देउवा–प्रचण्डका स्वकीयविरुद्ध अख्तियारको अनुसन्धान",
+      "summary": "ा गंगा, भानु र प्रकाश, देउवा–प्रचण्डका स्वकीयविरुद्ध अख्तियारको अनुसन्धान",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13490",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/aanusandhan-1786503322.jpg"
+    },
+    {
+      "title": "का तीन नयाँ स्मार्ट विद्युतीय स्कुटर नेपाली बजारमा, १० हजार छुटको अफर",
+      "summary": "का तीन नयाँ स्मार्ट विद्युतीय स्कुटर नेपाली बजारमा, १० हजार छुटको अफर",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13486",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/YADEA-1786350261.jpg"
+    },
+    {
+      "title": "Nepal Police seeks call interception powers, reviving privacy and civil liberties concerns",
+      "summary": "Lawyers and rights advocates warn that expanded surveillance powers could expose citizens to abuse, while police argue they are essential for tackling increasingly tech-savvy criminals.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/12/nepal-police-seeks-call-interception-powers-reviving-privacy-and-civil-liberties-concerns",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/ChatGPT%20Image%20Aug%2012%2C%202026%2C%2006_53_48%20AM.png&w=300&height=200"
+    },
+    {
+      "title": "Foreign medical students come to Nepal but twice as many Nepalis pursue medicine abroad",
+      "summary": "MBBS enrolment by foreign students has risen by 35 percent in three years, yet 80 percent undergraduate seats reserved for them went unfilled last year.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/08/12/foreign-medical-students-come-to-nepal-but-twice-as-many-nepalis-pursue-medicine-abroad",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb5-1786497161.jpg&w=600&height=400"
+    },
+    {
+      "title": "Making power deliver",
+      "summary": "Whatever social cohesion existed in Tarai-Madhesh, especially after the brutal suppression of the Madhesh Uprising in 2015, has begun to fragment further with the sudden and inexplicable spread of Hindutva politics.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/08/11/young-citizens-have-changed-politics-the-next-test-is-what-renewed-politics-delivers",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/TQKOS4YJQNI3PIEXQRYS3DWGPY-1786505326.jpg&w=400&height=267"
+    },
+    {
+      "title": "विमलको निधनमा जनकपुरधाममा शोक बिदा",
+      "summary": "बागलुङ काठेखोला गाउँपालिका–३ धम्जामा चक्कु प्रहारबाट एक मजदुर मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/worker-dies-from-knife-attack-br-54-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767337292_Nagariknews-480x320.jpg"
+    },
+    {
+      "title": "अन्तर्राष्ट्रिय युवा दिवसमा दाहालको शुभकामना, युवाको ऊर्जा राष्ट्र निर्माणमा लगाउन आग्रह",
+      "summary": "वरिष्ठ साहित्यकार, भाषाविद् तथा शिक्षाविद् प्राध्यापक डा राजेन्द्र प्रसाद विमलको निधनप्रति शोक व्यक्त गर्दै जनकपुरधाम उपमहानगरपालिकाले बुधबार नगर क्षेत्रभित्रका सम्पूर्ण शैक्षिक संस्था बन्द गर्ने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mourning-holiday-in-janakpurdham-for-bimal-s-death-56-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786512684_bimala 27-480x320.jpg"
+    },
+    {
+      "title": "कृषि वन तथा वातावरण क्षेत्रमा रोजगारीका अवसर सृजना गरिनेछः मन्त्री चौधरी",
+      "summary": "नेपाली कम्युनिस्ट पार्टीका संयोजक तथा पूर्वप्रधानमन्त्री पुष्पकमल दाहालले अन्तर्राष्ट्रिय युवा दिवसको अवसरमा सम्पूर्ण युवामा हार्दिक शुभकामना व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/greetings-on-international-youth-day-urges-youth-to-channel-their-energy-into-nation-building-27-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756357532_puspa_-480x320.jpg"
     }
   ]
 }
