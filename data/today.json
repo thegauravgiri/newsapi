@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-12T05:41:41.742778",
+  "scraped_at": "2026-08-12T09:17:58.586615",
   "date": "2026-08-12",
-  "total_articles": 43,
+  "total_articles": 50,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -351,6 +351,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/greetings-on-international-youth-day-urges-youth-to-channel-their-energy-into-nation-building-27-65.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756357532_puspa_-480x320.jpg"
+    },
+    {
+      "title": "एफ.सि. फाइनान्सद्वारा कर्णालीकी छात्रा सीता शाहीलाई शैक्षिक छात्रवृत्ति प्रदान",
+      "summary": "एफ.सि. फाइनान्सद्वारा कर्णालीकी छात्रा सीता शाहीलाई शैक्षिक छात्रवृत्ति प्रदान",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13495",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Shita-Shahi-1786522492.jpg"
+    },
+    {
+      "title": "मण्डपमा नयाँ गाडी र बाइकको मेला, इभीमा सबैको आकर्षण",
+      "summary": "मण्डपमा नयाँ गाडी र बाइकको मेला, इभीमा सबैको आकर्षण",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13494",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/naima-1786504580.jpg"
+    },
+    {
+      "title": "ग्यासको सकस समाधान गर्न सरकारको ध्यानाकर्षण",
+      "summary": "राष्ट्रिय सभाका सदस्यहरूले खाना पकाउने एलपी ग्यास बिक्री वितरणमा देखिएको सकस समाधान गरी जनतालाई राहत दिन सरकारको ध्यानाकर्षण गराएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-s-attention-drawn-to-resolve-gas-crisis-br-24-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786525324_rastriya sabha-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाले सांसदलाई तीनदिने ‘क्लोज क्याम्प’ प्रशिक्षण दिने",
+      "summary": "युक्रेनका राष्ट्रपति भोलोडिमिर जेलेन्स्कीले रूससँग जारी युद्ध अन्त्य गर्ने उद्देश्यले अमेरिकासमक्ष नयाँ प्रस्तावहरू प्रस्तुत गरिएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/ukraine-s-new-proposal-to-the-us-to-end-the-war-br-19-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786523883_zen 27-480x320.jpg"
+    },
+    {
+      "title": "सबै सरकारी कार्यालयमा अब निवेदनको ढाँचा एउटै हुने",
+      "summary": "जिल्लाका स्थानीय तहहरुले वार्षिक पुँजीगत बजेटको ठुलो हिस्सा अर्थात् करिब ५३ प्रतिशत बढि रकम असार महिनामा खर्च गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/when-will-the-government-s-work-be-completed-why-does-the-budget-wait-until-asar-85-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786524821_Road-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस संस्थापनइतर समूहकाे भेलाको उद्घाटन पूर्वसभापति देउवाले गर्ने",
+      "summary": "उनले भनिन्, ‘फूल फुलाउने प्रयास धेरैले गर्न सक्छन्, तर वर्षौँ बितिसक्दा पनि दर्शकको मनमा उही सुगन्ध, उही भावना र उही जादु छोड्ने सौभाग्य सबै गुराँसलाई कहाँ मिल्छ र?’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/sushmita-kc-s-sarcasm-when-the-recreation-of-the-song-guraans-fulda-comes-out-87-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786523196_23-480x320.jpg"
+    },
+    {
+      "title": "दुई सचिवको राजीनामा स्वीकृत",
+      "summary": "राष्ट्रिय सभाका सदस्यहरूले खाना पकाउने एलपी ग्यास बिक्री वितरणमा देखिएको सकस समाधान गरी जनतालाई राहत दिन सरकारको ध्यानाकर्षण गराएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-s-attention-drawn-to-resolve-gas-crisis-br-24-38.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
