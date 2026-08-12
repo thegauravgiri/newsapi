@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-08-12T09:17:58.586615",
+  "scraped_at": "2026-08-12T13:25:24.528036",
   "date": "2026-08-12",
-  "total_articles": 50,
+  "total_articles": 59,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -406,6 +406,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/government-s-attention-drawn-to-resolve-gas-crisis-br-24-38.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "राष्ट्रिय युवा दिवसको अवसरमा सरसफाइ कार्यक्रम सम्पन्न",
+      "summary": "राष्ट्रिय युवा दिवसको अवसरमा सरसफाइ कार्यक्रम सम्पन्न",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13497",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/rotari-s-1786524031.jpg"
+    },
+    {
+      "title": "Court orders Bhatta, Agrawal to remain in custody",
+      "summary": "Special Court denies bail to two businessmen facing multiple cases following separate investigations into money laundering.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/12/court-orders-bhatta-agrawal-to-remain-in-custody",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/70108344127623081908034558793239437783685499n21520260735001000x0-1786538832.jpg&w=300&height=200"
+    },
+    {
+      "title": "Loan-sharking victims protest outside Dhanusha court, woman pours petrol over herself",
+      "summary": "Demonstration came as a court hearing was underway in a loan-sharking case.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/12/loan-sharking-victims-protest-outside-dhanusha-court-woman-pours-petrol-over-herself",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/meterbyaj12820260942011000x01-1786529900.jpg&w=300&height=200"
+    },
+    {
+      "title": "ILO links youth joblessness in Nepal to growing political frustration",
+      "summary": "Global report cites Nepal alongside Bangladesh and Sri Lanka as countries where a lack of decent work has fuelled discontent among young people.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/12/ilo-links-youth-joblessness-in-nepal-to-growing-political-frustration",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/genz211120251155091000x0-1786527417.jpg&w=600&height=400"
+    },
+    {
+      "title": "‘एलपिजीको अधिक खपत हुने उद्योग र तारे होटलमा अनुगमन गर्नुपर्‍यो’",
+      "summary": "निर्माण कम्पनीसँग सम्झौता भई करिब २० प्रतिशत काम सकिए पनि त्यसपछि आयोजना अघि बढ्न सकेको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/local-projects-hit-by-political-wrangling-br-54-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786540499_New Project (1)-480x320.jpg"
+    },
+    {
+      "title": "बागमतीमा एमाले संसदीय दलका नेता थपलियाविरुद्ध अविश्वास प्रस्ताव",
+      "summary": "अर्जेन्टिनी फुटबल स्टार लियोनेल मेस्सीले अब धेरै समय आफ्नो फुटबल यात्रालाई निरन्तरता दिन नसक्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/messi-pays-tribute-to-his-father-i-don-t-think-i-ll-be-playing-football-for-much-longer-45-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786539948_messi_ankara-480x320.jpg"
+    },
+    {
+      "title": "गालीगलौजमा उत्रिएका रास्वपा सदस्यलाई पार्टीले सोध्यो स्पष्टीकरण",
+      "summary": "नयाँ तालिकाअनुसार नेपालले यसअघि तय भएको मितिभन्दा एक दिन अगाडि प्रतियोगिताको सुरुवात गर्ने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/acc-premier-cup-nepal-s-match-moved-forward-a-day-first-clash-with-bahrain-14-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1785136489_nepal cricket-480x320.jpg"
+    },
+    {
+      "title": "विष्णु पौडेल जोडिएको सम्पत्ति शुद्धीकरण मुद्दामा भट्टलाई निःशर्त रिहा गर्ने आदेश",
+      "summary": "मन्त्री यादवले एलपिजी ग्यास धेरै खपत गर्ने उद्योग एवं तारे होटलको अनुगमन गर्न आग्रह गरेकी छिन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/monitoring-should-be-carried-out-in-industries-and-star-hotels-that-consume-a-lot-of-lpg-58-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786536834_rahbar-480x320.jpg"
+    },
+    {
+      "title": "सरकार बनाउन ओली–प्रचण्ड–मसालबीच दुई बुँदे सहमति",
+      "summary": "निर्माण कम्पनीसँग सम्झौता भई करिब २० प्रतिशत काम सकिए पनि त्यसपछि आयोजना अघि बढ्न सकेको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/local-projects-hit-by-political-wrangling-br-54-34.html?click_from=just_in",
       "image_url": ""
     }
   ]
