@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-12T13:25:24.528036",
+  "scraped_at": "2026-08-12T17:03:00.299291",
   "date": "2026-08-12",
-  "total_articles": 58,
+  "total_articles": 66,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -470,6 +470,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/local-projects-hit-by-political-wrangling-br-54-34.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "New national cricket captain says Nepal has no alternative left but to win",
+      "summary": "In an interview with Kantipur, newly appointed captain Sandeep Lamichhane talks about the daunting task of guiding a struggling team through a critical phase for ODI survival.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/interviews/2026/08/12/no-alternative-left-but-to-win",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/whatsappimage20260812at17321312820260200491000x0-1786544801.jpg&w=300&height=200"
+    },
+    {
+      "title": "Diarrhoeal infections nearly tripled in three years",
+      "summary": "More than half of drinking water samples from public schools and offices in three Lalitpur local units tested positive for faecal coliform and E coli.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/08/12/diarrhoeal-infections-nearly-tripled-in-three-years",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/thumb-1786543421.jpg&w=300&height=200"
+    },
+    {
+      "title": "Supreme Court seeks government explanation over newspaper tender ban",
+      "summary": "Constitutional bench asks why the Public Procurement Act was amended to require tender notices to be published only on government websites.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/12/supreme-court-seeks-government-explanation-over-newspaper-tender-ban",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/supremecourtnew615520260155141000x0-1786541547.jpg&w=300&height=200"
+    },
+    {
+      "title": "किशोर श्रेष्ठको गिरफ्तारीप्रति महेश बस्नेतको आपत्ति, भने- प्रेस स्वतन्त्रतामाथिको हस्तक्षेप",
+      "summary": "प्रहरी महानिरीक्षक दानबहादुर कार्कीले राज्यले न्यूनतम स्रोतसाधनसमेत उपलब्ध नगराउँदा प्रहरीले मागेर र उधारोका भरमा देशको सुरक्षा तथा चुनाव गराउनुपरेको भन्दै दुःखेसो पोखेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/ig-karki-said-53-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786551521_dan-480x320.jpg"
+    },
+    {
+      "title": "न्यूरोविकास र बाल मानसिक स्वास्थ्य सेवा देशैभर विस्तार गर्न नीतिगत पहल सुरु",
+      "summary": "जनआस्था साप्ताहिकका सम्पादक एवं प्रेस काउन्सिल नेपालका पूर्वअध्यक्ष किशोर श्रेष्ठलाई प्रहरीले पक्राउ गरेपछि नेकपा एमालेका सचिव महेश बस्नेतले आपत्ति जनाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mahesh-basnet-objects-to-kishor-shrestha-s-arrest-says-it-is-an-interference-with-press-freedom-92-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786550247_001-480x320.jpg"
+    },
+    {
+      "title": "आँबुखैरेनी र भरतपुर जोड्ने घुमाउने पुल नयाँ प्रक्रियाबाट बन्छ: अर्थमन्त्री",
+      "summary": "‘जनआस्था’ साप्ताहिकका सम्पादक किशोर श्रेष्ठलाई पक्राउ परेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/journalist-kishore-shrestha-arrested-22-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786550059_kishor-480x320.jpg"
+    },
+    {
+      "title": "सरकारले युवाको विश्वास आत्मसात् गरेर काम गरिरहेको छ: परराष्ट्रमन्त्री",
+      "summary": "सरकारका प्रवक्ता तथा शिक्षा तथा खेलकुदमन्त्री सस्मित पोखरेलले नेपालमा न्यूरोविकाससम्बन्धी अवस्था तथा बाल मानसिक स्वास्थ्य सेवाको वर्तमान अवस्था, चुनौती र सेवा सुदृढीकरणका विषयमा सरोकारवालाहरूसँग छलफल गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/education-minister-pokharel-discusses-neurodevelopmental-status-and-strengthening-child-mental-health-services-21-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786549594_sas-480x320.jpg"
+    },
+    {
+      "title": "कोशी सरकारबाट पाँच मन्त्रीले दिए राजीनामा",
+      "summary": "प्रहरी महानिरीक्षक दानबहादुर कार्कीले राज्यले न्यूनतम स्रोतसाधनसमेत उपलब्ध नगराउँदा प्रहरीले मागेर र उधारोका भरमा देशको सुरक्षा तथा चुनाव गराउनुपरेको भन्दै दुःखेसो पोखेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/ig-karki-said-53-68.html?click_from=just_in",
       "image_url": ""
     }
   ]
