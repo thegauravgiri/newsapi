@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-13T02:32:47.052161",
+  "scraped_at": "2026-08-13T05:44:36.870116",
   "date": "2026-08-13",
-  "total_articles": 34,
+  "total_articles": 40,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -278,6 +278,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/subsidy-for-farmers-cultivating-cotton-in-bhimphedi-62-54.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Two killed, 10 missing after landslide buries homes in Rolpa",
+      "summary": "Heavy rain triggered a landslide in Thabang that buried houses, shops and cattle sheds, with two people seriously injured and rescue teams searching for survivors.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/13/two-killed-10-missing-after-landslide-buries-homes-in-rolpa",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/rolpabadi13820260413171000x0-1786590304.png&w=300&height=200"
+    },
+    {
+      "title": "देउवाको स्वागतका लागि भेला हुन तोकियो तीन स्थान",
+      "summary": "दुर्लभ वन्यजन्तु, सयौँ प्रजातिका चराचुरुङ्गी र प्रकृतिमा आधारित पर्यटनको सम्भावनाका कारण कोशी टप्पु आरक्ष क्षेत्र पछिल्ला वर्षमा आन्तरिक तथा विदेशी पर्यटकको आकर्षक गन्तव्य बन्दै गएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/koshi-tappu-known-for-its-arnas-and-birds-is-a-favorite-among-tourists-69-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786598779_1782731253_koshi tappu-1200x560-480x320.jpg"
+    },
+    {
+      "title": "सार्वजनिक लेखा समिति हुर्मत लिने थलो होइन : रामकुमारी झाँक्री",
+      "summary": "छ महिनामा स्वदेश फर्किन लागेका नेपाली कांग्रेसका पूर्वसभापति शेरबहादुर देउवाको स्वागतका लागि भेला हुन तीनवटा स्थान तोकिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/three-locations-designated-to-gather-to-welcome-deuba-49-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786183999_deuba-480x320.jpg"
+    },
+    {
+      "title": "मुख्यमन्त्री शाहले आज विश्वासको मत लिँदै",
+      "summary": "झाँक्रीले संसदको सार्वजनिक लेखा समिति सरकारी निकाय तथा सार्वजनिक व्यक्तिको ‘हुर्मत लिने थलो’ नभएको बताएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/public-accounts-committee-is-not-a-place-to-take-respect-ram-kumari-jhankri-66-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771063503_ramkumari-480x320.jpg"
+    },
+    {
+      "title": "बालबालिकालाई कमैया-कमलरी राख्न नपाउने विधेयक संसदमा",
+      "summary": "बैठकमा मुख्यमन्त्री कमलबहादुर शाहले विश्वासको मत लिने कार्यसूची रहेको प्रदेशसभा सचिवालयका सूचना अधिकारी उपसचिव ताराकुमारी जोशीले जानकारी दिइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/chief-minister-shah-taking-vote-of-confidence-today-32-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773149727_kamal-480x320.jpg"
+    },
+    {
+      "title": "'राज्यका सबै संयन्त्रको मनोबल कमजोर बनाएर सरकारले हासिल गर्न खोजिरहेको उपलब्धि के होला ?'",
+      "summary": "दुर्लभ वन्यजन्तु, सयौँ प्रजातिका चराचुरुङ्गी र प्रकृतिमा आधारित पर्यटनको सम्भावनाका कारण कोशी टप्पु आरक्ष क्षेत्र पछिल्ला वर्षमा आन्तरिक तथा विदेशी पर्यटकको आकर्षक गन्तव्य बन्दै गएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/koshi-tappu-known-for-its-arnas-and-birds-is-a-favorite-among-tourists-69-24.html?click_from=just_in",
       "image_url": ""
     }
   ]
