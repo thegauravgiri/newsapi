@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-13T09:19:08.421578",
+  "scraped_at": "2026-08-13T13:27:10.820154",
   "date": "2026-08-13",
-  "total_articles": 49,
+  "total_articles": 58,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -398,6 +398,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/deuba-s-arrival-can-unite-the-congress-ramhari-khatiwada-br-93-45.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Rolpa landslide death toll rises to 10",
+      "summary": "Heavy rain triggered a landslide in Thabang that buried nine houses and other structures, while rescue teams continue searching for missing people.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/province-no-5/2026/08/13/rolpa-landslide-death-toll-rises-to-10",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/rolpa-1786625462.jpg&w=300&height=200"
+    },
+    {
+      "title": "It’s annual baby boom season at Nepal’s maternity hospitals",
+      "summary": "Winter weddings and migrant workers returning home for the festivals help drive the annual rise in deliveries, say doctors.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/08/13/it-s-annual-baby-boom-season-at-nepal-s-maternity-hospitals",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1786624213.jpg&w=300&height=200"
+    },
+    {
+      "title": "Deuba returns to Nepal after nearly five months abroad",
+      "summary": "Former prime minister arrived in Kathmandu via Hong Kong, but questions remain over his family’s prolonged stay overseas and the details of their medical treatment.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/13/deuba-returns-to-nepal-after-nearly-five-months-abroad",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/deubaairport13820260920031000x0-1786606739.jpg&w=300&height=200"
+    },
+    {
+      "title": "Some welcome Kishor Shrestha’s arrest, others question it",
+      "summary": "While media groups and press freedom advocates have criticised the police action, others say the veteran journalist’s arrest is justified, pointing to a long record of publishing private and targeted content.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/13/some-welcome-kishor-shrestha-s-arrest-others-question-it",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1786614661.jpg&w=600&height=400"
+    },
+    {
+      "title": "ऊर्जामन्त्रीले गरे तीन नयाँ सल्लाहकार नियुक्त",
+      "summary": "चिकित्सा विज्ञान प्रतिष्ठान वीर अस्पतालको निर्देशकमा अस्पतालकै ग्याष्ट्रोसर्जन डा. विकास नेपाल नियुक्ति भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/dr-bikash-nepal-appointed-as-director-of-bir-hospital-br-74-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772531977_bir hospital-480x320.jpg"
+    },
+    {
+      "title": "म नेता मात्र होइन, नेपालको आजीवन नागरिक हुँ: देउवा",
+      "summary": "ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्री विराज भक्त श्रेष्ठले आफ्नो सल्लाहकार समूहलाई पूर्णता दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/energy-minister-appoints-three-new-advisors-br-97-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786626551_1010-480x320.jpg"
+    },
+    {
+      "title": "सुदूरपश्चिमका मुख्यमन्त्री शाहले दिए राजीनामा",
+      "summary": "गत आर्थिक वर्ष २०८२/०८३ मा देशभरबाट साइबर अपराधसम्बन्धी २० हजार ५२६ वटा उजुरी परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/more-than-20-000-cybercrime-complaints-in-a-single-year-78-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786626219_po-480x320.jpg"
+    },
+    {
+      "title": "देउवालाई किन आयो ज्ञानेन्द्र शाहको झल्को ?",
+      "summary": "स्वास्थ्य सेवा विभागको नियमित खरिद प्रक्रिया सर्पदंश र रेबिजविरुद्धका भ्याक्सिन टेकु केन्द्रीय स्टोरमा आइपुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/vaccines-against-snakebite-and-rabies-arrive-at-teku-central-store-br-49-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786626205_vaccine-480x320.jpg"
+    },
+    {
+      "title": "अब ऋण नलिई आफ्नै आम्दानीबाट देश बनाउँछौ : अर्थमन्त्री वाग्ले",
+      "summary": "चिकित्सा विज्ञान प्रतिष्ठान वीर अस्पतालको निर्देशकमा अस्पतालकै ग्याष्ट्रोसर्जन डा. विकास नेपाल नियुक्ति भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/dr-bikash-nepal-appointed-as-director-of-bir-hospital-br-74-60.html?click_from=just_in",
       "image_url": ""
     }
   ]
