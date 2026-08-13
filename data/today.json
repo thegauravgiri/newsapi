@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-13T13:27:10.820154",
+  "scraped_at": "2026-08-13T17:02:34.986770",
   "date": "2026-08-13",
-  "total_articles": 58,
+  "total_articles": 65,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -470,6 +470,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/health/dr-bikash-nepal-appointed-as-director-of-bir-hospital-br-74-60.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Sauraha elephant safari caught between animal welfare and livelihoods",
+      "summary": "Local entrepreneurs call for phased transition after Supreme Court’s order to shift to ethical tourism.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/province-no-3/2026/08/13/sauraha-elephant-safari-caught-between-animal-welfare-and-livelihoods",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/HattiHaru-1786634670.jpg&w=300&height=200"
+    },
+    {
+      "title": "Ride-hailing riders suspend protest, but fare dispute remains unresolved",
+      "summary": "inDrive has pledged to address riders’ demands, but no agreement has been reached on a minimum fare as Nepal lacks a clear legal framework governing ride-hailing services.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/08/13/ride-hailing-riders-suspend-protest-but-fare-dispute-remains-unresolved",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1786615249.jpg&w=300&height=200"
+    },
+    {
+      "title": "देउवाले अभिभावकीय भूमिका निर्वाह गर्नुहुनेमा विश्वस्त छौँ: कांग्रेस",
+      "summary": "बैंकका पूर्वप्रमुख कार्यकारी अधिकृत (सीईओ) निरजविक्रम शाहलाई पुर्पक्षका लागि थुनामा पठाउने आदेश गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/karnali-bank-irregularities-former-ceo-shah-arrested-97-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786638296_Karnali-480x320.jpg"
+    },
+    {
+      "title": "सरकारलाई अमरेशको प्रश्न- सेना, प्रहरीको हुर्मत लिइयो, यही हो सुशासनको रोडम्याप ?",
+      "summary": "स्याङ्जाको गल्याङ नगरपालिका-१० छहरामा अवस्थित ऐतिहासिक एवं धार्मिक महत्वको सिद्ध गुफा प्रचारप्रसारको अभावमा ओझेलमा परेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/siddha-gufa-is-being-overlooked-due-to-lack-of-publicity-86-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786638062_sidhya_gufa-480x320.jpg"
+    },
+    {
+      "title": "सुदूरमा नयाँ सरकार गठनको आह्वान, शुक्रबार बिहान ११ बजेभित्र दाबी पेस गर्नुपर्ने",
+      "summary": "नेपाली कांग्रेसले निवर्तमान सभापति एवं पूर्वप्रधानमन्त्री शेरबहादुर देउवा लामो समयको स्वास्थ्य उपचारपछि स्वदेश फर्किएकोमा स्वागत गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-are-confident-that-deuba-will-play-a-parental-role-congress-24-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786621238_sher bahadur deuba (2)-480x320.jpg"
+    },
+    {
+      "title": "होटल र रेस्टुरेन्टलाई ग्यास सिलिन्डर मौज्दात नराख्न आयल निगमको चेतावनी",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का नेता एवं सांसद डा. अमरेशकुमार सिंहले देशभरका सार्वजनिक निकायमाथि हस्तक्षेप भइरहेको भन्दै सरकारको सुशासन र समृद्धिको दाबीमाथि प्रश्न उठाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/amresh-s-question-to-the-government-the-work-of-taking-away-the-dignity-of-employees-has-been-done-is-this-the-roadmap-for-good-governance-72-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786011808_amresh_balen-480x320.jpg"
+    },
+    {
+      "title": "रोल्पा पहिरो: बेपत्ताको खोजी, राहत र निःशुल्क उपचार गर्न रास्वपाको माग",
+      "summary": "बैंकका पूर्वप्रमुख कार्यकारी अधिकृत (सीईओ) निरजविक्रम शाहलाई पुर्पक्षका लागि थुनामा पठाउने आदेश गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/karnali-bank-irregularities-former-ceo-shah-arrested-97-33.html?click_from=just_in",
       "image_url": ""
     }
   ]
