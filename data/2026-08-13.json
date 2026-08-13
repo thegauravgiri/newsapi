@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-13T05:44:36.870116",
+  "scraped_at": "2026-08-13T09:19:08.421578",
   "date": "2026-08-13",
-  "total_articles": 39,
+  "total_articles": 48,
   "sources": [
     "News24",
     "NagarikNews",
@@ -318,6 +318,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/koshi-tappu-known-for-its-arnas-and-birds-is-a-favorite-among-tourists-69-24.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Rolpa landslide update: Death toll rises to three in Rolpa landslide, nine still missing",
+      "summary": "Three bodies have been recovered after heavy rain triggered a landslide in Thabang, burying homes, shops and cattle sheds; two people were seriously injured.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/13/two-killed-10-missing-after-landslide-buries-homes-in-rolpa",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/rolpabadi13820260413171000x0-1786590304.png&w=300&height=200"
+    },
+    {
+      "title": "Landslide disrupts Bhotekoshi’s flow, downstream residents warned",
+      "summary": "A landslide near Nyalam on the Chinese side of the border has affected the river’s flow, but Sindhupalchok officials say only a small amount of debris has entered the river and it is flowing normally.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/13/landslide-disrupts-bhotekoshi-s-flow-downstream-residents-warned",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/nyalam13820260755051000x0-1786603457.jpg&w=300&height=200"
+    },
+    {
+      "title": "Police raid journalist Kishor Shrestha’s office after arrest",
+      "summary": "The Jana Aastha Saptahik editor-in-chief was arrested over an alleged privacy law violation and is scheduled to be presented in court on Thursday, as journalists protest and the FNJ demands his immediate release.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/13/police-raid-journalist-kishor-shrestha-s-office-after-arrest",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/janaasthachapa13820260604401000x0-1786595016.png&w=300&height=200"
+    },
+    {
+      "title": "When a trans man has his period",
+      "summary": "Nearly two decades after a landmark Supreme Court ruling advanced legal recognition of gender identity, Nepal’s menstrual health policies and services still largely exclude trans men.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/13/when-a-trans-man-has-his-period",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Transmenstrution-1786584942.jpg&w=600&height=400"
+    },
+    {
+      "title": "देउवाको आगमनले कांग्रेस एक हुन सक्छ: रामहरि खतिवडा",
+      "summary": "लामो समयको स्वास्थ्य उपचारपछि स्वदेश फर्किएका नेपाली कांग्रेसका पूर्व सभापति एवं पूर्वप्रधानमन्त्री शेरबहादुर देउवाले पार्टीको आन्तरिक विवाद समाधान गर्दै राष्ट्रिय राजनीतिमा निर्णायक भूमिका खेल्ने कांग्रेस नेता रामहरि खतिवडाले बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/deuba-s-arrival-can-unite-the-congress-ramhari-khatiwada-br-93-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786612160_deuba-480x320.jpg"
+    },
+    {
+      "title": "स्वदेश फर्किएपछि देउवाको सन्देश : ‘शक्ति प्राप्त गर्न होइन, राष्ट्रिय एकता सुदृढ गर्न फर्किएको छु’ (अपिलसहित)",
+      "summary": "स्वदेश फर्किएपछि दिएको सन्देशमा देउवाले कांग्रेसभित्रको असहमति र निराशा तत्काल समाधान गर्नुपर्नेमा जोड दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/deuba-s-message-after-returning-home-i-have-returned-not-to-gain-power-but-to-strengthen-national-unity-with-appeal-12-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786612099_Sher Bh Deuba-480x320.jpg"
+    },
+    {
+      "title": "खाना पकाउने ग्यासको कृत्रिम अभाव अन्त्य गर्न माग",
+      "summary": "रूसी राष्ट्रपति भ्लादिमिर पुटिनले जापानले आफ्नो भूभाग दाबी गर्दै आएको विवादित कुरिल टापुहरूको पहिलो भ्रमण गरेपछि रुस–जापानबीचको पुरानो क्षेत्रीय विवाद फेरि सतहमा आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/japan-objects-to-putin-s-visit-to-kuril-islands-31-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786610927_27 0000-480x320.jpg"
+    },
+    {
+      "title": "वर्षौंको प्रतीक्षापछि मध्यपुर थिमीका ४२१ स्वबासीको हातमा लालपुर्जा",
+      "summary": "जेनजी आन्दोलनका क्रममा केन्द्रीय कारागार सुन्धाराबाट फरार भएका जबरजस्ती करणी मुद्दाका एक प्रतिवादी पक्राउ परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/defendant-who-fled-from-sundhara-during-genji-movement-arrested-br-64-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786610790_pakrau-480x320.jpg"
+    },
+    {
+      "title": "बदला होइन, राष्ट्रिय एकता र मेलमिलापको बाटो रोजौँ : देउवा",
+      "summary": "लामो समयको स्वास्थ्य उपचारपछि स्वदेश फर्किएका नेपाली कांग्रेसका पूर्व सभापति एवं पूर्वप्रधानमन्त्री शेरबहादुर देउवाले पार्टीको आन्तरिक विवाद समाधान गर्दै राष्ट्रिय राजनीतिमा निर्णायक भूमिका खेल्ने कांग्रेस नेता रामहरि खतिवडाले बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/deuba-s-arrival-can-unite-the-congress-ramhari-khatiwada-br-93-45.html?click_from=just_in",
       "image_url": ""
     }
   ]
