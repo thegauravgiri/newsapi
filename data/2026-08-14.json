@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-14T05:41:42.340143",
+  "scraped_at": "2026-08-14T09:13:28.986725",
   "date": "2026-08-14",
-  "total_articles": 42,
+  "total_articles": 48,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -342,6 +342,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/nepali-folk-rock-band-nepathya-performs-in-gangtok-br-91-84.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Supreme Court orders authorities to present Kishor Shrestha in court",
+      "summary": "The court has also ordered authorities to submit the investigation file and explain why the journalist should not be released.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/14/supreme-court-asks-why-journalist-kishor-shrestha-should-not-be-released",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1786688625.jpg&w=300&height=200"
+    },
+    {
+      "title": "नेपाली कांग्रेस सरकार असफल होस् भन्ने चाहना राख्दैन",
+      "summary": "नेपाली कांग्रेसका उपसभापति विश्वप्रकाश शर्माले वर्तमान सरकार असफल होस् भन्ने कांग्रेसको चाहना नरहेको बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepali-congress-does-not-want-the-government-to-fail-53-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786698525_Congresh-480x320.jpg"
+    },
+    {
+      "title": "शशांक कोइरालाले भनेः वीपीले शेरबहादुरलाई पश्चिमको राजकुमार भन्नुहुन्थ्यो",
+      "summary": "यो समितिले आन्दोलनका घाइते तथा सहिद परिवारका लागि प्रत्यक्ष सम्पर्क विन्दुको रूपमा काम गर्नेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/facilitation-committee-formed-to-implement-agreement-with-families-of-genji-movement-victims-and-martyrs-br-80-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1758679448_PM Office-480x320.jpg"
+    },
+    {
+      "title": "दल दर्ता गरेपछि धवलशम्शेरले दुर्गा प्रसाईंलाई दिए सहकार्यको निम्तो",
+      "summary": "नेपाली कांग्रेसका नेता डा.शशांक कोइरालाले पार्टीलाई एकजुट बनाउन राष्ट्रिय भेला आयोजना गरेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/shashank-koirala-said-bp-used-to-call-sher-bahadur-the-prince-of-the-west-31-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786697904_Shasank Koirala-480x320.jpg"
+    },
+    {
+      "title": "देउवालाई गिरिजा पुत्री सुजताको सन्देश: गगनको नेतृत्व स्वीकार्नुहोस्",
+      "summary": "‘हामी दुर्गा प्रसाईंको प्रतीक्षामै छौँ । उहाँ आउनुहुन्छ भने स्वागत नै छ । अहिले जय नेपाल पार्टी दर्ता भएको छ । दुर्गा प्रसाईंजी हुनुहुन्न । उहाँले हामी पछि मिल्छौँ भन्नुभएको छ,’ राणाले भने ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/after-registering-the-party-dhawal-shamsher-invited-durga-prasai-to-collaborate-53-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1780665323_Durga_Dhawal-480x320.jpg"
+    },
+    {
+      "title": "धवलशमशेरले दर्ता गरे ‘जय नेपाल पार्टी’",
+      "summary": "नेपाली कांग्रेसका उपसभापति विश्वप्रकाश शर्माले वर्तमान सरकार असफल होस् भन्ने कांग्रेसको चाहना नरहेको बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepali-congress-does-not-want-the-government-to-fail-53-12.html?click_from=just_in",
       "image_url": ""
     }
   ]
