@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-14T02:31:03.314314",
+  "scraped_at": "2026-08-14T05:41:42.340143",
   "date": "2026-08-14",
-  "total_articles": 33,
+  "total_articles": 42,
   "sources": [
-    "KathmanduPost",
+    "NagarikNews",
     "News24",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -270,6 +270,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/landslide-in-8-kilo-of-thakre-kathmandu-mugling-road-blocked-in-both-directions-42-70.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ौंमा पोर्चुगल कन्सुलर कार्यालय स्थापना गर्ने निर्णयकाे एनआरएनएद्वारा स्वागत",
+      "summary": "ौंमा पोर्चुगल कन्सुलर कार्यालय स्थापना गर्ने निर्णयकाे एनआरएनएद्वारा स्वागत",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13499",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/f98a3d78-e120-4dfb-9a6f-470b6ef3d5b9-1786540006.jpg"
+    },
+    {
+      "title": "Man-made water hazards are becoming a deadly monsoon trap for children",
+      "summary": "Across Madhesh and Lumbini, children are drowning in roadside excavations, construction sites, ponds and canals, exposing a preventable danger created by poor infrastructure and weak safety measures.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/14/man-made-water-hazards-are-becoming-a-deadly-monsoon-trap-for-children",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/dubimrityu22520250157151000x014820260409091000x0-1786684381.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal Airlines is making more money, still losing money",
+      "summary": "Revenue rose to an estimated Rs23.4 billion last fiscal year, while expenses are expected to be about Rs1 billion higher as debt and operating costs continue to weigh on the carrier.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/08/14/nepal-airlines-is-making-more-money-still-losing-money",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1786677829.jpg&w=300&height=200"
+    },
+    {
+      "title": "Sauraha elephant safari caught between animal welfare and livelihoods",
+      "summary": "Local entrepreneurs call for phased transition after Supreme Court’s order to shift to ethical tourism.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/province-no-3/2026/08/13/sauraha-elephant-safari-caught-between-animal-welfare-and-livelihoods",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/HattiHaru-1786634670.jpg&w=300&height=200"
+    },
+    {
+      "title": "‘जय नेपाल पार्टी’ आज निर्वाचन आयोगमा दर्ता हुँदै",
+      "summary": "नेपाली लोक- रक ब्यान्ड नेपथ्यले पहिलोपटक भारतको सिक्किमस्थित गान्तोकमा सांगीतिक प्रस्तुति दिने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/nepali-folk-rock-band-nepathya-performs-in-gangtok-br-91-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786686050_dfu 98-480x320.jpg"
+    },
+    {
+      "title": "मन्त्री श्रेष्ठको सल्लाहकार समूहले पायो पूर्णता, मन्त्रालयले भन्यो : नीति निर्माणमा आवश्यक सुझाव र परामर्श दिने छन्",
+      "summary": "नेपाली सुनचाँदी बजारमा शुक्रबार सुन र चाँदी दुवैको मूल्य घटेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-falls-by-4600-in-a-single-day-silver-also-becomes-cheaper-br-99-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1763961599_Gold Price-480x320.jpg"
+    },
+    {
+      "title": "रवीन्द्र मिश्रको तर्क : राजसंस्था देश चलाउन होइन, संकटका बेला देश बचाउन ल्याउने हो",
+      "summary": "बुधबार राति रोल्पाको थबाङ गाउँपालिका–५ कोटलबारामा पहिरो गएको खबर पाए संगै बिहीबार बिहान ४ बजे उद्धार टोली लिएर घटनास्थल पुगेको सुरक्षाकर्मीको टोली सदरमुकाम फर्कँदा आफैँ अर्को पहिरोमा फसेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rolpa-rescue-team-trapped-in-landslide-48-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786685592_rolpa-480x320.jpg"
+    },
+    {
+      "title": "आईजीपी कार्कीलाई रास्वपा सांसद सुनारको जवाफ : मुद्दा लागेको व्यक्तिले बयान दिने हो, प्रवचन हैन",
+      "summary": "सर्वोच्च अदालतले पत्रकार किशोर श्रेष्ठलाई बरामद सामग्रीसहित सोमबार अदालतमा उपस्थित गराउन आदेश दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/supreme-court-orders-shrestha-to-be-produced-on-monday-br-88-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786685456_kishor 028-480x320.jpg"
+    },
+    {
+      "title": "चीनका पूर्वप्रधानमन्त्री झूको निधनमा देउवाद्वारा दुःख व्यक्त",
+      "summary": "नेपाली लोक- रक ब्यान्ड नेपथ्यले पहिलोपटक भारतको सिक्किमस्थित गान्तोकमा सांगीतिक प्रस्तुति दिने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/nepali-folk-rock-band-nepathya-performs-in-gangtok-br-91-84.html?click_from=just_in",
       "image_url": ""
     }
   ]
