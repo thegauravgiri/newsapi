@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-14T13:21:39.355624",
+  "scraped_at": "2026-08-14T17:00:11.817737",
   "date": "2026-08-14",
-  "total_articles": 55,
+  "total_articles": 62,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -446,6 +446,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/committee-urges-implementation-of-human-rights-commission-reports-br-97-45.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Check what’s on your plate: Growing sale of unhygienic food rings alarm bells",
+      "summary": "From momo packets to restaurant kitchens, officials are finding more violations than ever, but weak enforcement and stalled regulations are leaving diners at risk.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/08/14/check-what-s-on-your-plate-growing-sale-of-unhygienic-food-rings-alarm-bells",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1786718837.jpg&w=300&height=200"
+    },
+    {
+      "title": "What happens when press freedom meets right to privacy",
+      "summary": "Journalist Kishor Shrestha’s arrest raises questions over when an alleged breach of privacy becomes a criminal offence.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/14/what-happens-when-press-freedom-meets-right-to-privacy",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/KishorShrestha-1786703390.jpg&w=300&height=200"
+    },
+    {
+      "title": "सरकार विधेयक निर्माणमा फास्ट ट्र्याकमा अघि बढिरहेको छ : कानुनमन्त्री गौतम",
+      "summary": "बैठकमा अध्ययन प्रतिवेदनको प्रारम्भिक ढाँचा तयार भइसकेको जानकारी गराइएको छ। विभिन्न मन्त्रालयका प्रतिनिधि कार्यदलमा सहभागी भई अध्ययन सुरु गरिसकेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-is-moving-on-fast-track-in-drafting-bills-law-minister-gautam-58-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786726386_Sobita (1)-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसका समानान्तर कार्यक्रम : देउवा पक्षको राष्ट्रिय भेला र सानेपामा गगन पक्षको बैठकका फरक सन्देश",
+      "summary": "मुगुको खत्याड गाउँपालिका-११, रातापानी निवासी ३८ वर्षीया दिपा भण्डारी स्थानीय स्वास्थ्य संस्थामा सुत्केरी भएपछि जटिल स्वास्थ्य समस्या देखिएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/air-rescue-of-mother-and-newborn-after-complicated-labor-complications-16-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786725118_Uddar-480x320.jpg"
+    },
+    {
+      "title": "कोशीमा नेकपा र एमालेबिच भागबन्डा मिल्यो, सोमबारसम्म मन्त्रिमण्डल विस्तार हुने",
+      "summary": "होटल संघ नेपालले विज्ञप्ति जारी गर्दै होटलमा रहेको ग्यास मौज्दातलाई कालोबजारी नभई नितान्त व्यावसायिक र सेवा प्रयोजनका लागि भएको बताएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/hotel-association-urges-not-to-call-gas-surplus-in-five-star-hotels-black-market-60-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786723296_Han-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय भेलामा देउवाको सम्बोधन (पूर्णपाठ)",
+      "summary": "पहिलो संस्करणको जापानिज एजुकेसन ग्रुप फुटसल प्रतियोगिता आगामी आइतबार (साउन ३१ गते) काठमाडौंमा हुने भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/the-winner-of-the-japanese-education-group-futsal-will-receive-one-hundred-thousand-54-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786723274_Press-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसमा संकट आउँदा देशमै संकट आउँछ, एकताको विकल्प छैन : देउवा",
+      "summary": "बैठकमा अध्ययन प्रतिवेदनको प्रारम्भिक ढाँचा तयार भइसकेको जानकारी गराइएको छ। विभिन्न मन्त्रालयका प्रतिनिधि कार्यदलमा सहभागी भई अध्ययन सुरु गरिसकेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-is-moving-on-fast-track-in-drafting-bills-law-minister-gautam-58-58.html?click_from=just_in",
       "image_url": ""
     }
   ]
