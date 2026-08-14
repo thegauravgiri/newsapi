@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-08-14T09:13:28.986725",
+  "scraped_at": "2026-08-14T13:21:39.355624",
   "date": "2026-08-14",
-  "total_articles": 49,
+  "total_articles": 55,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -398,6 +398,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/nepali-congress-does-not-want-the-government-to-fail-53-12.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Lawmaker’s verbal clash with police chief raises questions over parliamentary conduct",
+      "summary": "Speaker Dol Prasad Aryal and RSP chair Rabi Lamichhane have sought details of the tense exchange between ruling RSP lawmaker Khagendra Sunar and IGP Dan Bahadur Karki at the Public Accounts Committee.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/14/lawmaker-s-verbal-clash-with-police-chief-raises-questions-over-parliamentary-conduct",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/danbdrkarkikhagendrasunar14820261027091000x0-1786700943.jpg&w=300&height=200"
+    },
+    {
+      "title": "मानवअधिकार आयोगका प्रतिवेदन कार्यान्वयन गर्न समितिको जोड",
+      "summary": "समितिले राष्ट्रिय मानवअधिकार आयोगले तयार पारेका प्रतिवेदन तथा सिफारिस कार्यान्वयनमा जोड दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/committee-urges-implementation-of-human-rights-commission-reports-br-97-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772110787_manav aadhikar-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको सभापति आज पनि शेरबहादुर देउवा नै हो: विमलेन्द्र निधि",
+      "summary": "बीपी राजमार्गबाट बिल बिजक नभएका चाँदीका विभिन्न गरगहना तथा तयारी सामानसिहत एक जना पक्राउ परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/one-arrested-with-11-kg-of-silver-jewelry-br-76-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786712725_New Project (4)-480x320.jpg"
+    },
+    {
+      "title": "गगन भाइलाई सभापति भन्न मनै लागेको छैन: कृष्ण सिटौला",
+      "summary": "नेपाली कांग्रेसका नेता विमलेन्द्र निधिले पार्टीको वर्तमान सभापति शेरबहादुर देउवा नै रहेको दाबी गर्दै देउवालाई ‘निवर्तमान सभापति’ नभन्न आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sher-bahadur-deuba-is-still-the-president-of-nepali-congress-bimalendra-nidhi-72-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786712616_Bimalendra-Nithi-480x320.jpg"
+    },
+    {
+      "title": "म आत्माबाट बोल्ने मान्छे भन्दै भावुक बने विजय गच्छादार",
+      "summary": "हेटौँडा कपडा उद्योग सञ्चालनमा आएसँगै नेपालमै आवश्यक पर्ने कपास उत्पादन बढाउन उद्योगमन्त्री गौरीकुमारी यादवले व्यवसायी तथा निजी क्षेत्रलाई कपास खेतीमा लगानी गर्न आह्वान गरेकी छिन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/industry-minister-calls-for-cotton-farming-along-with-hetauda-textile-industry-operation-36-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786711865_Gauri-480x320.jpg"
+    },
+    {
+      "title": "पूर्वप्रधानमन्त्री खनाल र महामन्त्री सिंहबिच भेटवार्ता : यी हुन छलफलका एजेन्डा",
+      "summary": "समितिले राष्ट्रिय मानवअधिकार आयोगले तयार पारेका प्रतिवेदन तथा सिफारिस कार्यान्वयनमा जोड दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/committee-urges-implementation-of-human-rights-commission-reports-br-97-45.html?click_from=just_in",
       "image_url": ""
     }
   ]
