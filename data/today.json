@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-15T08:37:11.107704",
+  "scraped_at": "2026-08-15T12:50:53.477671",
   "date": "2026-08-15",
-  "total_articles": 53,
+  "total_articles": 58,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -430,6 +430,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/court-is-responsible-for-chundevi-s-nameplate-dispute-deputy-chairman-sharma-59-77.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "शशांक भन्छन्- कांग्रेस सभापतिका लागि म पनि इच्छुक नै छु",
+      "summary": "तनहुँको प्रसिद्ध पर्यटकीयस्थल मानुङकोट हाइकिङ जाने क्रममा जङ्गलमा बाटो बिराएर अलपत्र परेका चार जना किशोरीलाई प्रहरीले सकुशल उद्धार गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/four-teenage-girls-who-went-missing-in-the-forest-while-hiking-in-manungkot-have-been-rescued-safely-58-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786797402_1212-480x320.jpg"
+    },
+    {
+      "title": "नयाँ दल खोल्ने पक्षमा छैन, शेखरजी उठे सभापतिमा सहयोग गर्छु: डा. शशांक",
+      "summary": "बिमा कार्यक्रममा नयाँ आबद्धता, बिमालेख नवीकरण, सेवाग्राहीको व्यक्तिगत विवरण अद्यावधिक गर्ने (केवाइसी अपडेट) लगायत सबै काम अनलाइनामार्फत गर्न सकिने छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/you-can-join-health-insurance-online-21-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1779858225_health-insurance--480x320.jpg"
+    },
+    {
+      "title": "दुई तिहाइको सरकार कामचलाउ मात्रै भयो : शशांक कोइराला",
+      "summary": "डिफेन्डिङ च्याम्पियन साविक मेचीनगरले दोस्रो झापा १-काठमाडौं कप फुटसल प्रतियोगिताको उपाधि जितेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/mechinagar-wins-second-jhapa-1-kathmandu-cup-futsal-title-29-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786796987_12-480x320.jpg"
+    },
+    {
+      "title": "रविलाई मोदीले भने- नेपाल-भारत मित्रता थप प्रगाढ बनाउन प्रतिबद्ध छौं",
+      "summary": "नेपाली कांग्रेसका नेता डा. शशांक कोइरालाले पार्टीको आगामी १५ औं महाधिवेशनमा सभापति पदका लागि आफू पनि इच्छुक रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/i-am-also-interested-in-becoming-the-president-of-nepali-congress-dr-koirala-br-88-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786795805_sh-480x320.jpg"
+    },
+    {
+      "title": "मोदीले दिए बालेनलाई धन्यवाद, सम्बन्ध थप सुदृढ बनाउने प्रतिबद्धता",
+      "summary": "तनहुँको प्रसिद्ध पर्यटकीयस्थल मानुङकोट हाइकिङ जाने क्रममा जङ्गलमा बाटो बिराएर अलपत्र परेका चार जना किशोरीलाई प्रहरीले सकुशल उद्धार गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/four-teenage-girls-who-went-missing-in-the-forest-while-hiking-in-manungkot-have-been-rescued-safely-58-71.html?click_from=just_in",
       "image_url": ""
     }
   ]
