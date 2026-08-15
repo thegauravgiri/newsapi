@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-15T12:50:53.477671",
+  "scraped_at": "2026-08-15T16:32:36.298353",
   "date": "2026-08-15",
-  "total_articles": 57,
+  "total_articles": 64,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -462,6 +462,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/four-teenage-girls-who-went-missing-in-the-forest-while-hiking-in-manungkot-have-been-rescued-safely-58-71.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Indian Army chief Seth arriving Sunday amid uncertainty over meeting with PM Shah",
+      "summary": "General Dhiraj Seth will receive the honorary rank of General of the Nepali Army from the President on Monday.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/15/indian-army-chief-seth-arriving-sunday-amid-uncertainty-over-meeting-with-pm-shah",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/735238541996130036349695478148801408837251n-1786805090.jpg&w=300&height=200"
+    },
+    {
+      "title": "Hundreds of homes in eastern Rolpa at risk from landslides",
+      "summary": "Cracks have opened across hillsides and beneath settlements after days of heavy rain, raising fears that entire villages may have to be relocated.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/15/hundreds-of-homes-in-eastern-rolpa-at-risk-from-landslides",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/fulibanrolpa15820260803131000x0-1786782150.jpg&w=300&height=200"
+    },
+    {
+      "title": "आज किन आएन हिजो चर्को स्वरमा उठाइएका प्रश्नको जवाफ ?",
+      "summary": "पोखरेलले हिजो चर्को स्वरमा उठाइएका प्रश्नको जवाफ आजको अवस्थाले खोजिरहेको बताएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/why-didn-t-the-answer-to-the-question-raised-so-loudly-yesterday-come-today-15-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765845699_shankar_pokhrel1693575872_10241694600516-480x320.jpg"
+    },
+    {
+      "title": "सरकारको ताल यस्तै रहे मुलुकमा मध्यावधि चुनाव हुन्छ: शशांक",
+      "summary": "‘एन्टिबायोटिक औषधिको जथाभावी प्रयोगले स्वास्थ्य जोखिम बढ्न सक्छ, त्यसैले सबैले सचेत हुनु जरुरी छ’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/advice-on-avoiding-the-indiscriminate-use-of-antibiotics-61-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786808834_antibiotic-480x320.jpg"
+    },
+    {
+      "title": "मतदाताका समस्या सुन्दै गृहमन्त्री",
+      "summary": "नेपाली कांग्रेसका नेता डा. शशांक कोइरालाले वर्तमान सरकारको कार्यशैलीप्रति असन्तुष्टि जनाउँदै सरकारले ठोस र जनपक्षीय काम गर्न नसकेको टिप्पणी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/if-the-government-s-rhythm-continues-like-this-there-will-be-mid-term-elections-in-the-country-shashank-29-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786795805_sh-480x320.jpg"
+    },
+    {
+      "title": "ओलीले भने- छानबिनका नाममा दुःख दिने काम भयो",
+      "summary": "भेटघाटका क्रममा उनले नागरिकले भोग्दै आएका समस्या पहिचान गरी सम्बन्धित निकार्यमार्फत यथाशक्य छिटो समाधान गर्न सरकार प्रतिबद्ध रहेको बताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/home-minister-listening-to-voters-problems-55-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1785574268_gurung-480x320.jpg"
+    },
+    {
+      "title": "विपद्‌मा उद्धार र राहत तीव्र बनाउन सरकार समक्ष पूर्वराष्ट्रपतिको आग्रह",
+      "summary": "पोखरेलले हिजो चर्को स्वरमा उठाइएका प्रश्नको जवाफ आजको अवस्थाले खोजिरहेको बताएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/why-didn-t-the-answer-to-the-question-raised-so-loudly-yesterday-come-today-15-60.html?click_from=just_in",
       "image_url": ""
     }
   ]
