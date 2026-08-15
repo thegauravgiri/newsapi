@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-08-15T04:38:09.395808",
+  "scraped_at": "2026-08-15T08:37:11.107704",
   "date": "2026-08-15",
-  "total_articles": 45,
+  "total_articles": 53,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -366,6 +366,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/hormuz-will-be-america-s-after-iran-s-defeat-trump-78-63.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Monsoon disasters leave 85 dead as rains continue",
+      "summary": "Floods, landslides and lightning have killed 85 people since April, while fresh rain is causing deaths, displacement and road closures across several districts.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/15/monsoon-disasters-leave-85-dead-as-rains-continue",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/bajuramauddhar314820260710541000x0-1786769686.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepse struggles to gain momentum as investors lose Rs7 billion in wealth",
+      "summary": "The market shed 6.26 points to close at 2,643.83 as turnover fell 14.22 percent, with investors remaining cautious despite improved financial results from listed companies.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/08/15/nepse-struggles-to-gain-momentum-as-investors-lose-rs7-billion-in-wealth",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Nepsechartbar-1786779053.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal, India set three-year deadline to map cross-border land occupation",
+      "summary": "Survey officials agree to use aerial imagery to map land occupied by citizens of one country on the other side of the 1,880-kilometre boundary.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/14/nepal-india-set-three-year-deadline-to-map-cross-border-land-occupation",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1786756793.jpg&w=300&height=200"
+    },
+    {
+      "title": "चुनदेवीको नेमप्लेट विवादको जिम्मा अदालतको हो : उपसभापति शर्मा",
+      "summary": "नेपाली कांग्रेसका उपसभापति विश्वप्रकाश शर्माले चुनदेवीको नेमप्लेटसँग सम्बन्धित विषयमा आफूले थप केही भन्न आवश्यक नरहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/court-is-responsible-for-chundevi-s-nameplate-dispute-deputy-chairman-sharma-59-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786782701_Sharma-480x320.jpg"
+    },
+    {
+      "title": "फागुन २१ को चुनावपछि पहिलो पटक झापा पुगे ओली (तस्बिरहरू)",
+      "summary": "सरकारले जेनजी आन्दोलनका सहिद परिवार तथा घाइतेलाई स्वरोजगार उद्यम सञ्चालनका लागि रु ५० लाखसम्म सहुलियतपूर्ण कर्जा उपलब्ध गराउने व्यवस्था गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/subsidized-loans-of-up-to-rs-5-million-to-the-families-of-martyrs-and-injured-people-of-the-genji-movement-50-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1784291814_04 wag-480x320.jpg"
+    },
+    {
+      "title": "जेनजी विद्रोहपछि पुराना शक्ति जुर्मुराउनु विडम्बना : बाबुराम भट्टराई",
+      "summary": "शनिबार दोस्रो विश्वयुद्धमा जापानले बिनासर्त आत्मसमर्पण गरेको ८१ वर्ष पूरा भएको छ। यो अवसरमा चेनले विगतको स्मरण गर्दै भने, ‘८१ वर्ष पहिले जापानले चीन र विश्वका अन्य देशबाट कडा प्रहार खेपेपछि बिनासर्त आत्मसमर्पण गरेको थियो।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/china-issues-stern-warning-calling-japan-s-increasing-military-activity-a-danger-69-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786779834_China vs Japan-480x320.jpg"
+    },
+    {
+      "title": "परराष्ट्रमन्त्रीद्वारा स्वतन्त्रता दिवसको शुभकामना",
+      "summary": "सन् २०१५ को विनाशकारी महाभूकम्पपछि अमेरिकी सरकारले नेपालीहरूका लागि पहिलो पटक यो मानवीय सुविधा उपलब्ध गराएको थियो। त्यसको सहयोगमा १२ हजारभन्दा धेरै नेपालीहरूले विगत एक दशकदेखि त्यहाँ व्यवसाय, रोजगारी र परिवार स्थापित गरेका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/us-revokes-tps-from-12-countries-including-nepal-7-000-nepalis-in-crisis-only-four-countries-remain-14-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786445367_trump-480x320.jpg"
+    },
+    {
+      "title": "ग्यास लिन पनि परिचयपत्र अनिवार्य भएपछि ज्ञानेन्द्र शाहीको कटाक्ष : ग्यास लिन लागेको हो कि नाका पार गर्न ?",
+      "summary": "नेपाली कांग्रेसका उपसभापति विश्वप्रकाश शर्माले चुनदेवीको नेमप्लेटसँग सम्बन्धित विषयमा आफूले थप केही भन्न आवश्यक नरहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/court-is-responsible-for-chundevi-s-nameplate-dispute-deputy-chairman-sharma-59-77.html?click_from=just_in",
       "image_url": ""
     }
   ]
