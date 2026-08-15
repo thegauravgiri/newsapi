@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-15T01:40:43.465058",
+  "scraped_at": "2026-08-15T04:38:09.395808",
   "date": "2026-08-15",
-  "total_articles": 34,
+  "total_articles": 45,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -278,6 +278,94 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/parking-dispute-turns-violent-at-hetauda-bus-park-four-injured-in-sharp-weapon-attack-22-69.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ो सिङबाट बन्ने गुँला पर्वको मुख्य बाजा !",
+      "summary": "ो सिङबाट बन्ने गुँला पर्वको मुख्य बाजा !",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13510",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/gunla-parba-1786676558.jpg"
+    },
+    {
+      "title": "Nepal’s diplomatic reach narrows as key envoy vacancies drag on",
+      "summary": "Ambassadorial posts in 21 countries are vacant or in transition. This has limited Nepal’s access to senior officials and its ability to advance key political, economic and strategic interests.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/08/15/nepal-s-diplomatic-reach-narrows-as-key-envoy-vacancies-drag-on",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1786756896.jpg&w=300&height=200"
+    },
+    {
+      "title": "From cinema halls to social media: How Nepali films are facing a new piracy threat",
+      "summary": "As audiences record films from cinema seats and circulate them online, Nepali filmmakers are navigating the growing piracy problem.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/08/15/from-cinema-halls-to-social-media-how-nepali-films-are-facing-a-new-piracy-threat",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/shutterstock2827398565-1786758515.jpg&w=600&height=400"
+    },
+    {
+      "title": "What’s on in Kathmandu Valley this week",
+      "summary": "Refusal of old parties to change course could ultimately lead to their own political collapse.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/08/15/what-s-on-in-kathmandu-valley-this-week",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1786756896.jpg&w=400&height=267"
+    },
+    {
+      "title": "Book review: What Binod Chaudhary’s memoir says about making it in Nepal",
+      "summary": "As audiences record films from cinema seats and circulate them online, Nepali filmmakers are navigating the growing piracy problem.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/books/2026/08/15/book-review-what-binod-chaudhary-s-memoir-says-about-making-it-in-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1786756793.jpg&w=400&height=267"
+    },
+    {
+      "title": "Can meditation help people living with dementia?",
+      "summary": "From live music and cinema to workshops, theatre and community gatherings, here are some of the events happening around the Valley from August 15 to 21.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/08/14/can-meditation-help-people-living-with-dementia",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/MM4QQF4U25NXVFHRM35KDRGF24-1786722530.jpg&w=400&height=267"
+    },
+    {
+      "title": "मन्त्रालय भागबन्डा नमिल्दा १८ दिनदेखि कर्णालीका मुख्यमन्त्री एक्लै",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले इरानलाई पराजित गरेपछि हर्मुजको जलमार्गलाई अमेरिकी क्षेत्र घोषणा गर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/hormuz-will-be-america-s-after-iran-s-defeat-trump-78-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775406020_trump-480x320.jpg"
+    },
+    {
+      "title": "स्वास्थ्य प्रणालीलाई व्यवस्थित, गुणस्तरीय र सुलभ बनाउन बृहत् छलफल",
+      "summary": "मोदीले भारतले पछिल्ला वर्षमा विभिन्न क्षेत्रमा गरेको प्रगतिको चर्चा गर्दै अब देश साना सपनामा सीमित भएर बस्न नहुने बताए। उनले ठुला सपना र बलियो संकल्पबाट मात्रै भारतलाई नयाँ उचाइमा पुर्‍याउन सकिने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/modi-s-80th-independence-day-address-from-ai-to-self-reliant-india-these-are-the-important-announcements-27-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1786767773_Modi-480x320.jpg"
+    },
+    {
+      "title": "बागमतीमा मन्त्रालय गाभिएपछि प्रदेश सचिवको क्षेत्रगत जिम्मेवारी तोकियो",
+      "summary": "स्पेनिस फुटबलको सबैभन्दा ठूलो घरेलु प्रतियोगिता ला लिगाको २०२६-२७ सिजन आजदेखि सुरु हुँदैछ। नयाँ सिजनको पहिलो दिनमै दुई खेल हुनेछन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/la-liga-s-new-season-starts-today-with-two-matches-on-the-first-day-51-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786767498_Laliga-480x320.jpg"
+    },
+    {
+      "title": "धवलशमशेरलाई बधाई दिँदै प्रवक्ता श्रेष्ठले भने : राप्रपा छाड्नुको औचित्य पुष्टि गर्न सक्नुहोस्",
+      "summary": "अन्नपूर्ण गाउँपालिका-८ स्थित पर्यटकीयस्थल आलडाँडामा केन्द्रीय प्रसारण लाइनको सुविधा विस्तार भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/extension-of-electricity-facility-to-tourist-places-10-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1750811814_Bijuli-480x320.jpg"
+    },
+    {
+      "title": "गगन थापाको नेतृत्वमा नयाँ युगको कांग्रेस बनाउने यात्रामा छौँ : अध्यक्ष कटुवाल",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले इरानलाई पराजित गरेपछि हर्मुजको जलमार्गलाई अमेरिकी क्षेत्र घोषणा गर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/hormuz-will-be-america-s-after-iran-s-defeat-trump-78-63.html?click_from=just_in",
       "image_url": ""
     }
   ]
