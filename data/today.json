@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-08-16T01:48:09.173084",
+  "scraped_at": "2026-08-16T04:42:05.918211",
   "date": "2026-08-16",
-  "total_articles": 34,
+  "total_articles": 40,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -278,6 +278,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rain-blocks-various-highways-urges-caution-while-traveling-90-12.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "नाकाबाट विदेशी पर्यटक बढे, सबैभन्दा धेरै भुटानी",
+      "summary": "नाकाबाट विदेशी पर्यटक बढे, सबैभन्दा धेरै भुटानी",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/13516",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Bideshi-Paryatak-Aagaman---1786761364.jpg"
+    },
+    {
+      "title": "नेपालका कम्युनिस्टहरू सङ्घर्ष र विद्रोहमा सफल, राज्यसत्ता सञ्चालनमा कमजोर: महासचिव पोखरेल",
+      "summary": "मोर्गन रोजर्सले चेल्सीका लागि पहिलो गोल गर्दा टोलीले मैत्रीपूर्ण खेलमा रियल सोसिडाडलाई ३-१ गोलले पराजित गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/chelsea-s-stunning-win-alonso-makes-a-winning-start-at-home-67-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1786854704_Chelsea-480x320.jpg"
+    },
+    {
+      "title": "वाम एकताको चर्चाबिच आज एकै मञ्चमा उभिँदै शंकर र घनश्याम",
+      "summary": "नेपालको सामुदायिक वन अभियानको यात्राले करिब साढे चार दशक पूरा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/blog/community-forests-a-new-basis-for-green-employment-and-rural-prosperity-br-91-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1698303473_जज-480x320.jpg"
+    },
+    {
+      "title": "नेपाली कांग्रेस : आठ दशकमा पनि रोकिएन जुट–फुटको चक्र",
+      "summary": "नेकपा एमालेका महासचिव शंकर पोखरेलले नेपालका कम्युनिस्टहरू सङ्घर्ष र विद्रोहमा सफल भए पनि राज्यसत्ता सञ्चालनमा आम रूपमा कमजोर देखिएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepal-s-communists-successful-in-struggle-and-rebellion-weak-in-running-the-state-general-secretary-pokharel-80-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765845699_shankar_pokhrel1693575872_10241694600516-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस इतर समूहको राष्ट्रिय सम्मेलन आज सकिँदै",
+      "summary": "नगर स्वास्थ्य शाखाको आयोजना तथा जन्त्र नेपालको प्राविधिक सहयोगमा सञ्चालित अभियानमा स्वास्थ्य परीक्षण तथा स्क्रिनिङ कार्यक्रमअन्तर्गत दुई वडामा तीन बिरामी पहिचान भएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/tb-screening-campaign-in-mandandepur-three-people-identified-98-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1742965568_tb rog chhayerog-480x320.jpg"
+    },
+    {
+      "title": "सरकारलाई ज्ञानेन्द्र शाहीको प्रश्न : जनताले ग्यास लुकाएको भए सिलिन्डर कहाँबाट आयो ?",
+      "summary": "मोर्गन रोजर्सले चेल्सीका लागि पहिलो गोल गर्दा टोलीले मैत्रीपूर्ण खेलमा रियल सोसिडाडलाई ३-१ गोलले पराजित गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/chelsea-s-stunning-win-alonso-makes-a-winning-start-at-home-67-80.html?click_from=just_in",
       "image_url": ""
     }
   ]
